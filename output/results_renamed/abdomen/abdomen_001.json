@@ -1,0 +1,46 @@
+{
+  "page_type": "code",
+  "lang": "both",
+  "body_part": "abdomen",
+  "section_title": "Abdomen",
+  "entries": [
+    {
+      "code": "S0050.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "S0051.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "S0052.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "S0053.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "S0054.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_001.jpg",
+  "body_part_normalized": "abdomen"
+}

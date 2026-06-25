@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "540899.2",
+      "description_ja": "結腸 (大腸) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540810.2",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540820.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540822.2",
+      "description_ja": "穿孔なし;非全層性;周径の50%未満 [OIS I, II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540824.3",
+      "description_ja": "穿孔;全層性;周径の50%以上だが断裂には至らない;多発する単純裂創 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "540826.4",
+      "description_ja": "広範囲;断裂;複雑;組織欠損;離断;広範囲の組織壊死または血行遮断 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "541099.2",
+      "description_ja": "十二指腸 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541010.2",
+      "description_ja": "挫傷;血腫 [OIS I, II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541020.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541022.2",
+      "description_ja": "穿孔なし;非全層性;漿膜裂傷 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541021.2",
+      "description_ja": "周径の50%未満 [OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541023.3",
+      "description_ja": "D1 (上部または第1部), D3 (水平部または第3部) またはD4 (上行部または第4部) の周径の50～100% [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "541025.3",
+      "description_ja": "D2 (下行部または第2部) の周径の50～75% [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "541024.4",
+      "description_ja": "D2 (下行部または第2部) の周径の75%を超える; 膨大部または遠位総胆管の損傷を合併する [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "541028.5",
+      "description_ja": "広範囲;断裂;複雑;破裂;組織欠損;血行遮断;十二指腸・膵臓結合部の高度損傷 [OIS V]",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_015.jpg",
+  "body_part_normalized": "abdomen"
+}

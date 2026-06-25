@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上 肢",
+  "entries": [
+    {
+      "code": "700099.9",
+      "description_ja": "上肢損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "700999.9",
+      "description_ja": "上肢損傷で死亡 詳細な評価や損傷を特定しうる剖検なし",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "711000.3",
+      "description_ja": "肩と手の間の不完全または完全[外傷性]切断, ただし具体的な場所は不明s",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "711001.4",
+      "description_ja": "肩で切断",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "711010.5",
+      "description_ja": "両側c",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "711002.4",
+      "description_ja": "肘と肩の間（肘を含む）",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "711012.5",
+      "description_ja": "両側c",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "711003.3",
+      "description_ja": "手関節と肘の間（手関節を含む）",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "711004.2",
+      "description_ja": "手, 不完全または完全",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "711005.2",
+      "description_ja": "母指",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "711006.1",
+      "description_ja": "他の手指, 1指または複数指",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_003.jpg",
+  "body_part_normalized": "extremity"
+}

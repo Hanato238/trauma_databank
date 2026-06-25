@@ -1,0 +1,221 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "878099.1",
+      "description_ja": null,
+      "description_en": "Tarsometatarsal joint NFSᶻ",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "878089.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878010.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878020.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878030.1",
+      "description_ja": null,
+      "description_en": "dislocation NFS [Lisfranc]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878031.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878032.1",
+      "description_ja": null,
+      "description_en": "no articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878033.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878034.1",
+      "description_ja": null,
+      "description_en": "with articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878035.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878199.1",
+      "description_ja": null,
+      "description_en": "Metatarsophalangeal or interphalangeal joint NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "878189.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878150.1",
+      "description_ja": null,
+      "description_en": "Great Toe NFSʸ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878151.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878153.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878154.1",
+      "description_ja": null,
+      "description_en": "dislocation NFS",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878155.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878156.1",
+      "description_ja": null,
+      "description_en": "no articular cartilage involvement",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878157.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 5
+    },
+    {
+      "code": "878158.1",
+      "description_ja": null,
+      "description_en": "with articular cartilage involvement",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878159.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 5
+    },
+    {
+      "code": "878160.1",
+      "description_ja": null,
+      "description_en": "Other Toe, single or multiple, NFSʸ",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "878161.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878163.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878164.1",
+      "description_ja": null,
+      "description_en": "dislocation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878165.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878166.1",
+      "description_ja": null,
+      "description_en": "no articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878167.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878168.1",
+      "description_ja": null,
+      "description_en": "with articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878169.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_065.jpg",
+  "body_part_normalized": "extremity"
+}

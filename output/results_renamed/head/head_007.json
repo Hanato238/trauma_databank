@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "損傷内容",
+  "entries": [
+    {
+      "code": "120199.3",
+      "description_ja": "動脈 詳細不明ª",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "120299.3",
+      "description_ja": "前大脳動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "120202.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "120204.3",
+      "description_ja": "血栓症・閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "120205.4",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "120206.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "120499.4",
+      "description_ja": "脳底動脈 詳細不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "120402.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "120404.5",
+      "description_ja": "血栓症・閉塞",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "120406.5",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "121099.3",
+      "description_ja": "内頸動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121002.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "121003.6",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "121004.4",
+      "description_ja": "血栓症・閉塞",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "121005.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "121006.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "121499.3",
+      "description_ja": "中大脳動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121402.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "121404.4",
+      "description_ja": "血栓症・閉塞",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "121405.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "121406.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_007.jpg",
+  "body_part_normalized": "head"
+}

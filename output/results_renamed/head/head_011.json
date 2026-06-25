@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "122299.3",
+      "description_ja": "静脈洞 詳細不明ᵈ",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122202.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122204.3",
+      "description_ja": "血栓症：閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "120602.4",
+      "description_ja": "内頸動脈－海綿静脈瘻",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "120603.4",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "120899.3",
+      "description_ja": "海綿静脈洞 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "120802.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "120804.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "120806.3",
+      "description_ja": "血栓症：閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "122099.4",
+      "description_ja": "S状静脈洞 詳細不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "122002.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122003.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122004.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122005.6",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "122006.4",
+      "description_ja": "血栓症：閉塞",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122007.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "123099.4",
+      "description_ja": "直静脈洞 詳細不明ᵃ",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "123002.4",
+      "description_ja": "裂傷・裂創ᵃ",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "123003.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "123004.5",
+      "description_ja": "血栓症：閉塞ᵃ",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_011.jpg",
+  "body_part_normalized": "head"
+}

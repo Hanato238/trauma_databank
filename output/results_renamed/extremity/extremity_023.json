@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上肢",
+  "entries": [
+    {
+      "code": "750500.2",
+      "description_ja": "鎖骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "750501.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750511.2",
+      "description_ja": "近位部骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750512.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750621.2",
+      "description_ja": "骨幹部骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750622.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750651.2",
+      "description_ja": "単純",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750652.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "750661.2",
+      "description_ja": "楔状骨折；“蝶形”破片",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750662.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "750671.2",
+      "description_ja": "粉砕骨折；分節骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750672.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "750731.2",
+      "description_ja": "遠位（外側端）部骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750732.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750751.2",
+      "description_ja": "関節外",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750752.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "750761.2",
+      "description_ja": "関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750762.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "750900.2",
+      "description_ja": "肩甲骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "750901.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750951.2",
+      "description_ja": "体部",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750952.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750961.2",
+      "description_ja": "頸部 体部を伴うもしくは伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750962.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750971.2",
+      "description_ja": "関節窩 体部や頸部を伴うもしくは伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750972.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_023.jpg",
+  "body_part_normalized": "extremity"
+}

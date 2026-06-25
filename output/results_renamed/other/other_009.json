@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "other",
+  "section_title": "その他の外傷",
+  "entries": [
+    {
+      "code": "020000.3",
+      "description_ja": "窒息 詳細不明ª",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "020002.3",
+      "description_ja": "神経脱落症状を伴わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "020004.4",
+      "description_ja": "神経脱落症状を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "020006.5",
+      "description_ja": "医療従事者により確認された心停止を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "040099.9",
+      "description_ja": "腐食物 詳細不明f",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "060000.3",
+      "description_ja": "溺水 詳細不明ª",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "060002.3",
+      "description_ja": "神経脱落症状を伴わない溺水",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "060004.4",
+      "description_ja": "神経脱落症状を伴う溺水",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "060006.5",
+      "description_ja": "医療従事者により確認された心停止を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "080000.2",
+      "description_ja": "電撃傷 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "080002.3",
+      "description_ja": "筋肉の壊死を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "080004.5",
+      "description_ja": "医療従事者により確認された心停止を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_009.jpg",
+  "body_part_normalized": "other"
+}

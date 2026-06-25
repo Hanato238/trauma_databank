@@ -1,0 +1,81 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": null,
+  "entries": [
+    {
+      "code": null,
+      "description_ja": "大脳 (続き)",
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "140478.3",
+      "description_ja": "穿通性損傷 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140477.3",
+      "description_ja": "深さが2 cm以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140476.5",
+      "description_ja": "深さが2 cmを超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140489.9",
+      "description_ja": "診断・治療や解剖によって得られたものではない頭部外傷に関連する所見 詳細不明ᶠ",
+      "description_en": null,
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "140450.3",
+      "description_ja": "脳腫脹／脳浮腫",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140458.3",
+      "description_ja": "脳梗塞 (急性のもの で外傷による血管閉塞を原因とする)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140462.3",
+      "description_ja": "頭部外傷と直接関連する虚血性脳障害",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140466.2",
+      "description_ja": "くも膜下出血",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140470.2",
+      "description_ja": "軟膜下出血",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_027.jpg",
+  "body_part_normalized": "head"
+}

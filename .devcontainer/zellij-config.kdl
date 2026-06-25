@@ -1,0 +1,6 @@
+default_layout "claude"
+keybinds {
+    normal {
+        bind "Ctrl f" { ToggleFloatingPanes; }
+    }
+}

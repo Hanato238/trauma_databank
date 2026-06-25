@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "251499.1",
+      "description_ja": "歯牙, 本数は問わないが損傷として詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251402.1",
+      "description_ja": "脱臼; 亜脱臼; 動揺",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251404.1",
+      "description_ja": "破折",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251406.1",
+      "description_ja": "脱落",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251408.1",
+      "description_ja": "脱臼, 破折, 脱落いずれかの合併",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251800.1",
+      "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む]",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251802.1",
+      "description_ja": "転位なし [KN I]ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251804.1",
+      "description_ja": "転位あり 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251806.1",
+      "description_ja": "弓部 [KN II]ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251808.1",
+      "description_ja": "体部ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251810.1",
+      "description_ja": "非回旋 [KN III]ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251812.1",
+      "description_ja": "回旋 [KN IV, KN V]ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251814.2",
+      "description_ja": "複雑 [KN VI]ª",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "251900.3",
+      "description_ja": "顔面の広汎な骨折ª",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "251902.4",
+      "description_ja": "出血量が全血液量の20%を超えるª",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_023.jpg",
+  "body_part_normalized": "face"
+}

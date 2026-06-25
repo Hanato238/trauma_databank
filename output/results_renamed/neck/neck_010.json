@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "neck",
+  "section_title": "NECK",
+  "entries": [
+    {
+      "code": "340199.2",
+      "description_ja": null,
+      "description_en": "Esophagus injury in Neck NFSᵏ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "340102.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340103.3",
+      "description_ja": null,
+      "description_en": "ingestion injury NFSᵃ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340104.3",
+      "description_ja": null,
+      "description_en": "partial thickness necrosisᵃ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340105.4",
+      "description_ja": null,
+      "description_en": "full thickness necrosisᵃ",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340106.3",
+      "description_ja": null,
+      "description_en": "laceration ; tear NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340107.3",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness ; ≤50% circumfer-ence [OIS I, II]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340108.4",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; >50% circumference [OIS III]",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340109.5",
+      "description_ja": null,
+      "description_en": "avulsion ; rupture ; transection ; massive destruction [OIS IV, V]",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "340299.2",
+      "description_ja": null,
+      "description_en": "Larynx, including thyroid and cricoid cartilage, NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "340202.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340204.2",
+      "description_ja": null,
+      "description_en": "laceration ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340206.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness ; mucosal tear",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340208.3",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340210.4",
+      "description_ja": null,
+      "description_en": "vocal cord involvement",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340212.5",
+      "description_ja": null,
+      "description_en": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "340699.2",
+      "description_ja": null,
+      "description_en": "Pharynx or Retropharyngeal area, NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "340602.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma NFSᵉ",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340603.2",
+      "description_ja": null,
+      "description_en": "minor ; ≤75% airway involvement",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340605.3",
+      "description_ja": null,
+      "description_en": "major ; >75% airway involvement",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340604.2",
+      "description_ja": null,
+      "description_en": "laceration ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340606.3",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness ; mucosal tear",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340608.4",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340610.5",
+      "description_ja": null,
+      "description_en": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_010.jpg",
+  "body_part_normalized": "neck"
+}

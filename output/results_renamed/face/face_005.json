@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "210099.1",
+      "description_ja": "損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210202.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210402.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210602.1",
+      "description_ja": "小；表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "210604.2",
+      "description_ja": "大；長さが10cmを超え、かつ皮下組織に達する",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "210606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "210800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210802.1",
+      "description_ja": "小；表在性；25cm²以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "210804.2",
+      "description_ja": "大；25cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "210806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "220099.9",
+      "description_ja": "顔面の血管損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "220200.1",
+      "description_ja": "外頸動脈の分枝の裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "220202.1",
+      "description_ja": "小；表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "220204.3",
+      "description_ja": "大；断裂；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_005.jpg",
+  "body_part_normalized": "face"
+}

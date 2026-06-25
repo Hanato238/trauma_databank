@@ -1,0 +1,74 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "821099.1",
+      "description_ja": "その他の名前のある動脈 詳細不明 [例：脛骨動脈, 腓骨動脈]",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "821002.1",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "821004.1",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "821006.1",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "821008.3",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "821299.1",
+      "description_ja": "その他の名前のある静脈 詳細不明 [例：伏在静脈]",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "821202.1",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "821204.1",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "821206.3",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_054.jpg",
+  "body_part_normalized": "extremity"
+}

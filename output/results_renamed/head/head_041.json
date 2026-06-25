@@ -1,0 +1,18 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "140799.3",
+      "description_ja": "下垂体損傷",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_041.jpg",
+  "body_part_normalized": "head"
+}

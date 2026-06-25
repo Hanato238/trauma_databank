@@ -1,0 +1,186 @@
+{
+  "page_type": "code",
+  "lang": "both",
+  "body_part": "neck",
+  "section_title": "NECK / 頸部",
+  "entries": [
+    {
+      "code": "310000.8",
+      "description_ja": "頸部への全身的損傷",
+      "description_en": "Systemic injury involving neck",
+      "severity": 8,
+      "level": 1
+    },
+    {
+      "code": "310010.1",
+      "description_ja": "AIS8以上を含む",
+      "description_en": "Use one of the following descriptive codes or AIS 8 for systemic injuries involving neck structures when a single code does not adequately describe all neck injuries.",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310020.1",
+      "description_ja": "頸部へ損傷が体内の組織、血管、神経に及ぶ時",
+      "description_en": "when injury involves internal neck structures (i.e. blood vessels, nerves, tissue)",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "310030.1",
+      "description_ja": "軽微な損傷",
+      "description_en": "Minor injury",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "310040.2",
+      "description_ja": "挫傷、打撲、擦過傷",
+      "description_en": "Contusion, bruise, abrasion",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "310050.3",
+      "description_ja": "頸部痛、軽度筋挫傷",
+      "description_en": "Neck pain, mild muscle contusion",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "310060.4",
+      "description_ja": "皮下出血",
+      "description_en": "Subcutaneous hemorrhage",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "310070.5",
+      "description_ja": "開放創",
+      "description_en": "Open wound",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "310080.6",
+      "description_ja": "軟骨または靭帯の損傷",
+      "description_en": "Cartilage or ligament injury",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "310090.7",
+      "description_ja": "神経損傷",
+      "description_en": "Nerve injury",
+      "severity": 7,
+      "level": 3
+    },
+    {
+      "code": "310100.8",
+      "description_ja": "頸部全周の壊死",
+      "description_en": "Necrosis around entire neck",
+      "severity": 8,
+      "level": 3
+    },
+    {
+      "code": "310110.1",
+      "description_ja": "20%を超える",
+      "description_en": ">20% by volume",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "210000.8",
+      "description_ja": "頸部へ損傷が体内の組織、血管、神経に及ばない時",
+      "description_en": "when injury does not involve internal neck structures",
+      "severity": 8,
+      "level": 1
+    },
+    {
+      "code": "210010.1",
+      "description_ja": "AIS8以上を含む",
+      "description_en": "Use one of the following descriptive codes or AIS 8 for systemic injuries not involving internal neck structures when a single code does not adequately describe all neck injuries.",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "210020.1",
+      "description_ja": "軽微な損傷",
+      "description_en": "Minor injury",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "210030.2",
+      "description_ja": "擦過傷、挫傷",
+      "description_en": "Abrasion, contusion",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "210040.3",
+      "description_ja": "表在性裂創",
+      "description_en": "Superficial laceration",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "210050.4",
+      "description_ja": "穿通創",
+      "description_en": "Puncturing wound",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "210060.5",
+      "description_ja": "皮下組織を伴う裂創",
+      "description_en": "Laceration involving subcutaneous tissue",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "210070.6",
+      "description_ja": "広範囲の皮下裂傷",
+      "description_en": "Extensive subcutaneous laceration",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "210080.7",
+      "description_ja": "熱傷、化学熱傷",
+      "description_en": "Burn, chemical burn",
+      "severity": 7,
+      "level": 3
+    },
+    {
+      "code": "210090.8",
+      "description_ja": "頸部全周の熱傷",
+      "description_en": "Burn around entire neck",
+      "severity": 8,
+      "level": 3
+    },
+    {
+      "code": "210100.1",
+      "description_ja": "損傷の面積が25cm²以下",
+      "description_en": "area ≤ 25cm²",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "210110.2",
+      "description_ja": "損傷の面積が25cm²を超える",
+      "description_en": "area > 25cm²",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "210120.3",
+      "description_ja": "出血量が20%を超える",
+      "description_en": ">20% by volume",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_001.jpg",
+  "body_part_normalized": "neck"
+}

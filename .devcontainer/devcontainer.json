@@ -1,0 +1,9 @@
+{
+  "name": "Trauma Databank",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "node",
+  "workspaceFolder": "/workspace",
+  "postStartCommand": "zellij",
+  "containerUser": "node",
+  "remoteUser": "node"
+}

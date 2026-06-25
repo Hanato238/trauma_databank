@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "440400.5",
+      "description_ja": "心筋腱索の裂傷・裂創；破裂",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "441300.5",
+      "description_ja": "心室または心房中隔の裂傷・裂創；破裂",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "441200.5",
+      "description_ja": "心臓弁の裂傷・裂創；破裂",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "441499.3",
+      "description_ja": "肺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "441420.3",
+      "description_ja": "爆風傷（過度の圧力／爆発）詳細不明ᵃ",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441422.3",
+      "description_ja": "軽症ᵃ",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441424.4",
+      "description_ja": "中等症；片側または両側の胸腔内出血を伴うᵃ",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441426.5",
+      "description_ja": "重症；両側の空気塞栓を伴うᵃ",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "441402.3",
+      "description_ja": "挫傷 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "441406.2",
+      "description_ja": "片側 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "441407.2",
+      "description_ja": "小；一葉未満",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "441408.3",
+      "description_ja": "大；一葉以上",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441410.3",
+      "description_ja": "両側 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441411.3",
+      "description_ja": "小；一葉未満",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441412.4",
+      "description_ja": "大；少なくとも一側肺の一葉以上",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441414.3",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "441430.3",
+      "description_ja": "片側 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441431.3",
+      "description_ja": "小；一葉未満",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441432.4",
+      "description_ja": "大；一葉以上",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441450.4",
+      "description_ja": "両側 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "441551.4",
+      "description_ja": "小；一葉未満",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_019.jpg",
+  "body_part_normalized": "thorax"
+}

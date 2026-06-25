@@ -1,0 +1,18 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸 部",
+  "entries": [
+    {
+      "code": "422206.3",
+      "description_ja": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_011.jpg",
+  "body_part_normalized": "thorax"
+}

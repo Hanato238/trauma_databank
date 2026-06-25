@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "spine",
+  "section_title": "胸椎",
+  "entries": [
+    {
+      "code": "640440.5",
+      "description_ja": "胸髄裂傷・裂創[穿通性損傷, 離断あるいは挫滅を含む] 詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640442.5",
+      "description_ja": "不全麻痺(何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640444.5",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640446.5",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640448.5",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640450.5",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640460.5",
+      "description_ja": "完全麻痺(知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "640462.5",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "640464.5",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "640466.5",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "640468.5",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "650499.2",
+      "description_ja": "椎間板損傷 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650400.2",
+      "description_ja": "ヘルニア 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650402.2",
+      "description_ja": "神経根損傷(神経根障害)を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650403.3",
+      "description_ja": "神経根損傷(神経根障害)を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "650405.3",
+      "description_ja": "破裂",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "650404.2",
+      "description_ja": "胸椎脱臼[亜脱臼], 骨折, 胸髄損傷を伴わない 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650409.2",
+      "description_ja": "椎間関節 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650410.2",
+      "description_ja": "片側",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650412.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_017.jpg",
+  "body_part_normalized": "spine"
+}

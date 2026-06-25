@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上肢",
+  "entries": [
+    {
+      "code": "716000.1",
+      "description_ja": "穿通性損傷 具体的な部位については詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "716002.1",
+      "description_ja": "表在性; 小",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716004.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "716006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716010.1",
+      "description_ja": "穿通性損傷 肩, 重症度については詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "716011.1",
+      "description_ja": "表在性; 小",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716012.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "716013.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716014.1",
+      "description_ja": "穿通性損傷 肘と肩の間 (肘を含む) 重症度については詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "716015.1",
+      "description_ja": "表在性; 小",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716016.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716017.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716018.1",
+      "description_ja": "穿通性損傷 手関節と肘の間 (手関節を含む), 重症度については詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "716019.1",
+      "description_ja": "表在性; 小",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716020.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "716022.1",
+      "description_ja": "穿通性損傷 手, 部分的または全体, 重症度については詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "716023.1",
+      "description_ja": "表在性; 小",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716024.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "716026.1",
+      "description_ja": "穿通性損傷 母指 重症度については詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "716027.1",
+      "description_ja": "表在性; 小",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716028.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716030.1",
+      "description_ja": "穿通性損傷 指, 1指または複数指 重症度については詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "716031.1",
+      "description_ja": "表在性; 小",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "716032.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_007.jpg",
+  "body_part_normalized": "extremity"
+}

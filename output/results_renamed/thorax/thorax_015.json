@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸 部",
+  "entries": [
+    {
+      "code": null,
+      "description_ja": "内臓",
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "440099.9",
+      "description_ja": "気管支損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "440199.3",
+      "description_ja": "鎖骨下動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440102.3",
+      "description_ja": "挫傷;血腫",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440104.3",
+      "description_ja": "裂傷・裂創;断裂 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440106.3",
+      "description_ja": "穿孔なし;非全層性",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440108.4",
+      "description_ja": "穿孔;全層性;\"骨折\"",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440110.5",
+      "description_ja": "複雑;断裂;破裂;離断;断裂を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "主気管支より末梢の気管支",
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "440299.1",
+      "description_ja": "主気管支より末梢の気管支 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "440202.1",
+      "description_ja": "挫傷;血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "440204.2",
+      "description_ja": "裂傷・裂創;詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440206.2",
+      "description_ja": "穿孔なし;非全層性",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440208.3",
+      "description_ja": "穿孔;全層性;\"骨折\"",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440210.4",
+      "description_ja": "複雑;断裂;破裂;離断;断裂を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "横隔膜",
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "440699.2",
+      "description_ja": "横隔膜 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440602.2",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440604.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440606.3",
+      "description_ja": "10cm以下 [OIS II, III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440608.4",
+      "description_ja": "10cmを超える;広範な組織欠損 [OIS IV, V]",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440610.4",
+      "description_ja": "ヘルニアを伴う破裂",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_015.jpg",
+  "body_part_normalized": "thorax"
+}

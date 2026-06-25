@@ -1,0 +1,172 @@
+{
+  "page_type": "code",
+  "lang": "both",
+  "body_part": "extremity",
+  "section_title": "上 肢 / UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "711000",
+      "description_ja": "上肢",
+      "description_en": "Upper Extremity",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "711000.1",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "711000.2",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "711000.3",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "711000.4",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "711000.5",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "711000.6",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "711002",
+      "description_ja": null,
+      "description_en": "Unspecified portion of upper extremity",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "711002.1",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "711002.2",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "711002.3",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "711002.4",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "711002.5",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "711002.6",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "711004",
+      "description_ja": null,
+      "description_en": "Whole upper extremity (excluding hand)",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "711004.1",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "711004.2",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "711004.3",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "711004.4",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "711004.5",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "711004.6",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "711084",
+      "description_ja": null,
+      "description_en": "Multiple portions of upper extremity",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "711084.2",
+      "description_ja": "なし",
+      "description_en": "none",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_001.jpg",
+  "body_part_normalized": "extremity"
+}

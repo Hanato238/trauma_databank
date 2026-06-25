@@ -1,0 +1,81 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "541699.2",
+      "description_ja": null,
+      "description_en": "Kidney NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541610.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541612.2",
+      "description_ja": null,
+      "description_en": "subcapsular, nonexpanding ; confined to renal retroperitoneum ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "541614.3",
+      "description_ja": null,
+      "description_en": "subcapsular, > 50 % surface area or expanding ; major ; large [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "541620.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541622.2",
+      "description_ja": null,
+      "description_en": "≤ 1cm parenchymal depth of renal cortex, no urinary extravasation ; minor ; superficial [OIS II]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541624.3",
+      "description_ja": null,
+      "description_en": ">1cm parenchymal depth of renal cortex, no collecting system rupture or urinary extravasation ; moderate [OIS III]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "541626.4",
+      "description_ja": null,
+      "description_en": "extending through renal cortex, medulla and collecting system ; main renal vessel injury with contained hemorrhage ; major [OIS IV]",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "541628.5",
+      "description_ja": null,
+      "description_en": "hilum avulsion ; total destruction of organ and its vascular system [OIS V]",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "541640.4",
+      "description_ja": null,
+      "description_en": "rupture",
+      "severity": 4,
+      "level": 1
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_018.jpg",
+  "body_part_normalized": "abdomen"
+}

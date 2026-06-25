@@ -1,0 +1,24 @@
+{
+  "name": "nanoclaw-skill-jtdb",
+  "version": "1.0.0",
+  "description": "NanoClaw スキル: 日本外傷データバンク（JTDB）患者情報登録",
+  "main": "dist/telegram-adapter.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/telegram-adapter.js",
+    "dev": "ts-node src/telegram-adapter.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.54.0",
+    "grammy": "^1.31.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

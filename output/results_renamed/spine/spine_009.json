@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "spine",
+  "section_title": "頸椎",
+  "entries": [
+    {
+      "code": "640200.3",
+      "description_ja": "頸髄挫傷 [画像診断あるいは剖検により証明された脊柱管内の圧迫や硬膜外, 硬膜下血腫の診断を含む] 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "640201.3",
+      "description_ja": "一過性の神経症状 (知覚異常) を伴う 骨折・脱臼につい ては不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "640202.3",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640204.3",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640206.3",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640208.3",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640210.4",
+      "description_ja": "不全麻痺 [何らかの知覚あるいは運動機能の残存; 前脊髄症候群, 中心性脊髄症候群, 外側脊髄症候群 (Brown-Se- quard 症候群)] を含む, 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "640212.4",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640214.4",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640216.4",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640218.4",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640220.5",
+      "description_ja": "完全麻痺 (知覚機能の消失した四肢麻痺または対麻痺)",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640221.5",
+      "description_ja": "第4頸髄以下だが, 骨折・脱臼については不明, もし くは部位については不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640222.5",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640224.5",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640226.5",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640228.5",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640229.6",
+      "description_ja": "第3頸髄以下だが, 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "640230.6",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640232.6",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640234.6",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640236.6",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_009.jpg",
+  "body_part_normalized": "spine"
+}

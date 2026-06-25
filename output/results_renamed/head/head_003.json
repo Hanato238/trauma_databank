@@ -1,0 +1,60 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "100099.9",
+      "description_ja": "頭部損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "100999.9",
+      "description_ja": "頭部以外に原因が特定できない, もしくは剖検によっても特定できないもの",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "110009.1",
+      "description_ja": "頭部損傷 (頭痛のみを訴える) 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "113000.6",
+      "description_ja": "挫滅損傷",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "116000.3",
+      "description_ja": "穿通性損傷 (頭蓋骨に達する) 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "116002.3",
+      "description_ja": "表在性; 創の深さが2cm以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "116004.5",
+      "description_ja": "深い; 創の深さが2cmを超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_003.jpg",
+  "body_part_normalized": "head"
+}

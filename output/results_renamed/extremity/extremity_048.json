@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "816000.1",
+      "description_ja": "穿通性損傷 具体的な部位や重症度については詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "816002.1",
+      "description_ja": "表在性;小",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "816004.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "816006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "816010.1",
+      "description_ja": "穿通性損傷 股関節または殿部, 重症度については詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "816011.1",
+      "description_ja": "表在性;小",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "816012.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "816013.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "816014.1",
+      "description_ja": "穿通性損傷 膝関節と股関節の間 (膝関節を含む), 重症度については詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "816015.1",
+      "description_ja": "表在性;小",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "816016.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "816017.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "816018.1",
+      "description_ja": "穿通性損傷 足関節と膝関節の間 (足関節を含む), 重症度については詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "816019.1",
+      "description_ja": "表在性;小",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "816020.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "816022.1",
+      "description_ja": "穿通性損傷 足部, 部分的または全体, 重症度については詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "816023.1",
+      "description_ja": "表在性;小",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "816024.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "816026.1",
+      "description_ja": "穿通性損傷 第1趾, 重症度については詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "816027.1",
+      "description_ja": "表在性;小",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "816028.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "816030.1",
+      "description_ja": "穿通性損傷 足趾, 単独または複数趾",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "816031.1",
+      "description_ja": "表在性;小",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "816032.2",
+      "description_ja": "25cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_048.jpg",
+  "body_part_normalized": "extremity"
+}

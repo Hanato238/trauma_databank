@@ -1,0 +1,102 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": "419200.2",
+      "description_ja": null,
+      "description_en": "inhalation injury NFS (heat, particulate matter, noxious agents)",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "419201.2",
+      "description_ja": null,
+      "description_en": "absence of carbonaceous deposits, erythema, edema, bronchorrhea, obstruction",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "419202.3",
+      "description_ja": null,
+      "description_en": "minor or patchy areas of erythema, bronchorrhea, carbonaceous deposits in proximal or distal bronchi",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "419204.4",
+      "description_ja": null,
+      "description_en": "moderate degree of erythema, carbonaceous deposits, bronchorrhea with or without compromise of the bronchi",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "419206.5",
+      "description_ja": null,
+      "description_en": "severe inflammation with friability, copious carbonaceous deposits, bronchorrhea, bronchial obstruction, hypoxemia",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "419208.6",
+      "description_ja": null,
+      "description_en": "evidence of mucosal sloughing, necrosis, endoluminal obliteration",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "441699.2",
+      "description_ja": null,
+      "description_en": "Pericardium NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "441602.2",
+      "description_ja": null,
+      "description_en": "laceration ; puncture",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "441603.3",
+      "description_ja": null,
+      "description_en": "hemopericardium NFS^a",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441604.3",
+      "description_ja": null,
+      "description_en": "without cardiac tamponade or heart injury^a",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441605.4",
+      "description_ja": null,
+      "description_en": "with cardiac tamponade but without heart injury",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "441606.5",
+      "description_ja": null,
+      "description_en": "herniation of heart through pericardium",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "441800.2",
+      "description_ja": null,
+      "description_en": "Pleura laceration",
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_022.jpg",
+  "body_part_normalized": "thorax"
+}

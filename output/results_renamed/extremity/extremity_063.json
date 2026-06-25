@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "870499.1",
+      "description_ja": null,
+      "description_en": "Forefoot joint NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "870489.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "870410.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "870420.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "870430.1",
+      "description_ja": null,
+      "description_en": "dislocation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "870431.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "877799.1",
+      "description_ja": null,
+      "description_en": "Midtarsal joint NFSᶻ",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "877789.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877710.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877720.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877730.1",
+      "description_ja": null,
+      "description_en": "dislocation NFS [Chopart's]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877731.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "877732.1",
+      "description_ja": null,
+      "description_en": "no articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "877733.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "877734.1",
+      "description_ja": null,
+      "description_en": "with articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "877735.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "877299.1",
+      "description_ja": null,
+      "description_en": "Subtalar joint NFSᶻ",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "877289.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877210.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877220.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877230.1",
+      "description_ja": null,
+      "description_en": "dislocation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "877231.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "877232.1",
+      "description_ja": null,
+      "description_en": "no articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "877233.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "877234.1",
+      "description_ja": null,
+      "description_en": "with articular cartilage involvement",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "877235.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_063.jpg",
+  "body_part_normalized": "extremity"
+}

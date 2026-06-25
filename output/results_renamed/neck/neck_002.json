@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "neck",
+  "section_title": "NECK",
+  "entries": [
+    {
+      "code": "300099.9",
+      "description_ja": null,
+      "description_en": "Injuries to the Neck NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "300999.9",
+      "description_ja": null,
+      "description_en": "Died of neck injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "311000.6",
+      "description_ja": null,
+      "description_en": "Decapitation",
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "316000.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "316002.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "316004.2",
+      "description_ja": null,
+      "description_en": "tissue loss >25cm²j",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "316006.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "310099.1",
+      "description_ja": null,
+      "description_en": "Skin/subcutaneous tissue/muscle NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "310202.1",
+      "description_ja": null,
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310402.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310600.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310602.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "310604.2",
+      "description_ja": null,
+      "description_en": "major ; >10cm long and into subcutaneous tissuej",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "310606.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "310800.1",
+      "description_ja": null,
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310802.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; ≤25cm²j",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "310804.2",
+      "description_ja": null,
+      "description_en": "major ; tissue loss >25cm²j",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "310806.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_002.jpg",
+  "body_part_normalized": "neck"
+}

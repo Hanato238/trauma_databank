@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸 部",
+  "entries": [
+    {
+      "code": "420499.3",
+      "description_ja": "腕頭 (無名) 動脈 詳細不明 [OIS IIIに相当する]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "420402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420404.3",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420406.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420408.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "420800.5",
+      "description_ja": "冠動脈 左右の冠動脈本幹あるいは左前下行枝, 冠静脈洞の裂傷・裂創あるいは血栓症",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "421099.3",
+      "description_ja": "肺動脈 詳細不明 [OIS IV, Vに相当する]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421002.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421004.3",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421006.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421008.5",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "421009.6",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "421499.3",
+      "description_ja": "鎖骨下動脈 詳細不明 [OIS IIIに相当する]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421404.3",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421406.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421408.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "422099.2",
+      "description_ja": "その他の動脈 例: 気管支動脈, 食道動脈, 肋間動脈, 内胸動脈 詳細不明 [OIS Iに相当する]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "422002.2",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422004.2",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422006.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422008.3",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_007.jpg",
+  "body_part_normalized": "thorax"
+}

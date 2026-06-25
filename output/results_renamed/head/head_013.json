@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "122499.3",
+      "description_ja": "上矢状洞 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122402.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122404.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122406.4",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122407.4",
+      "description_ja": "前半部",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122408.5",
+      "description_ja": "後半部",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122699.3",
+      "description_ja": "横静脈洞 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122602.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122603.5",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122604.5",
+      "description_ja": "開放性",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122605.6",
+      "description_ja": "静脈洞交会",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "122607.6",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "122606.4",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122608.5",
+      "description_ja": "静脈洞交会",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122399.3",
+      "description_ja": "静脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122599.3",
+      "description_ja": "主要な静脈 [ガレン, ラーベ, トロラード, ローランド, 内大脳静脈を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122502.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122504.3",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "122799.3",
+      "description_ja": "その他の静脈 詳細不明 [名称があっても主要でない]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122702.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122704.3",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_013.jpg",
+  "body_part_normalized": "head"
+}

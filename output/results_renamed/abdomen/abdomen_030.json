@@ -1,0 +1,207 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "ABDOMEN",
+  "entries": [
+    {
+      "code": "544499.2",
+      "description_ja": null,
+      "description_en": "Stomach NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "544410.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544414.3",
+      "description_ja": null,
+      "description_en": "ingestion injury^a",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "544415.3",
+      "description_ja": null,
+      "description_en": "partial thickness necrosis^a",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "544416.4",
+      "description_ja": null,
+      "description_en": "full thickness necrosis^a",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "544420.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544422.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness [OIS I]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544424.3",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness [OIS II, III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "544426.4",
+      "description_ja": null,
+      "description_en": "avulsion ; complex ; rupture ; tissue loss ; massive ; devascularization [OIS IV, V]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "544699.1",
+      "description_ja": null,
+      "description_en": "Testes NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "544610.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "544620.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "544622.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial [OIS II, III]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "544624.2",
+      "description_ja": null,
+      "description_en": "avulsion ; amputation ; complex ; massive [OIS IV, V]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544899.2",
+      "description_ja": null,
+      "description_en": "Ureter NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "544810.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544820.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544822.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness [OIS II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544824.3",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "544826.3",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; transection [OIS IV, V]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "545099.2",
+      "description_ja": null,
+      "description_en": "Urethra NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "545010.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "545020.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "545022.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness [OIS III]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545024.2",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; urethral separation <2cm [OIS IV]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545026.2",
+      "description_ja": null,
+      "description_en": "avulsion ; complex ; tissue loss ; massive [OIS IV]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545028.3",
+      "description_ja": null,
+      "description_en": "posterior tissue loss ; transection ; urethral separation >2cm [OIS V]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "545030.2",
+      "description_ja": null,
+      "description_en": "stretch injury [OIS II]^a",
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_030.jpg",
+  "body_part_normalized": "abdomen"
+}

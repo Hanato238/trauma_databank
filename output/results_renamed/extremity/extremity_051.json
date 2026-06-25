@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "VESSELS",
+  "entries": [
+    {
+      "code": "820099.9",
+      "description_ja": null,
+      "description_en": "Vascular Injury in Lower Extremity NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "820299.3",
+      "description_ja": null,
+      "description_en": "Femoral artery and its named branches NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "820202.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "820204.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "820206.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "820208.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "820499.2",
+      "description_ja": null,
+      "description_en": "Femoral vein NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "820402.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820404.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820406.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "820699.2",
+      "description_ja": null,
+      "description_en": "Popliteal artery NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "820602.2",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820604.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820606.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820608.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "820899.2",
+      "description_ja": null,
+      "description_en": "Popliteal vein NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "820802.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820804.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820806.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_051.jpg",
+  "body_part_normalized": "extremity"
+}

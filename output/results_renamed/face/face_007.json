@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": "顔面（目と耳を含む）",
+  "entries": [
+    {
+      "code": "230299.1",
+      "description_ja": "視神経 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "230202.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "230203.2",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "230204.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "230205.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "230206.2",
+      "description_ja": "断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "230207.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "240299.1",
+      "description_ja": "耳 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240204.1",
+      "description_ja": "外耳道損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240208.1",
+      "description_ja": "内耳, 中耳損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240207.2",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "240206.1",
+      "description_ja": "めまいを伴う損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240205.1",
+      "description_ja": "耳鳴りを伴う損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240212.1",
+      "description_ja": "耳小骨脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240213.2",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "240216.1",
+      "description_ja": "鼓膜破裂",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240220.1",
+      "description_ja": "前庭器官損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_007.jpg",
+  "body_part_normalized": "face"
+}

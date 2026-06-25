@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "858200.1",
+      "description_ja": "趾(節)骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858201.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858211.1",
+      "description_ja": "母趾(第1趾) 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858212.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858251.1",
+      "description_ja": "関節外または骨幹部",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858252.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858261.1",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858262.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858271.1",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858272.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858221.1",
+      "description_ja": "第1～第5趾 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858222.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858253.1",
+      "description_ja": "関節外または骨幹部",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858254.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858263.1",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858264.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858273.1",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858274.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_088.jpg",
+  "body_part_normalized": "extremity"
+}

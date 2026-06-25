@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "neck",
+  "section_title": "頸 部",
+  "entries": [
+    {
+      "code": "341099.2",
+      "description_ja": "唾液腺 詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "341002.3",
+      "description_ja": "導管損傷；離断",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "341499.1",
+      "description_ja": "甲状腺 詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "341402.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "341404.2",
+      "description_ja": "裂傷；裂創",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "341699.2",
+      "description_ja": "頸部の気管損傷 詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "341602.2",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "341604.2",
+      "description_ja": "裂傷；裂創；詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "341606.2",
+      "description_ja": "穿孔なし；非全層性",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "341608.3",
+      "description_ja": "穿孔；全層性 “骨折”",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "341610.4",
+      "description_ja": "剥離；破裂；離断；広範囲損傷；挫滅；喉頭と気管の解離",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "341899.2",
+      "description_ja": "声帯 詳細不明 [気管挿管が原因ではない]",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "341802.2",
+      "description_ja": "片側",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "341804.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "350200.2",
+      "description_ja": "舌骨骨折",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_013.jpg",
+  "body_part_normalized": "neck"
+}

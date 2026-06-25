@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "neck",
+  "section_title": "頸 部",
+  "entries": [
+    {
+      "code": "320699.1",
+      "description_ja": "頸静脈 [外頸] 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "320602.1",
+      "description_ja": "裂傷・裂創; 穿孔・穿刺 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "320604.1",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "320606.3",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320899.1",
+      "description_ja": "頸静脈 [内頸] 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "320802.2",
+      "description_ja": "裂傷・裂創; 穿孔・穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "320804.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "320806.3",
+      "description_ja": "大; 破裂; 離断; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "330099.1",
+      "description_ja": "頸部の神経損傷 詳細不明ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "330299.2",
+      "description_ja": "横隔膜神経損傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "330298.4",
+      "description_ja": "両側性ᶜ",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "330499.1",
+      "description_ja": "迷走神経損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_009.jpg",
+  "body_part_normalized": "neck"
+}

@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "250200.2",
+      "description_ja": "歯槽骨骨折, 歯牙損傷の有無を問わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "250400.1",
+      "description_ja": "顔面骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "250600.1",
+      "description_ja": "下顎骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "250602.1",
+      "description_ja": "非開放で部位が不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250603.1",
+      "description_ja": "関節突起ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250604.1",
+      "description_ja": "筋突起ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250605.1",
+      "description_ja": "下顎角ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250606.1",
+      "description_ja": "オトガイ結合/その近傍ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250607.1",
+      "description_ja": "下顎体",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250608.1",
+      "description_ja": "下顎枝",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250610.2",
+      "description_ja": "開放/転位/粉砕で部位が不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "250611.2",
+      "description_ja": "関節突起ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250612.2",
+      "description_ja": "筋突起ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250613.2",
+      "description_ja": "下顎角ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250614.2",
+      "description_ja": "オトガイ結合/その近傍ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250615.2",
+      "description_ja": "下顎体",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250616.2",
+      "description_ja": "下顎枝",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_015.jpg",
+  "body_part_normalized": "face"
+}

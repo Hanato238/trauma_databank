@@ -1,0 +1,186 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "730099.9",
+      "description_ja": null,
+      "description_en": "Nerve injury in upper extremity NFS^f",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "730299.1",
+      "description_ja": null,
+      "description_en": "Digital nerve NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730202.1",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730204.1",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730499.1",
+      "description_ja": null,
+      "description_en": "Median nerve NFS^t",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730402.1",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730404.2",
+      "description_ja": null,
+      "description_en": "laceration ; avulsion NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730406.2",
+      "description_ja": null,
+      "description_en": "with motor loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "730699.1",
+      "description_ja": null,
+      "description_en": "Radial nerve NFS^t",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730602.1",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730604.2",
+      "description_ja": null,
+      "description_en": "laceration ; avulsion NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730606.2",
+      "description_ja": null,
+      "description_en": "with motor loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "730899.1",
+      "description_ja": null,
+      "description_en": "Ulnar nerve NFS^t",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730802.1",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730804.2",
+      "description_ja": null,
+      "description_en": "laceration ; avulsion NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730806.2",
+      "description_ja": null,
+      "description_en": "with motor loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "740099.9",
+      "description_ja": null,
+      "description_en": "Muscle, tendon or ligament injury NFS^f",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "740600.1",
+      "description_ja": null,
+      "description_en": "Joint capsule ; rupture ; tear ; avulsion",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "740400.1",
+      "description_ja": null,
+      "description_en": "Muscle tear ; avulsion NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "740401.1",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "740403.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "740402.1",
+      "description_ja": null,
+      "description_en": "contusion ; strain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "740200.1",
+      "description_ja": null,
+      "description_en": "Tendon tear ; avulsion",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "740210.1",
+      "description_ja": null,
+      "description_en": "multiple tendons in hand",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "740220.1",
+      "description_ja": null,
+      "description_en": "multiple tendons other than hand",
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_014.jpg",
+  "body_part_normalized": "extremity"
+}

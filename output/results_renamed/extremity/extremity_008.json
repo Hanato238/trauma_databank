@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "710099.1",
+      "description_ja": null,
+      "description_en": "Skin/subcutaneous/muscle NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "710202.1",
+      "description_ja": null,
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "710402.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "710600.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "710602.1",
+      "description_ja": null,
+      "description_en": "minor : superficial",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "710604.2",
+      "description_ja": null,
+      "description_en": "major : >10cm long on hand or >20cm long on entire extremity and into subcutaneous tissue",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "710606.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "710800.1",
+      "description_ja": null,
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "710802.1",
+      "description_ja": null,
+      "description_en": "minor : superficial ; ≤25cm² on hand or ≤100cm² on entire extremity",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "710804.2",
+      "description_ja": null,
+      "description_en": "major : tissue loss >25cm² on hand or >100cm² on entire extremity",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "710806.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_008.jpg",
+  "body_part_normalized": "extremity"
+}

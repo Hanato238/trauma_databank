@@ -1,0 +1,1094 @@
+{
+  "meta": {
+    "title": "日本外傷データバンク 入力項目定義",
+    "source": "Trauma registryDataDefinition.pdf",
+    "ais_version": "AIS 2005 Update 2008",
+    "schema_version": "1.0",
+    "generated": "2026-06-21",
+    "notes": "必須度: ○=コア必須, ▲=オプション, *=自動計算"
+  },
+  "sections": [
+    { "id": "I",   "name": "患者初期情報",        "name_en": "Patient Initial Information" },
+    { "id": "II",  "name": "病院前情報",           "name_en": "Pre-hospital Information" },
+    { "id": "III", "name": "転送情報",             "name_en": "Transfer Information" },
+    { "id": "IV",  "name": "来院時病態",           "name_en": "Condition at Arrival" },
+    { "id": "V",   "name": "初療時の検査と処置",  "name_en": "Initial Examination and Treatment" },
+    { "id": "VI",  "name": "診断名と損傷重症度",  "name_en": "Diagnosis and Injury Severity" },
+    { "id": "VII", "name": "退院情報",             "name_en": "Discharge Information" }
+  ],
+  "fields": [
+    {
+      "id": 1,
+      "section": "I",
+      "name": "利用者ID",
+      "name_en": "Facility User ID",
+      "required": "○",
+      "type": "select",
+      "choices": null,
+      "notes": "参加施設ごとにID/パスワードを決定",
+      "unknown_allowed": false
+    },
+    {
+      "id": 2,
+      "section": "I",
+      "name": "年齢",
+      "name_en": "Age",
+      "required": "○",
+      "type": "number",
+      "unit": "歳（0歳児は月齢0〜11）",
+      "constraints": { "min": 0, "max": 130 },
+      "notes": "直接入力。0歳児は月齢で入力。「不明」「推定」チェック可。",
+      "unknown_allowed": true,
+      "estimated_allowed": true
+    },
+    {
+      "id": 3,
+      "section": "I",
+      "name": "性別",
+      "name_en": "Sex",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "男" },
+        { "value": 2, "label": "女" }
+      ],
+      "notes": "戸籍上ではなく生物学的性別。「不明」は認めない。",
+      "unknown_allowed": false
+    },
+    {
+      "id": 4,
+      "section": "I",
+      "name": "患者ID",
+      "name_en": "Patient ID",
+      "required": "▲",
+      "type": "text",
+      "notes": "登録施設における後日患者特定用ID。各病院のIDをそのまま使用。",
+      "unknown_allowed": false
+    },
+    {
+      "id": 5,
+      "section": "I",
+      "name": "受傷年月日",
+      "name_en": "Date of Injury",
+      "required": "○",
+      "type": "date",
+      "format": "yyyy/mm/dd",
+      "notes": "西暦年/月/日。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 6,
+      "section": "I",
+      "name": "受傷時刻",
+      "name_en": "Time of Injury",
+      "required": "○",
+      "type": "time",
+      "format": "hh:mm",
+      "notes": "24時間制。推定可。不明時は「不明」。",
+      "unknown_allowed": true,
+      "estimated_allowed": true
+    },
+    {
+      "id": 7,
+      "section": "I",
+      "name": "受傷原因",
+      "name_en": "Cause of Injury",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "不慮の事故" },
+        { "value": 2, "label": "自損（自殺企図）" },
+        { "value": 3, "label": "傷害" },
+        { "value": 4, "label": "労災" },
+        { "value": 5, "label": "他（吸入損傷など）" },
+        { "value": 99, "label": "不明" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 8,
+      "section": "I",
+      "name": "外傷分類",
+      "name_en": "Trauma Type",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "鈍的" },
+        { "value": 2, "label": "穿通性損傷" },
+        { "value": 3, "label": "熱傷" },
+        { "value": 4, "label": "その他" }
+      ],
+      "unknown_allowed": false
+    },
+    {
+      "id": 9,
+      "section": "I",
+      "name": "受傷機転",
+      "name_en": "Mechanism of Injury",
+      "required": "○",
+      "type": "select",
+      "choices": null,
+      "choices_ref": "シート1【受傷機転】参照",
+      "choices_common": [
+        "交通事故（自動車乗車中）",
+        "交通事故（自動二輪乗車中）",
+        "交通事故（自転車乗車中）",
+        "交通事故（歩行者）",
+        "転倒・転落（高さ1m未満）",
+        "転倒・転落（高さ1m以上）",
+        "刺傷",
+        "銃創",
+        "熱傷",
+        "溺水",
+        "その他"
+      ],
+      "notes": "いずれかひとつ選択。詳細はシート参照。",
+      "unknown_allowed": false
+    },
+    {
+      "id": 10,
+      "section": "II",
+      "name": "搬送経路",
+      "name_en": "Transport Route",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "現場から直接救急搬送" },
+        { "value": 2, "label": "医療機関から転送" },
+        { "value": 3, "label": "他" }
+      ],
+      "notes": "転院搬送症例では転院元救急隊の情報は入力しない。",
+      "unknown_allowed": false
+    },
+    {
+      "id": 11,
+      "section": "II",
+      "name": "搬送手段",
+      "name_en": "Transport Mode",
+      "required": "○",
+      "type": "multi_select",
+      "choices": [
+        { "value": 1, "label": "救急車" },
+        { "value": 2, "label": "ドクターカー" },
+        { "value": 3, "label": "自家用車" },
+        { "value": 4, "label": "ヘリ" },
+        { "value": 5, "label": "独歩" },
+        { "value": 6, "label": "他（タクシー、バス等）" }
+      ],
+      "notes": "複数手段の場合は全てチェック。",
+      "unknown_allowed": false
+    },
+    {
+      "id": 12,
+      "section": "II",
+      "name": "消防機関名",
+      "name_en": "Fire Department Name",
+      "required": "▲",
+      "type": "text",
+      "notes": "傷病者に接触した消防局救急隊の所属消防機関名。",
+      "unknown_allowed": false
+    },
+    {
+      "id": 13,
+      "section": "II",
+      "name": "覚知時刻",
+      "name_en": "Dispatch Time",
+      "required": "○",
+      "type": "datetime",
+      "format": "yyyy/mm/dd hh:mm",
+      "notes": "消防局指令センターへの救急要請・出動指示時刻。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 14,
+      "section": "II",
+      "name": "現着時刻",
+      "name_en": "Scene Arrival Time",
+      "required": "○",
+      "type": "datetime",
+      "format": "yyyy/mm/dd hh:mm",
+      "notes": "救急車が現場に到着した時刻。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 15,
+      "section": "II",
+      "name": "傷病者接触時刻",
+      "name_en": "Patient Contact Time",
+      "required": "▲",
+      "type": "datetime",
+      "format": "yyyy/mm/dd hh:mm",
+      "notes": "救急隊が傷病者に実際に接触し救護開始した時刻。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 16,
+      "section": "II",
+      "name": "現発時刻",
+      "name_en": "Scene Departure Time",
+      "required": "○",
+      "type": "datetime",
+      "format": "yyyy/mm/dd hh:mm",
+      "notes": "傷病者が現場から搬送開始された時刻。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 17,
+      "section": "II",
+      "name": "病院着時刻",
+      "name_en": "Hospital Arrival Time",
+      "required": "○",
+      "type": "datetime",
+      "format": "yyyy/mm/dd hh:mm",
+      "notes": "傷病者が病院に到着した時刻。転院搬送の場合は最終治療病院への到着時刻。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 18,
+      "section": "II",
+      "name": "搬送時間",
+      "name_en": "Transport Time",
+      "required": "*",
+      "type": "calculated",
+      "formula": "#17病院着時刻 - #13覚知時刻",
+      "unit": "分",
+      "notes": "救急要請から病着までの時間。自動計算。"
+    },
+    {
+      "id": 19,
+      "section": "II",
+      "name": "救急救命士同乗",
+      "name_en": "Paramedic on Board",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "あり" },
+        { "value": 2, "label": "なし" }
+      ],
+      "unknown_allowed": false
+    },
+    {
+      "id": 20,
+      "section": "II",
+      "name": "病院前処置",
+      "name_en": "Pre-hospital Procedures",
+      "required": "▲",
+      "type": "multi_select",
+      "choices": [
+        { "value": 1,  "label": "酸素吸入" },
+        { "value": 2,  "label": "気管挿管" },
+        { "value": 3,  "label": "静脈路確保・輸液" },
+        { "value": 4,  "label": "止血（圧迫止血）" },
+        { "value": 5,  "label": "脊椎固定" },
+        { "value": 6,  "label": "創傷処置" },
+        { "value": 7,  "label": "骨折固定" },
+        { "value": 8,  "label": "CPR（心マッサージ+バッグマスク換気）" },
+        { "value": 9,  "label": "AED" },
+        { "value": 10, "label": "薬剤投与" },
+        { "value": 11, "label": "保温" },
+        { "value": 12, "label": "体位管理" },
+        { "value": 13, "label": "その他" },
+        { "value": 14, "label": "施行せず" },
+        { "value": 99, "label": "不明" }
+      ],
+      "notes": "処置施行者は医師以外。ドクターカー内処置も含む。"
+    },
+    {
+      "id": 21,
+      "section": "II",
+      "name": "現場血圧（収縮期）",
+      "name_en": "Scene Systolic Blood Pressure",
+      "required": "○",
+      "type": "number",
+      "unit": "mmHg",
+      "notes": "最初に測定された収縮期血圧。車内収容時でも可。",
+      "unknown_allowed": true,
+      "special_values": [
+        { "value": "測定不能", "meaning": "機器異常等で測定できなかった" },
+        { "value": "不明", "meaning": "測定したが記載なし、または測定しなかった" }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "II",
+      "name": "現場脈拍数",
+      "name_en": "Scene Pulse Rate",
+      "required": "○",
+      "type": "number",
+      "unit": "回/分",
+      "notes": "最初に測定された脈拍数。車内収容時でも可。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 23,
+      "section": "II",
+      "name": "現場呼吸数",
+      "name_en": "Scene Respiratory Rate",
+      "required": "○",
+      "type": "number",
+      "unit": "回/分",
+      "notes": "最初に測定された呼吸数。車内収容時でも可。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 24,
+      "section": "II",
+      "name": "現場JCS",
+      "name_en": "Scene JCS",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 0,   "label": "0（清明）" },
+        { "value": 1,   "label": "1（刺激なしで覚醒）" },
+        { "value": 2,   "label": "2" },
+        { "value": 3,   "label": "3" },
+        { "value": 10,  "label": "10（刺激で覚醒）" },
+        { "value": 20,  "label": "20" },
+        { "value": 30,  "label": "30" },
+        { "value": 100, "label": "100（刺激で覚醒せず）" },
+        { "value": 200, "label": "200" },
+        { "value": 300, "label": "300" },
+        { "value": 99,  "label": "不明" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 25,
+      "section": "II",
+      "name": "現場GCS-E",
+      "name_en": "Scene GCS Eye Opening",
+      "required": "▲",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "1（開眼なし）" },
+        { "value": 2, "label": "2（疼痛で開眼）" },
+        { "value": 3, "label": "3（呼びかけで開眼）" },
+        { "value": 4, "label": "4（自発的に開眼）" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 26,
+      "section": "II",
+      "name": "現場GCS-V",
+      "name_en": "Scene GCS Verbal Response",
+      "required": "▲",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "1（発語なし）" },
+        { "value": 2, "label": "2（理解不能な声）" },
+        { "value": 3, "label": "3（不適当な発語）" },
+        { "value": 4, "label": "4（混乱した会話）" },
+        { "value": 5, "label": "5（見当識あり）" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 27,
+      "section": "II",
+      "name": "現場GCS-M",
+      "name_en": "Scene GCS Motor Response",
+      "required": "▲",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "1（なし）" },
+        { "value": 2, "label": "2（除脳硬直）" },
+        { "value": 3, "label": "3（除皮質硬直）" },
+        { "value": 4, "label": "4（逃避）" },
+        { "value": 5, "label": "5（疼痛部位への反応）" },
+        { "value": 6, "label": "6（命令に従う）" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 28,
+      "section": "II",
+      "name": "現場GCS",
+      "name_en": "Scene GCS Total",
+      "required": "▲",
+      "type": "calculated",
+      "formula": "#25 + #26 + #27",
+      "constraints": { "min": 3, "max": 15 },
+      "notes": "E・V・Mのいずれかが不明またはVがIの時は計算不能。"
+    },
+    {
+      "id": 30,
+      "section": "III",
+      "name": "転送元病院分類",
+      "name_en": "Referring Hospital Classification",
+      "required": "▲",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "一次救急施設" },
+        { "value": 2, "label": "二次救急施設" },
+        { "value": 3, "label": "救命救急センター" },
+        { "value": 4, "label": "他" },
+        { "value": 99, "label": "不明" }
+      ],
+      "notes": "複数病院経由の場合は最後の病院。"
+    },
+    {
+      "id": 31,
+      "section": "III",
+      "name": "転送理由",
+      "name_en": "Reason for Transfer",
+      "required": "▲",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "処置不能" },
+        { "value": 2, "label": "満床" },
+        { "value": 3, "label": "専門医不在" },
+        { "value": 4, "label": "病状悪化" },
+        { "value": 5, "label": "他" },
+        { "value": 99, "label": "不明" }
+      ]
+    },
+    {
+      "id": 36,
+      "section": "III",
+      "name": "受傷から当施設搬入までの時間",
+      "name_en": "Time from Injury to Hospital Arrival",
+      "required": "*",
+      "type": "calculated",
+      "formula": "#17病院着時刻 - #6受傷時刻",
+      "unit": "分",
+      "notes": "自動計算。"
+    },
+    {
+      "id": 38,
+      "section": "IV",
+      "name": "収縮期血圧",
+      "name_en": "Systolic Blood Pressure at Arrival",
+      "required": "○",
+      "type": "number",
+      "unit": "mmHg",
+      "notes": "最初の測定値。心拍あるも測定不能時は「40」、脈拍触れずは「0」を入力。",
+      "unknown_allowed": true,
+      "special_values": [
+        { "value": 0,  "meaning": "脈拍触れず" },
+        { "value": 40, "meaning": "心拍あるも血圧測定不能" }
+      ]
+    },
+    {
+      "id": 39,
+      "section": "IV",
+      "name": "拡張期血圧",
+      "name_en": "Diastolic Blood Pressure at Arrival",
+      "required": "▲",
+      "type": "number",
+      "unit": "mmHg",
+      "notes": "触診時は入力しない。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 40,
+      "section": "IV",
+      "name": "呼吸数",
+      "name_en": "Respiratory Rate at Arrival",
+      "required": "○",
+      "type": "number",
+      "unit": "回/分",
+      "notes": "来院時の呼吸数。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 41,
+      "section": "IV",
+      "name": "心拍数",
+      "name_en": "Heart Rate at Arrival",
+      "required": "○",
+      "type": "number",
+      "unit": "回/分",
+      "notes": "来院時の心拍数。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 42,
+      "section": "IV",
+      "name": "体温",
+      "name_en": "Body Temperature at Arrival",
+      "required": "○",
+      "type": "number",
+      "unit": "℃",
+      "notes": "摂氏で入力。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 43,
+      "section": "IV",
+      "name": "体温測定部位",
+      "name_en": "Temperature Measurement Site",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "腋窩" },
+        { "value": 2, "label": "直腸" },
+        { "value": 3, "label": "鼓膜" },
+        { "value": 4, "label": "不明" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 44,
+      "section": "IV",
+      "name": "JCS（来院時）",
+      "name_en": "Japan Coma Scale at Arrival",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 0,   "label": "0（清明）" },
+        { "value": 1,   "label": "1" },
+        { "value": 2,   "label": "2" },
+        { "value": 3,   "label": "3" },
+        { "value": 10,  "label": "10" },
+        { "value": 20,  "label": "20" },
+        { "value": 30,  "label": "30" },
+        { "value": 100, "label": "100" },
+        { "value": 200, "label": "200" },
+        { "value": 300, "label": "300" },
+        { "value": 99,  "label": "不明" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 45,
+      "section": "IV",
+      "name": "GCS-E（来院時）",
+      "name_en": "GCS Eye Opening at Arrival",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "1（開眼なし）" },
+        { "value": 2, "label": "2（疼痛で開眼）" },
+        { "value": 3, "label": "3（呼びかけで開眼）" },
+        { "value": 4, "label": "4（自発的に開眼）" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 46,
+      "section": "IV",
+      "name": "GCS-V（来院時）",
+      "name_en": "GCS Verbal Response at Arrival",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1,   "label": "1（発語なし）" },
+        { "value": 2,   "label": "2（理解不能な声）" },
+        { "value": 3,   "label": "3（不適当な発語）" },
+        { "value": 4,   "label": "4（混乱した会話）" },
+        { "value": 5,   "label": "5（見当識あり）" },
+        { "value": "I", "label": "I（挿管中）" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 47,
+      "section": "IV",
+      "name": "GCS-M（来院時）",
+      "name_en": "GCS Motor Response at Arrival",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "1（なし）" },
+        { "value": 2, "label": "2（除脳硬直）" },
+        { "value": 3, "label": "3（除皮質硬直）" },
+        { "value": 4, "label": "4（逃避）" },
+        { "value": 5, "label": "5（疼痛部位への反応）" },
+        { "value": 6, "label": "6（命令に従う）" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 48,
+      "section": "IV",
+      "name": "GCS合計（来院時）",
+      "name_en": "GCS Total at Arrival",
+      "required": "*",
+      "type": "calculated",
+      "formula": "#45 + #46 + #47",
+      "constraints": { "min": 3, "max": 15 },
+      "notes": "E・V・Mのいずれかが不明またはVがIの時は計算不能。"
+    },
+    {
+      "id": 49,
+      "section": "IV",
+      "name": "受傷前飲酒",
+      "name_en": "Alcohol Use Prior to Injury",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1,  "label": "あり" },
+        { "value": 2,  "label": "なし" },
+        { "value": 99, "label": "不明" }
+      ],
+      "unknown_allowed": true
+    },
+    {
+      "id": 50,
+      "section": "IV",
+      "name": "血中アルコール濃度",
+      "name_en": "Blood Alcohol Concentration",
+      "required": "▲",
+      "type": "number",
+      "unit": "mg/dL",
+      "notes": "測定施設のみ。単位を含めて記入。"
+    },
+    {
+      "id": 51,
+      "section": "IV",
+      "name": "RTS（来院時）",
+      "name_en": "Revised Trauma Score at Arrival",
+      "required": "*",
+      "type": "calculated",
+      "formula": "0.9368×GCS_coded + 0.7326×SBP_coded + 0.2908×RR_coded",
+      "notes": "GCS(#48)・収縮期血圧(#38)・呼吸数(#40)からコード変換後に計算。不明項目があれば計算不可。"
+    },
+    {
+      "id": 52,
+      "section": "IV",
+      "name": "既往症",
+      "name_en": "Pre-existing Conditions",
+      "required": "○",
+      "type": "multi_select",
+      "choices": [
+        { "value": 0,  "label": "既往疾患なし" },
+        { "value": 1,  "label": "虚血性心疾患" },
+        { "value": 2,  "label": "心不全" },
+        { "value": 3,  "label": "高血圧" },
+        { "value": 4,  "label": "その他循環器疾患" },
+        { "value": 5,  "label": "気管支喘息" },
+        { "value": 6,  "label": "COPD（慢性閉塞性肺疾患）" },
+        { "value": 7,  "label": "その他慢性肺疾患" },
+        { "value": 8,  "label": "肝硬変・慢性肝炎" },
+        { "value": 9,  "label": "消化性潰瘍" },
+        { "value": 10, "label": "炎症性腸疾患" },
+        { "value": 11, "label": "その他消化器疾患" },
+        { "value": 12, "label": "糖尿病" },
+        { "value": 13, "label": "高度肥満" },
+        { "value": 14, "label": "その他代謝性疾患" },
+        { "value": 15, "label": "脳血管障害（片麻痺等）" },
+        { "value": 16, "label": "精神疾患" },
+        { "value": 17, "label": "痴呆" },
+        { "value": 18, "label": "精神発達遅滞" },
+        { "value": 19, "label": "HIV/AIDS" },
+        { "value": 20, "label": "悪性腫瘍治療中" },
+        { "value": 21, "label": "血液疾患治療中" },
+        { "value": 22, "label": "ステロイド療法中" },
+        { "value": 23, "label": "免疫抑制剤療法中" },
+        { "value": 24, "label": "抗凝固療法中" },
+        { "value": 25, "label": "血液透析中" },
+        { "value": 26, "label": "慢性腎不全" },
+        { "value": 27, "label": "妊娠中" },
+        { "value": 28, "label": "その他" }
+      ],
+      "notes": "医師に指摘され通院歴のある疾患。複数選択可。"
+    },
+    {
+      "id": 54,
+      "section": "V",
+      "name": "腹部超音波エコー（FAST）",
+      "name_en": "FAST",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1,  "label": "陽性（出血あり）" },
+        { "value": 2,  "label": "陰性（出血なし）" },
+        { "value": 3,  "label": "施行せず" },
+        { "value": 99, "label": "不明" }
+      ],
+      "notes": "初療期間内に施行したFASTの結果。"
+    },
+    {
+      "id": 55,
+      "section": "V",
+      "name": "CTスキャン",
+      "name_en": "CT Scan",
+      "required": "○",
+      "type": "multi_select",
+      "choices": [
+        { "value": 1,  "label": "頭部" },
+        { "value": 2,  "label": "頚部" },
+        { "value": 3,  "label": "胸部" },
+        { "value": 4,  "label": "腹部" },
+        { "value": 5,  "label": "骨盤" },
+        { "value": 6,  "label": "脊椎" },
+        { "value": 7,  "label": "施行せず" },
+        { "value": 99, "label": "不明" }
+      ],
+      "notes": "初療期間内に撮影したCTの撮影部位。複数選択可。"
+    },
+    {
+      "id": 57,
+      "section": "V",
+      "name": "緊急血管造影",
+      "name_en": "Emergency Angiography",
+      "required": "○",
+      "type": "multi_select",
+      "choices": [
+        { "value": 1,  "label": "頭部" },
+        { "value": 2,  "label": "頚部" },
+        { "value": 3,  "label": "胸部" },
+        { "value": 4,  "label": "腹部" },
+        { "value": 5,  "label": "骨盤" },
+        { "value": 6,  "label": "他" },
+        { "value": 7,  "label": "施行せず" },
+        { "value": 99, "label": "不明" }
+      ],
+      "notes": "初療後から病室入室・転院・死亡までの間に行う血管造影。"
+    },
+    {
+      "id": 59,
+      "section": "V",
+      "name": "緊急救命処置",
+      "name_en": "Emergency Life-saving Procedures",
+      "required": "○",
+      "type": "multi_select",
+      "choices": null,
+      "choices_ref": "シート3【緊急処置】参照",
+      "choices_common": [
+        "気管挿管",
+        "輪状甲状靭帯切開",
+        "気管切開",
+        "胸腔ドレナージ",
+        "心嚢穿刺・ドレナージ",
+        "開胸心マッサージ",
+        "開腹（緊急）",
+        "大動脈遮断バルーン（REBOA）",
+        "止血帯",
+        "施行せず",
+        "不明"
+      ],
+      "notes": "複数選択可。「施行せず」も選択肢に含む。"
+    },
+    {
+      "id": 60,
+      "section": "V",
+      "name": "初期24時間以内輸血",
+      "name_en": "Blood Transfusion within 24 Hours",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1,  "label": "あり" },
+        { "value": 2,  "label": "なし" },
+        { "value": 99, "label": "不明" }
+      ],
+      "notes": "赤血球輸血（全血・MAPなど）のみ。新鮮凍結血漿・血小板・アルブミンは含まない。"
+    },
+    {
+      "id": 63,
+      "section": "V",
+      "name": "初回手術（TAE含む）",
+      "name_en": "First Surgery (including TAE)",
+      "required": "○",
+      "type": "multi_select",
+      "choices": [
+        { "value": 1,  "label": "開頭" },
+        { "value": 2,  "label": "穿頭" },
+        { "value": 3,  "label": "開胸" },
+        { "value": 4,  "label": "開腹" },
+        { "value": 5,  "label": "骨折手術" },
+        { "value": 6,  "label": "血行再建" },
+        { "value": 7,  "label": "TAE（経動脈的塞栓術）" },
+        { "value": 8,  "label": "鏡視下手術" },
+        { "value": 9,  "label": "肢再接着" },
+        { "value": 10, "label": "止血" },
+        { "value": 11, "label": "その他" },
+        { "value": 12, "label": "施行せず" },
+        { "value": 99, "label": "不明" }
+      ],
+      "notes": "入院中に行われた手術の種類（緊急手術・待機手術含む）。"
+    },
+    {
+      "id": 64,
+      "section": "V",
+      "name": "初回手術日",
+      "name_en": "Date of First Surgery",
+      "required": "○",
+      "type": "date",
+      "format": "yyyy/mm/dd",
+      "notes": "初回手術を開始した日付。複数部位の場合は最初に行った手術の開始日。",
+      "unknown_allowed": true,
+      "estimated_allowed": true
+    },
+    {
+      "id": 66,
+      "section": "V",
+      "name": "初回手術開始までの時間",
+      "name_en": "Time to First Surgery",
+      "required": "*",
+      "type": "calculated",
+      "formula": "#64初回手術室入室時刻 - #17病院着時刻",
+      "unit": "分",
+      "notes": "自動計算。"
+    },
+    {
+      "id": 67,
+      "section": "V",
+      "name": "手術適応",
+      "name_en": "Indication for Surgery",
+      "required": "○",
+      "type": "multi_select",
+      "choices": null,
+      "choices_ref": "シート4【手術適応】参照",
+      "choices_common": [
+        "頭蓋内出血",
+        "胸腔内出血",
+        "腹腔内出血",
+        "後腹膜出血",
+        "骨折",
+        "血管損傷",
+        "消化管損傷",
+        "その他"
+      ],
+      "notes": "手術目的が診療録に記載されていること。"
+    },
+    {
+      "id": 68,
+      "section": "V",
+      "name": "手術内容",
+      "name_en": "Surgical Procedure",
+      "required": "○",
+      "type": "multi_select",
+      "choices": null,
+      "choices_ref": "シート5【手術】参照",
+      "choices_common": [
+        "血腫除去",
+        "止血術",
+        "縫合術",
+        "切除術",
+        "吻合術",
+        "骨接合術",
+        "人工関節置換",
+        "デブリードマン",
+        "その他"
+      ],
+      "notes": "手術内容が診療録に記載されていること。"
+    },
+    {
+      "id": 70,
+      "section": "VI",
+      "name": "頭頸部損傷病名とAISスコア",
+      "name_en": "Head/Neck Injury Diagnoses and AIS Scores",
+      "required": "○",
+      "type": "ais_field",
+      "body_parts": ["head", "neck"],
+      "codebook_ref": "output/data/json/head.json, output/data/json/neck.json",
+      "notes": "AIS 2005 Update 2008。該当なしの場合は空欄。複数損傷可。"
+    },
+    {
+      "id": 71,
+      "section": "VI",
+      "name": "顔面損傷病名とAISスコア",
+      "name_en": "Face Injury Diagnoses and AIS Scores",
+      "required": "○",
+      "type": "ais_field",
+      "body_parts": ["face"],
+      "codebook_ref": "output/data/json/face.json",
+      "notes": "該当なしの場合は空欄。"
+    },
+    {
+      "id": 72,
+      "section": "VI",
+      "name": "胸部損傷病名とAISスコア",
+      "name_en": "Thorax Injury Diagnoses and AIS Scores",
+      "required": "○",
+      "type": "ais_field",
+      "body_parts": ["thorax"],
+      "codebook_ref": "output/data/json/thorax.json",
+      "notes": "該当なしの場合は空欄。"
+    },
+    {
+      "id": 73,
+      "section": "VI",
+      "name": "腹部損傷病名とAISスコア",
+      "name_en": "Abdomen Injury Diagnoses and AIS Scores",
+      "required": "○",
+      "type": "ais_field",
+      "body_parts": ["abdomen"],
+      "codebook_ref": "output/data/json/abdomen.json",
+      "notes": "該当なしの場合は空欄。"
+    },
+    {
+      "id": 74,
+      "section": "VI",
+      "name": "四肢骨盤損傷病名とAISスコア",
+      "name_en": "Extremity/Pelvis Injury Diagnoses and AIS Scores",
+      "required": "○",
+      "type": "ais_field",
+      "body_parts": ["extremity", "spine"],
+      "codebook_ref": "output/data/json/extremity.json, output/data/json/spine.json",
+      "notes": "該当なしの場合は空欄。"
+    },
+    {
+      "id": 75,
+      "section": "VI",
+      "name": "体表損傷病名とAISスコア",
+      "name_en": "Surface Injury Diagnoses and AIS Scores",
+      "required": "○",
+      "type": "ais_field",
+      "body_parts": ["surface"],
+      "codebook_ref": "output/data/json/surface.json",
+      "notes": "該当なしの場合は空欄。"
+    },
+    {
+      "id": 76,
+      "section": "VI",
+      "name": "ISS",
+      "name_en": "Injury Severity Score",
+      "required": "*",
+      "type": "calculated",
+      "formula": "最大AIS上位3部位の二乗和。いずれかの部位でAIS=6の場合は自動的に75。",
+      "constraints": { "min": 1, "max": 75 },
+      "notes": "自動計算。AIS≥3で対象。"
+    },
+    {
+      "id": 77,
+      "section": "VI",
+      "name": "TRISS Ps値",
+      "name_en": "TRISS Probability of Survival",
+      "required": "*",
+      "type": "calculated",
+      "formula": "1 / (1 + e^(-b))  where b = b0 + b1×RTS + b2×ISS + b3×年齢区分(AIS90係数使用)",
+      "notes": "年齢・RTS・ISSのいずれかが不明の場合は計算しない。自動計算。"
+    },
+    {
+      "id": 80,
+      "section": "VI",
+      "name": "合併症",
+      "name_en": "Complications",
+      "required": "○",
+      "type": "multi_select",
+      "choices": null,
+      "choices_ref": "シート7【合併症】参照",
+      "choices_common": [
+        "ARDS（急性呼吸窮迫症候群）",
+        "敗血症",
+        "DIC（播種性血管内凝固）",
+        "急性腎不全",
+        "肺炎",
+        "深部静脈血栓症",
+        "肺塞栓症",
+        "多臓器不全（MOF）",
+        "腸閉塞",
+        "創感染",
+        "なし",
+        "不明"
+      ],
+      "notes": "複数選択可。"
+    },
+    {
+      "id": 81,
+      "section": "VII",
+      "name": "初期治療後入院病棟",
+      "name_en": "Ward After Initial Treatment",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "救命救急センター（ICU）入院" },
+        { "value": 2, "label": "一般病棟入院" },
+        { "value": 3, "label": "救急室または手術室にて死亡" },
+        { "value": 4, "label": "その他" }
+      ]
+    },
+    {
+      "id": 82,
+      "section": "VII",
+      "name": "入院後診療科",
+      "name_en": "Admitting Department",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "救急科（救急専従医）" },
+        { "value": 2, "label": "外科" },
+        { "value": 3, "label": "脳神経外科" },
+        { "value": 4, "label": "整形外科" },
+        { "value": 5, "label": "形成外科" },
+        { "value": 6, "label": "その他" }
+      ],
+      "notes": "初療で死亡の場合も最終的に責任を持った科名。"
+    },
+    {
+      "id": 85,
+      "section": "VII",
+      "name": "救急部門退出日（転科日）",
+      "name_en": "Date of Transfer from Emergency Department",
+      "required": "○",
+      "type": "date",
+      "format": "yyyy/mm/dd",
+      "notes": "退院まで救急科が診療した場合は退院日と同じ。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 86,
+      "section": "VII",
+      "name": "救急部門管理日数",
+      "name_en": "Days in Emergency Department",
+      "required": "*",
+      "type": "calculated",
+      "formula": "#85救急部門退出日 - 入室日",
+      "unit": "日"
+    },
+    {
+      "id": 87,
+      "section": "VII",
+      "name": "退院日",
+      "name_en": "Discharge Date",
+      "required": "○",
+      "type": "date",
+      "format": "yyyy/mm/dd",
+      "unknown_allowed": true
+    },
+    {
+      "id": 88,
+      "section": "VII",
+      "name": "退院後転出先",
+      "name_en": "Discharge Destination",
+      "required": "○",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "自宅" },
+        { "value": 2, "label": "他の医療機関転院" },
+        { "value": 3, "label": "その他転出" },
+        { "value": 4, "label": "死亡退院" }
+      ]
+    },
+    {
+      "id": 90,
+      "section": "VII",
+      "name": "入院日数",
+      "name_en": "Length of Hospital Stay",
+      "required": "*",
+      "type": "calculated",
+      "formula": "#87退院日 - 入院日",
+      "unit": "日",
+      "notes": "同日の場合は0。"
+    },
+    {
+      "id": 91,
+      "section": "VII",
+      "name": "死亡日時",
+      "name_en": "Date/Time of Death",
+      "required": "▲",
+      "type": "datetime",
+      "format": "yyyy/mm/dd hh:mm",
+      "notes": "死亡退院の場合のみ入力。",
+      "unknown_allowed": true
+    },
+    {
+      "id": 92,
+      "section": "VII",
+      "name": "剖検",
+      "name_en": "Autopsy",
+      "required": "▲",
+      "type": "select",
+      "choices": [
+        { "value": 1, "label": "司法解剖" },
+        { "value": 2, "label": "行政解剖" },
+        { "value": 3, "label": "病理解剖" },
+        { "value": 4, "label": "なし" }
+      ],
+      "notes": "死亡の転帰の場合のみ入力。"
+    }
+  ]
+}

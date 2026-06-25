@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": "440400.5",
+      "description_ja": null,
+      "description_en": "Intracardiac chordae tendineae laceration ; rupture",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "441300.5",
+      "description_ja": null,
+      "description_en": "Intracardiac septum laceration ; rupture",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "441200.5",
+      "description_ja": null,
+      "description_en": "Intracardiac valve laceration ; rupture",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "441499.3",
+      "description_ja": null,
+      "description_en": "Lung NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "441420.3",
+      "description_ja": null,
+      "description_en": "blast injury (overpressure/explosive) NFSᵃ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441422.3",
+      "description_ja": null,
+      "description_en": "mildᵃ",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441424.4",
+      "description_ja": null,
+      "description_en": "moderate ; uni/bilateral with pulmonary peripheral hemorrhageᵃ",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441426.5",
+      "description_ja": null,
+      "description_en": "severe ; bilateral with air embolusᵃ",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "441402.3",
+      "description_ja": null,
+      "description_en": "contusion NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "441406.2",
+      "description_ja": null,
+      "description_en": "unilateral NFSᵉ",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "441407.2",
+      "description_ja": null,
+      "description_en": "minor ; <1 lobe",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "441408.3",
+      "description_ja": null,
+      "description_en": "major ; ≥1 lobe",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441410.3",
+      "description_ja": null,
+      "description_en": "bilateral NFSᵉ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441411.3",
+      "description_ja": null,
+      "description_en": "minor ; <1 lobe",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441412.4",
+      "description_ja": null,
+      "description_en": "major ; ≥1 lobe in at least one lung",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441414.3",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "441430.3",
+      "description_ja": null,
+      "description_en": "unilateral NFSᵉ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441431.3",
+      "description_ja": null,
+      "description_en": "minor ; <1 lobe",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441432.4",
+      "description_ja": null,
+      "description_en": "major ; ≥1 lobe",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441450.4",
+      "description_ja": null,
+      "description_en": "bilateral NFSᵉ",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "441551.4",
+      "description_ja": null,
+      "description_en": "minor ; <1 lobe",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441452.5",
+      "description_ja": null,
+      "description_en": "major ; ≥1 lobe in at least one lung",
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_018.jpg",
+  "body_part_normalized": "thorax"
+}

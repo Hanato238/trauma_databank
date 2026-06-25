@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "161000.1",
+      "description_ja": null,
+      "description_en": "Cerebral Concussion, NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "161001.1",
+      "description_ja": null,
+      "description_en": "mild concussion ; no loss of consciousness",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "161002.2",
+      "description_ja": null,
+      "description_en": "brief loss of consciousness NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "161003.2",
+      "description_ja": null,
+      "description_en": "loss of consciousness < 1 hour NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "161004.2",
+      "description_ja": null,
+      "description_en": "loss of consciousness ≤30 mins",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "161005.2",
+      "description_ja": null,
+      "description_en": "loss of consciousness 31-59 mins",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "161006.3",
+      "description_ja": null,
+      "description_en": "loss of consciousness 1-6 hours (severe concussion)",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "161007.4",
+      "description_ja": null,
+      "description_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "161008.4",
+      "description_ja": null,
+      "description_en": "LOC 6-24 hours (mild DAI)",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "161011.5",
+      "description_ja": null,
+      "description_en": "LOC >24 hours NFS",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "161012.5",
+      "description_ja": null,
+      "description_en": "without brainstem signs (moderate DAI)",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "161013.5",
+      "description_ja": null,
+      "description_en": "with brainstem signs (severe DAI)",
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_046.jpg",
+  "body_part_normalized": "head"
+}

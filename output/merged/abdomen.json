@@ -1,0 +1,3249 @@
+{
+  "body_part": "abdomen",
+  "body_part_name": "Abdomen / 腹部",
+  "source_file_count": 33,
+  "source_files": [
+    "abdomen_001.json",
+    "abdomen_002.json",
+    "abdomen_003.json",
+    "abdomen_004.json",
+    "abdomen_005.json",
+    "abdomen_006.json",
+    "abdomen_007.json",
+    "abdomen_008.json",
+    "abdomen_009.json",
+    "abdomen_010.json",
+    "abdomen_011.json",
+    "abdomen_012.json",
+    "abdomen_013.json",
+    "abdomen_014.json",
+    "abdomen_015.json",
+    "abdomen_016.json",
+    "abdomen_017.json",
+    "abdomen_018.json",
+    "abdomen_019.json",
+    "abdomen_020.json",
+    "abdomen_021.json",
+    "abdomen_022.json",
+    "abdomen_023.json",
+    "abdomen_024.json",
+    "abdomen_025.json",
+    "abdomen_026.json",
+    "abdomen_027.json",
+    "abdomen_028.json",
+    "abdomen_029.json",
+    "abdomen_030.json",
+    "abdomen_031.json",
+    "abdomen_032.json",
+    "abdomen_033.json"
+  ],
+  "total_entries": 261,
+  "collision_count": 88,
+  "entries": [
+    {
+      "code": "S0050.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_001.json"
+      ]
+    },
+    {
+      "code": "S0051.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_001.json"
+      ]
+    },
+    {
+      "code": "S0052.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_001.json"
+      ]
+    },
+    {
+      "code": "S0053.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_001.json"
+      ]
+    },
+    {
+      "code": "S0054.0",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_001.json"
+      ]
+    },
+    {
+      "code": "500099.9",
+      "description_ja": "鈍的腹部損傷 詳細不明",
+      "description_en": "Injuries to the Whole Abdomen NFS",
+      "severity": 9,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ],
+      "collision_note": "description_ja 衝突: [鈍的腹部損傷 詳細不明] vs [死亡 (詳細な評価なし); 剖検なし] → 既存値を使用"
+    },
+    {
+      "code": "500999.9",
+      "description_ja": null,
+      "description_en": "Died of abdominal injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json"
+      ]
+    },
+    {
+      "code": "516000.1",
+      "description_ja": "穿通性損傷 詳細不明",
+      "description_en": "Penetrating injury NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "516002.1",
+      "description_ja": "表在性 ; 小 ; 腹膜に達するが深部組織の損傷は伴わない",
+      "description_en": "superficial ; minor ; into peritoneum but not involving underlying structures",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "516004.2",
+      "description_ja": "組織欠損が100cm²を超える",
+      "description_en": "with tissue loss >100cm²",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "516006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "with blood loss >20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510100.2",
+      "description_ja": "腹直筋断裂 詳細不明ᵃ",
+      "description_en": "Rectus Abdominus rupture NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "511000.6",
+      "description_ja": "体幹部離断ᵃ",
+      "description_en": "Torso transection",
+      "severity": 6,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510099.1",
+      "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明",
+      "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510202.1",
+      "description_ja": "擦過傷",
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510402.1",
+      "description_ja": "挫傷 ; 血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510602.1",
+      "description_ja": "小 ; 表在性",
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510604.2",
+      "description_ja": "大 ; 長さが20cmを超え, かつ皮下組織に達する",
+      "description_en": "major ; >20cm long and into subcutaneous tissue",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510802.1",
+      "description_ja": "小 ; 表在性 ; 100cm²以下",
+      "description_en": "minor ; superficial ; ≤100cm²",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510804.2",
+      "description_ja": "大 ; 100cm²を超える",
+      "description_en": "major ; >100cm²",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "510806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_002.json",
+        "abdomen_003.json"
+      ]
+    },
+    {
+      "code": "520099.9",
+      "description_ja": "腹部血管損傷 詳細不明",
+      "description_en": "Vascular Injury in Abdomen NFS",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520299.4",
+      "description_ja": "腹部大動脈 詳細不明",
+      "description_en": "Aorta, Abdominal NFS",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520202.4",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520204.4",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520206.4",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520208.5",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520499.3",
+      "description_ja": "腹腔動脈 詳細不明",
+      "description_en": "Celiac Artery NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520404.3",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520406.4",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520408.5",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520699.3",
+      "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明",
+      "description_en": "Iliac Artery [common, internal, external] and its named branches NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520698.4",
+      "description_ja": "両側c 総腸骨動脈に限る。",
+      "description_en": "bilateral",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520602.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520604.3",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520606.3",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "520608.4",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_004.json",
+        "abdomen_005.json"
+      ]
+    },
+    {
+      "code": "521199.3",
+      "description_ja": "上腸間膜動脈 詳細不明",
+      "description_en": "Superior Mesenteric Artery NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521102.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521104.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521106.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521108.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521499.3",
+      "description_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈]",
+      "description_en": "Other named arteries NFS [e.g., hepatic, renal, splenic]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521404.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521406.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521408.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "520899.3",
+      "description_ja": "腸骨静脈 [総] 詳細不明",
+      "description_en": "Iliac Vein [common] NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "520802.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "520804.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "520806.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 全周性; 出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521099.2",
+      "description_ja": "腸骨静脈 [内, 外] 詳細不明",
+      "description_en": "Iliac Vein [internal, external] NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521002.2",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521004.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521006.3",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521299.3",
+      "description_ja": "下大静脈 詳細不明",
+      "description_en": "Vena Cava, inferior NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521202.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521204.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521206.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_006.json",
+        "abdomen_007.json"
+      ]
+    },
+    {
+      "code": "521699.3",
+      "description_ja": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈]",
+      "description_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_008.json",
+        "abdomen_009.json"
+      ]
+    },
+    {
+      "code": "521602.3",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_008.json",
+        "abdomen_009.json"
+      ]
+    },
+    {
+      "code": "521604.3",
+      "description_ja": "小；血栓の有無を問わない；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": "minor with or without thrombosis ; superficial ; incomplete circumferential involvement ; blood loss <=20 % by volume",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_008.json",
+        "abdomen_009.json"
+      ]
+    },
+    {
+      "code": "521606.4",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_008.json",
+        "abdomen_009.json"
+      ]
+    },
+    {
+      "code": "530499.1",
+      "description_ja": "迷走神経損傷",
+      "description_en": "Vagus nerve injury",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_008.json",
+        "abdomen_009.json"
+      ]
+    },
+    {
+      "code": "540299.1",
+      "description_ja": "副腎 詳細不明",
+      "description_en": "Adrenal Gland NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540210.1",
+      "description_ja": "挫傷；血腫 詳細不明 [OIS I]",
+      "description_en": "contusion ; hematoma NFS [OIS I]",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540212.1",
+      "description_ja": "小；表在性 [OIS I]",
+      "description_en": "minor ; superficial [OIS I]",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540214.2",
+      "description_ja": "大；大きい [OIS I]",
+      "description_en": "major ; large [OIS I]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540220.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540222.1",
+      "description_ja": "小；表在性；皮質内にとどまる；2 cm未満 [OIS II]",
+      "description_en": "minor ; superficial ; only cortex involvement ; <2cm [OIS II]",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540224.2",
+      "description_ja": "大；多発性裂傷・裂創；髄質に及ぶ；2 cm以上 [OIS III]",
+      "description_en": "major ; multiple lacerations ; extending into medulla ; ≥2cm [OIS III]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540226.3",
+      "description_ja": "広範囲；断裂；複雑；破裂；実質の破壊が50%を超える [OIS IV, V]",
+      "description_en": "massive ; avulsion ; complex ; rupture ; >50% parenchymal destruction [OIS IV, V]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540499.1",
+      "description_ja": "肛門 詳細不明",
+      "description_en": "Anus NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540410.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540420.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540422.2",
+      "description_ja": "穿孔なし；非全層性",
+      "description_en": "no perforation ; partial thickness",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540424.3",
+      "description_ja": "穿孔あり；全層性",
+      "description_en": "perforation ; full thickness",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540426.4",
+      "description_ja": "広範囲；断裂；複雑；破裂；高度組織欠損",
+      "description_en": "massive ; avulsion ; complex ; rupture ; major tissue loss",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540322.2",
+      "description_ja": "虫垂 裂傷・裂創；穿孔ᵃ",
+      "description_en": "Appendix laceration ; perforationª",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540699.2",
+      "description_ja": "膀胱 詳細不明",
+      "description_en": "Bladder (urinary) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540610.2",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540620.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540622.2",
+      "description_ja": "穿孔なし；非全層性 [OIS I]",
+      "description_en": "no perforation ; partial thickness [OIS I]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540623.2",
+      "description_ja": "腹膜外で2 cm以下 [OIS II]ᵃ",
+      "description_en": "extraperitoneal wall ≤2cm [OIS II]ª",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540624.3",
+      "description_ja": "腹膜外で2 cmを超える；腹膜内で2 cm以下 [OIS III]ᵃ",
+      "description_en": "extraperitoneal wall >2cm ; intraperitoneal wall ≤2cm [OIS III]ª",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540625.3",
+      "description_ja": "腹膜内で2 cmを超える [OIS IV]ᵃ",
+      "description_en": "intraperitoneal wall >2cm [OIS IV]ª",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540626.4",
+      "description_ja": "広範囲；断裂；複雑；組織欠損；尿道口や膀胱頸部に及ぶ [OIS V]",
+      "description_en": "massive ; avulsion ; complex, tissue loss ; involving urethral orifice (trigone) or bladder neck [OIS V]",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540640.3",
+      "description_ja": "破裂 詳細不明",
+      "description_en": "rupture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_012.json",
+        "abdomen_013.json"
+      ]
+    },
+    {
+      "code": "540899.2",
+      "description_ja": "結腸 (大腸) 詳細不明",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "540810.2",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "540820.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "540822.2",
+      "description_ja": "穿孔なし;非全層性;周径の50%未満 [OIS I, II]",
+      "description_en": "perforation ; full thickness ; >=50% circumference without transection ; multiple simple wounds [OIS III]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "540824.3",
+      "description_ja": "穿孔;全層性;周径の50%以上だが断裂には至らない;多発する単純裂創 [OIS III]",
+      "description_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "540826.4",
+      "description_ja": "広範囲;断裂;複雑;組織欠損;離断;広範囲の組織壊死または血行遮断 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541010.2",
+      "description_ja": "挫傷;血腫 [OIS I, II]",
+      "description_en": "contusion ; hematoma [OIS I, II]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541020.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541022.2",
+      "description_ja": "穿孔なし;非全層性;漿膜裂傷 [OIS I]",
+      "description_en": "no perforation ; partial thickness ; serosal tear [OIS I]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541021.2",
+      "description_ja": "周径の50%未満 [OIS II]",
+      "description_en": "disruption ; <50% circumference [OIS II]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541023.3",
+      "description_ja": "D1 (上部または第1部), D3 (水平部または第3部) またはD4 (上行部または第4部) の周径の50～100% [OIS III]",
+      "description_en": "disruption 50-100% circumference of D1 (superior or first part), D3 (transverse or third part) or D4 (ascending or fourth part) [OIS III]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541025.3",
+      "description_ja": "D2 (下行部または第2部) の周径の50～75% [OIS III]",
+      "description_en": "disruption 50-75 % circumference of D2 (descending or second part) [OIS III]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541024.4",
+      "description_ja": "D2 (下行部または第2部) の周径の75%を超える; 膨大部または遠位総胆管の損傷を合併する [OIS IV]",
+      "description_en": "disruption >75% circumference of D2 (descending or second part) ; involving ampulla or distal common bile duct [OIS IV]",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541028.5",
+      "description_ja": "広範囲;断裂;複雑;破裂;組織欠損;血行遮断;十二指腸・膵臓結合部の高度損傷 [OIS V]",
+      "description_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; devascularization ; massive disruption of duodenopancreatic complex [OIS V]",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_014.json",
+        "abdomen_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541099.2",
+      "description_ja": "十二指腸 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_015.json"
+      ]
+    },
+    {
+      "code": "541299.2",
+      "description_ja": "胆嚢 詳細不明",
+      "description_en": "Gallbladder NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ]
+    },
+    {
+      "code": "541210.2",
+      "description_ja": "挫傷; 血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ]
+    },
+    {
+      "code": "541220.2",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明 [OIS II]",
+      "description_en": "laceration ; perforation NFS [OIS II]",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ]
+    },
+    {
+      "code": "541222.2",
+      "description_ja": "小; 表在性; 胆嚢管の損傷なし [OIS II]",
+      "description_en": "minor ; superficial ; no cystic duct involvement [OIS II]",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541224.3",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損; 胆嚢管の裂傷 または断裂 [OIS III]",
+      "description_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; cystic duct laceration or transection [OIS III]",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541226.4",
+      "description_ja": "総胆管または肝管の裂傷・裂創または断裂を伴う [OIS IV, V]",
+      "description_en": "with common bile or hepatic duct laceration or transection [OIS IV, V]",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541499.2",
+      "description_ja": "空腸-回腸 (小腸) 詳細不明",
+      "description_en": "Jejunum-Ileum (small bowel) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ]
+    },
+    {
+      "code": "541410.2",
+      "description_ja": "挫傷; 血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ]
+    },
+    {
+      "code": "541420.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ]
+    },
+    {
+      "code": "541422.2",
+      "description_ja": "穿孔なし; 非全層性; 周径の50%未満 [OIS I, II]",
+      "description_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541424.3",
+      "description_ja": "穿孔あり; 全層性; 周径の50%以上だが断裂には至らない; 多数の単純裂傷 [OIS III]",
+      "description_en": "perforation ; full thickness ; ≥50% circumference without transection ; multiple simple wounds [OIS III]",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541426.4",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損; 断裂; 広範囲の組織壊死または血行遮断 [OIS IV, V]",
+      "description_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_016.json",
+        "abdomen_017.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541699.2",
+      "description_ja": "腎臓 詳細不明",
+      "description_en": "Kidney NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ]
+    },
+    {
+      "code": "541610.2",
+      "description_ja": "挫傷;血腫 詳細不明",
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541612.2",
+      "description_ja": "被膜下, 後腹膜腔に限局;実質の裂傷なし;小;表在 [OIS I, II]",
+      "description_en": "subcapsular, nonexpanding ; confined to renal retroperitoneum ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541614.3",
+      "description_ja": "被膜下;表面積の50%を超える, 増大;大;広範囲 [OIS III]",
+      "description_en": "subcapsular, > 50 % surface area or expanding ; major ; large [OIS III]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541620.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ]
+    },
+    {
+      "code": "541622.2",
+      "description_ja": "深さ1cm以下の腎皮質実質の損傷, 溢尿なし;小;表在性; [OIS II]",
+      "description_en": "≤ 1cm parenchymal depth of renal cortex, no urinary extravasation ; minor ; superficial [OIS II]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541624.3",
+      "description_ja": "深さ1cmを超える腎皮質実質の損傷, 腎盂腎杯の破裂, 溢尿なし;中等度; [OIS III]",
+      "description_en": ">1cm parenchymal depth of renal cortex, no collecting system rupture or urinary extravasation ; moderate [OIS III]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541626.4",
+      "description_ja": "腎皮質を貫通し, 髄質, 腎盂腎杯に達する損傷;腎茎部の主要血管損傷で出血を伴う;大 [OIS IV]",
+      "description_en": "extending through renal cortex, medulla and collecting system ; main renal vessel injury with contained hemorrhage ; major [OIS IV]",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541628.5",
+      "description_ja": "腎門部の断裂;腎組織および血管系の完全破壊 [OIS V]",
+      "description_en": "hilum avulsion ; total destruction of organ and its vascular system [OIS V]",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541640.4",
+      "description_ja": "破裂",
+      "description_en": "rupture",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_018.json",
+        "abdomen_019.json"
+      ]
+    },
+    {
+      "code": "541899.2",
+      "description_ja": "肝臓 詳細不明",
+      "description_en": "Liver NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ]
+    },
+    {
+      "code": "541810.2",
+      "description_ja": "挫傷; 血腫 詳細不明",
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541812.2",
+      "description_ja": "被膜下, 表面積の50%以下, 限局性または直径10cm以下 の実質損傷; 小; 表在性 [OIS I, II]",
+      "description_en": "subcapsular, ≤50% surface area, or nonexpanding ; intraparenchymal ≤10cm in diameter ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541814.3",
+      "description_ja": "被膜下, 表面積の50%を超える, 増大; 被膜下または 実質の破裂; 直径10cmを超える実質損傷; 大 [OIS III]",
+      "description_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal >10cm or expanding ; major [OIS III]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541820.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541822.2",
+      "description_ja": "単純な被膜損傷; 実質の深さが3cm以下; 長さ10cm以下; 小; 表在性 [OIS II]",
+      "description_en": "simple capsular tears ; ≤3cm parenchymal depth ; ≤10cm long ; minor ; superficial [OIS II]",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541824.3",
+      "description_ja": "実質の深さが3cmを超える; 主要胆管の損傷; 中等度 [OIS III]",
+      "description_en": ">3cm parenchymal depth ; major duct involvement ; moderate [OIS III]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541826.4",
+      "description_ja": "肝葉の75%以下の実質破裂; 深さ3cmを超える多発性裂傷・裂創; “破裂”損傷; 大 [OIS IV]",
+      "description_en": "parenchymal disruption ≤75 % hepatic lobe ; multiple lacerations >3cm deep ; \"burst\" injury ; major [OIS IV]",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541828.5",
+      "description_ja": "肝葉の75%を超える実質破裂または一葉のうち4つ以上 のクノー肝区域にわたる実質損傷; 肝後面下大静脈または肝静脈損傷を伴っている; 広範囲; 複雑 [OIS V]",
+      "description_en": "parenchymal disruption of >75% of hepatic lobe or > 3 Couinard's segments within a single lobe ; or involving retrohepatic vena cava/central hepatic veins ; massive ; complex [OIS V]",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541830.6",
+      "description_ja": "肝断裂 (すべての肝血管系の完全断裂) [OIS VI]",
+      "description_en": "hepatic avulsion (total separation of all vascular attachments) [OIS VI]",
+      "severity": 6,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "541840.4",
+      "description_ja": "破裂",
+      "description_en": "rupture",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542099.2",
+      "description_ja": "腸間膜 詳細不明",
+      "description_en": "Mesentery NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ]
+    },
+    {
+      "code": "542010.2",
+      "description_ja": "挫傷; 血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542020.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542022.2",
+      "description_ja": "小; 表在性",
+      "description_en": "minor ; superficial",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542024.3",
+      "description_ja": "大",
+      "description_en": "major",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542026.4",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損",
+      "description_en": "massive ; avulsion ; complex ; tissue loss",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_022.json",
+        "abdomen_023.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542299.2",
+      "description_ja": "大網 詳細不明",
+      "description_en": "Omentum NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542210.2",
+      "description_ja": "挫傷; 血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542220.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542222.2",
+      "description_ja": "小; 表在性",
+      "description_en": "minor ; superficial",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542224.3",
+      "description_ja": "大",
+      "description_en": "major",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542400.2",
+      "description_ja": "卵管（ファロピアン管）裂傷・裂創",
+      "description_en": "Ovarian (Fallopian) tube laceration",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542699.1",
+      "description_ja": "卵巣 詳細不明",
+      "description_en": "Ovary NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542610.1",
+      "description_ja": "挫傷; 血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542620.1",
+      "description_ja": "裂傷・裂創; 穿孔",
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542622.1",
+      "description_ja": "表在性; 0.5cm以下; 小 [OIS II]",
+      "description_en": "superficial ; <=.5cm ; minor [OIS II]",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542623.2",
+      "description_ja": "深在性; 0.5cmを超える [OIS III]",
+      "description_en": "deep ; >.5cm [OIS III]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542624.2",
+      "description_ja": "実質の完全破壊; 広範囲; 断裂; 複雑 [OIS IV, V]",
+      "description_en": "complete parenchymal destruction ; massive ; avulsion ; complex [OIS IV, V]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542899.2",
+      "description_ja": "膵臓 詳細不明",
+      "description_en": "Pancreas NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542810.2",
+      "description_ja": "挫傷; 血腫 詳細不明",
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542812.2",
+      "description_ja": "小; 表在性; 膵管損傷なし [OIS I]",
+      "description_en": "minor ; superficial ; no duct involvement [OIS I]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542814.3",
+      "description_ja": "大; 大きい; 広範囲; 膵管損傷を伴う [OIS II]",
+      "description_en": "major ; large ; extensive ; with duct involvement [OIS II]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542820.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542822.2",
+      "description_ja": "小; 表在性; 膵管損傷なし [OIS I]",
+      "description_en": "minor ; superficial ; no duct involvement [OIS I]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542824.3",
+      "description_ja": "中; 主要血管または主膵管の損傷を伴う; 遠位側の離断 [OIS III]",
+      "description_en": "moderate ; major vessel or major duct involvement ; distal transection [OIS III]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542826.4",
+      "description_ja": "膵大部損傷を伴う [OIS IV]",
+      "description_en": "if involving ampulla [OIS IV]",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ],
+      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542828.4",
+      "description_ja": "大; 多発性裂傷; 近位側の離断 [OIS IV]",
+      "description_en": "major ; multiple lacerations ; proximal transection [OIS IV]",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "542830.4",
+      "description_ja": "膵大部損傷を伴う [OIS IV]",
+      "description_en": "if involving ampulla [OIS IV]",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ],
+      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "542832.5",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損; 膵頭部の高度損傷 [OIS V]",
+      "description_en": "massive ; avulsion ; complex ; tissue loss ; massive disruption of pancreatic head [OIS V]",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_024.json",
+        "abdomen_025.json"
+      ]
+    },
+    {
+      "code": "543099.1",
+      "description_ja": "陰茎 詳細不明",
+      "description_en": "Penis NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ]
+    },
+    {
+      "code": "543010.1",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543020.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543022.1",
+      "description_ja": "小：表在性 [OIS II, III]",
+      "description_en": "minor ; superficial [OIS II, III]",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543024.2",
+      "description_ja": "大 [OIS IV]",
+      "description_en": "major [OIS IV]",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543026.2",
+      "description_ja": "広範囲；切断；断裂；複雑 [OIS V]",
+      "description_en": "massive ; amputation ; avulsion ; complex ; [OIS V]",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543299.1",
+      "description_ja": "腹膜 詳細不明",
+      "description_en": "Perineum NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ]
+    },
+    {
+      "code": "543210.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543220.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543222.1",
+      "description_ja": "小；表在性",
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543224.2",
+      "description_ja": "大",
+      "description_en": "major",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543226.3",
+      "description_ja": "広範囲；断裂；複雑",
+      "description_en": "massive ; avulsion ; complex",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543599.1",
+      "description_ja": "前立腺 詳細不明a",
+      "description_en": "Prostate NFSᵃ",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ]
+    },
+    {
+      "code": "543510.1",
+      "description_ja": "挫傷；血腫a",
+      "description_en": "contusion ; hematomaᵃ",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543520.2",
+      "description_ja": "裂傷・裂創；詳細不明a",
+      "description_en": "laceration NFSᵃ",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543522.3",
+      "description_ja": "尿道損傷を伴うa",
+      "description_en": "involving urethraᵃ",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543699.2",
+      "description_ja": "直腸 詳細不明",
+      "description_en": "Rectum NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ]
+    },
+    {
+      "code": "543610.2",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543620.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543622.2",
+      "description_ja": "穿孔なし；非全層性；周囲の50%以下 [OIS I, II]",
+      "description_en": "no perforation ; partial thickness ; ≤50% of circumfer-ence [OIS I, II]",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543624.3",
+      "description_ja": "全層性；周囲の50%を超える [OIS III]",
+      "description_en": "full thickness ; >50% circumference [OIS III]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543625.4",
+      "description_ja": "会陰部に達する [OIS IV]",
+      "description_en": "extending into perineum [OIS IV]",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543626.5",
+      "description_ja": "広範囲；断裂；組織欠損；血行遮断 [OIS V]",
+      "description_en": "massive ; avulsion ; tissue loss ; devascularization [OIS V]",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "abdomen_026.json",
+        "abdomen_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "543800.2",
+      "description_ja": "後腹膜 出血または血腫",
+      "description_en": "Retroperitoneum hemorrhage or hematoma",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544099.1",
+      "description_ja": "膵臓 詳細不明",
+      "description_en": "Scrotum NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544010.1",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544020.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544022.1",
+      "description_ja": "小；表在性：直径25%未満 [OIS II]",
+      "description_en": "minor ; superficial ; <25% diameter [OIS II]",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544024.2",
+      "description_ja": "大；切断；断裂；複雑 [OIS III, IV, V]",
+      "description_en": "major ; amputation ; avulsion ; complex [OIS III, IV, V]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544299.2",
+      "description_ja": "脾臓 詳細不明",
+      "description_en": "Spleen NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544210.2",
+      "description_ja": "挫傷；血腫 詳細不明",
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544212.2",
+      "description_ja": "被膜下、表面積の50%以下；実質内、直径5cm以下；小；表在性 [OIS I, II]",
+      "description_en": "subcapsular, ≤50% surface area ; intraparenchymal, ≤5cm in diameter ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544214.3",
+      "description_ja": "被膜下、表面積の50%を超える、増大；被膜下または実質の破裂；直径5cmを超える実質損傷；大 [OIS III]",
+      "description_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal, >5cm in diameter or expanding ; major [OIS III]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544220.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544222.2",
+      "description_ja": "実質の深さ3cm以下の単純な被膜損傷で脾柱血管の損傷を伴わない；小；表在性 [OIS I, II]",
+      "description_en": "simple capsular tear ≤3cm parenchymal depth and no trabecular vessel involvement ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544224.3",
+      "description_ja": "脾門部または区域性実質の破裂または破壊を伴わない；実質の深さ3cmを超える、または脾柱血管の損傷；中 [OIS III]",
+      "description_en": "no hilar or segmental parenchymal disruption or destruction ; >3cm parenchymal depth or involving trabecular vessels ; moderate [OIS III]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544226.4",
+      "description_ja": "脾門部離断を伴わないが脾臓の25%を超える血行遮断を生じるような区域性血管損傷または脾門部血管の損傷；大 [OIS IV]",
+      "description_en": "involving segmental or hilar vessels producing major devascularization of >25% of spleen but no hilar injury ; major [OIS IV]",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544228.5",
+      "description_ja": "完全な血行遮断を生じる脾門部離断；組織欠損；断裂；広範囲 [OIS V]",
+      "description_en": "hilar disruption producing total devascularization ; tissue loss ; avulsion ; massive [OIS V]",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544240.3",
+      "description_ja": "破裂 詳細不明",
+      "description_en": "rupture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_028.json",
+        "abdomen_029.json"
+      ]
+    },
+    {
+      "code": "544499.2",
+      "description_ja": "胃 詳細不明",
+      "description_en": "Stomach NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ]
+    },
+    {
+      "code": "544410.2",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544414.3",
+      "description_ja": "経口摂取による損傷",
+      "description_en": "ingestion injury^a",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544415.3",
+      "description_ja": "部分壊死（非全層性）",
+      "description_en": "partial thickness necrosis^a",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544416.4",
+      "description_ja": "全層性壊死",
+      "description_en": "full thickness necrosis^a",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544420.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544422.2",
+      "description_ja": "穿孔なし;非全層性 [OIS I]",
+      "description_en": "no perforation ; partial thickness [OIS I]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544424.3",
+      "description_ja": "穿孔あり;全層性 [OIS II, III]",
+      "description_en": "perforation ; full thickness [OIS II, III]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544426.4",
+      "description_ja": "断裂;複雑;破裂;組織欠損;広範囲;血行遮断 [OIS IV, V]",
+      "description_en": "avulsion ; complex ; rupture ; tissue loss ; massive ; devascularization [OIS IV, V]",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544699.1",
+      "description_ja": "精巣 詳細不明",
+      "description_en": "Testes NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ]
+    },
+    {
+      "code": "544610.1",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544620.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544622.1",
+      "description_ja": "小;表在性 [OIS II, III]",
+      "description_en": "minor ; superficial [OIS II, III]",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544624.2",
+      "description_ja": "断裂;切断;複雑;広範囲 [OIS IV, V]",
+      "description_en": "avulsion ; amputation ; complex ; massive [OIS IV, V]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544899.2",
+      "description_ja": "尿管 詳細不明",
+      "description_en": "Ureter NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ]
+    },
+    {
+      "code": "544810.2",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544820.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544822.2",
+      "description_ja": "穿孔なし;非全層性 [OIS II]",
+      "description_en": "no perforation ; partial thickness [OIS II]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544824.3",
+      "description_ja": "穿孔あり;全層性 [OIS III]",
+      "description_en": "perforation ; full thickness [OIS III]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "544826.3",
+      "description_ja": "広範囲;断裂;複雑;破裂;組織欠損;離断 [OIS IV, V]",
+      "description_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; transection [OIS IV, V]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545099.2",
+      "description_ja": "尿道 詳細不明",
+      "description_en": "Urethra NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ]
+    },
+    {
+      "code": "545010.2",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545020.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545022.2",
+      "description_ja": "穿孔なし;非全層性 [OIS III]",
+      "description_en": "no perforation ; partial thickness [OIS III]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545024.2",
+      "description_ja": "穿孔あり;全層性;2cm未満の尿道裂孔 [OIS IV]",
+      "description_en": "perforation ; full thickness ; urethral separation <2cm [OIS IV]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545026.2",
+      "description_ja": "断裂;複雑;組織欠損;広範囲 [OIS IV]",
+      "description_en": "avulsion ; complex ; tissue loss ; massive [OIS IV]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545028.3",
+      "description_ja": "後部尿道組織の欠損;離断;2cmを超える尿道裂孔",
+      "description_en": "posterior tissue loss ; transection ; urethral separation >2cm [OIS V]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545030.2",
+      "description_ja": "伸展損傷 [OIS II]",
+      "description_en": "stretch injury [OIS II]^a",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "abdomen_030.json",
+        "abdomen_031.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "545299.1",
+      "description_ja": "子宮 詳細不明",
+      "description_en": "Uterus NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545210.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545220.2",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": "laceration ; perforation NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545222.2",
+      "description_ja": "1 cm以下；小；表在性 [OIS II]",
+      "description_en": "≤1cm ; minor ; superficial [OIS II]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545224.3",
+      "description_ja": "1 cmを超える；50%以下の胎盤剥離；大；深在性 [OIS III]",
+      "description_en": ">1cm ; placental abruption ≤50% ; major ; deep [OIS III]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545226.4",
+      "description_ja": "子宮動脈の損傷を伴う；50%を超えるが完全ではない胎盤剥離 [OIS IV]",
+      "description_en": "involving uterine artery ; placental abruption >50% but not complete [OIS IV]",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545228.5",
+      "description_ja": "子宮破裂；断裂；血行遮断；完全な胎盤剥離",
+      "description_en": "uterine rupture ; avulsion ; devascularization ; complete placental abruption",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545410.1",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545420.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545422.1",
+      "description_ja": "小；表在性；粘膜損傷のみ [OIS II]",
+      "description_en": "minor ; superficial ; mucosa only [OIS II]",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545424.2",
+      "description_ja": "大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+      "description_en": "major ; deep into fat/muscle [OIS III]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545426.3",
+      "description_ja": "広範囲；断裂；複雑；子宮頸部または腹膜にまで及ぶ [OIS IV, V]",
+      "description_en": "massive ; avulsion ; complex ; into cervix or peritoneum [OIS IV, V]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545610.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545620.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545622.1",
+      "description_ja": "小；表在性；皮膚損傷のみ [OIS II]",
+      "description_en": "minor ; superficial ; skin only [OIS II]",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545624.2",
+      "description_ja": "大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+      "description_en": "major ; deep into fat/muscle [OIS III]",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545626.3",
+      "description_ja": "広範囲；断裂；複雑 [OIS IV, V]",
+      "description_en": "massive ; avulsion ; complex [OIS IV, V]",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json",
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545499.1",
+      "description_ja": "膣 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "545699.1",
+      "description_ja": "外陰部 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_033.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Colon (large bowel) NFS",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_014.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Duodenum NFS",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_014.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "If an injury occurs at the junction of the duodenum and jejunum, code to the jejunum.",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_014.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Note : Fetal demise as a result of abdominal injury to a pregnant female is a consequence of trauma, not an injury itself. Term of pregnancy, per se, is not a factor in determining AIS severity code.",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Vagina NFS",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Vulva NFS",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "abdomen_032.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "spine",
+  "section_title": "頸椎",
+  "entries": [
+    {
+      "code": "640240.5",
+      "description_ja": "頸髄裂傷・裂創 [穿通性損傷, 離断あるいは挫滅を含む] 詳細 不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640242.5",
+      "description_ja": "不全麻痺 (何らかの知覚あるいは運動機能の残存), 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640244.5",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640246.5",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640248.5",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640250.5",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640260.5",
+      "description_ja": "完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640261.5",
+      "description_ja": "第4頸髄以下だが, 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640262.5",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640264.5",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640266.5",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640268.5",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640269.6",
+      "description_ja": "第3頸髄以上だが, 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "640270.6",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640272.6",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640274.6",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640276.6",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "650299.2",
+      "description_ja": "椎間板損傷 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650200.2",
+      "description_ja": "ヘルニア 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650202.2",
+      "description_ja": "神経根損傷 (神経根障害) を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650203.3",
+      "description_ja": "神経根損傷 (神経根障害) を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "650205.3",
+      "description_ja": "破裂",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "650204.2",
+      "description_ja": "頸椎脱臼 [亜脱臼] 骨折, 頸髄損傷を伴わない 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650206.3",
+      "description_ja": "環軸関節 (歯突起)",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "650208.2",
+      "description_ja": "環椎後頭関節",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650209.2",
+      "description_ja": "椎間関節 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650210.2",
+      "description_ja": "片側",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650212.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_011.jpg",
+  "body_part_normalized": "spine"
+}

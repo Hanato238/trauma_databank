@@ -1,0 +1,186 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸部",
+  "entries": [
+    {
+      "code": "450299.1",
+      "description_ja": "肋骨 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450289.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450210.2",
+      "description_ja": "多発肋骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "450200.1",
+      "description_ja": "フレイルチェストを伴わない骨折, 片側または両側 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450201.1",
+      "description_ja": "1本の肋骨 [OIS I]",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "450202.2",
+      "description_ja": "2本の肋骨 [OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "450203.3",
+      "description_ja": "3本以上の肋骨 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "450209.3",
+      "description_ja": "フレイルチェストを伴う骨折 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "450211.3",
+      "description_ja": "片側性フレイルチェスト [OIS IV]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "450212.3",
+      "description_ja": "3～5本の動揺性骨折 [OIS IV]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "450213.4",
+      "description_ja": "5本を超える動揺性骨折 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "450214.5",
+      "description_ja": "両側のフレイルチェスト [OIS V]",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "450899.1",
+      "description_ja": "胸骨 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450802.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450804.2",
+      "description_ja": "骨折 [OIS II, III]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "451099.1",
+      "description_ja": "胸壁 詳細不明ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "451020.4",
+      "description_ja": "肋骨を含む胸壁の組織欠損 [OIS IVに相当する]ª",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "451021.4",
+      "description_ja": "小: 肋骨を含む胸壁15%以下の欠損ª",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "451022.5",
+      "description_ja": "大: 肋骨を含む胸壁15%を超える欠損ª",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "450202.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450212.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450220.2",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "450230.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "450260.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "450266.5",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_027.jpg",
+  "body_part_normalized": "thorax"
+}

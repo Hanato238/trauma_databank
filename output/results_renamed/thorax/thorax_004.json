@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": "410099.1",
+      "description_ja": null,
+      "description_en": "Skin/subcutaneous/muscle NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "410202.1",
+      "description_ja": null,
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410402.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410600.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410602.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "410604.2",
+      "description_ja": null,
+      "description_en": "major ; >20cm long and into subcutaneous tissue",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "410606.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "410800.1",
+      "description_ja": null,
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410802.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; ≤100cm²",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "410804.2",
+      "description_ja": null,
+      "description_en": "major ; >100cm²",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "410806.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "420099.9",
+      "description_ja": null,
+      "description_en": "Vascular Injury in Thorax NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "420299.4",
+      "description_ja": null,
+      "description_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise]",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "420202.4",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420204.5",
+      "description_ja": null,
+      "description_en": "with aortic valve involvement",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420206.4",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420208.4",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ;",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420210.5",
+      "description_ja": null,
+      "description_en": "blood loss≤20% by volume",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420212.5",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420216.5",
+      "description_ja": null,
+      "description_en": "with aortic root or valve involvement",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420218.6",
+      "description_ja": null,
+      "description_en": "with hemorrhage confined to mediastinum",
+      "severity": 6,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_004.jpg",
+  "body_part_normalized": "thorax"
+}

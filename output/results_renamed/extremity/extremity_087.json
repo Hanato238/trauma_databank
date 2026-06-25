@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "858200.1",
+      "description_ja": null,
+      "description_en": "Phalanx fracture NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858201.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858211.1",
+      "description_ja": null,
+      "description_en": "Great Toe NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858212.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858251.1",
+      "description_ja": null,
+      "description_en": "extra articular or shaft",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858252.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "858261.1",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858262.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "858271.1",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858272.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "858221.1",
+      "description_ja": null,
+      "description_en": "One of Lateral Four Toes NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "858222.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858253.1",
+      "description_ja": null,
+      "description_en": "extra articular or shaft",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858254.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "858263.1",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858264.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "858273.1",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "858274.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_087.jpg",
+  "body_part_normalized": "extremity"
+}

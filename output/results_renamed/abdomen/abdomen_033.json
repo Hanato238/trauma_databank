@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "545299.1",
+      "description_ja": "子宮 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "545210.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545220.2",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "545222.2",
+      "description_ja": "1 cm以下；小；表在性 [OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545224.3",
+      "description_ja": "1 cmを超える；50%以下の胎盤剥離；大；深在性 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "545226.4",
+      "description_ja": "子宮動脈の損傷を伴う；50%を超えるが完全ではない胎盤剥離 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "545228.5",
+      "description_ja": "子宮破裂；断裂；血行遮断；完全な胎盤剥離",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "545499.1",
+      "description_ja": "膣 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "545410.1",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545420.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545422.1",
+      "description_ja": "小；表在性；粘膜損傷のみ [OIS II]",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "545424.2",
+      "description_ja": "大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545426.3",
+      "description_ja": "広範囲；断裂；複雑；子宮頸部または腹膜にまで及ぶ [OIS IV, V]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "545699.1",
+      "description_ja": "外陰部 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "545610.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545620.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545622.1",
+      "description_ja": "小；表在性；皮膚損傷のみ [OIS II]",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "545624.2",
+      "description_ja": "大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545626.3",
+      "description_ja": "広範囲；断裂；複雑 [OIS IV, V]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_033.jpg",
+  "body_part_normalized": "abdomen"
+}

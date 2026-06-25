@@ -1,0 +1,18 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140799.3",
+      "description_ja": null,
+      "description_en": "Pituitary injury",
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_040.jpg",
+  "body_part_normalized": "head"
+}

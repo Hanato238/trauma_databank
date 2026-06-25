@@ -1,0 +1,60 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "Injury Description",
+  "entries": [
+    {
+      "code": "200099.9",
+      "description_ja": null,
+      "description_en": "Injuries to the Face NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "200999.9",
+      "description_ja": null,
+      "description_en": "Died of facial injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "216000.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "216002.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "216004.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "216006.3",
+      "description_ja": null,
+      "description_en": "with blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "216008.4",
+      "description_ja": null,
+      "description_en": "massive destruction of whole face including both eyes",
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_002.jpg",
+  "body_part_normalized": "face"
+}

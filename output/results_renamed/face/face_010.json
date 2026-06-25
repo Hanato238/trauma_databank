@@ -1,0 +1,214 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "FACE (includes Eye and Ear)",
+  "entries": [
+    {
+      "code": "240800.1",
+      "description_ja": null,
+      "description_en": "Lens NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240802.1",
+      "description_ja": null,
+      "description_en": "capsular rupture NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240804.1",
+      "description_ja": null,
+      "description_en": "anterior capsule",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240806.1",
+      "description_ja": null,
+      "description_en": "posterior capsule",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240808.1",
+      "description_ja": null,
+      "description_en": "both anterior and posterior capsules",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240812.1",
+      "description_ja": null,
+      "description_en": "dislocation ; subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240814.1",
+      "description_ja": null,
+      "description_en": "anterior segment",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240816.1",
+      "description_ja": null,
+      "description_en": "posterior segment",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240999.1",
+      "description_ja": null,
+      "description_en": "Macula NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240902.1",
+      "description_ja": null,
+      "description_en": "contusion ; edema",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240904.2",
+      "description_ja": null,
+      "description_en": "hole",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "241099.1",
+      "description_ja": null,
+      "description_en": "Retina NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "241000.1",
+      "description_ja": null,
+      "description_en": "laceration ; tear NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "241002.1",
+      "description_ja": null,
+      "description_en": "minor ; ≤90°",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "241004.1",
+      "description_ja": null,
+      "description_en": "major ; >90°",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "241006.2",
+      "description_ja": null,
+      "description_en": "detachment NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "241008.2",
+      "description_ja": null,
+      "description_en": "with macula attached",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241010.2",
+      "description_ja": null,
+      "description_en": "with macula detached",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241299.1",
+      "description_ja": null,
+      "description_en": "Sclera [includes globe] NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "241200.2",
+      "description_ja": null,
+      "description_en": "laceration ; rupture",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "241201.2",
+      "description_ja": null,
+      "description_en": "anterior to ora serrata",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241202.2",
+      "description_ja": null,
+      "description_en": "without prolapse",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241203.2",
+      "description_ja": null,
+      "description_en": "with prolapse",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241204.2",
+      "description_ja": null,
+      "description_en": "posterior to ora serrata but anterior to equator",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241205.2",
+      "description_ja": null,
+      "description_en": "without prolapse",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241206.2",
+      "description_ja": null,
+      "description_en": "with prolapse",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241207.2",
+      "description_ja": null,
+      "description_en": "posterior to equator",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241208.2",
+      "description_ja": null,
+      "description_en": "without prolapse",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241209.2",
+      "description_ja": null,
+      "description_en": "with prolapse NFS",
+      "severity": 2,
+      "level": 4
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_010.jpg",
+  "body_part_normalized": "face"
+}

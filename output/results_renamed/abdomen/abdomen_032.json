@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "ABDOMEN",
+  "entries": [
+    {
+      "code": "545299.1",
+      "description_ja": null,
+      "description_en": "Uterus NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "545210.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545220.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "545222.2",
+      "description_ja": null,
+      "description_en": "≤1cm ; minor ; superficial [OIS II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545224.3",
+      "description_ja": null,
+      "description_en": ">1cm ; placental abruption ≤50% ; major ; deep [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "545226.4",
+      "description_ja": null,
+      "description_en": "involving uterine artery ; placental abruption >50% but not complete [OIS IV]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "545228.5",
+      "description_ja": null,
+      "description_en": "uterine rupture ; avulsion ; devascularization ; complete placental abruption",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Note : Fetal demise as a result of abdominal injury to a pregnant female is a consequence of trauma, not an injury itself. Term of pregnancy, per se, is not a factor in determining AIS severity code.",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Vagina NFS",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "545410.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545420.1",
+      "description_ja": null,
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545422.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; mucosa only [OIS II]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "545424.2",
+      "description_ja": null,
+      "description_en": "major ; deep into fat/muscle [OIS III]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545426.3",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; into cervix or peritoneum [OIS IV, V]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Vulva NFS",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "545610.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545620.1",
+      "description_ja": null,
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "545622.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; skin only [OIS II]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "545624.2",
+      "description_ja": null,
+      "description_en": "major ; deep into fat/muscle [OIS III]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "545626.3",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex [OIS IV, V]",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_032.jpg",
+  "body_part_normalized": "abdomen"
+}

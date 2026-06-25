@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "122499.3",
+      "description_ja": null,
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, laceration",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122402.4",
+      "description_ja": null,
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, open laceration (bleeding externally) or segmental loss",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "122404.5",
+      "description_ja": null,
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, thrombosis ; occlusion^e",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "122406.4",
+      "description_ja": null,
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, thrombosis ; occlusion^e, anterior half of sinus^a",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122407.4",
+      "description_ja": null,
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, thrombosis ; occlusion^e, posterior half of sinus^a",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122408.5",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122699.3",
+      "description_ja": null,
+      "description_en": "Transverse sinus NFS, laceration",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122602.4",
+      "description_ja": null,
+      "description_en": "Transverse sinus NFS, laceration, bilateral^c",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122603.5",
+      "description_ja": null,
+      "description_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "122604.5",
+      "description_ja": null,
+      "description_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, bilateral^c",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122605.6",
+      "description_ja": null,
+      "description_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, torcular^a",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "122607.6",
+      "description_ja": null,
+      "description_en": "Transverse sinus NFS, thrombosis ; occlusion",
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "122606.4",
+      "description_ja": null,
+      "description_en": "Transverse sinus NFS, thrombosis ; occlusion, bilateral^c",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122608.5",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122399.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122599.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122502.4",
+      "description_ja": null,
+      "description_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, laceration",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "122504.3",
+      "description_ja": null,
+      "description_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, thrombosis ; occlusion",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122799.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122702.4",
+      "description_ja": null,
+      "description_en": "Vein, non-major NFS^a [any named vein that is not major], laceration^a",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "122704.3",
+      "description_ja": null,
+      "description_en": "Vein, non-major NFS^a [any named vein that is not major], thrombosis ; occlusion^a",
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_012.jpg",
+  "body_part_normalized": "head"
+}

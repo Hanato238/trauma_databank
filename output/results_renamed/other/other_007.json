@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "surface",
+  "section_title": "体表 (皮膚) および熱傷",
+  "entries": [
+    {
+      "code": "912000.1",
+      "description_ja": "熱傷深度: 詳細不明; 熱傷面積: 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912002.1",
+      "description_ja": "熱傷深度: I 度；1歳を超える; 熱傷面積: 熱傷面積を問わない",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912003.1",
+      "description_ja": "熱傷深度: 1歳以下; 熱傷面積: 50%以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912004.2",
+      "description_ja": "熱傷深度: 1歳以下; 熱傷面積: 50%を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "912006.1",
+      "description_ja": "熱傷深度: II度；非全層性; 熱傷面積: 10%未満",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912007.1",
+      "description_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²以下 [顔面の場合は25cm²以下]",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912008.2",
+      "description_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²を超える；10%未満 [顔面の場合は25cm²を超える]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "912012.2",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 10~19%",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "912014.3",
+      "description_ja": "熱傷深度: 5歳未満; 熱傷面積: 10~19%",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "912018.3",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 20~29%",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "912020.4",
+      "description_ja": "熱傷深度: 5歳未満; 熱傷面積: 20~29%",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "912024.4",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 30~39%",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "912026.5",
+      "description_ja": "熱傷深度: 5歳未満; 熱傷面積: 30~39%",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "912030.5",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 40~89%",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "912032.6",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性 炭化を含む; 熱傷面積: 90%以上",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_007.jpg",
+  "body_part_normalized": "other"
+}

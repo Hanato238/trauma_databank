@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": "440899.2",
+      "description_ja": null,
+      "description_en": "Esophagus injury in Thorax NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "440802.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "440805.3",
+      "description_ja": null,
+      "description_en": "ingestion injury NFSᵃ",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "440807.3",
+      "description_ja": null,
+      "description_en": "partial-thickness necrosisᵃ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440809.4",
+      "description_ja": null,
+      "description_en": "full-thickness necrosisᵃ",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440804.3",
+      "description_ja": null,
+      "description_en": "laceration; tear NFS; no perforation; partial thickness; ≤50 % circumfer-ence [OIS I, II]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "440808.4",
+      "description_ja": null,
+      "description_en": "perforation; full thickness; >50% circumference [OIS III]",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "440810.5",
+      "description_ja": null,
+      "description_en": "avulsion; rupture; transection; massive destruction [OIS IV, V]",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "441099.1",
+      "description_ja": null,
+      "description_en": "Heart (Myocardium) injury NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "441089.9",
+      "description_ja": null,
+      "description_en": "with cardiac arrest NFSᶠ",
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "441002.1",
+      "description_ja": null,
+      "description_en": "contusion NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "441004.1",
+      "description_ja": null,
+      "description_en": "minor [OIS I]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "441006.4",
+      "description_ja": null,
+      "description_en": "major",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441008.3",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441010.3",
+      "description_ja": null,
+      "description_en": "no perforation; no chamber involvement",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441012.5",
+      "description_ja": null,
+      "description_en": "perforation, ventricular or atrial, with or without tam-ponade",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "441013.5",
+      "description_ja": null,
+      "description_en": "atrial ruptureᵃ",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "441014.6",
+      "description_ja": null,
+      "description_en": "ventricular rupture",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "441016.6",
+      "description_ja": null,
+      "description_en": "multiple lacerations; > 50 % tissue loss of a chamber",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "441018.6",
+      "description_ja": null,
+      "description_en": "avulsion",
+      "severity": 6,
+      "level": 3
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_016.jpg",
+  "body_part_normalized": "thorax"
+}

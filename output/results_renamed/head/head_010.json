@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "122299.3",
+      "description_ja": null,
+      "description_en": "Sinus NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122202.4",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122204.3",
+      "description_ja": null,
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "120602.4",
+      "description_ja": null,
+      "description_en": "Carotid-cavernous fistula",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "120603.4",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "120899.3",
+      "description_ja": null,
+      "description_en": "Cavernous sinus NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "120802.4",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "120804.5",
+      "description_ja": null,
+      "description_en": "open laceration (bleeding externally) or segmental loss",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "120806.3",
+      "description_ja": null,
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "122099.4",
+      "description_ja": null,
+      "description_en": "Sigmoid sinus NFS",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "122002.4",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122003.5",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122004.5",
+      "description_ja": null,
+      "description_en": "open laceration (bleeding externally) or segmental loss",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122005.6",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "122006.4",
+      "description_ja": null,
+      "description_en": "thrombosis ; occlusion",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122007.5",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "123099.4",
+      "description_ja": null,
+      "description_en": "Straight sinus NFS",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "123002.4",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "123003.5",
+      "description_ja": null,
+      "description_en": "open laceration (bleeding externally) or segmental loss",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "123004.5",
+      "description_ja": null,
+      "description_en": "thrombosis ; occlusion",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_010.jpg",
+  "body_part_normalized": "head"
+}

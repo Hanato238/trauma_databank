@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "surface",
+  "section_title": "体表（皮膚）および熱傷 その他の外傷",
+  "entries": [
+    {
+      "code": "910200.1",
+      "description_ja": "表層",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "910400.1",
+      "description_ja": "皮膚欠損（剥脱・擦過傷）",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "910600.1",
+      "description_ja": "切創・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "910800.1",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "910800.2",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "910800.3",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "910800.4",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "910800.5",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "910800.6",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "910800.9",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "914000.1",
+      "description_ja": "デグロービング損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "915000.1",
+      "description_ja": "熱傷 不可視",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "915002.1",
+      "description_ja": "熱傷 I度",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "915004.2",
+      "description_ja": "熱傷 II度",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "915006.3",
+      "description_ja": "熱傷 III度",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "915008.4",
+      "description_ja": "熱傷 IV度",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "916000.1",
+      "description_ja": "凍傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_001.jpg",
+  "body_part_normalized": "other"
+}

@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "FACE (includes Eye and Ear)",
+  "entries": [
+    {
+      "code": "230299.1",
+      "description_ja": null,
+      "description_en": "Optic Nerve NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "230202.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "230203.2",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "230204.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "230205.3",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "230206.2",
+      "description_ja": null,
+      "description_en": "avulsion",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "230207.3",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "240299.1",
+      "description_ja": null,
+      "description_en": "Ear NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240204.1",
+      "description_ja": null,
+      "description_en": "Ear Canal injury",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240208.1",
+      "description_ja": null,
+      "description_en": "Inner or Middle Ear injury NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240207.2",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "240206.1",
+      "description_ja": null,
+      "description_en": "injury involving dizzinessᵃ",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240205.1",
+      "description_ja": null,
+      "description_en": "injury involving tinnitusᵃ",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240212.1",
+      "description_ja": null,
+      "description_en": "Ossicular chain (ear bone) dislocation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240213.2",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "240216.1",
+      "description_ja": null,
+      "description_en": "Tympanic membrane (eardrum) rupture",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240220.1",
+      "description_ja": null,
+      "description_en": "Vestibular apparatus injury",
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_006.jpg",
+  "body_part_normalized": "face"
+}

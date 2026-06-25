@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "損傷内容",
+  "entries": [
+    {
+      "code": "710099.1",
+      "description_ja": "皮膚／皮下／筋肉 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "710202.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "710402.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "710600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "710602.1",
+      "description_ja": "小；表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "710604.2",
+      "description_ja": "大；手では10cm、手以外の上肢では長さが20cmを超え、かつ皮下組織に達する",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "710606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "710800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "710802.1",
+      "description_ja": "小；表在性；手では25cm²以下または上肢全体では100cm²以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "710804.2",
+      "description_ja": "大；手では25cm²または上肢全体では100cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "710806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_009.jpg",
+  "body_part_normalized": "extremity"
+}

@@ -1,0 +1,46 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "腹 部",
+  "entries": [
+    {
+      "code": "521699.3",
+      "description_ja": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521602.3",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521604.3",
+      "description_ja": "小；血栓の有無を問わない；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521606.4",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "530499.1",
+      "description_ja": "迷走神経損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_009.jpg",
+  "body_part_normalized": "abdomen"
+}

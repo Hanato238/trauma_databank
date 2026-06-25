@@ -1,0 +1,67 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "856200.2",
+      "description_ja": null,
+      "description_en": "Acetabulum fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856202.3",
+      "description_ja": null,
+      "description_en": "open, but NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856251.2",
+      "description_ja": null,
+      "description_en": "partial articular (involving one column)",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856252.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856261.2",
+      "description_ja": null,
+      "description_en": "partial articular (transverse, “T” shaped)",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856262.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856271.2",
+      "description_ja": null,
+      "description_en": "complete articular (involving both columns, with or without sacroiliac joint involvement)",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856272.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_099.jpg",
+  "body_part_normalized": "extremity"
+}

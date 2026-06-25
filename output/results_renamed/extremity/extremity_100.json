@@ -1,0 +1,67 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "AIS 2005 - 損傷内容",
+  "entries": [
+    {
+      "code": "856200.2",
+      "description_ja": "寛骨臼骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856202.3",
+      "description_ja": "開放 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "856251.2",
+      "description_ja": "部分関節内（1コラムに及ぶ）",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856252.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "856261.2",
+      "description_ja": "部分関節内（横断, T字型）",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856262.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "856271.2",
+      "description_ja": "完全関節内（両コラムに及ぶ, 仙腸関節への波及の有無によらない）",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856272.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_100.jpg",
+  "body_part_normalized": "extremity"
+}

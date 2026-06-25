@@ -1,0 +1,3500 @@
+{
+  "body_part": "spine",
+  "source": "spine.md",
+  "total_entries": 216,
+  "entries": [
+    {
+      "code": "600099.9",
+      "japanese": "頚椎損傷 詳細不明",
+      "english": "Injuries to the Cervical Spine NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "600999.9",
+          "japanese": "頚椎損傷による死亡 (詳細不明) または剖検なし",
+          "english": "Died of cervical spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頚椎損傷 詳細不明",
+          "explanation_en": "Injuries to the Cervical Spine NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "630299.2",
+      "japanese": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む]",
+      "english": "Brachial Plexus injury NFS [includes trunks, divisions or cords]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "630210.2",
+          "japanese": "不全型神経叢損傷 詳細不明",
+          "english": "incomplete plexus injury NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "630212.2",
+              "japanese": "挫傷; 伸展損傷",
+              "english": "contusion ; stretch injury",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 不全型神経叢損傷 詳細不明",
+              "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > incomplete plexus injury NFS",
+              "injury_types": [
+                "contusion"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "630214.2",
+              "japanese": "裂傷・裂創",
+              "english": "laceration",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 不全型神経叢損傷 詳細不明",
+              "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > incomplete plexus injury NFS",
+              "injury_types": [
+                "laceration"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "630216.2",
+              "japanese": "引き抜き損傷",
+              "english": "avulsion",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 不全型神経叢損傷 詳細不明",
+              "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > incomplete plexus injury NFS",
+              "injury_types": [
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む]",
+          "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords]",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "630220.3",
+          "japanese": "完全型神経叢損傷 詳細不明",
+          "english": "complete plexus injury NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "630221.4",
+              "japanese": "両側ᶜ",
+              "english": "bilateral",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 完全型神経叢損傷 詳細不明",
+              "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > complete plexus injury NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "630222.3",
+              "japanese": "挫傷; 伸展損傷",
+              "english": "contusion ; stretch injury",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 完全型神経叢損傷 詳細不明",
+              "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > complete plexus injury NFS",
+              "injury_types": [
+                "contusion"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "630224.3",
+              "japanese": "裂傷・裂創",
+              "english": "laceration",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 完全型神経叢損傷 詳細不明",
+              "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > complete plexus injury NFS",
+              "injury_types": [
+                "laceration"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "630226.3",
+              "japanese": "引き抜き損傷",
+              "english": "avulsion",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [
+                {
+                  "code": "630227.4",
+                  "japanese": "両側ᵇ",
+                  "english": "bilateral",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 完全型神経叢損傷 詳細不明 > 引き抜き損傷",
+                  "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > complete plexus injury NFS > avulsion",
+                  "injury_types": [
+                    "avulsion"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む] > 完全型神経叢損傷 詳細不明",
+              "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords] > complete plexus injury NFS",
+              "injury_types": [
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む]",
+          "explanation_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords]",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "640200.3",
+      "japanese": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明",
+      "english": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "640201.3",
+          "japanese": "一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+          "english": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "640202.3",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640204.3",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640206.3",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640208.3",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明",
+          "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "640210.4",
+          "japanese": "不全麻痺［何らかの知覚あるいは運動機能の残存；前脊髄症候群、中心性脊髄症候群、外側脊髄症候群 (Brown-Sequard 症候群)］を含む、骨折・脱臼については不明",
+          "english": "incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "640212.4",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 不全麻痺［何らかの知覚あるいは運動機能の残存；前脊髄症候群、中心性脊髄症候群、外側脊髄症候群 (Brown-Sequard 症候群)］を含む、骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640214.4",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 不全麻痺［何らかの知覚あるいは運動機能の残存；前脊髄症候群、中心性脊髄症候群、外側脊髄症候群 (Brown-Sequard 症候群)］を含む、骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640216.4",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 不全麻痺［何らかの知覚あるいは運動機能の残存；前脊髄症候群、中心性脊髄症候群、外側脊髄症候群 (Brown-Sequard 症候群)］を含む、骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640218.4",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 不全麻痺［何らかの知覚あるいは運動機能の残存；前脊髄症候群、中心性脊髄症候群、外側脊髄症候群 (Brown-Sequard 症候群)］を含む、骨折・脱臼については不明",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明",
+          "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "640220.5",
+          "japanese": "完全麻痺（知覚機能の消失した四肢麻痺または対麻痺）",
+          "english": "complete cord syndrome (quadriplegia or paraplegia with no sensation)",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "640221.5",
+              "japanese": "第４頚髄以下だが、骨折・脱臼については不明。もしくは部位については不明",
+              "english": "C-4 or above, but NFS as to fracture/dislocation or NFS as to site",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [
+                {
+                  "code": "640222.5",
+                  "japanese": "骨折や脱臼を伴わない",
+                  "english": "with no fracture or dislocation",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第４頚髄以下だが、骨折・脱臼については不明。もしくは部位については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-4 or above, but NFS as to fracture/dislocation or NFS as to site",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640224.5",
+                  "japanese": "骨折を伴う",
+                  "english": "with fracture",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第４頚髄以下だが、骨折・脱臼については不明。もしくは部位については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-4 or above, but NFS as to fracture/dislocation or NFS as to site",
+                  "injury_types": [
+                    "fracture"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640226.5",
+                  "japanese": "脱臼を伴う",
+                  "english": "with dislocation",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第４頚髄以下だが、骨折・脱臼については不明。もしくは部位については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-4 or above, but NFS as to fracture/dislocation or NFS as to site",
+                  "injury_types": [
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640228.5",
+                  "japanese": "骨折かつ脱臼を伴う",
+                  "english": "with both fracture and dislocation",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第４頚髄以下だが、骨折・脱臼については不明。もしくは部位については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-4 or above, but NFS as to fracture/dislocation or NFS as to site",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺）",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation)",
+              "injury_types": [
+                "fracture",
+                "dislocation",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640229.6",
+              "japanese": "第３頚髄以下だが、骨折・脱臼については不明",
+              "english": "C-3 or above, but NFS as to fracture/dislocation",
+              "ais_severity": 6,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [
+                {
+                  "code": "640230.6",
+                  "japanese": "骨折や脱臼を伴わない",
+                  "english": "with no fracture or dislocation",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第３頚髄以下だが、骨折・脱臼については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640232.6",
+                  "japanese": "骨折を伴う",
+                  "english": "with fracture",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第３頚髄以下だが、骨折・脱臼については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640234.6",
+                  "japanese": "脱臼を伴う",
+                  "english": "with dislocation",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第３頚髄以下だが、骨折・脱臼については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640236.6",
+                  "japanese": "骨折かつ脱臼を伴う",
+                  "english": "with both fracture and dislocation",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺） > 第３頚髄以下だが、骨折・脱臼については不明",
+                  "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明 > 完全麻痺（知覚機能の消失した四肢麻痺または対麻痺）",
+              "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (quadriplegia or paraplegia with no sensation)",
+              "injury_types": [
+                "fracture",
+                "dislocation",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頚髄挫傷［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］詳細不明",
+          "explanation_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "paralysis"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "hemorrhage",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "640240.5",
+      "japanese": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明",
+      "english": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "640242.5",
+          "japanese": "不全麻痺 (何らかの知覚あるいは運動機能の残存), 骨折・脱臼については不明",
+          "english": "incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "640244.5",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存), 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640246.5",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存), 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640248.5",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存), 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640250.5",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存), 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明",
+          "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "640260.5",
+          "japanese": "完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明",
+          "english": "complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function)",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "640261.5",
+              "japanese": "第4頸髄以下だが, 骨折・脱臼については不明",
+              "english": "C-4 or below, but NFS as to fracture/dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [
+                {
+                  "code": "640262.5",
+                  "japanese": "骨折や脱臼を伴わない",
+                  "english": "with no fracture or dislocation",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第4頸髄以下だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-4 or below, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640264.5",
+                  "japanese": "骨折を伴う",
+                  "english": "with fracture",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第4頸髄以下だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-4 or below, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640266.5",
+                  "japanese": "脱臼を伴う",
+                  "english": "with dislocation",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第4頸髄以下だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-4 or below, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640268.5",
+                  "japanese": "骨折かつ脱臼を伴う",
+                  "english": "with both fracture and dislocation",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第4頸髄以下だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-4 or below, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function)",
+              "injury_types": [
+                "fracture",
+                "dislocation",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "640269.6",
+              "japanese": "第3頸髄以上だが, 骨折・脱臼については不明",
+              "english": "C-3 or above, but NFS as to fracture/dislocation",
+              "ais_severity": 6,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [
+                {
+                  "code": "640270.6",
+                  "japanese": "骨折や脱臼を伴わない",
+                  "english": "with no fracture or dislocation",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第3頸髄以上だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640272.6",
+                  "japanese": "骨折を伴う",
+                  "english": "with fracture",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第3頸髄以上だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640274.6",
+                  "japanese": "脱臼を伴う",
+                  "english": "with dislocation",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第3頸髄以上だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "640276.6",
+                  "japanese": "骨折かつ脱臼を伴う",
+                  "english": "with both fracture and dislocation",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "CERVICAL SPINE",
+                  "children": [],
+                  "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明 > 第3頸髄以上だが, 骨折・脱臼については不明",
+                  "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function) > C-3 or above, but NFS as to fracture/dislocation",
+                  "injury_types": [
+                    "fracture",
+                    "dislocation"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明 > 完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function)",
+              "injury_types": [
+                "fracture",
+                "dislocation",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸髄裂傷・裂創〔穿通性損傷, 離断あるいは挫滅を含む〕詳細 不明",
+          "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+          "injury_types": [
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "crush",
+        "amputation",
+        "penetrating",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "650299.2",
+      "japanese": "椎間板損傷 詳細不明",
+      "english": "Disc injury NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "650200.2",
+          "japanese": "ヘルニア 詳細不明",
+          "english": "herniation NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "650202.2",
+              "japanese": "神経根損傷 (神経根障害) を伴わない",
+              "english": "no nerve root damage (radiculopathy)",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "椎間板損傷 詳細不明 > ヘルニア 詳細不明",
+              "explanation_en": "Disc injury NFS > herniation NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "650203.3",
+              "japanese": "神経根損傷 (神経根障害) を伴う",
+              "english": "with nerve root damage (radiculopathy)",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "椎間板損傷 詳細不明 > ヘルニア 詳細不明",
+              "explanation_en": "Disc injury NFS > herniation NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "椎間板損傷 詳細不明",
+          "explanation_en": "Disc injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650205.3",
+          "japanese": "破裂",
+          "english": "rupture",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "椎間板損傷 詳細不明",
+          "explanation_en": "Disc injury NFS",
+          "injury_types": [
+            "rupture"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "650204.2",
+      "japanese": "頸椎脱臼〔亜脱臼〕骨折, 頸髄損傷を伴わない 詳細不明",
+      "english": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "650206.3",
+          "japanese": "環軸関節 (歯突起)",
+          "english": "atlanto-axial (odontoid)",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎脱臼〔亜脱臼〕骨折, 頸髄損傷を伴わない 詳細不明",
+          "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650208.2",
+          "japanese": "環椎後頭関節",
+          "english": "atlanto-occipital",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎脱臼〔亜脱臼〕骨折, 頸髄損傷を伴わない 詳細不明",
+          "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650209.2",
+          "japanese": "椎間関節 詳細不明",
+          "english": "facet NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "650210.2",
+              "japanese": "片側",
+              "english": "unilateral",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸椎脱臼〔亜脱臼〕骨折, 頸髄損傷を伴わない 詳細不明 > 椎間関節 詳細不明",
+              "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS > facet NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "650212.3",
+              "japanese": "両側",
+              "english": "bilateral",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸椎脱臼〔亜脱臼〕骨折, 頸髄損傷を伴わない 詳細不明 > 椎間関節 詳細不明",
+              "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS > facet NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸椎脱臼〔亜脱臼〕骨折, 頸髄損傷を伴わない 詳細不明",
+          "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "650216.2",
+      "japanese": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+      "english": "Fracture with or without dislocation but no cord involvement NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "650217.2",
+          "japanese": "同一椎骨の多部位に及ぶ骨折",
+          "english": "multiple fractures of same vertebra",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650218.2",
+          "japanese": "棘突起",
+          "english": "spinous process",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650220.2",
+          "japanese": "横突起",
+          "english": "transverse process",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650222.2",
+          "japanese": "関節突起",
+          "english": "facet",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650224.2",
+          "japanese": "椎弓",
+          "english": "lamina",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650226.2",
+          "japanese": "椎弓根",
+          "english": "pedicle",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650228.3",
+          "japanese": "歯突起 (軸椎)",
+          "english": "odontoid (dens)",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "650230.2",
+          "japanese": "椎体 詳細不明 [\"破裂骨折\" に使用]",
+          "english": "vertebral body NFS [\"burst\" fracture]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "650232.2",
+              "japanese": "圧迫骨折 小 (椎体前面高の減少が20%以下)",
+              "english": "minor compression (≤20% loss of anterior height)",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明 > 椎体 詳細不明 [\"破裂骨折\" に使用]",
+              "explanation_en": "Fracture with or without dislocation but no cord involvement NFS > vertebral body NFS [\"burst\" fracture]",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "650234.3",
+              "japanese": "圧迫骨折 大 (椎体前面高の減少が20%を超える)",
+              "english": "major compression (>20% loss of anterior height)",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明 > 椎体 詳細不明 [\"破裂骨折\" に使用]",
+              "explanation_en": "Fracture with or without dislocation but no cord involvement NFS > vertebral body NFS [\"burst\" fracture]",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸椎骨折 (頚髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "rupture",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "640284.1",
+      "japanese": "棘間靭帯損傷",
+      "english": "Spinous ligament injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "rupture"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "630260.2",
+      "japanese": "神経根 単発あるいは多発 詳細不明",
+      "english": "Nerve root, single or multiple NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [
+        {
+          "code": "630202.2",
+          "japanese": "挫傷・伸展損傷",
+          "english": "contusion : stretch injury",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [],
+          "explanation_ja": "神経根 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root, single or multiple NFS",
+          "injury_types": [
+            "contusion"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "630204.2",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "630206.2",
+              "japanese": "単一神経根",
+              "english": "single nerve root",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "神経根 単発あるいは多発 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "630208.3",
+              "japanese": "複数神経根",
+              "english": "multiple nerve roots",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "神経根 単発あるいは多発 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "神経根 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root, single or multiple NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "630262.2",
+          "japanese": "引き抜き損傷 詳細不明",
+          "english": "avulsion NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CERVICAL SPINE",
+          "children": [
+            {
+              "code": "630264.2",
+              "japanese": "単一神経根",
+              "english": "single nerve root",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "神経根 単発あるいは多発 詳細不明 > 引き抜き損傷 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "630266.3",
+              "japanese": "複数神経根",
+              "english": "multiple nerve roots",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "CERVICAL SPINE",
+              "children": [],
+              "explanation_ja": "神経根 単発あるいは多発 詳細不明 > 引き抜き損傷 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "神経根 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root, single or multiple NFS",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "640278.1",
+      "japanese": "捻挫、急性、骨折や脱臼を伴わない",
+      "english": "Strain, acute, with no fracture or dislocation",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "CERVICAL SPINE",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "sprain"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "620099.9",
+      "japanese": "胸椎損傷 詳細不明",
+      "english": "Injuries to the Thoracic Spine NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [
+        {
+          "code": "620999.9",
+          "japanese": "胸椎損傷による死亡（詳細不明）または剖検なし",
+          "english": "Died of thoracic spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "胸椎損傷 詳細不明",
+          "explanation_en": "Injuries to the Thoracic Spine NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "640400.3",
+      "japanese": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む]",
+      "english": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [
+        {
+          "code": "640401.3",
+          "japanese": "一過性の神経症状（知覚異常）を伴うが骨折・脱臼については不明",
+          "english": "with transient neurological signs (paresthesia) but NFS as to fracture/dislocation",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "640402.3",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 一過性の神経症状（知覚異常）を伴うが骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640404.3",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 一過性の神経症状（知覚異常）を伴うが骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640406.3",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 一過性の神経症状（知覚異常）を伴うが骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640408.3",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 一過性の神経症状（知覚異常）を伴うが骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む]",
+          "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "640410.4",
+          "japanese": "不全麻痺 [何らかの知覚あるいは運動機能の残存；前脊髄症候群, 中心性脊髄症候群, 外側脊髄症候群 (Brown-Sequard 症候群)を含む 骨折・脱臼については不明",
+          "english": "incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "640412.4",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 不全麻痺 [何らかの知覚あるいは運動機能の残存；前脊髄症候群, 中心性脊髄症候群, 外側脊髄症候群 (Brown-Sequard 症候群)を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640414.4",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 不全麻痺 [何らかの知覚あるいは運動機能の残存；前脊髄症候群, 中心性脊髄症候群, 外側脊髄症候群 (Brown-Sequard 症候群)を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640416.4",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 不全麻痺 [何らかの知覚あるいは運動機能の残存；前脊髄症候群, 中心性脊髄症候群, 外側脊髄症候群 (Brown-Sequard 症候群)を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640418.4",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 不全麻痺 [何らかの知覚あるいは運動機能の残存；前脊髄症候群, 中心性脊髄症候群, 外側脊髄症候群 (Brown-Sequard 症候群)を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む]",
+          "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "640420.5",
+          "japanese": "完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+          "english": "complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "640422.5",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640424.5",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640426.5",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640428.5",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む] > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸髄挫傷 [画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む]",
+          "explanation_en": "Cord contusion [includes the diagnosis of compression, epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "hemorrhage"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "640440.5",
+      "japanese": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明",
+      "english": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [
+        {
+          "code": "640442.5",
+          "japanese": "不全麻痺(何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+          "english": "incomplete (preservation of some sensation or motor function) , but NFS as to fracture/dislocation",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "640444.5",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 不全麻痺(何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function) , but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640446.5",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 不全麻痺(何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function) , but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640448.5",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 不全麻痺(何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function) , but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640450.5",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 不全麻痺(何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function) , but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明",
+          "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "640460.5",
+          "japanese": "完全麻痺(知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+          "english": "complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "640462.5",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 完全麻痺(知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640464.5",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 完全麻痺(知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640466.5",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 完全麻痺(知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "640468.5",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明 > 完全麻痺(知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸髄裂傷・裂創[穿通性損傷、離断あるいは挫滅を含む] 詳 細不明",
+          "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "crush",
+        "amputation",
+        "penetrating",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "650499.2",
+      "japanese": "椎間板損傷 詳細不明",
+      "english": "Disc injury NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [
+        {
+          "code": "650400.2",
+          "japanese": "ヘルニア 詳細不明",
+          "english": "herniation NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "650402.2",
+              "japanese": "神経根損傷 (神経根障害) を伴わない",
+              "english": "no nerve root damage (radiculopathy)",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "椎間板損傷 詳細不明 > ヘルニア 詳細不明",
+              "explanation_en": "Disc injury NFS > herniation NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "650403.3",
+              "japanese": "神経根損傷 (神経根障害) を伴う",
+              "english": "with nerve root damage (radiculopathy)",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "椎間板損傷 詳細不明 > ヘルニア 詳細不明",
+              "explanation_en": "Disc injury NFS > herniation NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "椎間板損傷 詳細不明",
+          "explanation_en": "Disc injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "650405.3",
+          "japanese": "破裂",
+          "english": "rupture",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "椎間板損傷 詳細不明",
+          "explanation_en": "Disc injury NFS",
+          "injury_types": [
+            "rupture"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "650404.2",
+      "japanese": "胸椎脱臼 [亜脱臼], 骨折, 胸髄損傷を伴わない 詳細不明",
+      "english": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [
+        {
+          "code": "650409.2",
+          "japanese": "椎間関節 詳細不明",
+          "english": "facet NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "650410.2",
+              "japanese": "片側",
+              "english": "unilateral",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸椎脱臼 [亜脱臼], 骨折, 胸髄損傷を伴わない 詳細不明 > 椎間関節 詳細不明",
+              "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS > facet NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "650412.3",
+              "japanese": "両側",
+              "english": "bilateral",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸椎脱臼 [亜脱臼], 骨折, 胸髄損傷を伴わない 詳細不明 > 椎間関節 詳細不明",
+              "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS > facet NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸椎脱臼 [亜脱臼], 骨折, 胸髄損傷を伴わない 詳細不明",
+          "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "650416.2",
+      "japanese": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+      "english": "Fracture with or without dislocation but no cord involvement NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [
+        {
+          "code": "650417.2",
+          "japanese": "同一椎骨の多部位に及ぶ骨折ᵃ",
+          "english": "Code each vertebra separately.",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "650418.2",
+          "japanese": "棘突起",
+          "english": "spinous process",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "650420.2",
+          "japanese": "横突起",
+          "english": "transverse process",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "650422.2",
+          "japanese": "関節突起ᵇ",
+          "english": "facet^b",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "650424.2",
+          "japanese": "椎弓ᵇ",
+          "english": "lamina^b",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "650426.2",
+          "japanese": "椎弓根ᵇ",
+          "english": "pedicle^b",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "650430.2",
+          "japanese": "椎体 詳細不明 [“破裂骨折”に使用]",
+          "english": "vertebral body NFS [\"burst fracture\"]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "650432.2",
+              "japanese": "圧迫骨折 小 (椎体前面高の減少が20%以下)",
+              "english": "minor compression (≤20% loss of anterior height)",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明 > 椎体 詳細不明 [“破裂骨折”に使用]",
+              "explanation_en": "Fracture with or without dislocation but no cord involvement NFS > vertebral body NFS [\"burst fracture\"]",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "650434.3",
+              "japanese": "圧迫骨折 大 (椎体前面高の減少が20%を超える)",
+              "english": "major compression (>20% loss of anterior height)",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明 > 椎体 詳細不明 [“破裂骨折”に使用]",
+              "explanation_en": "Fracture with or without dislocation but no cord involvement NFS > vertebral body NFS [\"burst fracture\"]",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸椎骨折 (胸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "rupture",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "640484.1",
+      "japanese": "棘間靭帯損傷",
+      "english": "Spinous ligament injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "rupture"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "630499.2",
+      "japanese": "神経根, 単発あるいは多発 詳細不明",
+      "english": "Nerve root, single or multiple NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [
+        {
+          "code": "630402.2",
+          "japanese": "挫傷・伸展損傷",
+          "english": "contusion ; stretch injury",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [],
+          "explanation_ja": "神経根, 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root, single or multiple NFS",
+          "injury_types": [
+            "contusion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "630404.2",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "630406.2",
+              "japanese": "単一神経根",
+              "english": "single nerve root",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "神経根, 単発あるいは多発 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "630408.3",
+              "japanese": "複数神経根",
+              "english": "multiple nerve roots",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "神経根, 単発あるいは多発 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "神経根, 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root, single or multiple NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "630410.2",
+          "japanese": "引き抜き損傷 詳細不明",
+          "english": "avulsion NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORACIC SPINE",
+          "children": [
+            {
+              "code": "630412.2",
+              "japanese": "単一神経根",
+              "english": "single nerve root",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "神経根, 単発あるいは多発 詳細不明 > 引き抜き損傷 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "630414.3",
+              "japanese": "複数神経根",
+              "english": "multiple nerve roots",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORACIC SPINE",
+              "children": [],
+              "explanation_ja": "神経根, 単発あるいは多発 詳細不明 > 引き抜き損傷 詳細不明",
+              "explanation_en": "Nerve root, single or multiple NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "神経根, 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root, single or multiple NFS",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "640478.1",
+      "japanese": "捻挫, 急性で骨折や脱臼を伴わない",
+      "english": "Strain, acute with no fracture or dislocation",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "THORACIC SPINE",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "sprain"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "630099.9",
+      "japanese": "腰椎損傷 詳細不明",
+      "english": "Injuries to the Lumbar Spine NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "630999.9",
+          "japanese": "腰椎損傷による死亡 (詳細不明) または剖検なし",
+          "english": "Died of lumbar spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "腰椎損傷 詳細不明",
+          "explanation_en": "Injuries to the Lumbar Spine NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "630600.3",
+      "japanese": "馬尾損傷 詳細不明",
+      "english": "Cauda equina contusion NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "630602.3",
+          "japanese": "一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+          "english": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "630604.3",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630606.3",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630608.3",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630610.3",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 一過性の神経症状（知覚異常）を伴う 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "馬尾損傷 詳細不明",
+          "explanation_en": "Cauda equina contusion NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "630620.3",
+          "japanese": "不完全馬尾症候群 骨折・脱臼については不明",
+          "english": "incomplete cauda equina syndrome, but NFS as to fracture/dislocation",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "630622.3",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 不完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > incomplete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630624.3",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 不完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > incomplete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630626.3",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 不完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > incomplete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630628.3",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 不完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > incomplete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "馬尾損傷 詳細不明",
+          "explanation_en": "Cauda equina contusion NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "630630.4",
+          "japanese": "完全馬尾症候群 骨折・脱臼については不明",
+          "english": "complete cauda equina syndrome, but NFS as to fracture/dislocation",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "630632.4",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > complete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630634.4",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > complete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630636.4",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > complete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630638.4",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "馬尾損傷 詳細不明 > 完全馬尾症候群 骨折・脱臼については不明",
+              "explanation_en": "Cauda equina contusion NFS > complete cauda equina syndrome, but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "馬尾損傷 詳細不明",
+          "explanation_en": "Cauda equina contusion NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "640600.3",
+      "japanese": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］",
+      "english": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "640601.3",
+          "japanese": "一過性の神経症状（知覚異常）を伴う 骨折脱臼については不明",
+          "english": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "640602.3",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 一過性の神経症状（知覚異常）を伴う 骨折脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640604.3",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 一過性の神経症状（知覚異常）を伴う 骨折脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640606.3",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 一過性の神経症状（知覚異常）を伴う 骨折脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640608.3",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 一過性の神経症状（知覚異常）を伴う 骨折脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］",
+          "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "640610.4",
+          "japanese": "不全麻痺 ［何らかの知覚あるいは運動機能の残存；外側脊髄症候群（Brown-Sequard 症候群症候群）］ を含む 骨折・脱臼については不明",
+          "english": "incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "640612.4",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 不全麻痺 ［何らかの知覚あるいは運動機能の残存；外側脊髄症候群（Brown-Sequard 症候群症候群）］ を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640614.4",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 不全麻痺 ［何らかの知覚あるいは運動機能の残存；外側脊髄症候群（Brown-Sequard 症候群症候群）］ を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640616.4",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 不全麻痺 ［何らかの知覚あるいは運動機能の残存；外側脊髄症候群（Brown-Sequard 症候群症候群）］ を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640618.4",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 不全麻痺 ［何らかの知覚あるいは運動機能の残存；外側脊髄症候群（Brown-Sequard 症候群症候群）］ を含む 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］",
+          "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "640620.5",
+          "japanese": "完全麻痺（知覚運動機能の消失した対麻痺） 骨折・脱臼については不明",
+          "english": "complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "640622.5",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 完全麻痺（知覚運動機能の消失した対麻痺） 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640624.5",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 完全麻痺（知覚運動機能の消失した対麻痺） 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640626.5",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 完全麻痺（知覚運動機能の消失した対麻痺） 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640628.5",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］ > 完全麻痺（知覚運動機能の消失した対麻痺） 骨折・脱臼については不明",
+              "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy] > complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "腰髄挫傷 ［画像診断法あるいは剖検により証明された脊柱管内の圧迫や硬膜外、硬膜下血腫の診断を含む］",
+          "explanation_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "hemorrhage"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "640640.5",
+      "japanese": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明",
+      "english": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "640642.5",
+          "japanese": "不全麻痺 (何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+          "english": "incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "640644.5",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640646.5",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640648.5",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640650.5",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 不全麻痺 (何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明",
+          "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "640660.5",
+          "japanese": "完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+          "english": "complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "640662.5",
+              "japanese": "骨折や脱臼を伴わない",
+              "english": "with no fracture or dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640664.5",
+              "japanese": "骨折を伴う",
+              "english": "with fracture",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640666.5",
+              "japanese": "脱臼を伴う",
+              "english": "with dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "640668.5",
+              "japanese": "骨折かつ脱臼を伴う",
+              "english": "with both fracture and dislocation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明 > 完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
+              "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush] > complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+              "injury_types": [
+                "fracture",
+                "dislocation"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "腰髄裂傷・裂創 [穿通性損傷、離断あるいは挫滅を含む] 詳細不明",
+          "explanation_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "paralysis",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "crush",
+        "amputation",
+        "penetrating",
+        "nfs"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "650699.2",
+      "japanese": "椎間板損傷 詳細不明",
+      "english": "Disc injury NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "650600.2",
+          "japanese": "ヘルニア 詳細不明",
+          "english": "herniation NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "650602.2",
+              "japanese": "神経根損傷 (神経根障害) を伴わない",
+              "english": "no nerve root damage (radiculopathy)",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "椎間板損傷 詳細不明 > ヘルニア 詳細不明",
+              "explanation_en": "Disc injury NFS > herniation NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "650603.3",
+              "japanese": "神経根損傷 (神経根障害) を伴う",
+              "english": "with nerve root damage (radiculopathy)",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "椎間板損傷 詳細不明 > ヘルニア 詳細不明",
+              "explanation_en": "Disc injury NFS > herniation NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "椎間板損傷 詳細不明",
+          "explanation_en": "Disc injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "650605.3",
+          "japanese": "破裂",
+          "english": "rupture",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "椎間板損傷 詳細不明",
+          "explanation_en": "Disc injury NFS",
+          "injury_types": [
+            "rupture"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "650604.2",
+      "japanese": "胸椎脱臼 [亜脱臼] 骨折や腰髄損傷を伴わない 詳細不明",
+      "english": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "650609.2",
+          "japanese": "椎間関節 詳細不明",
+          "english": "facet NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "650610.2",
+              "japanese": "片側",
+              "english": "unilateral",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "胸椎脱臼 [亜脱臼] 骨折や腰髄損傷を伴わない 詳細不明 > 椎間関節 詳細不明",
+              "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS > facet NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "650612.3",
+              "japanese": "両側",
+              "english": "bilateral",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "胸椎脱臼 [亜脱臼] 骨折や腰髄損傷を伴わない 詳細不明 > 椎間関節 詳細不明",
+              "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS > facet NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "胸椎脱臼 [亜脱臼] 骨折や腰髄損傷を伴わない 詳細不明",
+          "explanation_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "650616.2",
+      "japanese": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+      "english": "Fracture with or without dislocation but no cord involvement NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "650617.2",
+          "japanese": "例外：椎体前面高の減少が20%を超える圧迫骨折は併せてコードを選択する。",
+          "english": "multiple fractures of same vertebra",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "650618.2",
+          "japanese": "棘突起",
+          "english": "spinous process",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "650620.2",
+          "japanese": "横突起",
+          "english": "transverse process",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "650622.2",
+          "japanese": "関節突起",
+          "english": "facet",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "650624.2",
+          "japanese": "椎弓",
+          "english": "lamina",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "650626.2",
+          "japanese": "椎弓根",
+          "english": "pedicle",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "650630.2",
+          "japanese": "椎体 詳細不明 [“破裂骨折”]",
+          "english": "vertebral body NFS [\"burst fracture\"]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "650632.2",
+              "japanese": "圧迫骨折 小（椎体前面高の減少が20%以下）",
+              "english": "minor compression (≤20% loss of anterior height)",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない） > 椎体 詳細不明 [“破裂骨折”]",
+              "explanation_en": "Fracture with or without dislocation but no cord involvement NFS > vertebral body NFS [\"burst fracture\"]",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "650634.3",
+              "japanese": "圧迫骨折 大（椎体前面高の減少が20%を超える）",
+              "english": "major compression (>20% loss of anterior height)",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない） > 椎体 詳細不明 [“破裂骨折”]",
+              "explanation_en": "Fracture with or without dislocation but no cord involvement NFS > vertebral body NFS [\"burst fracture\"]",
+              "injury_types": [
+                "fracture"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "腰椎骨折（腰髄損傷は伴わないが脱臼の有無は問わない）",
+          "explanation_en": "Fracture with or without dislocation but no cord involvement NFS",
+          "injury_types": [
+            "fracture",
+            "rupture",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "640684.1",
+      "japanese": "棘間靱帯損傷",
+      "english": "Spinous ligament injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "rupture"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "630699.2",
+      "japanese": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明",
+      "english": "Nerve root or sacral plexus, single or multiple NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [
+        {
+          "code": "630660.2",
+          "japanese": "挫傷・伸展損傷",
+          "english": "contusion ; stretch injury",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [],
+          "explanation_ja": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root or sacral plexus, single or multiple NFS",
+          "injury_types": [
+            "contusion"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "630662.2",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "630664.2",
+              "japanese": "単一神経根",
+              "english": "single nerve root",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Nerve root or sacral plexus, single or multiple NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630666.3",
+              "japanese": "複数神経根",
+              "english": "multiple nerve roots",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Nerve root or sacral plexus, single or multiple NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root or sacral plexus, single or multiple NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        },
+        {
+          "code": "630668.2",
+          "japanese": "引き抜き損傷 詳細不明",
+          "english": "avulsion NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "LUMBAR SPINE",
+          "children": [
+            {
+              "code": "630612.2",
+              "japanese": "単一神経根",
+              "english": "single nerve root",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明 > 引き抜き損傷 詳細不明",
+              "explanation_en": "Nerve root or sacral plexus, single or multiple NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            },
+            {
+              "code": "630614.3",
+              "japanese": "複数神経根",
+              "english": "multiple nerve roots",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "LUMBAR SPINE",
+              "children": [],
+              "explanation_ja": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明 > 引き抜き損傷 詳細不明",
+              "explanation_en": "Nerve root or sacral plexus, single or multiple NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "abdomen"
+            }
+          ],
+          "explanation_ja": "神経根あるいは仙骨神経叢, 単発あるいは多発 詳細不明",
+          "explanation_en": "Nerve root or sacral plexus, single or multiple NFS",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "iss_body_region": "abdomen"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "abdomen"
+    },
+    {
+      "code": "640678.1",
+      "japanese": "捻挫、急性で骨折や脱臼を伴わない",
+      "english": "Strain, acute with no fracture or dislocation",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "LUMBAR SPINE",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "sprain"
+      ],
+      "iss_body_region": "abdomen"
+    }
+  ],
+  "structure": "nested"
+}

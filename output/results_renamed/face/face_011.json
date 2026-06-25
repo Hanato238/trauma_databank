@@ -1,0 +1,214 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "240800.1",
+      "description_ja": "水晶体 詳細不明ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240802.1",
+      "description_ja": "水晶体包破裂 詳細不明ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240804.1",
+      "description_ja": "前包ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240806.1",
+      "description_ja": "後包ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240808.1",
+      "description_ja": "前包と後包の両方ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240812.1",
+      "description_ja": "脱臼；不全脱臼ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240814.1",
+      "description_ja": "前方ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240816.1",
+      "description_ja": "後方ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240999.1",
+      "description_ja": "黄斑 詳細不明ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240902.1",
+      "description_ja": "挫傷；浮腫ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240904.2",
+      "description_ja": "穿孔ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "241099.1",
+      "description_ja": "網膜 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "241000.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "241002.1",
+      "description_ja": "小；90°以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "241004.1",
+      "description_ja": "大；90°を超える",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "241006.2",
+      "description_ja": "剥離 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "241008.2",
+      "description_ja": "黄斑付着を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241010.2",
+      "description_ja": "黄斑剥離を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241299.1",
+      "description_ja": "強膜 [眼球に達する] 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "241200.2",
+      "description_ja": "裂傷・裂創；破裂ᵉ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "241201.2",
+      "description_ja": "鋸状縁の前方",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241202.2",
+      "description_ja": "脱出なし",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241203.2",
+      "description_ja": "脱出あり",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241204.2",
+      "description_ja": "鋸状縁の後方で赤道の前方",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241205.2",
+      "description_ja": "脱出なし",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241206.2",
+      "description_ja": "脱出あり",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241207.2",
+      "description_ja": "赤道の後方",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "241208.2",
+      "description_ja": "脱出なし",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "241209.2",
+      "description_ja": "脱出あり 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_011.jpg",
+  "body_part_normalized": "face"
+}

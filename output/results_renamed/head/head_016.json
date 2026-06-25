@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "130899.2",
+      "description_ja": null,
+      "description_en": "III (Oculomotor nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130802.2",
+      "description_ja": null,
+      "description_en": "contusion or compression [includes injury due to transtentorial herniation]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130804.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131099.2",
+      "description_ja": null,
+      "description_en": "IV (Trochlear nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131002.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131004.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131299.2",
+      "description_ja": null,
+      "description_en": "V (Trigeminal nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131202.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131204.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131499.2",
+      "description_ja": null,
+      "description_en": "VI (Abducens nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131402.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131404.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131699.2",
+      "description_ja": null,
+      "description_en": "VII (Facial nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131602.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131604.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131605.3",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "131899.2",
+      "description_ja": null,
+      "description_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131802.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131804.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131806.3",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_016.jpg",
+  "body_part_normalized": "head"
+}

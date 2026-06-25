@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "AIS 2005",
+  "entries": [
+    {
+      "code": "420499.3",
+      "description_ja": null,
+      "description_en": "Brachiocephalic (innominate) artery NFS [OIS III for entire category]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "420402.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420404.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420406.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420408.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420800.5",
+      "description_ja": null,
+      "description_en": "Coronary artery laceration or thrombosis to left main, right main or left anterior descending artery ; coronary sinus",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "421099.3",
+      "description_ja": null,
+      "description_en": "Pulmonary artery NFS [OIS IV, V for entire category]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421002.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421004.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421006.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421008.5",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "421009.6",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "421499.3",
+      "description_ja": null,
+      "description_en": "Subclavian artery NFS [OIS III for entire category]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421402.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421404.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421406.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421408.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "422099.2",
+      "description_ja": null,
+      "description_en": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "422002.2",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422004.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422006.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422008.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_006.jpg",
+  "body_part_normalized": "thorax"
+}

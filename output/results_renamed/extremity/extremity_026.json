@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "751100.2",
+      "description_ja": null,
+      "description_en": "Humerus fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751101.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751111.2",
+      "description_ja": null,
+      "description_en": "Proximal humerus NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751112.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751151.2",
+      "description_ja": null,
+      "description_en": "extra-articular ; unifocal [either one of the tuberosities or the metaphysis] ; single fracture line",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751152.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "751161.2",
+      "description_ja": null,
+      "description_en": "extra-articular ; bifocal [either one of the tuberosities and the metaphysis] ; ≥2 fracture lines",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751162.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751171.2",
+      "description_ja": null,
+      "description_en": "articular ; head or anatomical neck",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751172.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751221.2",
+      "description_ja": null,
+      "description_en": "Humerus shaft fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751222.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751251.2",
+      "description_ja": null,
+      "description_en": "simple ; oblique ; transverse",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751252.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "751261.2",
+      "description_ja": null,
+      "description_en": "wedge ; \"butterfly\" segment",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751262.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751271.2",
+      "description_ja": null,
+      "description_en": "complex ; comminuted ; segmental",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751272.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751331.2",
+      "description_ja": null,
+      "description_en": "Distal humerus fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751332.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751351.2",
+      "description_ja": null,
+      "description_en": "extra-articular ; supracondylar",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751352.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "751361.2",
+      "description_ja": null,
+      "description_en": "partial articular ; capitular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751362.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751371.2",
+      "description_ja": null,
+      "description_en": "complete articular ; T-shaped ; Y-shaped ; T-condylar",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751372.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_026.jpg",
+  "body_part_normalized": "extremity"
+}

@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "損傷内容",
+  "entries": [
+    {
+      "code": "772599.1",
+      "description_ja": "中手指節関節または指節間関節 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772589.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772540.1",
+      "description_ja": "母指 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772541.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772510.1",
+      "description_ja": "捻挫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772520.1",
+      "description_ja": "脱臼／亜脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772521.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "772550.1",
+      "description_ja": "非母指",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772551.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772560.1",
+      "description_ja": "捻挫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772570.1",
+      "description_ja": "脱臼／亜脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772571.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "771099.1",
+      "description_ja": "肩関節 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "771089.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "771010.1",
+      "description_ja": "捻挫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "771020.1",
+      "description_ja": "亜脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "771030.2",
+      "description_ja": "脱臼",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "771031.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "770599.1",
+      "description_ja": "胸鎖関節 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "770589.1",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770510.1",
+      "description_ja": "捻挫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770520.1",
+      "description_ja": "亜脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770530.2",
+      "description_ja": "脱臼",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "770531.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_019.jpg",
+  "body_part_normalized": "extremity"
+}

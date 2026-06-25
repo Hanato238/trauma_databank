@@ -1,0 +1,123 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "大脳 (続き)",
+  "entries": [
+    {
+      "code": "140410.3",
+      "description_ja": "血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140414.3",
+      "description_ja": "硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140416.2",
+      "description_ja": "微小; 厚さが0.6cm未満ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140418.4",
+      "description_ja": "小; 中程度; 皮質下30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140422.5",
+      "description_ja": "大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140426.3",
+      "description_ja": "実質内と皮質下を含む小脳内 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140428.2",
+      "description_ja": "微小; 厚さが0.6cm未満 [画像診断による剪断損壊を含む]ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140430.4",
+      "description_ja": "小; 15ml以下; 直径0.6～3cm",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140434.5",
+      "description_ja": "大; 15mlを超える; 直径3cmを超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140438.3",
+      "description_ja": "硬膜下 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140440.2",
+      "description_ja": "微小; 厚さが0.6cm未満ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140442.4",
+      "description_ja": "小; 中程度; 30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140446.5",
+      "description_ja": "大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140474.3",
+      "description_ja": "裂傷・裂創 [穿通外傷によるものは除く] 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140473.3",
+      "description_ja": "長さまたは深さが2cm以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140472.4",
+      "description_ja": "長さまたは深さが2cmを超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_025.jpg",
+  "body_part_normalized": "head"
+}

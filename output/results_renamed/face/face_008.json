@@ -1,0 +1,207 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "FACE (includes Eye and Ear)",
+  "entries": [
+    {
+      "code": "240499.1",
+      "description_ja": null,
+      "description_en": "Eye NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240402.2",
+      "description_ja": null,
+      "description_en": "Eye avulsion ; enucleation",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "240403.3",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "240408.1",
+      "description_ja": null,
+      "description_en": "Canaliculus (lacrimal/tear duct) laceration",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240599.1",
+      "description_ja": null,
+      "description_en": "Choroid NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240502.1",
+      "description_ja": null,
+      "description_en": "ruptureᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240504.1",
+      "description_ja": null,
+      "description_en": "peripheral - not involving macula",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240506.1",
+      "description_ja": null,
+      "description_en": "central - involving macula",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240508.1",
+      "description_ja": null,
+      "description_en": "detachmentᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240510.1",
+      "description_ja": null,
+      "description_en": "hemorrhageᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240416.1",
+      "description_ja": null,
+      "description_en": "Conjunctiva injury",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240699.1",
+      "description_ja": null,
+      "description_en": "Cornea NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240602.1",
+      "description_ja": null,
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240603.1",
+      "description_ja": null,
+      "description_en": "burn, thermal or chemicalᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240604.1",
+      "description_ja": null,
+      "description_en": "contusionᵉ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240610.1",
+      "description_ja": null,
+      "description_en": "hyphema NFSᵉ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240611.1",
+      "description_ja": null,
+      "description_en": "minor ; ≤50% of anterior chamber",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240612.1",
+      "description_ja": null,
+      "description_en": "major ; >50% of anterior chamber",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240620.1",
+      "description_ja": null,
+      "description_en": "laceration NFSᵉ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240621.1",
+      "description_ja": null,
+      "description_en": "not involving central 3mm of cornea",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240622.1",
+      "description_ja": null,
+      "description_en": "without prolapse",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "240623.1",
+      "description_ja": null,
+      "description_en": "with prolapse",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "240624.1",
+      "description_ja": null,
+      "description_en": "involving central 3mm of cornea",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240625.1",
+      "description_ja": null,
+      "description_en": "without prolapse",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "240626.1",
+      "description_ja": null,
+      "description_en": "with prolapse",
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "240799.1",
+      "description_ja": null,
+      "description_en": "Injury with retained Intraocular Foreign Bodyᵃ",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "240789.1",
+      "description_ja": null,
+      "description_en": "anterior chamberᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240779.1",
+      "description_ja": null,
+      "description_en": "posterior chamberᵃ",
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_008.jpg",
+  "body_part_normalized": "face"
+}

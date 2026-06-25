@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "820099.9",
+      "description_ja": "下腿の血管損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "820299.3",
+      "description_ja": "大腿動脈 または名前のある分枝 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "820202.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "820204.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "820206.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "820208.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 4
+    },
+    {
+      "code": "820499.2",
+      "description_ja": "大腿静脈 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820402.2",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "820404.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "820406.3",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "820699.2",
+      "description_ja": "膝窩動脈 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820602.2",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "820604.2",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "820606.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "820608.3",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "820899.2",
+      "description_ja": "膝窩静脈 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "820802.2",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "820804.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "820806.3",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_052.jpg",
+  "body_part_normalized": "extremity"
+}

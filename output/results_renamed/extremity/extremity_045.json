@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "812000.2",
+      "description_ja": null,
+      "description_en": "Compartment syndrome resulting from trauma to soft tissue only, not involving fracture or massive destruction of bone and other anatomical structures, NFS as to specific anatomical site",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "812001.2",
+      "description_ja": null,
+      "description_en": "thigh",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "812002.2",
+      "description_ja": null,
+      "description_en": "no muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "812003.3",
+      "description_ja": null,
+      "description_en": "with muscle loss",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "812004.2",
+      "description_ja": null,
+      "description_en": "leg",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "812005.2",
+      "description_ja": null,
+      "description_en": "no muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "812006.3",
+      "description_ja": null,
+      "description_en": "with muscle loss",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "812007.2",
+      "description_ja": null,
+      "description_en": "foot",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "812008.2",
+      "description_ja": null,
+      "description_en": "no muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "812009.3",
+      "description_ja": null,
+      "description_en": "with muscle loss",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "813000.3",
+      "description_ja": null,
+      "description_en": "Crush Injury to limb between hip and foot, but NFS as to specific anatomical site",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "813001.4",
+      "description_ja": null,
+      "description_en": "at hip or at buttock",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "813002.4",
+      "description_ja": null,
+      "description_en": "at or above knee, below hip",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "813003.3",
+      "description_ja": null,
+      "description_en": "below knee, at or above ankle",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "813004.2",
+      "description_ja": null,
+      "description_en": "foot, partial or complete",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "813005.2",
+      "description_ja": null,
+      "description_en": "great toe",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "813006.2",
+      "description_ja": null,
+      "description_en": "other toes, single or multiple",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "814000.2",
+      "description_ja": null,
+      "description_en": "Degloving injury NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "814002.3",
+      "description_ja": null,
+      "description_en": "entire extremity",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "814004.2",
+      "description_ja": null,
+      "description_en": "thigh or calf",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "814006.2",
+      "description_ja": null,
+      "description_en": "knee, ankle or foot",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "814008.2",
+      "description_ja": null,
+      "description_en": "toe, single or multiple",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_045.jpg",
+  "body_part_normalized": "extremity"
+}

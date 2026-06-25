@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "損傷内容",
+  "entries": [
+    {
+      "code": "440899.2",
+      "description_ja": "胸部食道損傷 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "440802.2",
+      "description_ja": "挫傷 ; 血腫 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440805.3",
+      "description_ja": "経口摂取による障害",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440807.3",
+      "description_ja": "非全層性壊死ª",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440809.4",
+      "description_ja": "全層性壊死ª",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440804.3",
+      "description_ja": "裂傷・裂創 ; 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440806.3",
+      "description_ja": "穿孔なし ; 非全層性 ; 周径の50%以下 [OIS I, II]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440808.4",
+      "description_ja": "穿孔 ; 全層性 ; 周径の50%を超える [OIS III]",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440810.5",
+      "description_ja": "剥離 ; 破裂 ; 離断 ; 広範囲損傷 [OIS IV, V]",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "441099.1",
+      "description_ja": "心臓 (心筋) 損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "441089.9",
+      "description_ja": "心停止を伴う 詳細不明f",
+      "description_en": null,
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "441002.1",
+      "description_ja": "挫傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "441004.1",
+      "description_ja": "小 [OIS I]",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "441006.4",
+      "description_ja": "大",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441008.3",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441010.3",
+      "description_ja": "穿孔なし ; 心室・心房損傷なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441012.5",
+      "description_ja": "穿孔 ; 心室・心房の穿孔を認め, タンポナーデの有無 は問わない",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "441013.5",
+      "description_ja": "心房破裂ª",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "441014.6",
+      "description_ja": "心室破裂",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "441016.6",
+      "description_ja": "多発裂傷・裂創 ; 心室・心房の50%を超える組織 欠損",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "441018.6",
+      "description_ja": "断裂",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_017.jpg",
+  "body_part_normalized": "thorax"
+}

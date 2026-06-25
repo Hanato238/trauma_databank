@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "spine",
+  "section_title": "LUMBAR SPINE",
+  "entries": [
+    {
+      "code": "650616.2",
+      "description_ja": null,
+      "description_en": "Fracture with or without dislocation but no cord involvement NFS",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "650617.2",
+      "description_ja": null,
+      "description_en": "multiple fractures of same vertebra^a",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "650618.2",
+      "description_ja": null,
+      "description_en": "spinous process",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "650620.2",
+      "description_ja": null,
+      "description_en": "transverse process",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "650622.2",
+      "description_ja": null,
+      "description_en": "facet",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "650624.2",
+      "description_ja": null,
+      "description_en": "lamina",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "650626.2",
+      "description_ja": null,
+      "description_en": "pedicle",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "650630.2",
+      "description_ja": null,
+      "description_en": "vertebral body NFS [\"burst fracture\"]",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "650632.2",
+      "description_ja": null,
+      "description_en": "minor compression (≤20% loss of anterior height)",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "650634.3",
+      "description_ja": null,
+      "description_en": "major compression (>20% loss of anterior height)",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640684.1",
+      "description_ja": null,
+      "description_en": "Spinous ligament injury",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "630699.2",
+      "description_ja": null,
+      "description_en": "Nerve root or sacral plexus, single or multiple NFS",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "630660.2",
+      "description_ja": null,
+      "description_en": "contusion ; stretch injury",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "630662.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "630664.2",
+      "description_ja": null,
+      "description_en": "single nerve root",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "630666.3",
+      "description_ja": null,
+      "description_en": "multiple nerve roots",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "630668.2",
+      "description_ja": null,
+      "description_en": "avulsion NFS",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "630612.2",
+      "description_ja": null,
+      "description_en": "single nerve root",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "630614.3",
+      "description_ja": null,
+      "description_en": "multiple nerve roots",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "640678.1",
+      "description_ja": null,
+      "description_en": "Strain, acute with no fracture or dislocation",
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_026.jpg",
+  "body_part_normalized": "spine"
+}

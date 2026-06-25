@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "AIS 2005",
+  "entries": [
+    {
+      "code": "540299.1",
+      "description_ja": null,
+      "description_en": "Adrenal Gland NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "540210.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma NFS [OIS I]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "540212.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial [OIS I]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "540214.2",
+      "description_ja": null,
+      "description_en": "major ; large [OIS I]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540220.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "540222.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; only cortex involvement ; <2cm [OIS II]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "540224.2",
+      "description_ja": null,
+      "description_en": "major ; multiple lacerations ; extending into medulla ; ≥2cm [OIS III]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540226.3",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; rupture ; >50% parenchymal destruction [OIS IV, V]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540499.1",
+      "description_ja": null,
+      "description_en": "Anus NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "540410.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "540420.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540422.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540424.3",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540426.4",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; rupture ; major tissue loss",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "540322.2",
+      "description_ja": null,
+      "description_en": "Appendix laceration ; perforationª",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540699.2",
+      "description_ja": null,
+      "description_en": "Bladder (urinary) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540610.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540620.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540622.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness [OIS I]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540623.2",
+      "description_ja": null,
+      "description_en": "extraperitoneal wall ≤2cm [OIS II]ª",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540624.3",
+      "description_ja": null,
+      "description_en": "extraperitoneal wall >2cm ; intraperitoneal wall ≤2cm [OIS III]ª",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540625.3",
+      "description_ja": null,
+      "description_en": "intraperitoneal wall >2cm [OIS IV]ª",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540626.4",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex, tissue loss ; involving urethral orifice (trigone) or bladder neck [OIS V]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "540640.3",
+      "description_ja": null,
+      "description_en": "rupture NFS",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_012.jpg",
+  "body_part_normalized": "abdomen"
+}

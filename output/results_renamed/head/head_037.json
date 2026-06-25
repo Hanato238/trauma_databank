@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "140688.3",
+      "description_ja": "裂傷・裂創 詳細不明 [穿通性損傷ではないもの]ᵉ",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140687.3",
+      "description_ja": "創が2cm以下の長さまたは深さのもの",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140686.4",
+      "description_ja": "創が2cmを超える長さまたは深さのもの",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140690.3",
+      "description_ja": "穿通性損傷 詳細不明ᵉ",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140691.3",
+      "description_ja": "2cm以下の深さのもの",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140692.5",
+      "description_ja": "2cmを超える深さのもの",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140689.9",
+      "description_ja": "医療行為や解剖学的記載のある頭部損傷に関係のない外傷に関連した所見 詳細不明ᶠ",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "140660.3",
+      "description_ja": "脳腫脹 詳細不明ʰ",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140662.3",
+      "description_ja": "軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140664.4",
+      "description_ja": "中等症；脳室と脳幹周囲槽の圧迫がある",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140666.5",
+      "description_ja": "重症；脳室または脳幹周囲槽の消失がある",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140668.3",
+      "description_ja": "脳浮腫 詳細不明ʰ",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140670.3",
+      "description_ja": "軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140672.4",
+      "description_ja": "中等症；脳室と脳幹周囲槽の圧迫がある",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140674.5",
+      "description_ja": "重症；脳室または脳幹周囲槽の消失がある",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140701.9",
+      "description_ja": "頭部外傷には直接関係がなく，全身性の低酸素血症や低血圧症，ショックによる二次性の低酸素性あるいは虚血性の脳損傷ᶠ",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "140702.9",
+      "description_ja": "24時間を超える昏睡と関連がないものᶠ",
+      "description_en": null,
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "140703.9",
+      "description_ja": "24時間を超える昏睡と関連があり，初期の脳損傷に続く発するものではないものᶠ；両側性；多発性",
+      "description_en": null,
+      "severity": 9,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_037.jpg",
+  "body_part_normalized": "head"
+}

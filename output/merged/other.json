@@ -1,0 +1,710 @@
+{
+  "body_part": "other",
+  "body_part_name": "Other / その他",
+  "source_file_count": 11,
+  "source_files": [
+    "other_001.json",
+    "other_002.json",
+    "other_003.json",
+    "other_004.json",
+    "other_005.json",
+    "other_006.json",
+    "other_007.json",
+    "other_008.json",
+    "other_009.json",
+    "other_010.json",
+    "other_011.json"
+  ],
+  "total_entries": 55,
+  "collision_count": 21,
+  "entries": [
+    {
+      "code": "910200.1",
+      "description_ja": "表層",
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [表層] vs [擦過傷] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "910400.1",
+      "description_ja": "皮膚欠損（剥脱・擦過傷）",
+      "description_en": "contusion; hematoma",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [皮膚欠損（剥脱・擦過傷）] vs [挫傷；血腫] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "910600.1",
+      "description_ja": "切創・裂創",
+      "description_en": "laceration",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [切創・裂創] vs [裂傷・裂創] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "910800.1",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json"
+      ]
+    },
+    {
+      "code": "910800.2",
+      "description_ja": "刺創",
+      "description_en": "avulsion",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [刺創] vs [剥離] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "910800.3",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json"
+      ]
+    },
+    {
+      "code": "910800.4",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json"
+      ]
+    },
+    {
+      "code": "910800.5",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json"
+      ]
+    },
+    {
+      "code": "910800.6",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 6,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json"
+      ]
+    },
+    {
+      "code": "910800.9",
+      "description_ja": "刺創",
+      "description_en": null,
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json"
+      ]
+    },
+    {
+      "code": "914000.1",
+      "description_ja": "デグロービング損傷",
+      "description_en": "Degloving injury",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ]
+    },
+    {
+      "code": "915000.1",
+      "description_ja": "熱傷 不可視",
+      "description_en": "Frostbite NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "description_ja 衝突: [熱傷 不可視] vs [凍傷 詳細不明] → 既存値を使用"
+    },
+    {
+      "code": "915002.1",
+      "description_ja": "熱傷 I度",
+      "description_en": "1st degree; superficial",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [熱傷 I度] vs [Ⅰ度；表在性] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "915004.2",
+      "description_ja": "熱傷 II度",
+      "description_en": "deep; full thickness",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [熱傷 II度] vs [Ⅱ度；Ⅲ度] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "915006.3",
+      "description_ja": "熱傷 III度",
+      "description_en": "multiple body sites e.g., fingers, toes, ears",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [熱傷 III度] vs [多部位 例：指, つま先, 耳] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "915008.4",
+      "description_ja": "熱傷 IV度",
+      "description_en": null,
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_001.json"
+      ]
+    },
+    {
+      "code": "916000.1",
+      "description_ja": "凍傷",
+      "description_en": "Penetrating injury",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_001.json",
+        "other_002.json",
+        "other_003.json"
+      ],
+      "collision_note": "description_ja 衝突: [凍傷] vs [穿通性損傷] → 既存値を使用"
+    },
+    {
+      "code": "910000.1",
+      "description_ja": "軟部組織（皮膚）損傷 詳細不明",
+      "description_en": "Soft tissue (skin) injury NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_002.json",
+        "other_003.json"
+      ]
+    },
+    {
+      "code": "912002.1",
+      "description_ja": "熱傷深度: I 度；1歳を超える; 熱傷面積: 熱傷面積を問わない",
+      "description_en": "1st degree burns",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_004.json",
+        "other_006.json",
+        "other_007.json"
+      ],
+      "collision_note": "description_en 衝突: [1st degree burns] vs [1st degree; superficial if >1yo] → 既存値を使用"
+    },
+    {
+      "code": "912006.1",
+      "description_ja": "熱傷深度: II度；非全層性; 熱傷面積: 10%未満",
+      "description_en": "2nd degree burns",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_004.json",
+        "other_006.json",
+        "other_007.json"
+      ],
+      "collision_note": "description_en 衝突: [2nd degree burns] vs [2nd degree; partial thickness] → 既存値を使用"
+    },
+    {
+      "code": "912008.2",
+      "description_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²を超える；10%未満 [顔面の場合は25cm²を超える]",
+      "description_en": "3rd degree burns",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_004.json",
+        "other_006.json",
+        "other_007.json"
+      ],
+      "collision_note": "description_en 衝突: [3rd degree burns] vs [3rd degree; full thickness] → 既存値を使用"
+    },
+    {
+      "code": "912018.3",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 20~29%",
+      "description_en": "combined 2nd and 3rd degree burns",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_004.json",
+        "other_006.json",
+        "other_007.json"
+      ],
+      "collision_note": "description_en 衝突: [combined 2nd and 3rd degree burns] vs [2nd or 3rd degree; partial or full thickness] → 既存値を使用"
+    },
+    {
+      "code": "912000.1",
+      "description_ja": "熱傷深度: 詳細不明; 熱傷面積: 詳細不明",
+      "description_en": "NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912003.1",
+      "description_ja": "熱傷深度: 1歳以下; 熱傷面積: 50%以下",
+      "description_en": "≤1yo",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912004.2",
+      "description_ja": "熱傷深度: 1歳以下; 熱傷面積: 50%を超える",
+      "description_en": "≤1yo",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912007.1",
+      "description_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²以下 [顔面の場合は25cm²以下]",
+      "description_en": "3rd degree; full thickness",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912012.2",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 10~19%",
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912014.3",
+      "description_ja": "熱傷深度: 5歳未満; 熱傷面積: 10~19%",
+      "description_en": "<5yo",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912020.4",
+      "description_ja": "熱傷深度: 5歳未満; 熱傷面積: 20~29%",
+      "description_en": "<5yo",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912024.4",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 30~39%",
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912026.5",
+      "description_ja": "熱傷深度: 5歳未満; 熱傷面積: 30~39%",
+      "description_en": "<5yo",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912030.5",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 40~89%",
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "912032.6",
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性 炭化を含む; 熱傷面積: 90%以上",
+      "description_en": "2nd or 3rd degree; partial or full thickness including incineration",
+      "severity": 6,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_006.json",
+        "other_007.json"
+      ]
+    },
+    {
+      "code": "020000.3",
+      "description_ja": "窒息 詳細不明ª",
+      "description_en": "Asphyxia/Suffocation NFSᵃ",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ]
+    },
+    {
+      "code": "020002.3",
+      "description_ja": "神経脱落症状を伴わない",
+      "description_en": "without neurological deficit",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "020004.4",
+      "description_ja": "神経脱落症状を伴う",
+      "description_en": "with neurological deficit",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "020006.5",
+      "description_ja": "医療従事者により確認された心停止を伴う",
+      "description_en": "with cardiac arrest documented by medical personnel",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "040099.9",
+      "description_ja": "腐食物 詳細不明f",
+      "description_en": "Caustic Agents NFSᶠ",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ]
+    },
+    {
+      "code": "060000.3",
+      "description_ja": "溺水 詳細不明ª",
+      "description_en": "Drowning NFSᵃ",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ]
+    },
+    {
+      "code": "060002.3",
+      "description_ja": "神経脱落症状を伴わない溺水",
+      "description_en": "near drowning, no neurological deficit",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "060004.4",
+      "description_ja": "神経脱落症状を伴う溺水",
+      "description_en": "near drowning with neurological deficit",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "060006.5",
+      "description_ja": "医療従事者により確認された心停止を伴う",
+      "description_en": "with cardiac arrest documented by medical personnel",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "080000.2",
+      "description_ja": "電撃傷 詳細不明",
+      "description_en": "Electrical injury NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ]
+    },
+    {
+      "code": "080002.3",
+      "description_ja": "筋肉の壊死を伴う",
+      "description_en": "with muscle necrosis",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "080004.5",
+      "description_ja": "医療従事者により確認された心停止を伴う",
+      "description_en": "with cardiac arrest documented by medical personnel",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "other_008.json",
+        "other_009.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "010000.1",
+      "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ",
+      "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela)",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "010002.1",
+      "description_ja": "34～35℃を超える",
+      "description_en": ">34-35°C",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "010004.2",
+      "description_ja": "33～32℃",
+      "description_en": "33-32°C",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "010006.3",
+      "description_ja": "31～30℃",
+      "description_en": "31-30°C",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "010008.4",
+      "description_ja": "29～28℃",
+      "description_en": "29-28°C",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "010010.5",
+      "description_ja": "27℃ 未満",
+      "description_en": "<27°C",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "012002.2",
+      "description_ja": "全身損傷（爆傷） 詳細不明ᵃ",
+      "description_en": "Whole Body (explosion-type) Injury NFSᵃ",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "012004.2",
+      "description_ja": "軽傷、または皮膚・皮下組織・筋の表在性損傷 軽微な骨折を伴う、または伴わない",
+      "description_en": "minor or superficial to skin, subcutaneous tissue and muscle with or without minor fracture(s)",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "012006.4",
+      "description_ja": "広範囲（25% TBSAを超える）の皮膚・皮下組織・筋の損傷、多発性の骨折かつ／または臓器損傷を伴う",
+      "description_en": "major or extensive (>25% TBSA) to skin, subcutaneous tissue and muscle with multiple fractures and/or multiple organ injuries",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    },
+    {
+      "code": "012008.6",
+      "description_ja": "重症；脳、胸部かつ／または腹部の多発性の臓器損傷 一肢以上の四肢欠損かつ／または断頭を伴う",
+      "description_en": "massive: multiple organ injury to brain, thorax and/or abdomen with loss of one or more limbs and/or decapitation",
+      "severity": 6,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "other_010.json",
+        "other_011.json"
+      ]
+    }
+  ]
+}

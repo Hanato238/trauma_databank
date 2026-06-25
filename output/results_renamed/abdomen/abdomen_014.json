@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "Injury Description",
+  "entries": [
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Colon (large bowel) NFS",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "540899.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540810.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540820.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540822.2",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; >=50% circumference without transection ; multiple simple wounds [OIS III]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540824.3",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "540826.4",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Duodenum NFS",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "If an injury occurs at the junction of the duodenum and jejunum, code to the jejunum.",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "541010.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I, II]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541020.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541022.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness ; serosal tear [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541021.2",
+      "description_ja": null,
+      "description_en": "disruption ; <50% circumference [OIS II]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541023.3",
+      "description_ja": null,
+      "description_en": "disruption 50-100% circumference of D1 (superior or first part), D3 (transverse or third part) or D4 (ascending or fourth part) [OIS III]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "541025.3",
+      "description_ja": null,
+      "description_en": "disruption 50-75 % circumference of D2 (descending or second part) [OIS III]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "541024.4",
+      "description_ja": null,
+      "description_en": "disruption >75% circumference of D2 (descending or second part) ; involving ampulla or distal common bile duct [OIS IV]",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "541028.5",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; devascularization ; massive disruption of duodenopancreatic complex [OIS V]",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_014.jpg",
+  "body_part_normalized": "abdomen"
+}

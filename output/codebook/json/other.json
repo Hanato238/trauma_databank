@@ -1,0 +1,191 @@
+{
+  "body_part": "other",
+  "source": "other.md",
+  "total_entries": 12,
+  "entries": [
+    {
+      "code": "020000.3",
+      "japanese": "窒息 詳細不明ᵃ",
+      "english": "Asphyxia/Suffocation NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "children": [
+        {
+          "code": "020002.3",
+          "japanese": "神経脱落症状を伴わない",
+          "english": "without neurological deficit",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "窒息 詳細不明ᵃ",
+          "explanation_en": "Asphyxia/Suffocation NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "020004.4",
+          "japanese": "神経脱落症状を伴う",
+          "english": "with neurological deficit",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "窒息 詳細不明ᵃ",
+          "explanation_en": "Asphyxia/Suffocation NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "020006.5",
+          "japanese": "医療従事者により確認された心停止を伴う",
+          "english": "with cardiac arrest documented by medical personnel",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "窒息 詳細不明ᵃ",
+          "explanation_en": "Asphyxia/Suffocation NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "040099.9",
+      "japanese": "腐食物 詳細不明ᶠ 吸引損傷",
+      "english": "Caustic Agents NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "060000.3",
+      "japanese": "溺水 詳細不明ᵃ",
+      "english": "Drowning NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "children": [
+        {
+          "code": "060002.3",
+          "japanese": "神経脱落症状を伴わない溺水",
+          "english": "near drowning, no neurological deficit",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "溺水 詳細不明ᵃ",
+          "explanation_en": "Drowning NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "060004.4",
+          "japanese": "神経脱落症状を伴う溺水",
+          "english": "near drowning with neurological deficit",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "溺水 詳細不明ᵃ",
+          "explanation_en": "Drowning NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "060006.5",
+          "japanese": "医療従事者により確認された心停止を伴う",
+          "english": "with cardiac arrest documented by medical personnel",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "溺水 詳細不明ᵃ",
+          "explanation_en": "Drowning NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "080000.2",
+      "japanese": "電撃傷 詳細不明",
+      "english": "Electrical injury NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "children": [
+        {
+          "code": "080002.3",
+          "japanese": "筋肉の壊死を伴う",
+          "english": "with muscle necrosis",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "電撃傷 詳細不明",
+          "explanation_en": "Electrical injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "080004.5",
+          "japanese": "医療従事者により確認された心停止を伴う",
+          "english": "with cardiac arrest documented by medical personnel",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "children": [],
+          "explanation_ja": "電撃傷 詳細不明",
+          "explanation_en": "Electrical injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    }
+  ],
+  "structure": "nested"
+}

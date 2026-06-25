@@ -1,0 +1,109 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140676.3",
+      "description_ja": null,
+      "description_en": "infarction [acute due to traumatic vascular occlusion]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140678.2",
+      "description_ja": null,
+      "description_en": "intraventricular hemorrhageᵉ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140675.2",
+      "description_ja": null,
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140677.4",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140680.3",
+      "description_ja": null,
+      "description_en": "ischemic brain damage directly related to head traumaᵉ",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140681.3",
+      "description_ja": null,
+      "description_en": "not associated with coma >6 hours",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140683.5",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140682.3",
+      "description_ja": null,
+      "description_en": "pneumocephalus directly related to head trauma",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140693.2",
+      "description_ja": null,
+      "description_en": "subarachnoid hemorrhage NFSᵉ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140694.2",
+      "description_ja": null,
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140695.3",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140696.2",
+      "description_ja": null,
+      "description_en": "subpial hemorrhage NFSᵉ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140697.2",
+      "description_ja": null,
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140698.3",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_038.jpg",
+  "body_part_normalized": "head"
+}

@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "surface",
+  "section_title": "体表 (皮膚) および熱傷",
+  "entries": [
+    {
+      "code": "910000.1",
+      "description_ja": "軟部組織（皮膚）損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "910200.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "910400.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "910600.1",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "910800.2",
+      "description_ja": "剥離",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "914000.1",
+      "description_ja": "デグロービング損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "915000.1",
+      "description_ja": "凍傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "915002.1",
+      "description_ja": "Ⅰ度；表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "915004.2",
+      "description_ja": "Ⅱ度；Ⅲ度",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "915006.3",
+      "description_ja": "多部位 例：指, つま先, 耳",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "916000.1",
+      "description_ja": "穿通性損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_003.jpg",
+  "body_part_normalized": "other"
+}

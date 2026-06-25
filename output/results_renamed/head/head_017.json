@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "130899.2",
+      "description_ja": "III (動眼神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130802.2",
+      "description_ja": "挫傷または圧迫 [テント切痕ヘルニアによる損傷を含む]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130804.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131099.2",
+      "description_ja": "IV (滑車神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131002.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131004.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131299.2",
+      "description_ja": "V (三叉神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131202.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131204.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131499.2",
+      "description_ja": "VI (外転神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131402.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131404.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131699.2",
+      "description_ja": "VII (顔面神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131602.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131604.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131605.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "131899.2",
+      "description_ja": "VIII (前庭・蝸牛神経) 詳細不明 [聴神経, 前庭神経を含む]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "131802.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131804.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "131806.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_017.jpg",
+  "body_part_normalized": "head"
+}

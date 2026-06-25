@@ -1,0 +1,81 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "other",
+  "section_title": "OTHER TRAUMA",
+  "entries": [
+    {
+      "code": "010000.1",
+      "description_ja": null,
+      "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela)",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "010002.1",
+      "description_ja": null,
+      "description_en": ">34-35°C",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "010004.2",
+      "description_ja": null,
+      "description_en": "33-32°C",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "010006.3",
+      "description_ja": null,
+      "description_en": "31-30°C",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "010008.4",
+      "description_ja": null,
+      "description_en": "29-28°C",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "010010.5",
+      "description_ja": null,
+      "description_en": "<27°C",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "012002.2",
+      "description_ja": null,
+      "description_en": "Whole Body (explosion-type) Injury NFSᵃ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "012004.2",
+      "description_ja": null,
+      "description_en": "minor or superficial to skin, subcutaneous tissue and muscle with or without minor fracture(s)",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "012006.4",
+      "description_ja": null,
+      "description_en": "major or extensive (>25% TBSA) to skin, subcutaneous tissue and muscle with multiple fractures and/or multiple organ injuries",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "012008.6",
+      "description_ja": null,
+      "description_en": "massive: multiple organ injury to brain, thorax and/or abdomen with loss of one or more limbs and/or decapitation",
+      "severity": 6,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_010.jpg",
+  "body_part_normalized": "other"
+}

@@ -1,0 +1,1772 @@
+{
+  "500099.9": {
+    "japanese": "鈍的腹部損傷 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "500999.9": {
+    "japanese": "死亡（詳細な評価なし）；剖検なし",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "510099.1": {
+    "japanese": "皮膚／皮下組織／筋肉 [腹直筋を除く] 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "510100.2": {
+    "japanese": "腹直筋断裂 詳細不明",
+    "injury_types": [
+      "rupture",
+      "nfs"
+    ]
+  },
+  "510202.1": {
+    "japanese": "擦過傷",
+    "injury_types": [
+      "abrasion"
+    ]
+  },
+  "510402.1": {
+    "japanese": "挫傷；血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "510600.1": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "510602.1": {
+    "japanese": "小；表在性",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "510604.2": {
+    "japanese": "大；長さが20cmを超え、かつ皮下組織に達する",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "510606.3": {
+    "japanese": "出血量が全血液量の20%を超える",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "510800.1": {
+    "japanese": "剥離 詳細不明",
+    "injury_types": [
+      "avulsion",
+      "nfs"
+    ]
+  },
+  "510802.1": {
+    "japanese": "小；表在性；100cm²以下",
+    "injury_types": [
+      "avulsion",
+      "nfs"
+    ]
+  },
+  "510804.2": {
+    "japanese": "大；100cm²を超える",
+    "injury_types": [
+      "avulsion",
+      "nfs"
+    ]
+  },
+  "510806.3": {
+    "japanese": "出血量が全血液量の20%を超える",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "511000.6": {
+    "japanese": "体幹部離断",
+    "injury_types": [
+      "amputation"
+    ]
+  },
+  "516000.1": {
+    "japanese": "穿通性損傷 詳細不明",
+    "injury_types": [
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "516002.1": {
+    "japanese": "表在性；小；腹膜に達するが深部組織の損傷は伴わない",
+    "injury_types": [
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "516004.2": {
+    "japanese": "組織欠損が100cm²を超える",
+    "injury_types": [
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "516006.3": {
+    "japanese": "出血量が全血液量の20%を超える",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "520099.9": {
+    "japanese": "腹部血管損傷 詳細不明",
+    "injury_types": [
+      "vascular",
+      "nfs"
+    ]
+  },
+  "520202.4": {
+    "japanese": "内膜剥離, 断裂なし",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "520204.4": {
+    "japanese": "裂傷・裂創；穿孔；詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "520206.4": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "520208.5": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "520299.4": {
+    "japanese": "腹部大動脈 詳細不明",
+    "injury_types": [
+      "vascular",
+      "nfs"
+    ]
+  },
+  "520402.3": {
+    "japanese": "内膜剥離, 断裂なし",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "520404.3": {
+    "japanese": "裂傷・裂創；穿孔；詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "520406.4": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "520408.5": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "520499.3": {
+    "japanese": "腹腔動脈 詳細不明",
+    "injury_types": [
+      "vascular",
+      "nfs"
+    ]
+  },
+  "520602.3": {
+    "japanese": "内膜剥離, 断裂なし",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "520604.3": {
+    "japanese": "裂傷・裂創；穿孔；詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "520606.3": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "520608.4": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "520698.4": {
+    "japanese": "両側ᶜ 総腸骨動脈に限る。",
+    "injury_types": [
+      "vascular"
+    ]
+  },
+  "520699.3": {
+    "japanese": "腸骨動脈 [総, 内, 外] (名前の付いた分岐血管を含む) 詳細不明",
+    "injury_types": [
+      "vascular",
+      "nfs"
+    ]
+  },
+  "520802.3": {
+    "japanese": "裂傷・裂創；穿孔；穿",
+    "injury_types": [
+      "laceration",
+      "perforation"
+    ]
+  },
+  "520804.3": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "520806.4": {
+    "japanese": "大；破裂；断裂；部分欠損；全周性；出血量が全血液 量の20%を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "520899.3": {
+    "japanese": "腸骨静脈 [総] 詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "penetrating",
+      "vascular",
+      "nfs"
+    ]
+  },
+  "521002.2": {
+    "japanese": "裂傷・裂創；穿孔；穿",
+    "injury_types": [
+      "laceration",
+      "perforation"
+    ]
+  },
+  "521004.2": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "521006.3": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20% を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "521099.2": {
+    "japanese": "腸骨静脈 [内, 外] 詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "penetrating",
+      "vascular",
+      "nfs"
+    ]
+  },
+  "521102.3": {
+    "japanese": "内膜剥離, 断裂なし",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "perforation",
+      "avulsion",
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "521104.3": {
+    "japanese": "裂傷・裂創；穿孔；穿",
+    "injury_types": [
+      "laceration",
+      "perforation"
+    ]
+  },
+  "521106.3": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "521108.4": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20% を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "521199.3": {
+    "japanese": "上腸間膜動脈 詳細不明",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "vascular",
+      "nfs"
+    ]
+  },
+  "521202.3": {
+    "japanese": "裂傷・裂創；穿孔；穿",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "521204.3": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "521206.4": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20% を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "521299.3": {
+    "japanese": "下大静脈 詳細不明",
+    "injury_types": [
+      "vascular",
+      "nfs"
+    ]
+  },
+  "521402.3": {
+    "japanese": "内膜剥離, 断裂なし",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "perforation",
+      "avulsion",
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "521404.3": {
+    "japanese": "裂傷・裂創；穿孔；穿",
+    "injury_types": [
+      "laceration",
+      "perforation"
+    ]
+  },
+  "521406.3": {
+    "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "521408.4": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20% を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "521499.3": {
+    "japanese": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈]",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "vascular",
+      "nfs"
+    ]
+  },
+  "521602.3": {
+    "japanese": "裂傷・裂創；穿孔；詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "penetrating",
+      "nfs"
+    ]
+  },
+  "521604.3": {
+    "japanese": "小；血栓の有無を問わない；表在性；非全周性；出血量が全血液量の20%以下",
+    "injury_types": [
+      "hemorrhage"
+    ]
+  },
+  "521606.4": {
+    "japanese": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+    "injury_types": [
+      "rupture",
+      "hemorrhage",
+      "amputation"
+    ]
+  },
+  "521699.3": {
+    "japanese": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈]",
+    "injury_types": [
+      "vascular",
+      "nfs"
+    ]
+  },
+  "530499.1": {
+    "japanese": "迷走神経損傷",
+    "injury_types": [
+      "nerve"
+    ]
+  },
+  "540210.1": {
+    "japanese": "挫傷；血腫 詳細不明",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "540212.1": {
+    "japanese": "小；表在性 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "540214.2": {
+    "japanese": "大；大きい [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "540220.1": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540222.1": {
+    "japanese": "小；表在性；皮質内にとどまる；2 cm未満 [OIS II]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540224.2": {
+    "japanese": "大；多発性裂傷・裂創；髄質に及ぶ；2 cm以上 [OIS III]",
+    "injury_types": [
+      "laceration"
+    ]
+  },
+  "540226.3": {
+    "japanese": "広範囲；断裂；複雑；破裂；実質の破壊が50%を超える [OIS IV, V]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "540299.1": {
+    "japanese": "副腎 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "540322.2": {
+    "japanese": "虫垂 裂傷・裂創；穿孔ᵃ",
+    "injury_types": [
+      "laceration",
+      "perforation"
+    ]
+  },
+  "540410.1": {
+    "japanese": "挫傷；血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "540420.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540422.2": {
+    "japanese": "穿孔なし；非全層性",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "540424.3": {
+    "japanese": "穿孔あり；全層",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "540426.4": {
+    "japanese": "広範囲；断裂；複雑；破裂；高度組織欠損",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "540499.1": {
+    "japanese": "肛門 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "540610.2": {
+    "japanese": "挫傷；血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "540620.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540622.2": {
+    "japanese": "穿孔なし；非全層性 [OIS I]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "540623.2": {
+    "japanese": "腹膜外で2cm以下 [OIS II]ᵃ",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540624.3": {
+    "japanese": "腹膜外で2cmを超える；腹膜内で2cm以下 [OIS III]ᵃ",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540625.3": {
+    "japanese": "腹膜内で2cmを超える [OIS IV]ᵃ",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540626.4": {
+    "japanese": "広範囲；断裂；複雑；組織欠損；尿道口や膀胱頸部に及ぶ [OIS V]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "540640.3": {
+    "japanese": "破裂 詳細不明",
+    "injury_types": [
+      "rupture",
+      "nfs"
+    ]
+  },
+  "540699.2": {
+    "japanese": "詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "540810.2": {
+    "japanese": "挫傷；血腫 [OIS I, II]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "540820.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "540822.2": {
+    "japanese": "穿孔なし；非全層性；周径の50%未満 [OIS I, II]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "540824.3": {
+    "japanese": "穿孔；全層性；周径の50%以上だが断裂には至らない；多発する単純裂創 [OIS III]",
+    "injury_types": [
+      "rupture",
+      "perforation",
+      "amputation",
+      "burn"
+    ]
+  },
+  "540826.4": {
+    "japanese": "広範囲；断裂；複雑；組織欠損；離断；広範囲の組織壊死または血行遮断 [OIS IV]",
+    "injury_types": [
+      "rupture",
+      "amputation",
+      "avulsion",
+      "vascular"
+    ]
+  },
+  "540899.2": {
+    "japanese": "結腸 (大腸) 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "541010.2": {
+    "japanese": "挫傷；血腫 [OIS I, II]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "541020.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "541021.2": {
+    "japanese": "周径の50%未満 [OIS II]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541022.2": {
+    "japanese": "穿孔なし；非全層性；漿膜裂傷 [OIS I]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "burn"
+    ]
+  },
+  "541023.3": {
+    "japanese": "D1 (上部または第1部), D3 (水平部または第3部) またはD4 (上行部または第4部) の周径の50〜100% [OIS III]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541024.4": {
+    "japanese": "D2 (下行部または第2部) の周径の75%を超える；膨大部または遠位総胆管の損傷を合併する [OIS IV]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541025.3": {
+    "japanese": "D2 (下行部または第2部) の周径の50〜75% [OIS III]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541028.5": {
+    "japanese": "広範囲；断裂；複雑；破裂；組織欠損；血行遮断；十二指腸・膵臓結合部の高度損傷 [OIS V]",
+    "injury_types": [
+      "rupture",
+      "avulsion",
+      "vascular"
+    ]
+  },
+  "541099.2": {
+    "japanese": "十二指腸 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "541210.2": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "541220.2": {
+    "japanese": "裂傷・裂創；穿孔 詳細不明 [OIS II]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "541222.2": {
+    "japanese": "小；表在性；胆嚢管の損傷なし [OIS II]",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "541224.3": {
+    "japanese": "広範囲；断裂；複雑；破裂；組織欠損；胆嚢管の裂傷 または断裂 [OIS III]",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "amputation",
+      "avulsion"
+    ]
+  },
+  "541226.4": {
+    "japanese": "総胆管または肝管の裂傷・裂創または断裂を伴う [OIS IV, V]",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "amputation"
+    ]
+  },
+  "541299.2": {
+    "japanese": "胆嚢 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "541410.2": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "541420.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "541422.2": {
+    "japanese": "穿孔なし；非全層性；周囲の50%未満 [OIS I, II]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "541424.3": {
+    "japanese": "穿孔あり；全層性；周囲の50%以上だが断裂には至らない；多数の単純裂傷 [OIS III]",
+    "injury_types": [
+      "laceration",
+      "rupture",
+      "perforation",
+      "amputation",
+      "burn"
+    ]
+  },
+  "541426.4": {
+    "japanese": "広範囲；断裂；複雑；組織欠損；断裂；広範囲の組織壊死または血行遮断 [OIS IV, V]",
+    "injury_types": [
+      "rupture",
+      "amputation",
+      "avulsion",
+      "vascular"
+    ]
+  },
+  "541499.2": {
+    "japanese": "空腸-回腸 (小腸) 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "541610.2": {
+    "japanese": "挫傷；血腫 詳細不明",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "541612.2": {
+    "japanese": "被膜下, 後腹膜腔に限局；実質の裂傷なし；小；表在 [OIS I, II]",
+    "injury_types": [
+      "laceration"
+    ]
+  },
+  "541614.3": {
+    "japanese": "被膜下；表面積の50%を超える, 増大；大；広範囲 [OIS III]",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "541620.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "541622.2": {
+    "japanese": "深さ1cm以下の腎皮質実質の損傷, 溢尿なし；小；表在性；[OIS II]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "541624.3": {
+    "japanese": "深さ1cmを超える腎皮質実質の損傷, 腎盂腎杯の破裂, 溢尿なし；中等度；[OIS III]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541626.4": {
+    "japanese": "腎皮質を貫通し, 髄質, 腎盂腎杯に達する損傷；腎茎部の主要血管損傷で出血を伴う；大 [OIS IV]",
+    "injury_types": [
+      "hemorrhage",
+      "vascular"
+    ]
+  },
+  "541628.5": {
+    "japanese": "腎門部の断裂；腎組織および血管系の完全破壊 [OIS V]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "541640.4": {
+    "japanese": "破裂",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541699.2": {
+    "japanese": "腎臓 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "541810.2": {
+    "japanese": "挫傷;血腫 詳細不明",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "541812.2": {
+    "japanese": "被膜下、表面積の50%以下, 限局性または直径10cm以下の実質損傷;小;表在性 [OIS I, II]",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "541814.3": {
+    "japanese": "被膜下、表面積の50%を超える, 増大;被膜下または実質の破裂;直径10cmを超える実質損傷;大 [OIS III]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541820.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "541822.2": {
+    "japanese": "単純な被膜損傷;実質の深さが3cm以下;長さ10cm以下;小;表在性 [OIS II]",
+    "injury_types": [
+      "laceration"
+    ]
+  },
+  "541824.3": {
+    "japanese": "実質の深さが3cmを超える;主要胆管の損傷;中等度 [OIS III]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "541826.4": {
+    "japanese": "肝葉の75%以下の実質破裂;深さ3cmを超える多発性裂傷・裂創;“破裂”損傷;大 [OIS IV]",
+    "injury_types": [
+      "laceration",
+      "rupture"
+    ]
+  },
+  "541828.5": {
+    "japanese": "肝葉の75%を超える実質破裂または一葉のうち4つ以上のクイーノー肝区域にわたる実質損傷;肝後面下大静脈または肝静脈損傷を伴っている;広範囲;複雑 [OIS V]",
+    "injury_types": [
+      "rupture",
+      "vascular"
+    ]
+  },
+  "541830.6": {
+    "japanese": "肝断裂 (すべての肝血管系の完全断裂) [OIS VI]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "541840.4": {
+    "japanese": "破裂",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "541899.2": {
+    "japanese": "肝臓 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "542010.2": {
+    "japanese": "挫傷;血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "542020.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542022.2": {
+    "japanese": "小;表在性",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542024.3": {
+    "japanese": "大",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542026.4": {
+    "japanese": "広範囲;断裂;複雑;組織欠損",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "542099.2": {
+    "japanese": "腸間膜 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "542210.2": {
+    "japanese": "挫傷;血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "542220.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542222.2": {
+    "japanese": "小;表在性",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542224.3": {
+    "japanese": "大",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542299.2": {
+    "japanese": "大網 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "542400.2": {
+    "japanese": "卵管 (ファロピアン管) 裂傷・裂創",
+    "injury_types": [
+      "laceration"
+    ]
+  },
+  "542610.1": {
+    "japanese": "挫傷;血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "542620.1": {
+    "japanese": "裂傷・裂創;穿孔",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "542622.1": {
+    "japanese": "表在性;0.5cm以下;小 [OIS II]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "542623.2": {
+    "japanese": "深度性;0.5cmを超える [OIS III]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "542624.2": {
+    "japanese": "実質の完全破壊;広範囲;断裂;複雑 [OIS IV, V]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "542699.1": {
+    "japanese": "卵巣 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "542810.2": {
+    "japanese": "挫傷;血腫 詳細不明",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "542812.2": {
+    "japanese": "小;表在性;膵管損傷なし [OIS I]",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "542814.3": {
+    "japanese": "大;大きい;広範囲;膵管損傷を伴う [OIS II]",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "542820.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542822.2": {
+    "japanese": "小;表在性;膵管損傷なし [OIS I]",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "542824.3": {
+    "japanese": "中;主要血管または主膵管の損傷を伴う;遠位側の離断 [OIS III]",
+    "injury_types": [
+      "amputation"
+    ]
+  },
+  "542826.4": {
+    "japanese": "膵大部損傷を伴う [OIS IV]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542828.4": {
+    "japanese": "大;多発性裂傷;近位側の離断 [OIS IV]",
+    "injury_types": [
+      "laceration",
+      "amputation"
+    ]
+  },
+  "542830.4": {
+    "japanese": "膵大部損傷を伴う [OIS IV]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "542832.5": {
+    "japanese": "広範囲;断裂;複雑;組織欠損;膵頭部の高度損傷 [OIS V]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "542899.2": {
+    "japanese": "膵臓 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "543010.1": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "543020.1": {
+    "japanese": "裂傷・裂創; 穿孔 詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "543022.1": {
+    "japanese": "小; 表在性 [OIS II, III]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "543024.2": {
+    "japanese": "大 [OIS IV]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "543026.2": {
+    "japanese": "広範囲; 切断; 断裂; 複雑 [OIS V]",
+    "injury_types": [
+      "rupture",
+      "amputation"
+    ]
+  },
+  "543099.1": {
+    "japanese": "陰茎 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "543210.1": {
+    "japanese": "挫傷; 血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "543220.1": {
+    "japanese": "裂傷・裂創; 穿孔 詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "543222.1": {
+    "japanese": "小; 表在性",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "543224.2": {
+    "japanese": "大",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "543226.3": {
+    "japanese": "広範囲; 断裂; 複雑",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "543299.1": {
+    "japanese": "腹膜 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "543510.1": {
+    "japanese": "挫傷; 血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "543520.2": {
+    "japanese": "裂傷・裂創; 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "543522.3": {
+    "japanese": "尿道損傷を伴う",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "543599.1": {
+    "japanese": "前立腺 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "543610.2": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "543620.2": {
+    "japanese": "裂傷・裂創; 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "543622.2": {
+    "japanese": "穿孔なし; 非全層性; 周囲の50%以下 [OIS I, II]",
+    "injury_types": [
+      "perforation"
+    ]
+  },
+  "543624.3": {
+    "japanese": "全層性; 周囲の50%を超える [OIS III]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "543625.4": {
+    "japanese": "会陰部に達する [OIS IV]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "543626.5": {
+    "japanese": "広範囲; 断裂; 組織欠損; 血行遮断 [OIS V]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "543699.2": {
+    "japanese": "直腸 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "543800.2": {
+    "japanese": "後腹膜 出血または血腫",
+    "injury_types": [
+      "hematoma",
+      "hemorrhage"
+    ]
+  },
+  "544010.1": {
+    "japanese": "挫傷；血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "544020.1": {
+    "japanese": "裂傷・裂創；穿孔 詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "544022.1": {
+    "japanese": "小；表在性；直径の25%未満 [OIS II]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "544024.2": {
+    "japanese": "大；切断；断裂；複雑 [OIS III, IV, V]",
+    "injury_types": [
+      "amputation",
+      "avulsion"
+    ]
+  },
+  "544099.1": {
+    "japanese": "陰嚢 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "544210.2": {
+    "japanese": "挫傷；血腫 詳細不明",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "544212.2": {
+    "japanese": "被膜下、表面積の50%以下；実質内、直径5cm以下；小；表在性 [OIS I, II]",
+    "injury_types": [
+      "contusion",
+      "hematoma",
+      "nfs"
+    ]
+  },
+  "544214.3": {
+    "japanese": "被膜下、表面積の50%を超える、増大；被膜下または実質の破裂；直径5cmを超える実質損傷；大 [OIS III]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "544220.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "544222.2": {
+    "japanese": "実質の深さ3cm以下の単純な被膜損傷で脾柱血管の損傷を伴わない；小；表在性 [OIS I, II]",
+    "injury_types": [
+      "laceration"
+    ]
+  },
+  "544224.3": {
+    "japanese": "脾門部または区域性実質の破裂または破壊を伴わない；実質の深さ3cmを超える、または脾柱血管の損傷；中 [OIS III]",
+    "injury_types": [
+      "rupture"
+    ]
+  },
+  "544226.4": {
+    "japanese": "脾門部離断を伴わないが脾臓の25%を超える血行遮断を生じるような区域性血管損傷または脾門部血管損傷；大 [OIS IV]",
+    "injury_types": [
+      "vascular"
+    ]
+  },
+  "544228.5": {
+    "japanese": "完全な血行遮断を生じる脾門部離断；組織欠損；断裂；広範囲 [OIS V]",
+    "injury_types": [
+      "rupture",
+      "avulsion",
+      "vascular"
+    ]
+  },
+  "544240.3": {
+    "japanese": "破裂 詳細不明",
+    "injury_types": [
+      "rupture",
+      "nfs"
+    ]
+  },
+  "544299.2": {
+    "japanese": "脾臓 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "544410.2": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "544414.3": {
+    "japanese": "経口摂取による損傷",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "544415.3": {
+    "japanese": "部分壊死（非全層性）",
+    "injury_types": [
+      "burn"
+    ]
+  },
+  "544416.4": {
+    "japanese": "全層性壊死",
+    "injury_types": [
+      "burn"
+    ]
+  },
+  "544420.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "544422.2": {
+    "japanese": "穿孔なし; 非全層性 [OIS I]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "544424.3": {
+    "japanese": "穿孔あり; 全層性 [OIS II, III]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "544426.4": {
+    "japanese": "断裂; 複雑; 破裂; 組織欠損; 広範囲; 血行遮断 [OIS IV, V]",
+    "injury_types": [
+      "rupture",
+      "avulsion",
+      "vascular"
+    ]
+  },
+  "544499.2": {
+    "japanese": "胃 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "544610.1": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "544620.1": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "544622.1": {
+    "japanese": "小; 表在性 [OIS II, III]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "544624.2": {
+    "japanese": "断裂; 切断; 複雑; 広範囲 [OIS IV, V]",
+    "injury_types": [
+      "rupture",
+      "amputation",
+      "avulsion"
+    ]
+  },
+  "544699.1": {
+    "japanese": "精巣 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "544810.2": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "544820.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "544822.2": {
+    "japanese": "穿孔なし; 非全層性 [OIS II]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "544824.3": {
+    "japanese": "穿孔あり; 全層性 [OIS III]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "544826.3": {
+    "japanese": "広範囲; 断裂; 複雑; 破裂; 組織欠損; 離断 [OIS IV, V]",
+    "injury_types": [
+      "rupture",
+      "amputation",
+      "avulsion"
+    ]
+  },
+  "544899.2": {
+    "japanese": "尿管 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "545010.2": {
+    "japanese": "挫傷; 血腫 [OIS I]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "545020.2": {
+    "japanese": "裂傷・裂創 詳細不明",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "545022.2": {
+    "japanese": "穿孔なし; 非全層性 [OIS II]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "545024.2": {
+    "japanese": "穿孔あり; 全層性; 2cm未満の尿道裂孔 [OIS IV]",
+    "injury_types": [
+      "perforation",
+      "burn"
+    ]
+  },
+  "545026.2": {
+    "japanese": "断裂; 複雑; 組織欠損; 広範囲 [OIS IV]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "545028.3": {
+    "japanese": "後部尿道組織の欠損; 離断; 2cmを超える尿道裂孔",
+    "injury_types": [
+      "amputation"
+    ]
+  },
+  "545030.2": {
+    "japanese": "伸展損傷 [OIS II]",
+    "injury_types": [
+      "laceration",
+      "nfs"
+    ]
+  },
+  "545099.2": {
+    "japanese": "尿道 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "545210.1": {
+    "japanese": "挫傷・血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "545220.2": {
+    "japanese": "裂傷・裂創・穿孔",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545222.2": {
+    "japanese": "1 cm以下; 小; 表在性",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545224.3": {
+    "japanese": "1 cmを超える; 50%以下の胎盤剥離; 大; 深在性 [OIS Ⅲ]",
+    "injury_types": [
+      "avulsion"
+    ]
+  },
+  "545226.4": {
+    "japanese": "子宮動脈の損傷を伴う; 50%を超えるが完全ではない",
+    "injury_types": [
+      "vascular"
+    ]
+  },
+  "545228.5": {
+    "japanese": "子宮破裂; 断裂; 血行遮断; 完全な胎盤剥離",
+    "injury_types": [
+      "rupture",
+      "avulsion",
+      "vascular"
+    ]
+  },
+  "545299.1": {
+    "japanese": "子宮 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "545410.1": {
+    "japanese": "挫傷・血腫 [OIS Ⅰ]",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "545420.1": {
+    "japanese": "裂傷・裂創・穿孔 詳細不明",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545422.1": {
+    "japanese": "小; 表在性; 粘膜損傷のみ [OIS Ⅱ]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545424.2": {
+    "japanese": "大; 脂肪組織または筋層にまで達する深在性 [OIS Ⅲ]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545426.3": {
+    "japanese": "広範囲; 断裂; 複雑; 子宮頸部または腹膜にまで及ぶ [OIS Ⅳ, Ⅴ]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "545499.1": {
+    "japanese": "膣 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "545610.1": {
+    "japanese": "挫傷・血腫",
+    "injury_types": [
+      "contusion",
+      "hematoma"
+    ]
+  },
+  "545620.1": {
+    "japanese": "裂傷・裂創・穿孔",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545622.1": {
+    "japanese": "小; 表在性; 皮膚損傷のみ [OIS Ⅱ]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545624.2": {
+    "japanese": "大; 脂肪組織または筋層にまで達する深在性 [OIS Ⅲ]",
+    "injury_types": [
+      "laceration",
+      "perforation",
+      "nfs"
+    ]
+  },
+  "545626.3": {
+    "japanese": "広範囲; 断裂; 複雑 [OIS Ⅳ, Ⅴ]",
+    "injury_types": [
+      "rupture",
+      "avulsion"
+    ]
+  },
+  "545699.1": {
+    "japanese": "外陰部 詳細不明",
+    "injury_types": [
+      "nfs"
+    ]
+  },
+  "545210.2": {
+    "japanese": "挫傷；血腫",
+    "injury_types": []
+  }
+}

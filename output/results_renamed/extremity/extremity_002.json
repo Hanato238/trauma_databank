@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "700099.9",
+      "description_ja": null,
+      "description_en": "Injuries to the Whole Upper Extremity NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "700999.9",
+      "description_ja": null,
+      "description_en": "Died of upper extremity injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "711000.3",
+      "description_ja": null,
+      "description_en": "Amputation [traumatic], partial or complete between shoulder and hand, but NFS as to specific anatomical site²",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "711001.4",
+      "description_ja": null,
+      "description_en": "at shoulder",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "711010.5",
+      "description_ja": null,
+      "description_en": "bilateral³",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "711002.4",
+      "description_ja": null,
+      "description_en": "at or above elbow, below shoulder",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "711012.5",
+      "description_ja": null,
+      "description_en": "bilateral³",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "711003.3",
+      "description_ja": null,
+      "description_en": "below elbow, at or above wrist",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "711004.2",
+      "description_ja": null,
+      "description_en": "hand, partial or complete",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "711005.2",
+      "description_ja": null,
+      "description_en": "thumb",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "711006.1",
+      "description_ja": null,
+      "description_en": "other fingers, single or multiple",
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_002.jpg",
+  "body_part_normalized": "extremity"
+}

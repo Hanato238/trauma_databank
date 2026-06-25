@@ -1,0 +1,74 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "140628.4",
+      "description_ja": "びまん性軸索損傷 詳細不明 [6時間を超える昏睡か、もしくは6時間以内の死亡の場合は病理学的診断が必要]",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140625.4",
+      "description_ja": "びまん性軸索損傷 大脳白質か基底核に限局したもの",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140627.5",
+      "description_ja": "びまん性軸索損傷 脳梁に及ぶもの",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140629.3",
+      "description_ja": "血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140630.3",
+      "description_ja": "硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140631.2",
+      "description_ja": "微小；厚さ0.6cm未満",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140632.4",
+      "description_ja": "小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140634.5",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140636.5",
+      "description_ja": "大；大量：広範囲：50mlを超える (10歳以下では25mlを超える)；厚さ1 cmを超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_031.jpg",
+  "body_part_normalized": "head"
+}

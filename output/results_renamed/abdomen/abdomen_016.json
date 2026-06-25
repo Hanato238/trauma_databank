@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "541299.2",
+      "description_ja": null,
+      "description_en": "Gallbladder NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541210.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541220.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation NFS [OIS II]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541222.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; no cystic duct involvement [OIS II]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541224.3",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; cystic duct laceration or transection [OIS III]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "541226.4",
+      "description_ja": null,
+      "description_en": "with common bile or hepatic duct laceration or transection [OIS IV, V]",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "541499.2",
+      "description_ja": null,
+      "description_en": "Jejunum-Ileum (small bowel) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541410.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541420.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541422.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541424.3",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; ≥50% circumference without transection ; multiple simple wounds [OIS III]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "541426.4",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_016.jpg",
+  "body_part_normalized": "abdomen"
+}

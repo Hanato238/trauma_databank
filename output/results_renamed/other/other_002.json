@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "surface",
+  "section_title": "EXTERNAL (Skin) and THERMAL INJURIES",
+  "entries": [
+    {
+      "code": "910000.1",
+      "description_ja": null,
+      "description_en": "Soft tissue (skin) injury NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "910200.1",
+      "description_ja": null,
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "910400.1",
+      "description_ja": null,
+      "description_en": "contusion; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "910600.1",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "910800.2",
+      "description_ja": null,
+      "description_en": "avulsion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "914000.1",
+      "description_ja": null,
+      "description_en": "Degloving injury",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "915000.1",
+      "description_ja": null,
+      "description_en": "Frostbite NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "915002.1",
+      "description_ja": null,
+      "description_en": "1st degree; superficial",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "915004.2",
+      "description_ja": null,
+      "description_en": "deep; full thickness",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "915006.3",
+      "description_ja": null,
+      "description_en": "multiple body sites e.g., fingers, toes, ears",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "916000.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury",
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_002.jpg",
+  "body_part_normalized": "other"
+}

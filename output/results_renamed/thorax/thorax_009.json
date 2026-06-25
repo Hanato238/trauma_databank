@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "損傷内容",
+  "entries": [
+    {
+      "code": "420699.3",
+      "description_ja": "腕頭 (無名) 静脈 詳細不明 [すべて OIS II のカテゴリー]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "420602.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420604.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420606.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420608.5",
+      "description_ja": "右心系に空気塞栓を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "421299.3",
+      "description_ja": "肺静脈 詳細不明 [すべて OIS IV, V のカテゴリー]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421202.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421204.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421206.5",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "421207.6",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "421699.3",
+      "description_ja": "鎖骨下静脈 詳細不明 [すべて OIS II のカテゴリー]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421602.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421604.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421606.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "421899.3",
+      "description_ja": "上大静脈, 胸腔内下静脈 詳細不明 [すべて OIS IV, V のカテゴリー]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421802.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421804.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下 血栓の有無を問わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421806.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "421808.5",
+      "description_ja": "右心系に空気塞栓を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "422299.2",
+      "description_ja": "その他の静脈, 例: 奇静脈, 気管支静脈, 食道静脈, 半奇静脈, 肋間静脈, 内頸静脈, 内胸静脈 [すべて OIS I のカテゴリー, 奇静脈と内頸静脈は OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "422202.2",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422204.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_009.jpg",
+  "body_part_normalized": "thorax"
+}

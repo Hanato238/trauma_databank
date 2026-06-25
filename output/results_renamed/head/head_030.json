@@ -1,0 +1,74 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140628.4",
+      "description_ja": null,
+      "description_en": "diffuse axonal injury (DAI) NFS [requires coma >6 hours or, if fatal within 6 hours, diagnosis is made by pathological examination]",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140625.4",
+      "description_ja": null,
+      "description_en": "DAI confined to white matter or basal ganglia",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140627.5",
+      "description_ja": null,
+      "description_en": "DAI involving corpus callosum",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140629.3",
+      "description_ja": null,
+      "description_en": "hematoma (hemorrhage) NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140630.3",
+      "description_ja": null,
+      "description_en": "epidural or extradural NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140631.2",
+      "description_ja": null,
+      "description_en": "tiny ; <0.6cm thick",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140632.4",
+      "description_ja": null,
+      "description_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140634.5",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140636.5",
+      "description_ja": null,
+      "description_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_030.jpg",
+  "body_part_normalized": "head"
+}

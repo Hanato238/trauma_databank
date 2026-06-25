@@ -1,0 +1,249 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "857600.2",
+      "description_ja": null,
+      "description_en": "Cuboid fracture NFSbb",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "857601.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857651.2",
+      "description_ja": null,
+      "description_en": "extra articular [coronal body split, no joint involvement]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857652.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857661.2",
+      "description_ja": null,
+      "description_en": "fracture line into one joint surface",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857662.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857671.2",
+      "description_ja": null,
+      "description_en": "fracture line into ≥2 joint surfaces",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857672.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857500.2",
+      "description_ja": null,
+      "description_en": "Cuneiform fracture NFSbb",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "857501.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857551.2",
+      "description_ja": null,
+      "description_en": "extra articular [coronal body split, no joint involvement]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857552.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857561.2",
+      "description_ja": null,
+      "description_en": "fracture line into one joint surface",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857562.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857571.2",
+      "description_ja": null,
+      "description_en": "fracture line into ≥2 joint surfaces",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857572.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858100.2",
+      "description_ja": null,
+      "description_en": "Metatarsal fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "858101.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858111.2",
+      "description_ja": null,
+      "description_en": "First Metatarsal fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "858112.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858151.2",
+      "description_ja": null,
+      "description_en": "extra articular or shaft",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858152.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858161.2",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858162.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858171.2",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858172.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858121.2",
+      "description_ja": null,
+      "description_en": "One of Four Lateral Metatarsals fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "858122.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858153.2",
+      "description_ja": null,
+      "description_en": "extra articular or shaft",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858154.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858163.2",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858164.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858173.2",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858174.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_085.jpg",
+  "body_part_normalized": "extremity"
+}

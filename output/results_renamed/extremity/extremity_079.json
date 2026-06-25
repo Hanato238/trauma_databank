@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "854441.2",
+      "description_ja": null,
+      "description_en": "Fibula [malleoli] fracture Also use this descriptor if specific anatomic location of a bi-malleolar fracture is not known. NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "854442.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854453.2",
+      "description_ja": null,
+      "description_en": "below ankle joint (infrasyndesmotic) ; isolated lateral malleolus ; Weber A",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854454.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854455.2",
+      "description_ja": null,
+      "description_en": "lateral and medial malleoli (bimalleolar)",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854456.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854461.2",
+      "description_ja": null,
+      "description_en": "through joint (transsyndesmotic) ; Weber B",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854462.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854463.2",
+      "description_ja": null,
+      "description_en": "lateral and medial malleoli (bimalleolar)",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854464.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854465.2",
+      "description_ja": null,
+      "description_en": "trimalleolar",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854466.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854471.2",
+      "description_ja": null,
+      "description_en": "above joint (suprasyndesmotic) ; isolated shaft, head or neck ; Weber C",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854472.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854500.2",
+      "description_ja": null,
+      "description_en": "Patella fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "854501.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854551.2",
+      "description_ja": null,
+      "description_en": "extra-articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854552.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854561.2",
+      "description_ja": null,
+      "description_en": "partial articular or extensor mechanism intact",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854562.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854571.2",
+      "description_ja": null,
+      "description_en": "complete articular or extensor mechanism disrupted",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854572.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_079.jpg",
+  "body_part_normalized": "extremity"
+}

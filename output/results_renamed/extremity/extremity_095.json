@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "856100.2",
+      "description_ja": null,
+      "description_en": "Pelvic ring fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856101.3",
+      "description_ja": null,
+      "description_en": "open but NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856151.2",
+      "description_ja": null,
+      "description_en": "Pelvic ring fracture, posterior arch intact ; isolated fracture not destroying the integrity of the pelvic ring",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856152.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856161.3",
+      "description_ja": null,
+      "description_en": "Pelvic ring fracture, incomplete disruption of posterior arch NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856162.4",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856163.4",
+      "description_ja": null,
+      "description_en": "blood loss ≤20% by volume",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856164.5",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "856171.4",
+      "description_ja": null,
+      "description_en": "Pelvic ring fracture, complete disruption of posterior arch and pelvic floor NFS",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856172.4",
+      "description_ja": null,
+      "description_en": "blood loss ≤20% by volume",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856173.5",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "856174.5",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_095.jpg",
+  "body_part_normalized": "extremity"
+}

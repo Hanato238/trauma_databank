@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "neck",
+  "section_title": "NECK",
+  "entries": [
+    {
+      "code": "341099.2",
+      "description_ja": null,
+      "description_en": "Salivary gland NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "341002.3",
+      "description_ja": null,
+      "description_en": "ductal involvement ; transection",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "341499.1",
+      "description_ja": null,
+      "description_en": "Thyroid gland NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "341402.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "341404.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "341699.2",
+      "description_ja": null,
+      "description_en": "Trachea injury in Neck NFSᵏ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "341602.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "341604.2",
+      "description_ja": null,
+      "description_en": "laceration ; tear NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "341606.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "341608.3",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "341610.4",
+      "description_ja": null,
+      "description_en": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "341899.2",
+      "description_ja": null,
+      "description_en": "Vocal cord NFS [not due to intubation]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "341802.2",
+      "description_ja": null,
+      "description_en": "unilateral",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "341804.3",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "350200.2",
+      "description_ja": null,
+      "description_en": "Hyoid fracture",
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_012.jpg",
+  "body_part_normalized": "neck"
+}

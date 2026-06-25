@@ -1,0 +1,81 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "腹 部",
+  "entries": [
+    {
+      "code": "541699.2",
+      "description_ja": "腎臓 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541610.2",
+      "description_ja": "挫傷;血腫 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541612.2",
+      "description_ja": "被膜下, 後腹膜腔に限局;実質の裂傷なし;小;表在 [OIS I, II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541614.3",
+      "description_ja": "被膜下;表面積の50%を超える, 増大;大;広範囲 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "541620.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541622.2",
+      "description_ja": "深さ1cm以下の腎皮質実質の損傷, 溢尿なし;小;表在性; [OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541624.3",
+      "description_ja": "深さ1cmを超える腎皮質実質の損傷, 腎盂腎杯の破裂, 溢尿なし;中等度; [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "541626.4",
+      "description_ja": "腎皮質を貫通し, 髄質, 腎盂腎杯に達する損傷;腎茎部の主要血管損傷で出血を伴う;大 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "541628.5",
+      "description_ja": "腎門部の断裂;腎組織および血管系の完全破壊 [OIS V]",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "541640.4",
+      "description_ja": "破裂",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_019.jpg",
+  "body_part_normalized": "abdomen"
+}

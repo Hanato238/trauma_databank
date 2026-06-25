@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Superior Lobe",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Superior division (culmen)",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Apico-posterior",
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Anterior",
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Lingular division",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Superior",
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Inferior",
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Inferior Lobe",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Superior",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Anteromedial basal",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Lateral basal",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Posterior basal",
+      "severity": 0,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_020.jpg",
+  "body_part_normalized": "thorax"
+}

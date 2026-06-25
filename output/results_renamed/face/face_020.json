@@ -1,0 +1,172 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "AIS 2005",
+  "entries": [
+    {
+      "code": "251099.1",
+      "description_ja": null,
+      "description_en": "Nose NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251000.1",
+      "description_ja": null,
+      "description_en": "fracture, closed or NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251002.2",
+      "description_ja": null,
+      "description_en": "open/displaced/comminuted",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251004.1",
+      "description_ja": null,
+      "description_en": "ruptured mucosa/vessels (epistaxis)",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251006.2",
+      "description_ja": null,
+      "description_en": "septum fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251200.2",
+      "description_ja": null,
+      "description_en": "Orbit fracture, closed or NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251201.2",
+      "description_ja": null,
+      "description_en": "open but NFS as to site",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "251205.2",
+      "description_ja": null,
+      "description_en": "multiple fractures of same orbit, closed or NFS^a",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "251206.2",
+      "description_ja": null,
+      "description_en": "open^a",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "251211.2",
+      "description_ja": null,
+      "description_en": "orbital rim, closed or NFS^a",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "251212.2",
+      "description_ja": null,
+      "description_en": "open NFS",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "251213.2",
+      "description_ja": null,
+      "description_en": "inferior orbital rim",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "251214.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "251215.2",
+      "description_ja": null,
+      "description_en": "superior orbital rim",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "251216.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "251221.2",
+      "description_ja": null,
+      "description_en": "orbital floor, closed or NFS^a",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "251222.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "251223.2",
+      "description_ja": null,
+      "description_en": "\"blowout\" fracture",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "251224.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 5
+    },
+    {
+      "code": "251231.2",
+      "description_ja": null,
+      "description_en": "medial wall, closed or NFS ^a",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "251232.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "251235.2",
+      "description_ja": null,
+      "description_en": "lateral wall, closed or NFS ^a",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "251236.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_020.jpg",
+  "body_part_normalized": "face"
+}

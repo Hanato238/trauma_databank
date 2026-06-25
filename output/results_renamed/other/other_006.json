@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "surface",
+  "section_title": "EXTERNAL (Skin) and THERMAL INJURIES",
+  "entries": [
+    {
+      "code": "912000.1",
+      "description_ja": null,
+      "description_en": "NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912002.1",
+      "description_ja": null,
+      "description_en": "1st degree; superficial if >1yo",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912003.1",
+      "description_ja": null,
+      "description_en": "≤1yo",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912004.2",
+      "description_ja": null,
+      "description_en": "≤1yo",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "912006.1",
+      "description_ja": null,
+      "description_en": "2nd degree; partial thickness",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912007.1",
+      "description_ja": null,
+      "description_en": "3rd degree; full thickness",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912008.2",
+      "description_ja": null,
+      "description_en": "3rd degree; full thickness",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "912012.2",
+      "description_ja": null,
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "912014.3",
+      "description_ja": null,
+      "description_en": "<5yo",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "912018.3",
+      "description_ja": null,
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "912020.4",
+      "description_ja": null,
+      "description_en": "<5yo",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "912024.4",
+      "description_ja": null,
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "912026.5",
+      "description_ja": null,
+      "description_en": "<5yo",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "912030.5",
+      "description_ja": null,
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "912032.6",
+      "description_ja": null,
+      "description_en": "2nd or 3rd degree; partial or full thickness including incineration",
+      "severity": 6,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_006.jpg",
+  "body_part_normalized": "other"
+}

@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "752600.1",
+      "description_ja": null,
+      "description_en": "Phalange fracture NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "752601.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752611.1",
+      "description_ja": null,
+      "description_en": "Thumb",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "752612.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752651.1",
+      "description_ja": null,
+      "description_en": "extra-articular or shaft",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752652.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "752661.1",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752662.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "752671.1",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752672.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "752621.1",
+      "description_ja": null,
+      "description_en": "One of Lateral Four Fingers",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "752622.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752653.1",
+      "description_ja": null,
+      "description_en": "extra-articular or shaft",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752654.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "752663.1",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752664.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "752673.1",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "752674.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_040.jpg",
+  "body_part_normalized": "extremity"
+}

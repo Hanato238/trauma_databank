@@ -1,0 +1,46 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "ABDOMEN",
+  "entries": [
+    {
+      "code": "521699.3",
+      "description_ja": null,
+      "description_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521602.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521604.3",
+      "description_ja": null,
+      "description_en": "minor with or without thrombosis ; superficial ; incomplete circumferential involvement ; blood loss <=20 % by volume",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521606.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "530499.1",
+      "description_ja": null,
+      "description_en": "Vagus nerve injury",
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_008.jpg",
+  "body_part_normalized": "abdomen"
+}

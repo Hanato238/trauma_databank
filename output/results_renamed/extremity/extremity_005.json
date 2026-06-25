@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上肢",
+  "entries": [
+    {
+      "code": "712000.2",
+      "description_ja": "軟部組織損傷により生じたコンパートメント症候群, 骨折や他の軟部組織以外の組織損傷を伴わない 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "712001.2",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712002.2",
+      "description_ja": "筋肉の欠損を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712003.3",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "712004.2",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712005.2",
+      "description_ja": "筋肉の欠損を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712006.2",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712007.2",
+      "description_ja": "筋肉の欠損を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712008.2",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712009.2",
+      "description_ja": "筋肉の欠損を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "713000.2",
+      "description_ja": "挫滅損傷 肩と手首の間の上肢, 具体的な部位については詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "713001.4",
+      "description_ja": "肩",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "713002.4",
+      "description_ja": "肘と肩の間 (肘を含む)",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "713003.3",
+      "description_ja": "手関節と肘の間 (手関節を含む)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "713004.2",
+      "description_ja": "手, 部分的または全体",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "713005.2",
+      "description_ja": "母指",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "713006.1",
+      "description_ja": "母指以外の指で1指または複数指",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "714000.2",
+      "description_ja": "デグロービング損傷 具体的な部位については詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "714001.3",
+      "description_ja": "上肢全体",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "714002.2",
+      "description_ja": "上腕または前腕, 肘を含む",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "714003.2",
+      "description_ja": "手関節または手",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "714004.2",
+      "description_ja": "指, 1指または複数指",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_005.jpg",
+  "body_part_normalized": "extremity"
+}

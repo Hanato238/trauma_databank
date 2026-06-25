@@ -1,0 +1,186 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上肢",
+  "entries": [
+    {
+      "code": "730099.9",
+      "description_ja": "上肢の神経損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "730299.1",
+      "description_ja": "指神経 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730202.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730204.1",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730499.1",
+      "description_ja": "正中神経 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730402.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730404.2",
+      "description_ja": "裂傷・裂創; 剥離",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730406.2",
+      "description_ja": "運動麻痺を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730699.1",
+      "description_ja": "橈骨神経 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730602.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730604.2",
+      "description_ja": "裂傷・裂創; 剥離",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730606.2",
+      "description_ja": "運動麻痺を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730899.1",
+      "description_ja": "尺骨神経 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "730802.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "730804.2",
+      "description_ja": "裂傷・裂創; 剥離",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "730806.2",
+      "description_ja": "運動麻痺を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "740099.9",
+      "description_ja": "筋肉, 腱, 靭帯の損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "740600.1",
+      "description_ja": "関節包裂傷・裂創; 破裂; 断裂; 剥離",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "740400.1",
+      "description_ja": "筋肉裂傷・裂創; 剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "740401.1",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "740403.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "740402.1",
+      "description_ja": "挫傷; ストレイン (部分的過伸展損傷)",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "740200.1",
+      "description_ja": "腱断裂・剥離",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "740210.1",
+      "description_ja": "手の複数損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "740220.1",
+      "description_ja": "手以外の複数損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_015.jpg",
+  "body_part_normalized": "extremity"
+}

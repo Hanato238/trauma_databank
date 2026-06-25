@@ -1,0 +1,60 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "100099.9",
+      "description_ja": null,
+      "description_en": "Injuries to the Head NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "100999.9",
+      "description_ja": null,
+      "description_en": "Died of head injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "110009.1",
+      "description_ja": null,
+      "description_en": "Head Injury NFS involving only headache",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "113000.6",
+      "description_ja": null,
+      "description_en": "Crush Injury. Must involve massive destruction of skull, brain and intracranial contents.",
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "116000.3",
+      "description_ja": null,
+      "description_en": "Penetrating Injury to Skull NFSᵃ",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "116002.3",
+      "description_ja": null,
+      "description_en": "superficial ; ≤ 2cm beneath entrance",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "116004.5",
+      "description_ja": null,
+      "description_en": "major ; >2cm penetration",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_002.jpg",
+  "body_part_normalized": "head"
+}

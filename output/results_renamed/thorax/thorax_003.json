@@ -1,0 +1,74 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸 部",
+  "entries": [
+    {
+      "code": "400999.9",
+      "description_ja": "胸部全体の損傷 詳細不明 (具体的な損傷の詳細な記載がない, または剖検による損傷部位の特定がなされていない胸部損傷による死亡)",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "411000.2",
+      "description_ja": "乳房の剥離創, 女性",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "413000.6",
+      "description_ja": "挫滅損傷 (骨格, 血管, 臓器, 組織系の広範な両側性高度損傷を伴わなくてはならない。)",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "415000.4",
+      "description_ja": "開放性胸壁損傷（吸い込み創）",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "410102.2",
+      "description_ja": "胸筋剥離；裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "416000.1",
+      "description_ja": "穿通性損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "416002.1",
+      "description_ja": "表在性；小；胸腔内に達するが深部組織の損傷は認めない",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "416004.2",
+      "description_ja": "組織欠損が100cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "416006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_003.jpg",
+  "body_part_normalized": "thorax"
+}

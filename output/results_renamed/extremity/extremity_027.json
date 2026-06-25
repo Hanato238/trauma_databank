@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "損傷内容",
+  "entries": [
+    {
+      "code": "751100.2",
+      "description_ja": "上腕骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751101.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751111.2",
+      "description_ja": "近位部骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751112.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751151.2",
+      "description_ja": "関節外；単純 [大結節または小結節または骨幹端]: 単純骨折線",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751152.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "751161.2",
+      "description_ja": "関節外；双極 [大結節または小結節と骨幹端]: 2つ以上の骨折線",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751162.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751171.2",
+      "description_ja": "関節；骨頭または解剖頸",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751172.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751221.2",
+      "description_ja": "骨幹部骨折 開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751222.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751251.2",
+      "description_ja": "単純；斜；横",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751252.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "751261.2",
+      "description_ja": "楔状；\"蝶形\" 破片",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751262.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751271.2",
+      "description_ja": "複雑；粉砕；分節",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751272.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751331.2",
+      "description_ja": "遠位部骨折 開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751332.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751351.2",
+      "description_ja": "関節外；顆上",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751352.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "751361.2",
+      "description_ja": "部分関節内；小頭",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751362.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "751371.2",
+      "description_ja": "完全関節内；T字型；Y字型；顆部骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "751372.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_027.jpg",
+  "body_part_normalized": "extremity"
+}

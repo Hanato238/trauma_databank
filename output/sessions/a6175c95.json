@@ -1,0 +1,252 @@
+{
+  "session_id": "a6175c95",
+  "created_at": "2026-06-23T13:47:41.176498",
+  "status": "in_progress",
+  "fields": {
+    "2": {
+      "value": 46,
+      "raw": "46歳"
+    },
+    "3": {
+      "value": 1,
+      "raw": "男性"
+    },
+    "5": {
+      "value": "2026/06/22",
+      "raw": "2026/6/22"
+    },
+    "6": {
+      "value": "06:00",
+      "raw": "0600"
+    },
+    "8": {
+      "value": 1,
+      "raw": "階段から転落"
+    },
+    "10": {
+      "value": 1,
+      "raw": "救急搬送"
+    },
+    "11": {
+      "value": [
+        1
+      ],
+      "raw": "救急搬送"
+    },
+    "17": {
+      "value": "2026/06/22 07:00",
+      "raw": "院着0700"
+    },
+    "49": {
+      "value": 1,
+      "raw": "飲酒後に"
+    },
+    "7": {
+      "value": 1,
+      "raw": "不慮の事故",
+      "unknown": false
+    },
+    "9": {
+      "value": "転倒・転落（高さ1m以上）",
+      "raw": "6",
+      "unknown": false
+    },
+    "13": {
+      "value": null,
+      "raw": "不明",
+      "unknown": true
+    },
+    "14": {
+      "value": null,
+      "raw": "不明",
+      "unknown": true
+    },
+    "16": {
+      "value": null,
+      "raw": "不明",
+      "unknown": true
+    },
+    "19": {
+      "value": 1,
+      "raw": "あり",
+      "unknown": false
+    },
+    "21": {
+      "value": 70,
+      "raw": "70",
+      "unknown": false
+    },
+    "22": {
+      "value": 70,
+      "raw": "70",
+      "unknown": false
+    },
+    "23": {
+      "value": 20,
+      "raw": "20",
+      "unknown": false
+    },
+    "24": {
+      "value": 300,
+      "raw": "Ⅲ-300",
+      "unknown": false
+    },
+    "38": {
+      "value": 70,
+      "raw": "70",
+      "unknown": false
+    },
+    "40": {
+      "value": 20,
+      "raw": "20",
+      "unknown": false
+    },
+    "41": {
+      "value": 70,
+      "raw": "70",
+      "unknown": false
+    },
+    "42": {
+      "value": 36.8,
+      "raw": "36.8",
+      "unknown": false
+    },
+    "43": {
+      "value": 1,
+      "raw": "腋窩",
+      "unknown": false
+    },
+    "44": {
+      "value": 300,
+      "raw": "Ⅲ-300",
+      "unknown": false
+    },
+    "45": {
+      "value": 1,
+      "raw": "1（開眼なし）",
+      "unknown": false
+    },
+    "46": {
+      "value": 1,
+      "raw": "1（発語なし）",
+      "unknown": false
+    },
+    "47": {
+      "value": 1,
+      "raw": "1（なし）",
+      "unknown": false
+    },
+    "52": {
+      "value": [
+        0
+      ],
+      "raw": "既往疾患なし",
+      "unknown": false
+    },
+    "54": {
+      "value": 2,
+      "raw": "陰性（出血なし）",
+      "unknown": false
+    },
+    "55": {
+      "value": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "raw": "頭部 / 頚部 / 胸部 / 腹部 / 骨盤 / 脊椎",
+      "unknown": false
+    },
+    "57": {
+      "value": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "raw": "頭部 / 頚部 / 胸部 / 腹部 / 骨盤 / 他",
+      "unknown": false
+    },
+    "59": {
+      "value": [
+        "気管挿管"
+      ],
+      "raw": "1",
+      "unknown": false
+    },
+    "60": {
+      "value": 2,
+      "raw": "なし",
+      "unknown": false
+    },
+    "63": {
+      "value": [
+        11
+      ],
+      "raw": "その他",
+      "unknown": false
+    },
+    "64": {
+      "value": null,
+      "raw": "不明",
+      "unknown": true
+    },
+    "67": {
+      "value": [
+        "その他"
+      ],
+      "raw": "8",
+      "unknown": false
+    },
+    "68": {
+      "value": [
+        "その他"
+      ],
+      "raw": "9",
+      "unknown": false
+    },
+    "80": {
+      "value": [
+        "なし"
+      ],
+      "raw": "なし",
+      "unknown": false
+    },
+    "81": {
+      "value": 1,
+      "raw": "救命救急センター（ICU）入院",
+      "unknown": false
+    },
+    "82": {
+      "value": 1,
+      "raw": "救急科（救急専従医）",
+      "unknown": false
+    },
+    "85": {
+      "value": null,
+      "raw": "不明",
+      "unknown": true
+    },
+    "87": {
+      "value": null,
+      "raw": "不明",
+      "unknown": true
+    }
+  },
+  "injuries": {
+    "70": [
+      "鼻漏（脳脊髄液漏出の疑い）"
+    ],
+    "71": [],
+    "72": [],
+    "73": [],
+    "74": [],
+    "75": []
+  },
+  "history": []
+}

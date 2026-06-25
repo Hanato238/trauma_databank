@@ -1,0 +1,18 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": "422206.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss > 20% by volume",
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_010.jpg",
+  "body_part_normalized": "thorax"
+}

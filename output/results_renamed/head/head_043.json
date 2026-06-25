@@ -1,0 +1,81 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部（頭蓋と脳）",
+  "entries": [
+    {
+      "code": "150000.2",
+      "description_ja": "頭蓋骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "150200.3",
+      "description_ja": "頭蓋底骨折 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "150202.3",
+      "description_ja": "髄液漏を伴わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "150204.3",
+      "description_ja": "髄液漏を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "150206.4",
+      "description_ja": "複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折; 粉砕骨折; 塊状骨折; 蝶番骨折",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "150400.2",
+      "description_ja": "頭蓋冠骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "150402.2",
+      "description_ja": "閉鎖性：単純：偏位なし; 縫合離開; 線状",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "150404.3",
+      "description_ja": "粉砕：硬膜損傷は伴わないが骨折部が露出しているもの; 2 cm以下の陥没; 偏位あり",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "150406.4",
+      "description_ja": "複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "150408.4",
+      "description_ja": "広範囲：大きな面積にわたって2cmを超える陥没",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_043.jpg",
+  "body_part_normalized": "head"
+}

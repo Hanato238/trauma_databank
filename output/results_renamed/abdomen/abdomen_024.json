@@ -1,0 +1,172 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "ABDOMEN",
+  "entries": [
+    {
+      "code": "542299.2",
+      "description_ja": null,
+      "description_en": "Omentum NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542210.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542220.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542222.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542224.3",
+      "description_ja": null,
+      "description_en": "major",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "542400.2",
+      "description_ja": null,
+      "description_en": "Ovarian (Fallopian) tube laceration",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542699.1",
+      "description_ja": null,
+      "description_en": "Ovary NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "542610.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "542620.1",
+      "description_ja": null,
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "542622.1",
+      "description_ja": null,
+      "description_en": "superficial ; <=.5cm ; minor [OIS II]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "542623.2",
+      "description_ja": null,
+      "description_en": "deep ; >.5cm [OIS III]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542624.2",
+      "description_ja": null,
+      "description_en": "complete parenchymal destruction ; massive ; avulsion ; complex [OIS IV, V]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542899.2",
+      "description_ja": null,
+      "description_en": "Pancreas NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542810.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542812.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; no duct involvement [OIS I]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542814.3",
+      "description_ja": null,
+      "description_en": "major ; large ; extensive ; with duct involvement [OIS II]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "542820.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542822.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; no duct involvement [OIS I]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542824.3",
+      "description_ja": null,
+      "description_en": "moderate ; major vessel or major duct involvement ; distal transection [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "542826.4",
+      "description_ja": null,
+      "description_en": "if involving ampulla [OIS IV]",
+      "severity": 4,
+      "level": 4
+    },
+    {
+      "code": "542828.4",
+      "description_ja": null,
+      "description_en": "major ; multiple lacerations ; proximal transection [OIS IV]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "542830.4",
+      "description_ja": null,
+      "description_en": "if involving ampulla [OIS IV]",
+      "severity": 4,
+      "level": 4
+    },
+    {
+      "code": "542832.5",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; tissue loss ; massive disruption of pancreatic head [OIS V]",
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_024.jpg",
+  "body_part_normalized": "abdomen"
+}

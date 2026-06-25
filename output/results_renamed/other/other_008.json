@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "other",
+  "section_title": "OTHER TRAUMA",
+  "entries": [
+    {
+      "code": "020000.3",
+      "description_ja": null,
+      "description_en": "Asphyxia/Suffocation NFSᵃ",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "020002.3",
+      "description_ja": null,
+      "description_en": "without neurological deficit",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "020004.4",
+      "description_ja": null,
+      "description_en": "with neurological deficit",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "020006.5",
+      "description_ja": null,
+      "description_en": "with cardiac arrest documented by medical personnel",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "040099.9",
+      "description_ja": null,
+      "description_en": "Caustic Agents NFSᶠ",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "060000.3",
+      "description_ja": null,
+      "description_en": "Drowning NFSᵃ",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "060002.3",
+      "description_ja": null,
+      "description_en": "near drowning, no neurological deficit",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "060004.4",
+      "description_ja": null,
+      "description_en": "near drowning with neurological deficit",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "060006.5",
+      "description_ja": null,
+      "description_en": "with cardiac arrest documented by medical personnel",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "080000.2",
+      "description_ja": null,
+      "description_en": "Electrical injury NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "080002.3",
+      "description_ja": null,
+      "description_en": "with muscle necrosis",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "080004.5",
+      "description_ja": null,
+      "description_en": "with cardiac arrest documented by medical personnel",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_008.jpg",
+  "body_part_normalized": "other"
+}

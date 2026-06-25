@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "neck",
+  "section_title": "頚 部",
+  "entries": [
+    {
+      "code": "340199.2",
+      "description_ja": "頚部食道 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340102.2",
+      "description_ja": "挫傷；血腫（OIS I）",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340103.3",
+      "description_ja": "経口摂取による障害 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340104.3",
+      "description_ja": "非全層性壊死",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340105.4",
+      "description_ja": "全層性壊死",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340106.3",
+      "description_ja": "裂傷・裂創；詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340107.3",
+      "description_ja": "穿孔なし；非全層性；周径の50%以下 (OIS I, II)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340108.4",
+      "description_ja": "穿孔；全層性；周径の50%を超える (OIS III)",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340109.5",
+      "description_ja": "剥離；破裂；離断；広範囲損傷 (OIS IV, V)",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "340299.2",
+      "description_ja": "喉頭（甲状腺、輪状軟骨を含む）詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340202.2",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340204.2",
+      "description_ja": "裂傷・裂創；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340206.2",
+      "description_ja": "穿孔なし；非全層性；粘膜裂傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340208.3",
+      "description_ja": "穿孔；全層性；“骨折”",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340210.4",
+      "description_ja": "声帯損傷",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340212.5",
+      "description_ja": "剥離；破裂；離断；広範囲損傷；挫滅",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "340699.2",
+      "description_ja": "咽頭または後咽頭領域 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340602.2",
+      "description_ja": "挫傷；血腫 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340603.2",
+      "description_ja": "小；気道損傷の75%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "340605.3",
+      "description_ja": "大；気道損傷の75%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "340604.2",
+      "description_ja": "裂傷・裂創；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "340606.3",
+      "description_ja": "穿孔なし；非全層性；粘膜裂傷",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "340608.4",
+      "description_ja": "穿孔；全層性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "340610.5",
+      "description_ja": "剥離；破裂；離断；広範囲損傷；挫滅",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_011.jpg",
+  "body_part_normalized": "neck"
+}

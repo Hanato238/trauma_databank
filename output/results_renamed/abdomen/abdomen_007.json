@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "腹部",
+  "entries": [
+    {
+      "code": "521199.3",
+      "description_ja": "上腸間膜動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521102.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521104.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521106.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521108.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "521499.3",
+      "description_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521404.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521406.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521408.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520899.3",
+      "description_ja": "腸骨静脈 [総] 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "520802.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520804.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520806.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 全周性; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "521099.2",
+      "description_ja": "腸骨静脈 [内, 外] 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "521002.2",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "521004.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "521006.3",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521299.3",
+      "description_ja": "下大静脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521202.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521204.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521206.4",
+      "description_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_007.jpg",
+  "body_part_normalized": "abdomen"
+}

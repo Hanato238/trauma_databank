@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "neck",
+  "section_title": "頚 部",
+  "entries": [
+    {
+      "code": "300099.9",
+      "description_ja": "頚部への損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "300999.9",
+      "description_ja": "他の詳細な損傷や、他がい頚部損傷による死亡",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "311000.6",
+      "description_ja": "断頭",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "316000.1",
+      "description_ja": "貫通性損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "316002.1",
+      "description_ja": "小; 表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "316004.2",
+      "description_ja": "組織欠損が25cm²を超え",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "316006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "310099.1",
+      "description_ja": "皮膚/皮下組織/筋肉 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "310202.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310402.1",
+      "description_ja": "挫傷; 血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310602.1",
+      "description_ja": "小; 表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "310604.2",
+      "description_ja": "大; 長さが10cmを超え, かつ皮下に達する",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "310606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "310800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "310802.1",
+      "description_ja": "小; 表在性; 25cm²以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "310804.2",
+      "description_ja": "大; 組織欠損が25cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "310806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_003.jpg",
+  "body_part_normalized": "neck"
+}

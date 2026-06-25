@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸 部",
+  "entries": [
+    {
+      "code": null,
+      "description_ja": "肺 (続き)",
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "419200.2",
+      "description_ja": "吸引損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "下記の外傷記述においていずれか1つ以上の状態があれば選択する。",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "419201.2",
+      "description_ja": "すすの沈着, 発赤, 浮腫, 気道分泌物, 気管支閉塞の所見がない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "419202.3",
+      "description_ja": "近位または遠位気管支への軽度または斑状の発赤, 気道分泌物, すすの沈着がある",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "419204.4",
+      "description_ja": "中等度の発赤, すすの沈着, 気道分泌物 (ただし, 気管支損傷の有無を問わない)",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "419206.5",
+      "description_ja": "重度の炎症, 多量のすすの沈着, 多量の気道分泌物, 気管支閉塞, 低酸素血症",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "419208.6",
+      "description_ja": "粘膜の脱落, 壊死, 内腔の消失",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "441699.2",
+      "description_ja": "心膜 (心嚢) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "441602.2",
+      "description_ja": "裂傷・裂創; 穿刺",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "441603.3",
+      "description_ja": "心膜 (心嚢) ・心膜血腫 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "441604.3",
+      "description_ja": "心タンポナーデや心損傷を伴わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "441605.4",
+      "description_ja": "心損傷を合併しない心タンポナーデ",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "441606.5",
+      "description_ja": "心嚢からのヘルニア",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "441800.2",
+      "description_ja": "胸膜 裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_023.jpg",
+  "body_part_normalized": "thorax"
+}

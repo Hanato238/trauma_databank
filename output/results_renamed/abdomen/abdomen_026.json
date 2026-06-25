@@ -1,0 +1,172 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "AIS 2005",
+  "entries": [
+    {
+      "code": "543099.1",
+      "description_ja": null,
+      "description_en": "Penis NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "543010.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "543020.1",
+      "description_ja": null,
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "543022.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial [OIS II, III]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "543024.2",
+      "description_ja": null,
+      "description_en": "major [OIS IV]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "543026.2",
+      "description_ja": null,
+      "description_en": "massive ; amputation ; avulsion ; complex ; [OIS V]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "543299.1",
+      "description_ja": null,
+      "description_en": "Perineum NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "543210.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "543220.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "543222.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "543224.2",
+      "description_ja": null,
+      "description_en": "major",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "543226.3",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "543599.1",
+      "description_ja": null,
+      "description_en": "Prostate NFSᵃ",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "543510.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematomaᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "543520.2",
+      "description_ja": null,
+      "description_en": "laceration NFSᵃ",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "543522.3",
+      "description_ja": null,
+      "description_en": "involving urethraᵃ",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "543699.2",
+      "description_ja": null,
+      "description_en": "Rectum NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "543610.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "543620.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "543622.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness ; ≤50% of circumfer-ence [OIS I, II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "543624.3",
+      "description_ja": null,
+      "description_en": "full thickness ; >50% circumference [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "543625.4",
+      "description_ja": null,
+      "description_en": "extending into perineum [OIS IV]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "543626.5",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; tissue loss ; devascularization [OIS V]",
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_026.jpg",
+  "body_part_normalized": "abdomen"
+}

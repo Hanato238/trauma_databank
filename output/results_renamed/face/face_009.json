@@ -1,0 +1,207 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head/face/neck",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "240499.1",
+      "description_ja": "目 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240402.2",
+      "description_ja": "眼球脱出; 摘出",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "240403.3",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "240408.1",
+      "description_ja": "涙管裂傷・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240599.1",
+      "description_ja": "脈絡膜 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240502.1",
+      "description_ja": "破裂",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240504.1",
+      "description_ja": "末梢-黄斑を含まない",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240506.1",
+      "description_ja": "中心-黄斑を含む",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240508.1",
+      "description_ja": "裂離",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240510.1",
+      "description_ja": "出血",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240416.1",
+      "description_ja": "結膜損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240699.1",
+      "description_ja": "角膜損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240602.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240603.1",
+      "description_ja": "熱傷または化学熱傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240604.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240610.1",
+      "description_ja": "前房出血 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240611.1",
+      "description_ja": "小; 前眼房の50%以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240612.1",
+      "description_ja": "大; 前眼房の50%を超える",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240620.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240621.1",
+      "description_ja": "角膜の中心3mmを含まない",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240622.1",
+      "description_ja": "脱出なし",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240623.1",
+      "description_ja": "脱出あり",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240624.1",
+      "description_ja": "角膜の中心3mmを含む",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240625.1",
+      "description_ja": "脱出なし",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240626.1",
+      "description_ja": "脱出あり",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240799.1",
+      "description_ja": "眼球内異物遺残を伴う損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "240789.1",
+      "description_ja": "前眼房",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "240779.1",
+      "description_ja": "後眼房",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_009.jpg",
+  "body_part_normalized": "face"
+}

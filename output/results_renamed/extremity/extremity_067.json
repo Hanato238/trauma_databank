@@ -1,0 +1,32 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS and BUTTOCKS",
+  "entries": [
+    {
+      "code": "850099.9",
+      "description_ja": null,
+      "description_en": "Lower Extremity fracture NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "852002.2",
+      "description_ja": null,
+      "description_en": "Leg fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "852004.2",
+      "description_ja": null,
+      "description_en": "Foot fracture NFS",
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_067.jpg",
+  "body_part_normalized": "extremity"
+}

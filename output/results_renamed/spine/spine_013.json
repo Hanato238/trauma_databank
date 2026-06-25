@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "spine",
+  "section_title": "頸椎",
+  "entries": [
+    {
+      "code": "650216.2",
+      "description_ja": "頸椎骨折 (頸髄損傷は伴わないが脱臼の有無は問わない) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650217.2",
+      "description_ja": "同一椎骨の多部位に及ぶ骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650218.2",
+      "description_ja": "棘突起",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650220.2",
+      "description_ja": "横突起",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650222.2",
+      "description_ja": "関節突起",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650224.2",
+      "description_ja": "椎弓",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650226.2",
+      "description_ja": "椎弓根",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650228.3",
+      "description_ja": "歯突起 (軸椎)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "650230.2",
+      "description_ja": "椎体 詳細不明 [\"破裂骨折\"に使用]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650232.2",
+      "description_ja": "圧迫骨折 小 (椎体前面高の減少が20%以下)",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650234.3",
+      "description_ja": "圧迫骨折 大 (椎体前面高の減少が20%を超える)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640284.1",
+      "description_ja": "棘間靱帯損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "630260.2",
+      "description_ja": "神経根 単発あるいは多発 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630202.2",
+      "description_ja": "挫傷・伸展損傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "630204.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "630206.2",
+      "description_ja": "単一神経根",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "630208.3",
+      "description_ja": "複数神経根",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "630262.2",
+      "description_ja": "引き抜き損傷 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "630264.2",
+      "description_ja": "単一神経根",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "630266.3",
+      "description_ja": "複数神経根",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640278.1",
+      "description_ja": "捻挫, 急性, 骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_013.jpg",
+  "body_part_normalized": "spine"
+}

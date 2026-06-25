@@ -1,0 +1,186 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "770099.9",
+      "description_ja": null,
+      "description_en": "Upper extremity joint injury NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "770799.1",
+      "description_ja": null,
+      "description_en": "Acromioclavicular joint NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "770789.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770710.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770720.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770730.2",
+      "description_ja": null,
+      "description_en": "dislocation",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "770731.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "772499.1",
+      "description_ja": null,
+      "description_en": "Carpal (wrist) joint NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772489.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772410.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772420.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772430.1",
+      "description_ja": null,
+      "description_en": "dislocation [carpal]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772431.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "772230.1",
+      "description_ja": null,
+      "description_en": "dislocation [distal radioulnar]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772231.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "772330.2",
+      "description_ja": null,
+      "description_en": "dislocation [radiocarpal]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "772331.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "772099.1",
+      "description_ja": null,
+      "description_en": "Elbow joint NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772089.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772010.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772020.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772030.1",
+      "description_ja": null,
+      "description_en": "dislocation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772031.1",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "772032.1",
+      "description_ja": null,
+      "description_en": "with radial head involvement [proximal radioulnar]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "772033.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_016.jpg",
+  "body_part_normalized": "extremity"
+}

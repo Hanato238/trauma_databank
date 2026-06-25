@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "752800.2",
+      "description_ja": null,
+      "description_en": "Radius fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752801.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752111.2",
+      "description_ja": null,
+      "description_en": "Proximal radius",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752112.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752151.2",
+      "description_ja": null,
+      "description_en": "extra-articular ; radial neck",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752152.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752161.2",
+      "description_ja": null,
+      "description_en": "partial articular ; radial head",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752162.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752171.2",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752172.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752211.2",
+      "description_ja": null,
+      "description_en": "Radius shaft fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752212.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752251.2",
+      "description_ja": null,
+      "description_en": "simple ; oblique ; transverse",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752252.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752261.2",
+      "description_ja": null,
+      "description_en": "wedge ; “butterfly” fragment",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752262.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752271.2",
+      "description_ja": null,
+      "description_en": "complex ; comminuted ; segmental",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752272.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752311.2",
+      "description_ja": null,
+      "description_en": "Distal Radius fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752312.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752351.2",
+      "description_ja": null,
+      "description_en": "extra-articular [includes styloid]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752352.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752361.2",
+      "description_ja": null,
+      "description_en": "partial articular ; Colles",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752362.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752371.2",
+      "description_ja": null,
+      "description_en": "complete articular ; T-shaped ; Y-shaped ; T-condy-lar ; Barton",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752372.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_030.jpg",
+  "body_part_normalized": "extremity"
+}

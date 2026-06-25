@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "752400.2",
+      "description_ja": null,
+      "description_en": "Carpus fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752401.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752451.2",
+      "description_ja": null,
+      "description_en": "scaphoid only",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752452.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752461.2",
+      "description_ja": null,
+      "description_en": "bone other than scaphoid",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752462.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752471.2",
+      "description_ja": null,
+      "description_en": "≥2 carpal bones",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752472.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752500.2",
+      "description_ja": null,
+      "description_en": "Metacarpus fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752501.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752511.2",
+      "description_ja": null,
+      "description_en": "Thumb",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752512.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752551.2",
+      "description_ja": null,
+      "description_en": "extra-articular or shaft",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752552.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752561.2",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752562.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752571.2",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752572.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752521.2",
+      "description_ja": null,
+      "description_en": "One of Lateral Four Fingers",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752522.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752553.2",
+      "description_ja": null,
+      "description_en": "extra-articular or shaft",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752554.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752563.2",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752564.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752573.2",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752574.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_038.jpg",
+  "body_part_normalized": "extremity"
+}

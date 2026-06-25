@@ -1,0 +1,123 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140410.3",
+      "description_ja": null,
+      "description_en": "hematoma (hemorrhage) NFS",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140414.3",
+      "description_ja": null,
+      "description_en": "epidural or extradural NFS [include perilesional edema for size]",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140416.2",
+      "description_ja": null,
+      "description_en": "tiny ; <0.6cm thick^a",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140418.4",
+      "description_ja": null,
+      "description_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140422.5",
+      "description_ja": null,
+      "description_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "140426.3",
+      "description_ja": null,
+      "description_en": "intracerebellar including petechial and subcortical NFS [include perilesional edema for size]",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140428.2",
+      "description_ja": null,
+      "description_en": "tiny ; <0.6cm diameter [includes radiographic “shearing” lesions]^a",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140430.4",
+      "description_ja": null,
+      "description_en": "small ; ≤15cc ; 0.6–3cm diameter",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140434.5",
+      "description_ja": null,
+      "description_en": "large ; >15cc ; >3cm diameter",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140438.3",
+      "description_ja": null,
+      "description_en": "subdural NFS",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140440.2",
+      "description_ja": null,
+      "description_en": "tiny ; <0.6cm thick^a",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140442.4",
+      "description_ja": null,
+      "description_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140446.5",
+      "description_ja": null,
+      "description_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140474.3",
+      "description_ja": null,
+      "description_en": "laceration [not from penetrating injury] NFS^e",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140473.3",
+      "description_ja": null,
+      "description_en": "≤2cm length or depth",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140472.4",
+      "description_ja": null,
+      "description_en": ">2cm length or depth",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_024.jpg",
+  "body_part_normalized": "head"
+}

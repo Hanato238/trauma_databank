@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "spine",
+  "section_title": "LUMBAR SPINE",
+  "entries": [
+    {
+      "code": "640640.5",
+      "description_ja": null,
+      "description_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640642.5",
+      "description_ja": null,
+      "description_en": "incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640644.5",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640646.5",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640648.5",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640650.5",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640660.5",
+      "description_ja": null,
+      "description_en": "complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640662.5",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640664.5",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640666.5",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640668.5",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "650699.2",
+      "description_ja": null,
+      "description_en": "Disc injury NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650600.2",
+      "description_ja": null,
+      "description_en": "herniation NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650602.2",
+      "description_ja": null,
+      "description_en": "no nerve root damage (radiculopathy)",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "650603.3",
+      "description_ja": null,
+      "description_en": "with nerve root damage (radiculopathy)",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "650605.3",
+      "description_ja": null,
+      "description_en": "rupture",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "650604.2",
+      "description_ja": null,
+      "description_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650609.2",
+      "description_ja": null,
+      "description_en": "facet NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650610.2",
+      "description_ja": null,
+      "description_en": "unilateral",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "650612.3",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_024.jpg",
+  "body_part_normalized": "spine"
+}

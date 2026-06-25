@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "753200.2",
+      "description_ja": null,
+      "description_en": "Ulna fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "753201.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752113.2",
+      "description_ja": null,
+      "description_en": "Proximal Ulna fracture [olecranon]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752114.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752153.2",
+      "description_ja": null,
+      "description_en": "extra-articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752154.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752163.2",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752164.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752173.2",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752174.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752213.2",
+      "description_ja": null,
+      "description_en": "Ulna Shaft fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752214.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752253.2",
+      "description_ja": null,
+      "description_en": "simple ; oblique ; transverse",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752254.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752263.2",
+      "description_ja": null,
+      "description_en": "wedge ; “butterfly” fragment",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752264.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752273.2",
+      "description_ja": null,
+      "description_en": "complex ; comminuted ; segmental",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752274.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752313.2",
+      "description_ja": null,
+      "description_en": "Distal Ulna fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752314.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752353.2",
+      "description_ja": null,
+      "description_en": "extra-articular [includes styloid]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752354.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752363.2",
+      "description_ja": null,
+      "description_en": "partial articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752364.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "752373.2",
+      "description_ja": null,
+      "description_en": "complete articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752374.3",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_034.jpg",
+  "body_part_normalized": "extremity"
+}

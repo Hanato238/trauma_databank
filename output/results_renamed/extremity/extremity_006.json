@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "Injury Description",
+  "entries": [
+    {
+      "code": "716000.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury NFS as to specific anatomical site",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "716002.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "716004.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716006.3",
+      "description_ja": null,
+      "description_en": "with blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "716010.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury at shoulder, NFS as to severity",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "716011.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "716012.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716013.3",
+      "description_ja": null,
+      "description_en": "with blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "716014.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury at or above elbow, below shoulder, NFS as to severity",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "716015.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "716016.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716017.3",
+      "description_ja": null,
+      "description_en": "with blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "716018.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury below elbow, at or above wrist, NFS as to severity",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "716019.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "716020.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716022.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury hand, partial or complete, NFS as to severity",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "716023.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "716024.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716026.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury thumb, NFS as to severity",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "716027.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "716028.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "716030.1",
+      "description_ja": null,
+      "description_en": "Penetrating injury non-thumb finger, NFS as to severity",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "716031.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "716032.2",
+      "description_ja": null,
+      "description_en": "with tissue loss >25cm²",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_006.jpg",
+  "body_part_normalized": "extremity"
+}

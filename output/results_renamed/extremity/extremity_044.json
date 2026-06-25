@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "800099.9",
+      "description_ja": "下肢損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "800999.9",
+      "description_ja": "下肢損傷で死亡 詳細な評価や損傷を特定しうる剖検なし",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "811000.3",
+      "description_ja": "股関節と足の間の不完全または完全[外傷性],切断",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "811001.4",
+      "description_ja": "股関節または殿部で切断",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "811010.5",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "811002.4",
+      "description_ja": "膝関節と股関節の間(膝関節を含む)",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "811012.5",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "811003.3",
+      "description_ja": "足関節と膝関節の間(足関節を含む)",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "811004.2",
+      "description_ja": "足部,不完全または完全",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "811005.2",
+      "description_ja": "母趾",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "811006.2",
+      "description_ja": "他の趾,1本または複数本",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_044.jpg",
+  "body_part_normalized": "extremity"
+}

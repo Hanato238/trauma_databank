@@ -1,0 +1,109 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": null,
+      "description_ja": "震盪損傷",
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "161000.1",
+      "description_ja": "脳震盪 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "161001.1",
+      "description_ja": "軽症脳震盪 意識消失なし",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "161002.2",
+      "description_ja": "短時間の意識消失 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "161003.2",
+      "description_ja": "1時間未満の意識消失 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "161004.2",
+      "description_ja": "30分以下の意識消失",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "161005.2",
+      "description_ja": "31～59分の意識消失",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "161006.3",
+      "description_ja": "1～6時間の意識消失 (重症脳震盪)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "161007.4",
+      "description_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "161008.4",
+      "description_ja": "6～24時間の意識消失 (軽症びまん性軸索損傷)",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "161011.5",
+      "description_ja": "24時間を超える意識消失 詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "161012.5",
+      "description_ja": "脳幹症状を伴わない (中等症びまん性軸索損傷)",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "脳幹症状: 除脳状態; 除皮質状態",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "161013.5",
+      "description_ja": "脳幹症状を伴う (重症びまん性軸索損傷)",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_047.jpg",
+  "body_part_normalized": "head"
+}

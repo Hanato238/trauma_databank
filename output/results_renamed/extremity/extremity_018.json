@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "772599.1",
+      "description_ja": null,
+      "description_en": "Metacarpophalangeal or Interphalangeal joint NFSˢ",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772589.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772540.1",
+      "description_ja": null,
+      "description_en": "Thumb NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772541.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772510.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772520.1",
+      "description_ja": null,
+      "description_en": "dislocation/subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772521.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772550.1",
+      "description_ja": null,
+      "description_en": "Non-thumb phalange NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "772551.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772560.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772570.1",
+      "description_ja": null,
+      "description_en": "dislocation/subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "772571.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "771099.1",
+      "description_ja": null,
+      "description_en": "Shoulder (glenohumeral) joint NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "771089.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "771010.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "771020.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "771030.2",
+      "description_ja": null,
+      "description_en": "dislocation",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "771031.2",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "770599.1",
+      "description_ja": null,
+      "description_en": "Sternoclavicular joint NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "770589.1",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770510.1",
+      "description_ja": null,
+      "description_en": "sprain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770520.1",
+      "description_ja": null,
+      "description_en": "subluxation",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "770530.2",
+      "description_ja": null,
+      "description_en": "dislocation",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "770531.2",
+      "description_ja": null,
+      "description_en": "openᵃ",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_018.jpg",
+  "body_part_normalized": "extremity"
+}

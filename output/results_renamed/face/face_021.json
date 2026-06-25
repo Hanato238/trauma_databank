@@ -1,0 +1,172 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "251099.1",
+      "description_ja": "鼻 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251000.1",
+      "description_ja": "骨折, 非開放または詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251002.2",
+      "description_ja": "開放 / 転位",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251004.1",
+      "description_ja": "粘膜 / 血管の破裂 (鼻出血)",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251006.2",
+      "description_ja": "鼻中隔骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251200.2",
+      "description_ja": "眼窩骨折, 非開放または詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251201.2",
+      "description_ja": "開放で、部位は詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251205.2",
+      "description_ja": "同側眼窩の多発骨折, 非開放または詳細不明ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251206.2",
+      "description_ja": "開放ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251211.2",
+      "description_ja": "眼窩縁, 非開放または詳細不明ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251212.2",
+      "description_ja": "開放 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251213.2",
+      "description_ja": "眼窩下縁",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251214.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251215.2",
+      "description_ja": "眼窩上縁",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251216.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251221.2",
+      "description_ja": "眼窩底, 非開放または詳細不明ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251222.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251223.2",
+      "description_ja": "\"吹き抜け\" 骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251224.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251231.2",
+      "description_ja": "内側壁, 非開放または詳細不明ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251232.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251235.2",
+      "description_ja": "外側壁, 非開放または詳細不明ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "251236.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_021.jpg",
+  "body_part_normalized": "face"
+}

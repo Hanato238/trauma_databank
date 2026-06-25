@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "FACE (includes Eye and Ear)",
+  "entries": [
+    {
+      "code": "250200.2",
+      "description_ja": null,
+      "description_en": "Alveolar ridge fracture with or without injury to teeth",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "250400.1",
+      "description_ja": null,
+      "description_en": "Facial bone (s) fracture NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "250600.1",
+      "description_ja": null,
+      "description_en": "Mandible fracture NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "250602.1",
+      "description_ja": null,
+      "description_en": "closed but NFS as to site",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250603.1",
+      "description_ja": null,
+      "description_en": "condyleᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250604.1",
+      "description_ja": null,
+      "description_en": "coronoidᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250605.1",
+      "description_ja": null,
+      "description_en": "angleᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250606.1",
+      "description_ja": null,
+      "description_en": "symphysis/parasymphysisᵃ",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250607.1",
+      "description_ja": null,
+      "description_en": "body",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250608.1",
+      "description_ja": null,
+      "description_en": "ramus",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "250610.2",
+      "description_ja": null,
+      "description_en": "open/displaced/comminuted but NFS as to site",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250611.2",
+      "description_ja": null,
+      "description_en": "condyleᵃ",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "250612.2",
+      "description_ja": null,
+      "description_en": "coronoidᵃ",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "250613.2",
+      "description_ja": null,
+      "description_en": "angleᵃ",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "250614.2",
+      "description_ja": null,
+      "description_en": "symphysis/parasymphysisᵃ",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "250615.2",
+      "description_ja": null,
+      "description_en": "body",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "250616.2",
+      "description_ja": null,
+      "description_en": "ramus",
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_014.jpg",
+  "body_part_normalized": "face"
+}

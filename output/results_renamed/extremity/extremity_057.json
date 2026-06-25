@@ -1,0 +1,186 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "MUSCLES, TENDONS, LIGAMENTS",
+  "entries": [
+    {
+      "code": "840099.9",
+      "description_ja": null,
+      "description_en": "Muscle, tendon, ligament injury NFSᶠ",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "840200.2",
+      "description_ja": null,
+      "description_en": "Achilles tendon tear ; avulsion NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840202.2",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840204.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840400.2",
+      "description_ja": null,
+      "description_en": "Collateral ligament tear ; avulsion NFSˣ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840402.2",
+      "description_ja": null,
+      "description_en": "ankle",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840403.2",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "840404.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "840405.2",
+      "description_ja": null,
+      "description_en": "knee",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840406.2",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "840407.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "840500.2",
+      "description_ja": null,
+      "description_en": "Cruciate ligament [anterior or posterior] tear ; avulsion NFSˣ",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840501.2",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840502.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840300.2",
+      "description_ja": null,
+      "description_en": "Meniscus tear ; avulsion NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840600.1",
+      "description_ja": null,
+      "description_en": "Muscle tear ; avulsion NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "840601.1",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "840603.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840602.1",
+      "description_ja": null,
+      "description_en": "contusion ; strain",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "840800.2",
+      "description_ja": null,
+      "description_en": "Tendon [other than Achilles or patellar] tear ; avulsion",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840801.2",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840802.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "841000.2",
+      "description_ja": null,
+      "description_en": "Patellar tendon tear ; avulsion",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "841001.2",
+      "description_ja": null,
+      "description_en": "partial disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "841002.2",
+      "description_ja": null,
+      "description_en": "complete disruption",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_057.jpg",
+  "body_part_normalized": "extremity"
+}

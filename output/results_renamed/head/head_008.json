@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "121699.3",
+      "description_ja": null,
+      "description_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "121602.4",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "121604.3",
+      "description_ja": null,
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121606.3",
+      "description_ja": null,
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121899.3",
+      "description_ja": null,
+      "description_en": "Posterior cerebral artery NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "121802.5",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "121804.3",
+      "description_ja": null,
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121805.4",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "121806.3",
+      "description_ja": null,
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "122899.3",
+      "description_ja": null,
+      "description_en": "Vertebral artery NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122802.5",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122803.6",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "122804.3",
+      "description_ja": null,
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "122805.4",
+      "description_ja": null,
+      "description_en": "bilateralᶜ",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122806.3",
+      "description_ja": null,
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_008.jpg",
+  "body_part_normalized": "head"
+}

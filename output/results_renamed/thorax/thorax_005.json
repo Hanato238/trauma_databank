@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸部",
+  "entries": [
+    {
+      "code": "410099.1",
+      "description_ja": "皮膚/皮下組織/筋肉 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "410202.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410402.1",
+      "description_ja": "挫傷;血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410602.1",
+      "description_ja": "小;表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "410604.2",
+      "description_ja": "大;長さが20cmを超えかつ皮下組織に達する",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "410606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "410800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "410802.1",
+      "description_ja": "小;表在性;100cm²以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "410804.2",
+      "description_ja": "大;100cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "410806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "420099.9",
+      "description_ja": "胸部の血管損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "420299.4",
+      "description_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V]",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "420202.4",
+      "description_ja": "内膜剥離,断裂なし",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420204.5",
+      "description_ja": "大動脈弁の損傷を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420206.4",
+      "description_ja": "裂傷・裂創;穿孔;詳細不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420208.4",
+      "description_ja": "小;表在性;非全周性;出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "420210.5",
+      "description_ja": "大;破裂;離断;部分欠損;出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420212.5",
+      "description_ja": "大動脈基底部または大動脈弁の損傷を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420216.5",
+      "description_ja": "縦隔内に限局した出血を伴う",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "420218.6",
+      "description_ja": "縦隔外への出血を伴う [OIS VI]",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_005.jpg",
+  "body_part_normalized": "thorax"
+}

@@ -1,0 +1,3656 @@
+{
+  "body_part": "head",
+  "body_part_name": "Head / 頭部",
+  "source_file_count": 47,
+  "source_files": [
+    "head_001.json",
+    "head_002.json",
+    "head_003.json",
+    "head_004.json",
+    "head_005.json",
+    "head_006.json",
+    "head_007.json",
+    "head_008.json",
+    "head_009.json",
+    "head_010.json",
+    "head_011.json",
+    "head_012.json",
+    "head_013.json",
+    "head_014.json",
+    "head_015.json",
+    "head_016.json",
+    "head_017.json",
+    "head_018.json",
+    "head_019.json",
+    "head_020.json",
+    "head_021.json",
+    "head_022.json",
+    "head_023.json",
+    "head_024.json",
+    "head_025.json",
+    "head_026.json",
+    "head_027.json",
+    "head_028.json",
+    "head_029.json",
+    "head_030.json",
+    "head_031.json",
+    "head_032.json",
+    "head_033.json",
+    "head_034.json",
+    "head_035.json",
+    "head_036.json",
+    "head_037.json",
+    "head_038.json",
+    "head_039.json",
+    "head_040.json",
+    "head_041.json",
+    "head_042.json",
+    "head_043.json",
+    "head_044.json",
+    "head_045.json",
+    "head_046.json",
+    "head_047.json"
+  ],
+  "total_entries": 289,
+  "collision_count": 138,
+  "entries": [
+    {
+      "code": "100099.9",
+      "description_ja": "頭部損傷 詳細不明",
+      "description_en": "Injuries to the Head NFS",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_002.json",
+        "head_003.json"
+      ]
+    },
+    {
+      "code": "100999.9",
+      "description_ja": "頭部以外に原因が特定できない, もしくは剖検によっても特定できないもの",
+      "description_en": "Died of head injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_002.json",
+        "head_003.json"
+      ]
+    },
+    {
+      "code": "110009.1",
+      "description_ja": "頭部損傷 (頭痛のみを訴える) 詳細不明",
+      "description_en": "Head Injury NFS involving only headache",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_002.json",
+        "head_003.json"
+      ]
+    },
+    {
+      "code": "113000.6",
+      "description_ja": "挫滅損傷",
+      "description_en": "Crush Injury. Must involve massive destruction of skull, brain and intracranial contents.",
+      "severity": 6,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_002.json",
+        "head_003.json"
+      ]
+    },
+    {
+      "code": "116000.3",
+      "description_ja": "穿通性損傷 (頭蓋骨に達する) 詳細不明",
+      "description_en": "Penetrating Injury to Skull NFSᵃ",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_002.json",
+        "head_003.json"
+      ]
+    },
+    {
+      "code": "116002.3",
+      "description_ja": "表在性; 創の深さが2cm以下",
+      "description_en": "superficial ; ≤ 2cm beneath entrance",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_002.json",
+        "head_003.json"
+      ]
+    },
+    {
+      "code": "116004.5",
+      "description_ja": "深い; 創の深さが2cmを超える",
+      "description_en": "major ; >2cm penetration",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_002.json",
+        "head_003.json"
+      ]
+    },
+    {
+      "code": "110099.1",
+      "description_ja": "頭皮 詳細不明",
+      "description_en": "Scalp NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ]
+    },
+    {
+      "code": "110202.1",
+      "description_ja": "擦過傷",
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110402.1",
+      "description_ja": "挫傷: 6ヵ月を超える乳児では帽状腱膜下血腫",
+      "description_en": "contusion; subgaleal hematoma if >6 months old",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110403.2",
+      "description_ja": "6ヵ月以下の乳児では帽状腱膜下血腫",
+      "description_en": "subgaleal hematoma in infants <= 6 months old",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110404.3",
+      "description_ja": "出血量が全血液量の20%を超えるᵃ",
+      "description_en": "blood loss > 20% by volume in infants <= 6 months old",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ]
+    },
+    {
+      "code": "110602.1",
+      "description_ja": "小; 表在性",
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110604.2",
+      "description_ja": "大; 長さが10cmを超え, かつ皮下組織まで達する",
+      "description_en": "major ; >10cm long and into subcutaneous tissue",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "blood loss > 20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ]
+    },
+    {
+      "code": "110802.1",
+      "description_ja": "表在性; 100cm²以下の組織欠損",
+      "description_en": "superficial ; minor ; tissue loss <= 100cm²",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110804.2",
+      "description_ja": "大; 100cm²を超える組織欠損",
+      "description_en": "major ; tissue loss >100cm²",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "110808.3",
+      "description_ja": "全頭皮剥離",
+      "description_en": "total scalp loss",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120099.9",
+      "description_ja": "頭部内血管損傷 詳細不明ᶠ",
+      "description_en": "Vascular Injury in Head NFS",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_004.json",
+        "head_005.json"
+      ]
+    },
+    {
+      "code": "120199.3",
+      "description_ja": "動脈 詳細不明ª",
+      "description_en": "Artery NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ]
+    },
+    {
+      "code": "120299.3",
+      "description_ja": "前大脳動脈 詳細不明",
+      "description_en": "Anterior cerebral artery NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120202.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120204.3",
+      "description_ja": "血栓症・閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120205.4",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120206.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120499.4",
+      "description_ja": "脳底動脈 詳細不明",
+      "description_en": "Basilar artery NFS",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120402.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120404.5",
+      "description_ja": "血栓症・閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "120406.5",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": "traumatic aneurysm",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121099.3",
+      "description_ja": "内頸動脈 詳細不明",
+      "description_en": "Internal carotid artery NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121002.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121003.6",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 6,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121004.4",
+      "description_ja": "血栓症・閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121005.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121006.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121499.3",
+      "description_ja": "中大脳動脈 詳細不明",
+      "description_en": "Middle cerebral artery NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121402.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121404.4",
+      "description_ja": "血栓症・閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121405.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121406.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_006.json",
+        "head_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "121699.3",
+      "description_ja": "その他の動脈 詳細不明 [前, 中, 後 大脳動脈, 脳底動脈, 椎骨動脈の各分岐]",
+      "description_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121602.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121604.3",
+      "description_ja": "血栓症；閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121606.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121899.3",
+      "description_ja": "後大脳動脈 詳細不明",
+      "description_en": "Posterior cerebral artery NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121802.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121804.3",
+      "description_ja": "血栓症；閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121805.4",
+      "description_ja": "両側性",
+      "description_en": "bilateralᶜ",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "121806.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "122899.3",
+      "description_ja": "椎骨動脈 詳細不明",
+      "description_en": "Vertebral artery NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "122802.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "122803.6",
+      "description_ja": "両側性",
+      "description_en": "bilateralᶜ",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "122804.3",
+      "description_ja": "血栓症；閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "122805.4",
+      "description_ja": "両側性",
+      "description_en": "bilateralᶜ",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "122806.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": "traumatic aneurysm",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_008.json",
+        "head_009.json"
+      ]
+    },
+    {
+      "code": "122299.3",
+      "description_ja": "静脈洞 詳細不明ᵈ",
+      "description_en": "Sinus NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122202.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122204.3",
+      "description_ja": "血栓症：閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "120602.4",
+      "description_ja": "内頸動脈－海綿静脈瘻",
+      "description_en": "Carotid-cavernous fistula",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "120603.4",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "120899.3",
+      "description_ja": "海綿静脈洞 詳細不明",
+      "description_en": "Cavernous sinus NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "120802.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "120804.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+      "description_en": "open laceration (bleeding externally) or segmental loss",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "120806.3",
+      "description_ja": "血栓症：閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122099.4",
+      "description_ja": "S状静脈洞 詳細不明",
+      "description_en": "Sigmoid sinus NFS",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122002.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122003.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122004.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+      "description_en": "open laceration (bleeding externally) or segmental loss",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122005.6",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122006.4",
+      "description_ja": "血栓症：閉塞",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122007.5",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "123099.4",
+      "description_ja": "直静脈洞 詳細不明ᵃ",
+      "description_en": "Straight sinus NFS",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "123002.4",
+      "description_ja": "裂傷・裂創ᵃ",
+      "description_en": "laceration",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "123003.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ",
+      "description_en": "open laceration (bleeding externally) or segmental loss",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "123004.5",
+      "description_ja": "血栓症：閉塞ᵃ",
+      "description_en": "thrombosis ; occlusion",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_010.json",
+        "head_011.json"
+      ]
+    },
+    {
+      "code": "122499.3",
+      "description_ja": "上矢状洞 詳細不明",
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, laceration",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122402.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, open laceration (bleeding externally) or segmental loss",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "122404.5",
+      "description_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, thrombosis ; occlusion^e",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "122406.4",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, thrombosis ; occlusion^e, anterior half of sinus^a",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122407.4",
+      "description_ja": "前半部",
+      "description_en": "Superior longitudinal (sagittal) sinus NFS, thrombosis ; occlusion^e, posterior half of sinus^a",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122408.5",
+      "description_ja": "後半部",
+      "description_en": null,
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122699.3",
+      "description_ja": "横静脈洞 詳細不明",
+      "description_en": "Transverse sinus NFS, laceration",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122602.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "Transverse sinus NFS, laceration, bilateral^c",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122603.5",
+      "description_ja": "両側性",
+      "description_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "122604.5",
+      "description_ja": "開放性",
+      "description_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, bilateral^c",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122605.6",
+      "description_ja": "静脈洞交会",
+      "description_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, torcular^a",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122607.6",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": "Transverse sinus NFS, thrombosis ; occlusion",
+      "severity": 6,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "122606.4",
+      "description_ja": "両側性",
+      "description_en": "Transverse sinus NFS, thrombosis ; occlusion, bilateral^c",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122608.5",
+      "description_ja": "静脈洞交会",
+      "description_en": null,
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122399.3",
+      "description_ja": "静脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122599.3",
+      "description_ja": "主要な静脈 [ガレン, ラーベ, トロラード, ローランド, 内大脳静脈を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122502.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, laceration",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "122504.3",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, thrombosis ; occlusion",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "122799.3",
+      "description_ja": "その他の静脈 詳細不明 [名称があっても主要でない]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ]
+    },
+    {
+      "code": "122702.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": "Vein, non-major NFS^a [any named vein that is not major], laceration^a",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "122704.3",
+      "description_ja": "血栓症; 閉塞",
+      "description_en": "Vein, non-major NFS^a [any named vein that is not major], thrombosis ; occlusion^a",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_012.json",
+        "head_013.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "130299.2",
+      "description_ja": "脳神経 詳細不明",
+      "description_en": "Cranial nerve NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130202.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130204.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130499.2",
+      "description_ja": "I (嗅神経, 嗅覚路) 詳細不明",
+      "description_en": "I (Olfactory nerve, tract) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130402.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130404.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130699.2",
+      "description_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む]",
+      "description_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts]",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130602.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130604.2",
+      "description_ja": "両側",
+      "description_en": "bilateral",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "130606.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ]
+    },
+    {
+      "code": "130608.2",
+      "description_ja": "両側",
+      "description_en": "bilateral",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_014.json",
+        "head_015.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "130899.2",
+      "description_ja": "III (動眼神経) 詳細不明",
+      "description_en": "III (Oculomotor nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "130802.2",
+      "description_ja": "挫傷または圧迫 [テント切痕ヘルニアによる損傷を含む]",
+      "description_en": "contusion or compression [includes injury due to transtentorial herniation]",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "130804.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131099.2",
+      "description_ja": "IV (滑車神経) 詳細不明",
+      "description_en": "IV (Trochlear nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131002.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131004.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131299.2",
+      "description_ja": "V (三叉神経) 詳細不明",
+      "description_en": "V (Trigeminal nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131202.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131204.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131499.2",
+      "description_ja": "VI (外転神経) 詳細不明",
+      "description_en": "VI (Abducens nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131402.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131404.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131699.2",
+      "description_ja": "VII (顔面神経) 詳細不明",
+      "description_en": "VII (Facial nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131602.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131604.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131605.3",
+      "description_ja": "両側",
+      "description_en": "bilateralᶜ",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "131899.2",
+      "description_ja": "VIII (前庭・蝸牛神経) 詳細不明 [聴神経, 前庭神経を含む]",
+      "description_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves]",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131802.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131804.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ]
+    },
+    {
+      "code": "131806.3",
+      "description_ja": "両側",
+      "description_en": "bilateralᶜ",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_016.json",
+        "head_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "132099.2",
+      "description_ja": "IX (舌咽神経) 詳細不明",
+      "description_en": "IX (Glossopharyngeal nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132002.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132004.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132299.2",
+      "description_ja": "X (迷走神経) 詳細不明 [頸部, 胸郭, 腹部における損傷を除く]",
+      "description_en": "X (Vagus nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132202.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132204.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132499.2",
+      "description_ja": "XI (副神経) 詳細不明",
+      "description_en": "XI (Spinal accessory nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132402.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132404.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132699.2",
+      "description_ja": "XII (舌下神経) 詳細不明",
+      "description_en": "XII (Hypoglossal nerve) NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132602.2",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "132604.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json",
+        "head_019.json"
+      ]
+    },
+    {
+      "code": "140299.5",
+      "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明",
+      "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140202.5",
+      "description_ja": "圧迫 [テント切痕 (鉤回) ヘルニア, 小脳扁桃ヘルニアを含む]",
+      "description_en": "compression [includes transtentorial (uncal) or cerebellar tonsillar herniation]",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140204.5",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140208.5",
+      "description_ja": "脳梗塞",
+      "description_en": "infarction",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140210.5",
+      "description_ja": "出血を含む損傷",
+      "description_en": "injury involving hemorrhage",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140212.6",
+      "description_ja": "裂傷・裂創",
+      "description_en": "laceration",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140214.6",
+      "description_ja": "高度損傷 (脳挫滅型損傷)",
+      "description_en": "massive destruction (crush-type injury)",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140216.6",
+      "description_ja": "穿通損傷",
+      "description_en": "penetrating injury",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140218.6",
+      "description_ja": "離断",
+      "description_en": "transection",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140499.3",
+      "description_ja": "小脳 詳細不明",
+      "description_en": "Cerebellum NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140402.3",
+      "description_ja": "挫傷, 1カ所でもそれ以上でも, 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": "contusion, single or multiple, NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140407.2",
+      "description_ja": "微小 ; 直径1 cm未満",
+      "description_en": "tiny ; < 1cm diameter",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140403.3",
+      "description_ja": "小 ; 表在性 ; 15ml以下 ; 直径1 〜 3 cm",
+      "description_en": "small ; superficial ; ≤15cc ; 1-3cm diameter",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140404.4",
+      "description_ja": "大 ; 15〜30ml ; 直径3 cmを超える",
+      "description_en": "large ; 15-30cc ; >3cm diameter",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140405.5",
+      "description_ja": "広範囲 ; 大量 ; 合計30mlを超える",
+      "description_en": "extensive ; massive ; total volume >30cc",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_022.json",
+        "head_023.json"
+      ]
+    },
+    {
+      "code": "140410.3",
+      "description_ja": "血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。",
+      "description_en": "hematoma (hemorrhage) NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140414.3",
+      "description_ja": "硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": "epidural or extradural NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140416.2",
+      "description_ja": "微小; 厚さが0.6cm未満ᵃ",
+      "description_en": "tiny ; <0.6cm thick^a",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140418.4",
+      "description_ja": "小; 中程度; 皮質下30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+      "description_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 4（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140422.5",
+      "description_ja": "大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+      "description_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 1 → 5（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140426.3",
+      "description_ja": "実質内と皮質下を含む小脳内 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": "intracerebellar including petechial and subcortical NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140428.2",
+      "description_ja": "微小; 厚さが0.6cm未満 [画像診断による剪断損壊を含む]ᵃ",
+      "description_en": "tiny ; <0.6cm diameter [includes radiographic “shearing” lesions]^a",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140430.4",
+      "description_ja": "小; 15ml以下; 直径0.6～3cm",
+      "description_en": "small ; ≤15cc ; 0.6–3cm diameter",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 4（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140434.5",
+      "description_ja": "大; 15mlを超える; 直径3cmを超える",
+      "description_en": "large ; >15cc ; >3cm diameter",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140438.3",
+      "description_ja": "硬膜下 詳細不明",
+      "description_en": "subdural NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140440.2",
+      "description_ja": "微小; 厚さが0.6cm未満ᵃ",
+      "description_en": "tiny ; <0.6cm thick^a",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140442.4",
+      "description_ja": "小; 中程度; 30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+      "description_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 4（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140446.5",
+      "description_ja": "大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+      "description_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140474.3",
+      "description_ja": "裂傷・裂創 [穿通外傷によるものは除く] 詳細不明ᵉ",
+      "description_en": "laceration [not from penetrating injury] NFS^e",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140473.3",
+      "description_ja": "長さまたは深さが2cm以下",
+      "description_en": "≤2cm length or depth",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140472.4",
+      "description_ja": "長さまたは深さが2cmを超える",
+      "description_en": ">2cm length or depth",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_024.json",
+        "head_025.json"
+      ],
+      "collision_note": "severity 衝突: 3 → 4（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140478.3",
+      "description_ja": "穿通性損傷 詳細不明ᵉ",
+      "description_en": "penetrating injury NFSᵉ",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140477.3",
+      "description_ja": "深さが2 cm以下",
+      "description_en": "≤2cm deep",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140476.5",
+      "description_ja": "深さが2 cmを超える",
+      "description_en": ">2cm deep",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140489.9",
+      "description_ja": "診断・治療や解剖によって得られたものではない頭部外傷に関連する所見 詳細不明ᶠ",
+      "description_en": "trauma-associated findings not related either to interven-tion or to anatomically-described head injury NFSᶠ",
+      "severity": 9,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140450.3",
+      "description_ja": "脳腫脹／脳浮腫",
+      "description_en": "brain swelling/edema NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140458.3",
+      "description_ja": "脳梗塞 (急性のもの で外傷による血管閉塞を原因とする)",
+      "description_en": "infarction (acute due to traumatic vascular occlusion)",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140462.3",
+      "description_ja": "頭部外傷と直接関連する虚血性脳障害",
+      "description_en": "ischemic brain damage directly related to head trauma",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140466.2",
+      "description_ja": "くも膜下出血",
+      "description_en": "subarachnoid hemorrhage",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140470.2",
+      "description_ja": "軟膜下出血",
+      "description_en": "subpial hemorrhage",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_026.json",
+        "head_027.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140699.3",
+      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む]",
+      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”.",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140602.3",
+      "description_ja": "挫傷 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": "contusion NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140604.3",
+      "description_ja": "単発性 詳細不明",
+      "description_en": "single NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140605.2",
+      "description_ja": "微小; 直径1 cm未満ᵃ",
+      "description_en": "tiny ; <1cm diameter",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140606.3",
+      "description_ja": "小; 表在性; 30ml以下 (10歳以下では15ml以下); 直径1～4cm (10歳以下では1～2cm); 正中偏位が5 mm以下",
+      "description_en": "small ; superficial ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or 1-2cm diameter if ≤age 10 ; midline shift ≤5mm",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140608.4",
+      "description_ja": "大; 深在性; 30～50ml (10歳以下では15～30ml); 直径4cmを超える (10歳以下では2～4cm); 正中偏位が5mmを超える",
+      "description_en": "large ; deep ; 30-50cc or 15-30cc if ≤age 10 ; > 4cm diameter or 2-4cm diameter if ≤age 10 ; midline shift >5mm",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140610.5",
+      "description_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+      "description_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140611.3",
+      "description_ja": "多発性 詳細不明",
+      "description_en": "multiple NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140612.3",
+      "description_ja": "多発性, 片側 詳細不明",
+      "description_en": "multiple, on same side but NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140613.2",
+      "description_ja": "微小; いずれも直径1 cm未満ᵃ",
+      "description_en": "tiny ; each <1cm diameter",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140614.3",
+      "description_ja": "小; 表在性; 合計30ml以下 (10歳以下では15ml以下); 正中偏位が5 mm以下",
+      "description_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10 ; midline shift ≤5mm",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140616.4",
+      "description_ja": "大; 合計30～50ml (10歳以下では15～30ml); 正中偏位が5 mmを超える",
+      "description_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10 ; midline shift >5mm",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140618.5",
+      "description_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+      "description_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ]
+    },
+    {
+      "code": "140620.3",
+      "description_ja": "多発性, 両側 詳細不明",
+      "description_en": "multiple, at least one on each side but NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140621.2",
+      "description_ja": "微小; いずれも直径1 cm未満ᵃ",
+      "description_en": "tiny ; each <1cm diameter",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140622.3",
+      "description_ja": "小; 表在性; 合計30ml以下 (10歳以下では15ml以下)",
+      "description_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140624.4",
+      "description_ja": "大; 合計30～50ml (10歳以下では15～30ml)",
+      "description_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140626.5",
+      "description_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+      "description_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_028.json",
+        "head_029.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140628.4",
+      "description_ja": "びまん性軸索損傷 詳細不明 [6時間を超える昏睡か、もしくは6時間以内の死亡の場合は病理学的診断が必要]",
+      "description_en": "diffuse axonal injury (DAI) NFS [requires coma >6 hours or, if fatal within 6 hours, diagnosis is made by pathological examination]",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ]
+    },
+    {
+      "code": "140625.4",
+      "description_ja": "びまん性軸索損傷 大脳白質か基底核に限局したもの",
+      "description_en": "DAI confined to white matter or basal ganglia",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ]
+    },
+    {
+      "code": "140627.5",
+      "description_ja": "びまん性軸索損傷 脳梁に及ぶもの",
+      "description_en": "DAI involving corpus callosum",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ]
+    },
+    {
+      "code": "140629.3",
+      "description_ja": "血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。",
+      "description_en": "hematoma (hemorrhage) NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ]
+    },
+    {
+      "code": "140630.3",
+      "description_ja": "硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": "epidural or extradural NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ]
+    },
+    {
+      "code": "140631.2",
+      "description_ja": "微小；厚さ0.6cm未満",
+      "description_en": "tiny ; <0.6cm thick",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140632.4",
+      "description_ja": "小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+      "description_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140634.5",
+      "description_ja": "両側",
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140636.5",
+      "description_ja": "大；大量：広範囲：50mlを超える (10歳以下では25mlを超える)；厚さ1 cmを超える",
+      "description_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_030.json",
+        "head_031.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140638.3",
+      "description_ja": "詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": "intracerebral NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ]
+    },
+    {
+      "code": "140639.2",
+      "description_ja": "微小; 単発性または直径 1cm未満の多発性のものa",
+      "description_en": "tiny ; single or multiple <1cm diameterᵃ",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140642.2",
+      "description_ja": "点状出血 [放射線学的 “剪断” 損傷を含む]e",
+      "description_en": "petechial hemorrhage (s) [includes radio-graphic “shearing” lesions]ᵉ",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140643.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140645.4",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": "associated with coma >6 hours",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140640.4",
+      "description_ja": "小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g",
+      "description_en": "small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ]
+    },
+    {
+      "code": "140647.3",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": "not associated with coma >6 hours",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140649.4",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": "associated with coma >6 hours",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140646.5",
+      "description_ja": "30mlを超える (10歳以下では15mlを超える); 直径 4cmを超える (10歳以下では 1 cmを超える)",
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140648.5",
+      "description_ja": "両側 [それぞれ4cmを超える]c",
+      "description_en": "large ; >30cc or >15cc if ≤age 10 ; >4cm or >1cm diameter if ≤age 10",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140641.5",
+      "description_ja": "詳細不明",
+      "description_en": "bilateral [each >4cm]ᶜ",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ]
+    },
+    {
+      "code": "140650.3",
+      "description_ja": "微小; 厚さ0.6cm未満 [一側または両側のテントの (硬膜下) 出血を含む]a",
+      "description_en": "subdural NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140651.3",
+      "description_ja": "中程度; 50ml以下 (10歳以下では25ml以下); 厚さ0.6～1cm",
+      "description_en": "tiny ; <0.6cm thick [includes tentorial (subdural) blood one or both sides]ᵃ",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140652.4",
+      "description_ja": "両側 [両側とも厚さ0.6～1cm]",
+      "description_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140654.4",
+      "description_ja": "大量; 広範囲; 50mlを超える (10歳以下では25mlを超える); 厚さ1cmを超える",
+      "description_en": "bilateral [both sides 0.6-1cm thick]",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ]
+    },
+    {
+      "code": "140656.5",
+      "description_ja": "両側 [少なくとも一側は厚さ1cmを超える]e",
+      "description_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ]
+    },
+    {
+      "code": "140655.5",
+      "description_ja": null,
+      "description_en": "bilateral [at least one side >1cm thick]ᶜ",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_032.json",
+        "head_033.json"
+      ],
+      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140688.3",
+      "description_ja": "裂傷・裂創 詳細不明 [穿通性損傷ではないもの]ᵉ",
+      "description_en": "laceration NFS [not from penetrating injury]ᵉ",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140687.3",
+      "description_ja": "創が2cm以下の長さまたは深さのもの",
+      "description_en": "≤ 2cm length or depth",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140686.4",
+      "description_ja": "創が2cmを超える長さまたは深さのもの",
+      "description_en": "> 2cm length or depth",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140690.3",
+      "description_ja": "穿通性損傷 詳細不明ᵉ",
+      "description_en": "penetrating injury NFSᵉ",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140691.3",
+      "description_ja": "2cm以下の深さのもの",
+      "description_en": "≤ 2cm deep",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140692.5",
+      "description_ja": "2cmを超える深さのもの",
+      "description_en": "> 2cm deep",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140689.9",
+      "description_ja": "医療行為や解剖学的記載のある頭部損傷に関係のない外傷に関連した所見 詳細不明ᶠ",
+      "description_en": "trauma-associated findings not related either to intervention or to anatomically-described head injury NFSᶠ",
+      "severity": 9,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140660.3",
+      "description_ja": "脳腫脹 詳細不明ʰ",
+      "description_en": "brain swelling NFSʰ",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140662.3",
+      "description_ja": "軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+      "description_en": "mild ; compressed ventricles without compressed brain stem cisterns",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140664.4",
+      "description_ja": "中等症；脳室と脳幹周囲槽の圧迫がある",
+      "description_en": "moderate ; compressed ventricles and brain stem cisterns",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140666.5",
+      "description_ja": "重症；脳室または脳幹周囲槽の消失がある",
+      "description_en": "severe ; absent ventricles or brain stem cisterns",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140668.3",
+      "description_ja": "脳浮腫 詳細不明ʰ",
+      "description_en": "brain edema NFSʰ",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140670.3",
+      "description_ja": "軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+      "description_en": "mild ; compressed ventricles without compressed brain stem cisterns",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140672.4",
+      "description_ja": "中等症；脳室と脳幹周囲槽の圧迫がある",
+      "description_en": "moderate ; compressed ventricles and brain stem cisterns",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140674.5",
+      "description_ja": "重症；脳室または脳幹周囲槽の消失がある",
+      "description_en": "severe ; absent ventricles or brain stem cisterns",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140701.9",
+      "description_ja": "頭部外傷には直接関係がなく，全身性の低酸素血症や低血圧症，ショックによる二次性の低酸素性あるいは虚血性の脳損傷ᶠ",
+      "description_en": "hypoxic or ischemic brain damage secondary to systemic hypoxemia, hypotension or shock not directly related to head traumaᶠ",
+      "severity": 9,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140702.9",
+      "description_ja": "24時間を超える昏睡と関連がないものᶠ",
+      "description_en": "not associated with coma >24 hoursᶠ",
+      "severity": 9,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140703.9",
+      "description_ja": "24時間を超える昏睡と関連があり，初期の脳損傷に続く発するものではないものᶠ；両側性；多発性",
+      "description_en": "associated with coma >24 hours not secondary to primary brain injury ; bilateral ; multifocalᶠ",
+      "severity": 9,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_036.json",
+        "head_037.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140676.3",
+      "description_ja": "梗塞 [外傷性血管閉塞による急性性のもの]",
+      "description_en": "infarction [acute due to traumatic vascular occlusion]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140678.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": "intraventricular hemorrhageᵉ",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140675.2",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140677.4",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140680.3",
+      "description_ja": "頭部外傷に直接起因する虚血性脳損傷°",
+      "description_en": "ischemic brain damage directly related to head traumaᵉ",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140681.3",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": "not associated with coma >6 hours",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140683.5",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": "associated with coma >6 hours",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140682.3",
+      "description_ja": "頭部外傷に直接起因する気脳症",
+      "description_en": "pneumocephalus directly related to head trauma",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140693.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": "subarachnoid hemorrhage NFSᵉ",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140694.2",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140695.3",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140696.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": "subpial hemorrhage NFSᵉ",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140697.2",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140698.3",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_038.json",
+        "head_039.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "140799.3",
+      "description_ja": "下垂体損傷",
+      "description_en": "Pituitary injury",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_040.json",
+        "head_041.json"
+      ]
+    },
+    {
+      "code": "150000.2",
+      "description_ja": "頭蓋骨骨折 詳細不明",
+      "description_en": "Skull fracture NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150200.3",
+      "description_ja": "頭蓋底骨折 詳細不明",
+      "description_en": "Base (basilar) fracture NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150202.3",
+      "description_ja": "髄液漏を伴わない",
+      "description_en": "without CSF leak",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150204.3",
+      "description_ja": "髄液漏を伴う",
+      "description_en": "with CSF leak",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150206.4",
+      "description_ja": "複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折; 粉砕骨折; 塊状骨折; 蝶番骨折",
+      "description_en": "complex ; open with torn, exposed or loss of brain tissue ; comminuted ; ring ; hinge",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150400.2",
+      "description_ja": "頭蓋冠骨折 詳細不明",
+      "description_en": "Vault fracture NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150402.2",
+      "description_ja": "閉鎖性：単純：偏位なし; 縫合離開; 線状",
+      "description_en": "closed ; simple ; undisplaced ; diastatic ; linear",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150404.3",
+      "description_ja": "粉砕：硬膜損傷は伴わないが骨折部が露出しているもの; 2 cm以下の陥没; 偏位あり",
+      "description_en": "comminuted ; compound but dura intact ; depressed ≤2cm ; displaced",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150406.4",
+      "description_ja": "複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折",
+      "description_en": "complex ; open with torn, exposed or loss of brain tissue",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "150408.4",
+      "description_ja": "広範囲：大きな面積にわたって2cmを超える陥没",
+      "description_en": "massive ; large areas of skull depressed >2cm",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_042.json",
+        "head_043.json"
+      ]
+    },
+    {
+      "code": "161000.1",
+      "description_ja": "脳震盪 詳細不明",
+      "description_en": "Cerebral Concussion, NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161001.1",
+      "description_ja": "軽症脳震盪 意識消失なし",
+      "description_en": "mild concussion ; no loss of consciousness",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161002.2",
+      "description_ja": "短時間の意識消失 詳細不明",
+      "description_en": "brief loss of consciousness NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161003.2",
+      "description_ja": "1時間未満の意識消失 詳細不明",
+      "description_en": "loss of consciousness < 1 hour NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161004.2",
+      "description_ja": "30分以下の意識消失",
+      "description_en": "loss of consciousness ≤30 mins",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161005.2",
+      "description_ja": "31～59分の意識消失",
+      "description_en": "loss of consciousness 31-59 mins",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161006.3",
+      "description_ja": "1～6時間の意識消失 (重症脳震盪)",
+      "description_en": "loss of consciousness 1-6 hours (severe concussion)",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161007.4",
+      "description_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明",
+      "description_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161008.4",
+      "description_ja": "6～24時間の意識消失 (軽症びまん性軸索損傷)",
+      "description_en": "LOC 6-24 hours (mild DAI)",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161011.5",
+      "description_ja": "24時間を超える意識消失 詳細不明",
+      "description_en": "LOC >24 hours NFS",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161012.5",
+      "description_ja": "脳幹症状を伴わない (中等症びまん性軸索損傷)",
+      "description_en": "without brainstem signs (moderate DAI)",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "161013.5",
+      "description_ja": "脳幹症状を伴う (重症びまん性軸索損傷)",
+      "description_en": "with brainstem signs (severe DAI)",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "head_046.json",
+        "head_047.json"
+      ],
+      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "[excludes injury in neck, thorax or abdomen]",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_018.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "大脳 (続き)",
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_027.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Cerebrum (continued)",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_036.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "脳室内出血°",
+      "description_en": null,
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_039.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "くも膜下出血 詳細不明°",
+      "description_en": null,
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_039.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "軟膜下出血 詳細不明°",
+      "description_en": null,
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_039.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "震盪損傷",
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "head_047.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "脳幹症状: 除脳状態; 除皮質状態",
+      "description_en": null,
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "head_047.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部（頭蓋と脳）",
+  "entries": [
+    {
+      "code": "121699.3",
+      "description_ja": "その他の動脈 詳細不明 [前, 中, 後 大脳動脈, 脳底動脈, 椎骨動脈の各分岐]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "121602.4",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "121604.3",
+      "description_ja": "血栓症；閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121606.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121899.3",
+      "description_ja": "後大脳動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "121802.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "121804.3",
+      "description_ja": "血栓症；閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "121805.4",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "121806.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "122899.3",
+      "description_ja": "椎骨動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "122802.5",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "122803.6",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "122804.3",
+      "description_ja": "血栓症；閉塞",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "122805.4",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "122806.3",
+      "description_ja": "外傷性動脈瘤",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_009.jpg",
+  "body_part_normalized": "head"
+}

@@ -1,0 +1,172 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": null,
+  "entries": [
+    {
+      "code": "542299.2",
+      "description_ja": "大網 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542210.2",
+      "description_ja": "挫傷; 血腫",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542220.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542222.2",
+      "description_ja": "小; 表在性",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542224.3",
+      "description_ja": "大",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "542400.2",
+      "description_ja": "卵管（ファロピアン管）裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542699.1",
+      "description_ja": "卵巣 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "542610.1",
+      "description_ja": "挫傷; 血腫 [OIS I]",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "542620.1",
+      "description_ja": "裂傷・裂創; 穿孔",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "542622.1",
+      "description_ja": "表在性; 0.5cm以下; 小 [OIS II]",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "542623.2",
+      "description_ja": "深在性; 0.5cmを超える [OIS III]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542624.2",
+      "description_ja": "実質の完全破壊; 広範囲; 断裂; 複雑 [OIS IV, V]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542899.2",
+      "description_ja": "膵臓 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542810.2",
+      "description_ja": "挫傷; 血腫 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542812.2",
+      "description_ja": "小; 表在性; 膵管損傷なし [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542814.3",
+      "description_ja": "大; 大きい; 広範囲; 膵管損傷を伴う [OIS II]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "542820.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542822.2",
+      "description_ja": "小; 表在性; 膵管損傷なし [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542824.3",
+      "description_ja": "中; 主要血管または主膵管の損傷を伴う; 遠位側の離断 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "542826.4",
+      "description_ja": "膵大部損傷を伴う [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "542828.4",
+      "description_ja": "大; 多発性裂傷; 近位側の離断 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "542830.4",
+      "description_ja": "膵大部損傷を伴う [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "542832.5",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損; 膵頭部の高度損傷 [OIS V]",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_025.jpg",
+  "body_part_normalized": "abdomen"
+}

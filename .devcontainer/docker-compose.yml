@@ -1,0 +1,24 @@
+# claude 関数用汎用テンプレート
+# name と container_name は `claude` 関数が (Get-Item .).Name（ディレクトリ名）で参照する。
+# このテンプレートをコピーして使う際はプロジェクトのディレクトリ名に合わせること。
+
+name: trauma_databank
+
+services:
+  node:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+    user: node
+    container_name: trauma_databank
+    volumes:
+      - ..:/workspace:cached
+      - .:/workspace/.devcontainer:ro
+      - ../.mcp.json:/workspace/.mcp.json:ro
+      - /c/Users/lesen/.gemini:/home/node/.gemini
+    working_dir: /workspace
+    command: ["sleep", "infinity"]
+    environment:
+      - ANTHROPIC_API_KEY
+      - ANTIGRAVITY_API_KEY
+      - PROJECT_NAME=${COMPOSE_PROJECT_NAME}

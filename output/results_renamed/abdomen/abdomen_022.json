@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "AIS 2005",
+  "entries": [
+    {
+      "code": "541899.2",
+      "description_ja": null,
+      "description_en": "Liver NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541810.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541812.2",
+      "description_ja": null,
+      "description_en": "subcapsular, ≤50% surface area, or nonexpanding ; intraparenchymal ≤10cm in diameter ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "541814.3",
+      "description_ja": null,
+      "description_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal >10cm or expanding ; major [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "541820.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541822.2",
+      "description_ja": null,
+      "description_en": "simple capsular tears ; ≤3cm parenchymal depth ; ≤10cm long ; minor ; superficial [OIS II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "541824.3",
+      "description_ja": null,
+      "description_en": ">3cm parenchymal depth ; major duct involvement ; moderate [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "541826.4",
+      "description_ja": null,
+      "description_en": "parenchymal disruption ≤75 % hepatic lobe ; multiple lacerations >3cm deep ; \"burst\" injury ; major [OIS IV]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "541828.5",
+      "description_ja": null,
+      "description_en": "parenchymal disruption of >75% of hepatic lobe or > 3 Couinard's segments within a single lobe ; or involving retrohepatic vena cava/central hepatic veins ; massive ; complex [OIS V]",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "541830.6",
+      "description_ja": null,
+      "description_en": "hepatic avulsion (total separation of all vascular attachments) [OIS VI]",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "541840.4",
+      "description_ja": null,
+      "description_en": "rupture",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "542099.2",
+      "description_ja": null,
+      "description_en": "Mesentery NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542010.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542020.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542022.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "542024.3",
+      "description_ja": null,
+      "description_en": "major",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "542026.4",
+      "description_ja": null,
+      "description_en": "massive ; avulsion ; complex ; tissue loss",
+      "severity": 4,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_022.jpg",
+  "body_part_normalized": "abdomen"
+}

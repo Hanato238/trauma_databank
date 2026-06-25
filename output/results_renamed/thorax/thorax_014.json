@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "INTERNAL ORGANS",
+  "entries": [
+    {
+      "code": "440099.9",
+      "description_ja": null,
+      "description_en": "Bronchus injury NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "440199.3",
+      "description_ja": null,
+      "description_en": "Bronchus, main stem, NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "440102.3",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440104.3",
+      "description_ja": null,
+      "description_en": "laceration ; tear NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440106.3",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440108.4",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440110.5",
+      "description_ja": null,
+      "description_en": "complex ; avulsion ; rupture ; transection ; with sepa- ration",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "440299.1",
+      "description_ja": null,
+      "description_en": "Bronchus, distal to main stem NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "440202.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "440204.2",
+      "description_ja": null,
+      "description_en": "laceration ; tear NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440206.2",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440208.3",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440210.4",
+      "description_ja": null,
+      "description_en": "complex ; avulsion ; rupture ; transection ; with sepa- ration",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440699.2",
+      "description_ja": null,
+      "description_en": "Diaphragm NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "440602.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440604.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "440606.3",
+      "description_ja": null,
+      "description_en": "<=10cm [OIS II, III]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "440608.4",
+      "description_ja": null,
+      "description_en": ">10cm ; with significant tissue loss [OIS IV, V]",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "440610.4",
+      "description_ja": null,
+      "description_en": "rupture with herniation",
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_014.jpg",
+  "body_part_normalized": "thorax"
+}

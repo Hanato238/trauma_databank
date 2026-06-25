@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "130299.2",
+      "description_ja": null,
+      "description_en": "Cranial nerve NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130202.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130204.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130499.2",
+      "description_ja": null,
+      "description_en": "I (Olfactory nerve, tract) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130402.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130404.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130699.2",
+      "description_ja": null,
+      "description_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130602.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130604.2",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130606.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130608.2",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_014.jpg",
+  "body_part_normalized": "head"
+}

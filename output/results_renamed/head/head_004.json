@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "110099.1",
+      "description_ja": null,
+      "description_en": "Scalp NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110202.1",
+      "description_ja": null,
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110402.1",
+      "description_ja": null,
+      "description_en": "contusion; subgaleal hematoma if >6 months old",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110403.2",
+      "description_ja": null,
+      "description_en": "subgaleal hematoma in infants <= 6 months old",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "110404.3",
+      "description_ja": null,
+      "description_en": "blood loss > 20% by volume in infants <= 6 months old",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "110600.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110602.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110604.2",
+      "description_ja": null,
+      "description_en": "major ; >10cm long and into subcutaneous tissue",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "110606.3",
+      "description_ja": null,
+      "description_en": "blood loss > 20% by volume",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "110800.1",
+      "description_ja": null,
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110802.1",
+      "description_ja": null,
+      "description_en": "superficial ; minor ; tissue loss <= 100cm²",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110804.2",
+      "description_ja": null,
+      "description_en": "major ; tissue loss >100cm²",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "110806.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "110808.3",
+      "description_ja": null,
+      "description_en": "total scalp loss",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "120099.9",
+      "description_ja": null,
+      "description_en": "Vascular Injury in Head NFS",
+      "severity": 9,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_004.jpg",
+  "body_part_normalized": "head"
+}

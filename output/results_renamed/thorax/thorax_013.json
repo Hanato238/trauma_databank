@@ -1,0 +1,18 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸部",
+  "entries": [
+    {
+      "code": "430499.1",
+      "description_ja": "迷走神経損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_013.jpg",
+  "body_part_normalized": "thorax"
+}

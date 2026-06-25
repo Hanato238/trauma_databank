@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "spine",
+  "section_title": "CERVICAL SPINE",
+  "entries": [
+    {
+      "code": "640200.3",
+      "description_ja": null,
+      "description_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "640201.3",
+      "description_ja": null,
+      "description_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640202.3",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640204.3",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640206.3",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640208.3",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640210.4",
+      "description_ja": null,
+      "description_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes) , but NFS as to fracture/dislocation",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "640212.4",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640214.4",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640216.4",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640218.4",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640220.5",
+      "description_ja": null,
+      "description_en": "complete cord syndrome (quadriplegia or paraplegia with no sensation)",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640221.5",
+      "description_ja": null,
+      "description_en": "C-4 or below, but NFS as to fracture/dislocation or NFS as to site",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640222.5",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640224.5",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640226.5",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640228.5",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640229.6",
+      "description_ja": null,
+      "description_en": "C-3 or above, but NFS as to fracture/dislocation",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "640230.6",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640232.6",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640234.6",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 6,
+      "level": 3
+    },
+    {
+      "code": "640236.6",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 6,
+      "level": 3
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_008.jpg",
+  "body_part_normalized": "spine"
+}

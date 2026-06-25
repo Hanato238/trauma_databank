@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "132099.2",
+      "description_ja": "IX (舌咽神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "132002.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132004.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132299.2",
+      "description_ja": "X (迷走神経) 詳細不明 [頸部, 胸郭, 腹部における損傷を除く]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "132202.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132204.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132499.2",
+      "description_ja": "XI (副神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "132402.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132404.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132699.2",
+      "description_ja": "XII (舌下神経) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "132602.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132604.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_019.jpg",
+  "body_part_normalized": "head"
+}

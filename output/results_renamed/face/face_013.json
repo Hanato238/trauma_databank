@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "241499.1",
+      "description_ja": "ぶどう膜損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "241699.1",
+      "description_ja": "硝子体 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "241601.1",
+      "description_ja": "出血",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "241602.1",
+      "description_ja": "網膜が見える",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "241603.1",
+      "description_ja": "網膜が見えない",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "241604.1",
+      "description_ja": "剥離",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "243099.1",
+      "description_ja": "口損傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "243199.1",
+      "description_ja": "口蓋 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "243101.1",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "243102.2",
+      "description_ja": "骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "243299.1",
+      "description_ja": "歯肉 (歯茎) 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "243202.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "243204.1",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "243206.1",
+      "description_ja": "剥離",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "243400.1",
+      "description_ja": "舌裂傷・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "243402.1",
+      "description_ja": "小；表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "243404.2",
+      "description_ja": "深在性；広範囲",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "251699.1",
+      "description_ja": "顎関節 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251604.2",
+      "description_ja": "脱臼",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_013.jpg",
+  "body_part_normalized": "face"
+}

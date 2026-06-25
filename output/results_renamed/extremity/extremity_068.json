@@ -1,0 +1,32 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "コード選択のルール：下肢",
+  "entries": [
+    {
+      "code": "850099.9",
+      "description_ja": "下肢の骨折 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "852002.2",
+      "description_ja": "下腿の骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "852004.2",
+      "description_ja": "足部の骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_068.jpg",
+  "body_part_normalized": "extremity"
+}

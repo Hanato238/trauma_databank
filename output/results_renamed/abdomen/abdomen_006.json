@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "ABDOMEN",
+  "entries": [
+    {
+      "code": "521199.3",
+      "description_ja": null,
+      "description_en": "Superior Mesenteric Artery NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521102.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521104.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521106.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521108.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "521499.3",
+      "description_ja": null,
+      "description_en": "Other named arteries NFS [e.g., hepatic, renal, splenic]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521402.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521404.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521406.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521408.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520899.3",
+      "description_ja": null,
+      "description_en": "Iliac Vein [common] NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "520802.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520804.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520806.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "521099.2",
+      "description_ja": null,
+      "description_en": "Iliac Vein [internal, external] NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "521002.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "521004.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "521006.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521299.3",
+      "description_ja": null,
+      "description_en": "Vena Cava, inferior NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "521202.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521204.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "521206.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_006.jpg",
+  "body_part_normalized": "abdomen"
+}

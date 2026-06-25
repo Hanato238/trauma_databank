@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "VESSELS",
+  "entries": [
+    {
+      "code": "520099.9",
+      "description_ja": null,
+      "description_en": "Vascular Injury in Abdomen NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "520299.4",
+      "description_ja": null,
+      "description_en": "Aorta, Abdominal NFS",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "520202.4",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520204.4",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520206.4",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520208.5",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "520499.3",
+      "description_ja": null,
+      "description_en": "Celiac Artery NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "520402.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520404.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520406.4",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520408.5",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "520699.3",
+      "description_ja": null,
+      "description_en": "Iliac Artery [common, internal, external] and its named branches NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "520698.4",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520602.3",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520604.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520606.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520608.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_004.jpg",
+  "body_part_normalized": "abdomen"
+}

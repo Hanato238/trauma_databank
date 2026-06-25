@@ -1,0 +1,102 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "spine",
+  "section_title": "頸 椎",
+  "entries": [
+    {
+      "code": "600099.9",
+      "description_ja": "頸椎損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "600999.9",
+      "description_ja": "頸椎損傷による死亡 (詳細不明) または剖検なし",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "630299.2",
+      "description_ja": "腕神経叢損傷 詳細不明 [神経幹, 神経索, 神経束を含む]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630210.2",
+      "description_ja": "不全型神経叢損傷 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "630212.2",
+      "description_ja": "挫傷; 伸展損傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "630214.2",
+      "description_ja": "裂傷; 裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "630216.2",
+      "description_ja": "引き抜き損傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "630220.3",
+      "description_ja": "完全型神経叢損傷",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "630221.4",
+      "description_ja": "両側^c",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "630222.3",
+      "description_ja": "挫傷; 伸展損傷",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "630224.3",
+      "description_ja": "裂傷; 裂創",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "630226.3",
+      "description_ja": "引き抜き損傷",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "630227.4",
+      "description_ja": "両側^c",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_007.jpg",
+  "body_part_normalized": "spine"
+}

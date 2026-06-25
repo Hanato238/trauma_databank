@@ -1,0 +1,39 @@
+{
+  "page_type": "code",
+  "lang": "both",
+  "body_part": "thorax",
+  "section_title": "胸部",
+  "entries": [
+    {
+      "code": "418000.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "41802.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "418004.2",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "418008.8",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 8,
+      "level": 1
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_001.jpg",
+  "body_part_normalized": "thorax"
+}

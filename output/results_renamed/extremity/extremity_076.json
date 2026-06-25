@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "854000.2",
+      "description_ja": "脛骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "854001.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "854111.2",
+      "description_ja": "近位部骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854112.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "854151.2",
+      "description_ja": "関節外",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854152.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854161.2",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854162.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854171.2",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854172.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854221.2",
+      "description_ja": "骨幹部骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854222.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "854251.2",
+      "description_ja": "単純；斜走；横断；Winquist I型",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854252.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854261.2",
+      "description_ja": "楔状；“蝶形”；Winquist II またはIII型",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854262.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854271.2",
+      "description_ja": "複雑；粉砕；分節；Winquist IV型",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854272.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854331.2",
+      "description_ja": "遠位部骨折 詳細不明［内果骨折；pilon (ピロン) 骨折* を含む］",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854332.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "854351.2",
+      "description_ja": "関節外 内果単独",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854352.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854361.2",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854362.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "854371.2",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854372.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_076.jpg",
+  "body_part_normalized": "extremity"
+}

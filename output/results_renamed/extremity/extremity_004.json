@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "712000.2",
+      "description_ja": null,
+      "description_en": "Compartment syndrome from trauma to soft tissue only, not involving fracture or massive destruction of bone or other anatomical structures, NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "712001.2",
+      "description_ja": null,
+      "description_en": "arm NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712002.2",
+      "description_ja": null,
+      "description_en": "no muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "712003.3",
+      "description_ja": null,
+      "description_en": "with muscle loss",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "712004.2",
+      "description_ja": null,
+      "description_en": "forearm",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712005.2",
+      "description_ja": null,
+      "description_en": "no muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "712006.2",
+      "description_ja": null,
+      "description_en": "with muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "712007.2",
+      "description_ja": null,
+      "description_en": "hand",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "712008.2",
+      "description_ja": null,
+      "description_en": "no muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "712009.2",
+      "description_ja": null,
+      "description_en": "with muscle loss",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "713000.2",
+      "description_ja": null,
+      "description_en": "Crush injury to limb between shoulder and wrist, but NFS as to specific anatomical site",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "713001.4",
+      "description_ja": null,
+      "description_en": "at shoulder",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "713002.4",
+      "description_ja": null,
+      "description_en": "at or above elbow, below shoulder",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "713003.3",
+      "description_ja": null,
+      "description_en": "below elbow, at or above wrist",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "713004.2",
+      "description_ja": null,
+      "description_en": "hand, partial or complete",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "713005.2",
+      "description_ja": null,
+      "description_en": "thumb",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "713006.1",
+      "description_ja": null,
+      "description_en": "non-thumb finger, single or multiple",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "714000.2",
+      "description_ja": null,
+      "description_en": "Degloving injury NFS as to specific anatomical site",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "714001.3",
+      "description_ja": null,
+      "description_en": "entire extremity",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "714002.2",
+      "description_ja": null,
+      "description_en": "arm or forearm, including elbow",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "714003.2",
+      "description_ja": null,
+      "description_en": "wrist or hand",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "714004.2",
+      "description_ja": null,
+      "description_en": "finger, single or multiple",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_004.jpg",
+  "body_part_normalized": "extremity"
+}

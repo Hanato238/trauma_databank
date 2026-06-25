@@ -1,0 +1,3095 @@
+{
+  "body_part": "thorax",
+  "source": "thorax.md",
+  "total_entries": 191,
+  "entries": [
+    {
+      "code": "400099.9",
+      "japanese": "胸部全体の損傷 詳細不明",
+      "english": "Injuries to the Whole Thorax NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "400999.9",
+          "japanese": "具体的な損傷の詳細な記載がない、または剖検による損傷部位の特定がなされていない胸部損傷による死亡",
+          "english": "Died of thoracic injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "胸部全体の損傷 詳細不明",
+          "explanation_en": "Injuries to the Whole Thorax NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "411000.2",
+      "japanese": "乳房の剥離創, 女性",
+      "english": "Breast avulsion, female",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "avulsion"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "413000.6",
+      "japanese": "挫滅損傷 骨格, 血管, 臓器, 組織系の広範な両側性高度損傷を伴わなくてはならない。",
+      "english": "Crush injury",
+      "ais_severity": 6,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "crush"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "415000.4",
+      "japanese": "開放性胸壁損傷（吸い込み創）",
+      "english": "Open (\"sucking\") chest wound",
+      "ais_severity": 4,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "penetrating"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "410102.2",
+      "japanese": "胸筋剥離；裂傷・裂創",
+      "english": "Pectoral muscle tear ; laceration",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "avulsion"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "416000.1",
+      "japanese": "穿通性損傷 詳細不明",
+      "english": "Penetrating injury NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "416002.1",
+          "japanese": "表在性；小・胸腔内に達するが深部組織の損傷は認めない",
+          "english": "superficial ; minor ; into pleural cavity but not involving deeper structures",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "穿通性損傷 詳細不明",
+          "explanation_en": "Penetrating injury NFS",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "416004.2",
+          "japanese": "組織欠損が100cm²を超える",
+          "english": "with tissue loss >100cm²",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "穿通性損傷 詳細不明",
+          "explanation_en": "Penetrating injury NFS",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "416006.3",
+          "japanese": "出血量が全血液量の20%を超える",
+          "english": "with blood loss >20% by volume",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "穿通性損傷 詳細不明",
+          "explanation_en": "Penetrating injury NFS",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "410099.1",
+      "japanese": "皮膚/皮下組織/筋肉 詳細不明",
+      "english": "Skin/subcutaneous/muscle NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "AIS 2005",
+      "children": [
+        {
+          "code": "410202.1",
+          "japanese": "擦過傷",
+          "english": "abrasion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [],
+          "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明",
+          "explanation_en": "Skin/subcutaneous/muscle NFS",
+          "injury_types": [
+            "abrasion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "410402.1",
+          "japanese": "挫傷；血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [],
+          "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明",
+          "explanation_en": "Skin/subcutaneous/muscle NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "410600.1",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "410602.1",
+              "japanese": "小；表在性",
+              "english": "minor ; superficial",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Skin/subcutaneous/muscle NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "410604.2",
+              "japanese": "大；長さが20cmを超えかつ皮下組織に達する",
+              "english": "major ; >20cm long and into subcutaneous tissue",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Skin/subcutaneous/muscle NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "410606.3",
+              "japanese": "出血量が全血液量の20%を超える",
+              "english": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Skin/subcutaneous/muscle NFS > laceration NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明",
+          "explanation_en": "Skin/subcutaneous/muscle NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "410800.1",
+          "japanese": "剥離 詳細不明",
+          "english": "avulsion NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "410802.1",
+              "japanese": "小；表在性；100cm²以下",
+              "english": "minor ; superficial ; ≤100cm²",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 剥離 詳細不明",
+              "explanation_en": "Skin/subcutaneous/muscle NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "410804.2",
+              "japanese": "大；100cm²を超える",
+              "english": "major ; >100cm²",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 剥離 詳細不明",
+              "explanation_en": "Skin/subcutaneous/muscle NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "410806.3",
+              "japanese": "出血量が全血液量の20%を超える",
+              "english": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 剥離 詳細不明",
+              "explanation_en": "Skin/subcutaneous/muscle NFS > avulsion NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明",
+          "explanation_en": "Skin/subcutaneous/muscle NFS",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "420099.9",
+      "japanese": "胸部の血管損傷 詳細不明",
+      "english": "Vascular Injury in Thorax NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "AIS 2005",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "420299.4",
+      "japanese": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V]",
+      "english": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise]",
+      "ais_severity": 4,
+      "hierarchy_level": 1,
+      "section": "AIS 2005",
+      "children": [
+        {
+          "code": "420202.4",
+          "japanese": "内膜剥離, 断裂なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "420204.5",
+              "japanese": "大動脈弁の損傷を伴う",
+              "english": "with aortic valve involvement",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V] > 内膜剥離, 断裂なし",
+              "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise] > intimal tear, no disruption",
+              "injury_types": [
+                "vascular"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V]",
+          "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise]",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "420206.4",
+          "japanese": "裂傷・裂創；穿孔；詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "420208.4",
+              "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V] > 裂傷・裂創；穿孔；詳細不明",
+              "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "420210.5",
+              "japanese": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [
+                {
+                  "code": "420212.5",
+                  "japanese": "大動脈基底部または大動脈弁の損傷を伴う",
+                  "english": "with aortic root or valve involvement",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V] > 裂傷・裂創；穿孔；詳細不明 > 大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+                  "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise] > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                  "injury_types": [
+                    "vascular"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "420216.5",
+                  "japanese": "縦隔内に限局した出血を伴う",
+                  "english": "with hemorrhage confined to mediastinum",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V] > 裂傷・裂創；穿孔；詳細不明 > 大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+                  "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise] > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "420218.6",
+                  "japanese": "縦隔外への出血を伴う [OIS VI]",
+                  "english": "with hemorrhage not confined to mediastinum [OIS VI]",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V] > 裂傷・裂創；穿孔；詳細不明 > 大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+                  "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise] > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V] > 裂傷・裂創；穿孔；詳細不明",
+              "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V]",
+          "explanation_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "420499.3",
+      "japanese": "腕頭 (無名) 動脈 詳細不明 [OIS Ⅲに相当する]",
+      "english": "Brachiocephalic (innominate) artery NFS [OIS III for entire category]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "420402.3",
+          "japanese": "内膜剥離, 断裂なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "腕頭 (無名) 動脈 詳細不明 [OIS Ⅲに相当する]",
+          "explanation_en": "Brachiocephalic (innominate) artery NFS [OIS III for entire category]",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "420404.3",
+          "japanese": "裂傷・裂創; 穿孔 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "420406.3",
+              "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "腕頭 (無名) 動脈 詳細不明 [OIS Ⅲに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Brachiocephalic (innominate) artery NFS [OIS III for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "420408.4",
+              "japanese": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "腕頭 (無名) 動脈 詳細不明 [OIS Ⅲに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Brachiocephalic (innominate) artery NFS [OIS III for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "腕頭 (無名) 動脈 詳細不明 [OIS Ⅲに相当する]",
+          "explanation_en": "Brachiocephalic (innominate) artery NFS [OIS III for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "420800.5",
+      "japanese": "冠動脈 左右の冠動脈本幹あるいは左前下行枝, 冠静脈洞の裂傷・裂創あるいは血栓症",
+      "english": "Coronary artery laceration or thrombosis to left main, right main or left anterior descending artery ; coronary sinus",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "vascular"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "421099.3",
+      "japanese": "肺動脈 詳細不明 [OIS Ⅳ, Ⅴに相当する]",
+      "english": "Pulmonary artery NFS [OIS IV, V for entire category]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "421002.3",
+          "japanese": "内膜剥離, 断裂なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "肺動脈 詳細不明 [OIS Ⅳ, Ⅴに相当する]",
+          "explanation_en": "Pulmonary artery NFS [OIS IV, V for entire category]",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "421004.3",
+          "japanese": "裂傷・裂創; 穿孔 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "421006.3",
+              "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "肺動脈 詳細不明 [OIS Ⅳ, Ⅴに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Pulmonary artery NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "421008.5",
+              "japanese": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [
+                {
+                  "code": "421009.6",
+                  "japanese": "両側性ᶜ",
+                  "english": "bilateral⁼",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "THORAX",
+                  "children": [],
+                  "explanation_ja": "肺動脈 詳細不明 [OIS Ⅳ, Ⅴに相当する] > 裂傷・裂創; 穿孔 詳細不明 > 大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
+                  "explanation_en": "Pulmonary artery NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                  "injury_types": [
+                    "rupture",
+                    "hemorrhage",
+                    "amputation"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "肺動脈 詳細不明 [OIS Ⅳ, Ⅴに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Pulmonary artery NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肺動脈 詳細不明 [OIS Ⅳ, Ⅴに相当する]",
+          "explanation_en": "Pulmonary artery NFS [OIS IV, V for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "421499.3",
+      "japanese": "鎖骨下動脈 詳細不明 [OIS Ⅲに相当する]",
+      "english": "Subclavian artery NFS [OIS III for entire category]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "421402.3",
+          "japanese": "内膜剥離, 断裂なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "鎖骨下動脈 詳細不明 [OIS Ⅲに相当する]",
+          "explanation_en": "Subclavian artery NFS [OIS III for entire category]",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "421404.3",
+          "japanese": "裂傷・裂創; 穿孔 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "421406.3",
+              "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "鎖骨下動脈 詳細不明 [OIS Ⅲに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Subclavian artery NFS [OIS III for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "421408.4",
+              "japanese": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "鎖骨下動脈 詳細不明 [OIS Ⅲに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Subclavian artery NFS [OIS III for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "鎖骨下動脈 詳細不明 [OIS Ⅲに相当する]",
+          "explanation_en": "Subclavian artery NFS [OIS III for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "422099.2",
+      "japanese": "その他の動脈 例：気管支動脈, 食道動脈, 肋間動脈, 内胸動脈 詳細不明 [OIS Ⅱに相当する]",
+      "english": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "422002.2",
+          "japanese": "内膜剥離, 断裂なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "その他の動脈 例：気管支動脈, 食道動脈, 肋間動脈, 内胸動脈 詳細不明 [OIS Ⅱに相当する]",
+          "explanation_en": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category]",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "422004.2",
+          "japanese": "裂傷・裂創; 穿孔 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "422006.2",
+              "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "その他の動脈 例：気管支動脈, 食道動脈, 肋間動脈, 内胸動脈 詳細不明 [OIS Ⅱに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "422008.3",
+              "japanese": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "その他の動脈 例：気管支動脈, 食道動脈, 肋間動脈, 内胸動脈 詳細不明 [OIS Ⅱに相当する] > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "その他の動脈 例：気管支動脈, 食道動脈, 肋間動脈, 内胸動脈 詳細不明 [OIS Ⅱに相当する]",
+          "explanation_en": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "420699.3",
+      "japanese": "腕頭（無名）静脈 詳細不明 ［すべて OIS II のカテゴリー］",
+      "english": "Brachiocephalic (innominate) vein NFS [OIS II for entire category]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "420602.3",
+          "japanese": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "420604.3",
+              "japanese": "小；表在性；非全周性； 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [
+                {
+                  "code": "420606.4",
+                  "japanese": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+                  "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "THORAX",
+                  "children": [
+                    {
+                      "code": "420608.5",
+                      "japanese": "右心系に空気塞栓を伴う",
+                      "english": "with air embolus right side",
+                      "ais_severity": 5,
+                      "hierarchy_level": 5,
+                      "section": "THORAX",
+                      "children": [],
+                      "explanation_ja": "腕頭（無名）静脈 詳細不明 ［すべて OIS II のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明 > 小；表在性；非全周性； 出血量が全血液量の20%以下 > 大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+                      "explanation_en": "Brachiocephalic (innominate) vein NFS [OIS II for entire category] > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                      "injury_types": [
+                        "rupture",
+                        "hemorrhage",
+                        "amputation"
+                      ],
+                      "iss_body_region": "thorax"
+                    }
+                  ],
+                  "explanation_ja": "腕頭（無名）静脈 詳細不明 ［すべて OIS II のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明 > 小；表在性；非全周性； 出血量が全血液量の20%以下",
+                  "explanation_en": "Brachiocephalic (innominate) vein NFS [OIS II for entire category] > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+                  "injury_types": [
+                    "rupture",
+                    "hemorrhage",
+                    "amputation"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "腕頭（無名）静脈 詳細不明 ［すべて OIS II のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Brachiocephalic (innominate) vein NFS [OIS II for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "腕頭（無名）静脈 詳細不明 ［すべて OIS II のカテゴリー］",
+          "explanation_en": "Brachiocephalic (innominate) vein NFS [OIS II for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "421299.3",
+      "japanese": "肺静脈 詳細不明 ［すべて OIS IV, V のカテゴリー］",
+      "english": "Pulmonary vein NFS [OIS IV, V for entire category]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "421202.3",
+          "japanese": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "421204.3",
+              "japanese": "小；表在性；非全周性； 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "肺静脈 詳細不明 ［すべて OIS IV, V のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Pulmonary vein NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "421206.5",
+              "japanese": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [
+                {
+                  "code": "421207.6",
+                  "japanese": "両側",
+                  "english": "",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "THORAX",
+                  "children": [],
+                  "explanation_ja": "肺静脈 詳細不明 ［すべて OIS IV, V のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明 > 大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+                  "explanation_en": "Pulmonary vein NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                  "injury_types": [
+                    "rupture",
+                    "hemorrhage",
+                    "amputation"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "肺静脈 詳細不明 ［すべて OIS IV, V のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Pulmonary vein NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肺静脈 詳細不明 ［すべて OIS IV, V のカテゴリー］",
+          "explanation_en": "Pulmonary vein NFS [OIS IV, V for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "421699.3",
+      "japanese": "鎖骨下静脈 詳細不明 ［すべて OIS II のカテゴリー］",
+      "english": "Subclavian vein NFS [OIS II for entire category]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "421602.3",
+          "japanese": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "421604.3",
+              "japanese": "小；表在性；非全周性； 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "鎖骨下静脈 詳細不明 ［すべて OIS II のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Subclavian vein NFS [OIS II for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "421606.4",
+              "japanese": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "鎖骨下静脈 詳細不明 ［すべて OIS II のカテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Subclavian vein NFS [OIS II for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "鎖骨下静脈 詳細不明 ［すべて OIS II のカテゴリー］",
+          "explanation_en": "Subclavian vein NFS [OIS II for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "421899.3",
+      "japanese": "上大静脈, 胸腔内下静脈 詳細不明 ［すべて OIS IV, V の カテゴリー］",
+      "english": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "421802.3",
+          "japanese": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "421804.3",
+              "japanese": "小；表在性；非全周性； 出血量が全血液量の20%以下 血栓の有無を問わない",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume with or without thrombosis",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [
+                {
+                  "code": "421806.4",
+                  "japanese": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+                  "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "THORAX",
+                  "children": [],
+                  "explanation_ja": "上大静脈, 胸腔内下静脈 詳細不明 ［すべて OIS IV, V の カテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明 > 小；表在性；非全周性； 出血量が全血液量の20%以下 血栓の有無を問わない",
+                  "explanation_en": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume with or without thrombosis",
+                  "injury_types": [
+                    "rupture",
+                    "hemorrhage",
+                    "amputation"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "421808.5",
+                  "japanese": "右心系に空気塞栓を伴う",
+                  "english": "with air embolus right side",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "THORAX",
+                  "children": [],
+                  "explanation_ja": "上大静脈, 胸腔内下静脈 詳細不明 ［すべて OIS IV, V の カテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明 > 小；表在性；非全周性； 出血量が全血液量の20%以下 血栓の有無を問わない",
+                  "explanation_en": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume with or without thrombosis",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "上大静脈, 胸腔内下静脈 詳細不明 ［すべて OIS IV, V の カテゴリー］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "上大静脈, 胸腔内下静脈 詳細不明 ［すべて OIS IV, V の カテゴリー］",
+          "explanation_en": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "422299.2",
+      "japanese": "その他の静脈, 例：奇静脈, 気管支静脈, 食道静脈, 半奇静脈, 肋間静脈, 内頸静脈, 内胸静脈 ［すべて OIS I のカテゴリー, 奇静脈と内頸静脈は OIS II］",
+      "english": "Other named veins, e.g., azygos, bronchial, esophageal, hemi-azygos, intercostal, internal jugular, internal mammary [OIS I for entire category except azygos and internal jugular, OIS II]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "422202.2",
+          "japanese": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "422204.2",
+              "japanese": "小；表在性；非全周性； 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "その他の静脈, 例：奇静脈, 気管支静脈, 食道静脈, 半奇静脈, 肋間静脈, 内頸静脈, 内胸静脈 ［すべて OIS I のカテゴリー, 奇静脈と内頸静脈は OIS II］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Other named veins, e.g., azygos, bronchial, esophageal, hemi-azygos, intercostal, internal jugular, internal mammary [OIS I for entire category except azygos and internal jugular, OIS II] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "422206.3",
+              "japanese": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss > 20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "その他の静脈, 例：奇静脈, 気管支静脈, 食道静脈, 半奇静脈, 肋間静脈, 内頸静脈, 内胸静脈 ［すべて OIS I のカテゴリー, 奇静脈と内頸静脈は OIS II］ > 裂傷・裂創；穿孔；穿刺 詳細不明",
+              "explanation_en": "Other named veins, e.g., azygos, bronchial, esophageal, hemi-azygos, intercostal, internal jugular, internal mammary [OIS I for entire category except azygos and internal jugular, OIS II] > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "その他の静脈, 例：奇静脈, 気管支静脈, 食道静脈, 半奇静脈, 肋間静脈, 内頸静脈, 内胸静脈 ［すべて OIS I のカテゴリー, 奇静脈と内頸静脈は OIS II］",
+          "explanation_en": "Other named veins, e.g., azygos, bronchial, esophageal, hemi-azygos, intercostal, internal jugular, internal mammary [OIS I for entire category except azygos and internal jugular, OIS II]",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "430499.1",
+      "japanese": "迷走神経損傷",
+      "english": "Vagus nerve injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nerve"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "440099.9",
+      "japanese": "気管支損傷 詳細不明",
+      "english": "Bronchus injury NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "INTERNAL ORGANS",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "440199.3",
+      "japanese": "鎖骨下動脈 詳細不明",
+      "english": "Bronchus, main stem, NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "INTERNAL ORGANS",
+      "children": [
+        {
+          "code": "440102.3",
+          "japanese": "挫傷；血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "INTERNAL ORGANS",
+          "children": [],
+          "explanation_ja": "鎖骨下動脈 詳細不明",
+          "explanation_en": "Bronchus, main stem, NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "440104.3",
+          "japanese": "裂傷・裂創；詳細不明",
+          "english": "laceration ; tear NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "INTERNAL ORGANS",
+          "children": [
+            {
+              "code": "440106.3",
+              "japanese": "穿孔なし；非全層性",
+              "english": "no perforation ; partial thickness",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "鎖骨下動脈 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Bronchus, main stem, NFS > laceration ; tear NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440108.4",
+              "japanese": "穿孔；全層性；“骨折”",
+              "english": "perforation ; full thickness ; \"fracture\"",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "鎖骨下動脈 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Bronchus, main stem, NFS > laceration ; tear NFS",
+              "injury_types": [
+                "fracture",
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440110.5",
+              "japanese": "複雑；断裂；破裂；離断；断裂を伴う",
+              "english": "complex ; avulsion ; rupture ; transection ; with separation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "鎖骨下動脈 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Bronchus, main stem, NFS > laceration ; tear NFS",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "鎖骨下動脈 詳細不明",
+          "explanation_en": "Bronchus, main stem, NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "440299.1",
+      "japanese": "主気管支より末梢の気管支 詳細不明",
+      "english": "Bronchus, distal to main stem NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "INTERNAL ORGANS",
+      "children": [
+        {
+          "code": "440202.1",
+          "japanese": "挫傷；血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "INTERNAL ORGANS",
+          "children": [],
+          "explanation_ja": "主気管支より末梢の気管支 詳細不明",
+          "explanation_en": "Bronchus, distal to main stem NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "440204.2",
+          "japanese": "裂傷・裂創；詳細不明",
+          "english": "laceration ; tear NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "INTERNAL ORGANS",
+          "children": [
+            {
+              "code": "440206.2",
+              "japanese": "穿孔なし；非全層性",
+              "english": "no perforation ; partial thickness",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "主気管支より末梢の気管支 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Bronchus, distal to main stem NFS > laceration ; tear NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440208.3",
+              "japanese": "穿孔；全層性；“骨折”",
+              "english": "perforation ; full thickness ; \"fracture\"",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "主気管支より末梢の気管支 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Bronchus, distal to main stem NFS > laceration ; tear NFS",
+              "injury_types": [
+                "fracture",
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440210.4",
+              "japanese": "複雑；断裂；破裂；離断；断裂を伴う",
+              "english": "complex ; avulsion ; rupture ; transection ; with separation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "主気管支より末梢の気管支 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Bronchus, distal to main stem NFS > laceration ; tear NFS",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "主気管支より末梢の気管支 詳細不明",
+          "explanation_en": "Bronchus, distal to main stem NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "440699.2",
+      "japanese": "横隔膜 詳細不明",
+      "english": "Diaphragm NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "INTERNAL ORGANS",
+      "children": [
+        {
+          "code": "440602.2",
+          "japanese": "挫傷；血腫 [OIS I]",
+          "english": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "INTERNAL ORGANS",
+          "children": [],
+          "explanation_ja": "横隔膜 詳細不明",
+          "explanation_en": "Diaphragm NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "440604.2",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "INTERNAL ORGANS",
+          "children": [
+            {
+              "code": "440606.3",
+              "japanese": "10cm以下 [OIS II, III]",
+              "english": "≤10cm ; [OIS II, III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "横隔膜 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Diaphragm NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440608.4",
+              "japanese": "10cmを超える；広範な組織欠損 [OIS IV, V]",
+              "english": ">10cm ; with significant tissue loss [OIS IV, V]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "INTERNAL ORGANS",
+              "children": [],
+              "explanation_ja": "横隔膜 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Diaphragm NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "横隔膜 詳細不明",
+          "explanation_en": "Diaphragm NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "440610.4",
+          "japanese": "ヘルニアを伴う破裂",
+          "english": "rupture with herniation",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "INTERNAL ORGANS",
+          "children": [],
+          "explanation_ja": "横隔膜 詳細不明",
+          "explanation_en": "Diaphragm NFS",
+          "injury_types": [
+            "rupture"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "440899.2",
+      "japanese": "胸部食道損傷 詳細不明",
+      "english": "Esophagus injury in Thorax NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "AIS 2005",
+      "children": [
+        {
+          "code": "440802.2",
+          "japanese": "挫傷；血腫 [OIS I]",
+          "english": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [],
+          "explanation_ja": "胸部食道損傷 詳細不明",
+          "explanation_en": "Esophagus injury in Thorax NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "440805.3",
+          "japanese": "経口摂取による障害 詳細不明",
+          "english": "ingestion injury NFSᵃ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "440807.3",
+              "japanese": "非全層性壊死ª",
+              "english": "partial-thickness necrosisᵃ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "胸部食道損傷 詳細不明 > 経口摂取による障害 詳細不明",
+              "explanation_en": "Esophagus injury in Thorax NFS > ingestion injury NFSᵃ",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440809.4",
+              "japanese": "全層性壊死ª",
+              "english": "full-thickness necrosisᵃ",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "胸部食道損傷 詳細不明 > 経口摂取による障害 詳細不明",
+              "explanation_en": "Esophagus injury in Thorax NFS > ingestion injury NFSᵃ",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部食道損傷 詳細不明",
+          "explanation_en": "Esophagus injury in Thorax NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "440804.3",
+          "japanese": "裂傷・裂創；詳細不明",
+          "english": "laceration ; tear NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "440806.3",
+              "japanese": "穿孔なし；非全層性；周径の50%以下 [OIS I, II]",
+              "english": "no perforation ; partial thickness ; ≤50 % circumference [OIS I, II]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "胸部食道損傷 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Esophagus injury in Thorax NFS > laceration ; tear NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440808.4",
+              "japanese": "穿孔；全層性；周径の50%を超える [OIS III]",
+              "english": "perforation ; full thickness ; >50% circumference [OIS III]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "胸部食道損傷 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Esophagus injury in Thorax NFS > laceration ; tear NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "440810.5",
+              "japanese": "剥離；破裂；離断；広範囲損傷 [OIS IV, V]",
+              "english": "avulsion ; rupture ; transection ; massive destruction [OIS IV, V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "胸部食道損傷 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Esophagus injury in Thorax NFS > laceration ; tear NFS",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部食道損傷 詳細不明",
+          "explanation_en": "Esophagus injury in Thorax NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "441099.1",
+      "japanese": "心臓 (心筋) 損傷 詳細不明",
+      "english": "Heart (Myocardium) injury NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "AIS 2005",
+      "children": [
+        {
+          "code": "441089.9",
+          "japanese": "心停止を伴う 詳細不明f",
+          "english": "with cardiac arrest NFSᶠ",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [],
+          "explanation_ja": "心臓 (心筋) 損傷 詳細不明",
+          "explanation_en": "Heart (Myocardium) injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "441002.1",
+          "japanese": "挫傷 詳細不明",
+          "english": "contusion NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "441004.1",
+              "japanese": "小 [OIS I]",
+              "english": "minor [OIS I]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "心臓 (心筋) 損傷 詳細不明 > 挫傷 詳細不明",
+              "explanation_en": "Heart (Myocardium) injury NFS > contusion NFS",
+              "injury_types": [
+                "contusion",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441006.4",
+              "japanese": "大",
+              "english": "major",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "心臓 (心筋) 損傷 詳細不明 > 挫傷 詳細不明",
+              "explanation_en": "Heart (Myocardium) injury NFS > contusion NFS",
+              "injury_types": [
+                "contusion",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "心臓 (心筋) 損傷 詳細不明",
+          "explanation_en": "Heart (Myocardium) injury NFS",
+          "injury_types": [
+            "contusion",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "441008.3",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "441010.3",
+              "japanese": "穿孔なし；心室・心房損傷なし",
+              "english": "no perforation ; no chamber involvement",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "心臓 (心筋) 損傷 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Heart (Myocardium) injury NFS > laceration NFS",
+              "injury_types": [
+                "perforation",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441012.5",
+              "japanese": "穿孔；心室・心房の穿孔を認め、タンポナーデの有無は問わない",
+              "english": "perforation ; ventricular or atrial, with or without tamponade",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [
+                {
+                  "code": "441013.5",
+                  "japanese": "心房破裂ª",
+                  "english": "atrial ruptureᵃ",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "心臓 (心筋) 損傷 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔；心室・心房の穿孔を認め、タンポナーデの有無は問わない",
+                  "explanation_en": "Heart (Myocardium) injury NFS > laceration NFS > perforation ; ventricular or atrial, with or without tamponade",
+                  "injury_types": [
+                    "rupture"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "441014.6",
+                  "japanese": "心室破裂",
+                  "english": "ventricular rupture",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "心臓 (心筋) 損傷 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔；心室・心房の穿孔を認め、タンポナーデの有無は問わない",
+                  "explanation_en": "Heart (Myocardium) injury NFS > laceration NFS > perforation ; ventricular or atrial, with or without tamponade",
+                  "injury_types": [
+                    "rupture"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "441016.6",
+                  "japanese": "多発裂傷・裂創；心室・心房の50%を超える組織欠損",
+                  "english": "multiple lacerations ; > 50 % tissue loss of a chamber",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "心臓 (心筋) 損傷 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔；心室・心房の穿孔を認め、タンポナーデの有無は問わない",
+                  "explanation_en": "Heart (Myocardium) injury NFS > laceration NFS > perforation ; ventricular or atrial, with or without tamponade",
+                  "injury_types": [
+                    "laceration"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "心臓 (心筋) 損傷 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Heart (Myocardium) injury NFS > laceration NFS",
+              "injury_types": [
+                "perforation"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "心臓 (心筋) 損傷 詳細不明",
+          "explanation_en": "Heart (Myocardium) injury NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "441018.6",
+          "japanese": "断裂",
+          "english": "avulsion",
+          "ais_severity": 6,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [],
+          "explanation_ja": "心臓 (心筋) 損傷 詳細不明",
+          "explanation_en": "Heart (Myocardium) injury NFS",
+          "injury_types": [
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "440400.5",
+      "japanese": "心筋腱索の裂傷・裂創；破裂",
+      "english": "Intracardiac chordae tendineae laceration ; rupture",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "損傷内容",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "rupture"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "441300.5",
+      "japanese": "心室または心房中隔の裂傷・裂創；破裂",
+      "english": "Intracardiac septum laceration ; rupture",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "損傷内容",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "rupture"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "441200.5",
+      "japanese": "心臓弁の裂傷・裂創；破裂",
+      "english": "Intracardiac valve laceration ; rupture",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "損傷内容",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "rupture"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "441499.3",
+      "japanese": "肺 詳細不明",
+      "english": "Lung NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "損傷内容",
+      "children": [
+        {
+          "code": "441420.3",
+          "japanese": "爆風傷（過度の圧力／爆発）詳細不明",
+          "english": "blast injury (overpressure/explosive) NFS^a",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "損傷内容",
+          "children": [
+            {
+              "code": "441422.3",
+              "japanese": "軽症",
+              "english": "mild^a",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "損傷内容",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 爆風傷（過度の圧力／爆発）詳細不明",
+              "explanation_en": "Lung NFS > blast injury (overpressure/explosive) NFS^a",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441424.4",
+              "japanese": "中等症；片側または両側の胸腔内出血を伴う",
+              "english": "moderate ; uni/bilateral with pulmonary peripheral hemorrhage^a",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "損傷内容",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 爆風傷（過度の圧力／爆発）詳細不明",
+              "explanation_en": "Lung NFS > blast injury (overpressure/explosive) NFS^a",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441426.5",
+              "japanese": "重症；両側の空気塞栓を伴う",
+              "english": "severe ; bilateral with air embolus^a",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "損傷内容",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 爆風傷（過度の圧力／爆発）詳細不明",
+              "explanation_en": "Lung NFS > blast injury (overpressure/explosive) NFS^a",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肺 詳細不明",
+          "explanation_en": "Lung NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "441402.3",
+          "japanese": "挫傷 詳細不明",
+          "english": "contusion NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "損傷内容",
+          "children": [
+            {
+              "code": "441406.2",
+              "japanese": "片側 詳細不明",
+              "english": "unilateral NFS^e",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "損傷内容",
+              "children": [
+                {
+                  "code": "441407.2",
+                  "japanese": "小；一葉未満",
+                  "english": "minor ; <1 lobe",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 挫傷 詳細不明 > 片側 詳細不明",
+                  "explanation_en": "Lung NFS > contusion NFS > unilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "441408.3",
+                  "japanese": "大；一葉以上",
+                  "english": "major ; ≥1 lobe",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 挫傷 詳細不明 > 片側 詳細不明",
+                  "explanation_en": "Lung NFS > contusion NFS > unilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "肺 詳細不明 > 挫傷 詳細不明",
+              "explanation_en": "Lung NFS > contusion NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441410.3",
+              "japanese": "両側 詳細不明",
+              "english": "bilateral NFS^e",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "損傷内容",
+              "children": [
+                {
+                  "code": "441411.3",
+                  "japanese": "小；一葉未満",
+                  "english": "minor ; <1 lobe",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 挫傷 詳細不明 > 両側 詳細不明",
+                  "explanation_en": "Lung NFS > contusion NFS > bilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "441412.4",
+                  "japanese": "大；少なくとも一側肺の一葉以上",
+                  "english": "major ; ≥1 lobe in at least one lung",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 挫傷 詳細不明 > 両側 詳細不明",
+                  "explanation_en": "Lung NFS > contusion NFS > bilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "肺 詳細不明 > 挫傷 詳細不明",
+              "explanation_en": "Lung NFS > contusion NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肺 詳細不明",
+          "explanation_en": "Lung NFS",
+          "injury_types": [
+            "contusion",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "441414.3",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "lacerration NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "損傷内容",
+          "children": [
+            {
+              "code": "441430.3",
+              "japanese": "片側 詳細不明",
+              "english": "unilateral NFS^e",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "損傷内容",
+              "children": [
+                {
+                  "code": "441431.3",
+                  "japanese": "小；一葉未満",
+                  "english": "minor ; <1 lobe",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 裂傷・裂創 詳細不明 > 片側 詳細不明",
+                  "explanation_en": "Lung NFS > lacerration NFS > unilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "441432.4",
+                  "japanese": "大；一葉以上",
+                  "english": "major ; ≥1 lobe",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 裂傷・裂創 詳細不明 > 片側 詳細不明",
+                  "explanation_en": "Lung NFS > lacerration NFS > unilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "肺 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Lung NFS > lacerration NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441450.4",
+              "japanese": "両側 詳細不明",
+              "english": "bilateral NFS^e",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "損傷内容",
+              "children": [
+                {
+                  "code": "441551.4",
+                  "japanese": "小；一葉未満",
+                  "english": "minor ; <1 lobe",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 裂傷・裂創 詳細不明 > 両側 詳細不明",
+                  "explanation_en": "Lung NFS > lacerration NFS > bilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "441452.5",
+                  "japanese": "大；少なくとも一側肺の一葉以上",
+                  "english": "major ; ≥1 lobe in at least one lung",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "損傷内容",
+                  "children": [],
+                  "explanation_ja": "肺 詳細不明 > 裂傷・裂創 詳細不明 > 両側 詳細不明",
+                  "explanation_en": "Lung NFS > lacerration NFS > bilateral NFS^e",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "肺 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Lung NFS > lacerration NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肺 詳細不明",
+          "explanation_en": "Lung NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "419200.2",
+          "japanese": "吸入損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+          "english": "inhalation injury NFS (heat, particulate matter, noxious agents)",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [
+            {
+              "code": "419201.2",
+              "japanese": "すすの沈着, 発赤, 浮腫, 気道分泌物, 気管支閉塞の所見がない",
+              "english": "absence of carbonaceous deposits, erythema, edema, bronchorrhea, obstruction",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 吸入損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+              "explanation_en": "Lung NFS > inhalation injury NFS (heat, particulate matter, noxious agents)",
+              "injury_types": [
+                "edema"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "419202.3",
+              "japanese": "近位または遠位気管支への軽度または班状の発赤, 気道分泌物, すすの沈着がある",
+              "english": "minor or patchy areas of erythema, bronchorrhea, carbonaceous deposits in proximal or distal bronchi",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 吸入損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+              "explanation_en": "Lung NFS > inhalation injury NFS (heat, particulate matter, noxious agents)",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "419204.4",
+              "japanese": "中等度の発赤, すすの沈着, 気道分泌物 (ただし, 気管支損傷の有無を問わない)",
+              "english": "moderate degree of erythema, carbonaceous deposits, bronchorrhea with or without compromise of the bronchi",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 吸入損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+              "explanation_en": "Lung NFS > inhalation injury NFS (heat, particulate matter, noxious agents)",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "419206.5",
+              "japanese": "重度の炎症, 多量のすすの沈着, 多量の気道分泌物, 気管支閉塞, 低酸素血症",
+              "english": "severe inflammation with friability, copious carbonaceous deposits, bronchorrhea, bronchial obstruction, hypoxemia",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 吸入損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+              "explanation_en": "Lung NFS > inhalation injury NFS (heat, particulate matter, noxious agents)",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "419208.6",
+              "japanese": "粘膜の脱落, 壊死, 内腔の消失",
+              "english": "evidence of mucosal sloughing, necrosis, endoluminal obliteration",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肺 詳細不明 > 吸入損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+              "explanation_en": "Lung NFS > inhalation injury NFS (heat, particulate matter, noxious agents)",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肺 詳細不明",
+          "explanation_en": "Lung NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "441699.2",
+      "japanese": "心膜 (心嚢) 詳細不明",
+      "english": "Pericardium NFS",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "Injury Description",
+      "children": [
+        {
+          "code": "441602.2",
+          "japanese": "裂傷・裂創; 穿刺",
+          "english": "laceration ; puncture",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [],
+          "explanation_ja": "心膜 (心嚢) 詳細不明",
+          "explanation_en": "Pericardium NFS",
+          "injury_types": [
+            "laceration",
+            "penetrating"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "441603.3",
+          "japanese": "心膜 (心嚢) ・心膜血腫 詳細不明^a",
+          "english": "hemopericardium NFS^a",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [
+            {
+              "code": "441604.3",
+              "japanese": "心タンポナーデや心損傷を伴わない^a",
+              "english": "without cardiac tamponade or heart injury^a",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "心膜 (心嚢) 詳細不明 > 心膜 (心嚢) ・心膜血腫 詳細不明^a",
+              "explanation_en": "Pericardium NFS > hemopericardium NFS^a",
+              "injury_types": [
+                "hematoma",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441605.4",
+              "japanese": "心損傷を合併しない心タンポナーデ",
+              "english": "with cardiac tamponade but without heart injury",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "心膜 (心嚢) 詳細不明 > 心膜 (心嚢) ・心膜血腫 詳細不明^a",
+              "explanation_en": "Pericardium NFS > hemopericardium NFS^a",
+              "injury_types": [
+                "hematoma",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "441606.5",
+              "japanese": "心嚢からのヘルニア",
+              "english": "herniation of heart through pericardium",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "心膜 (心嚢) 詳細不明 > 心膜 (心嚢) ・心膜血腫 詳細不明^a",
+              "explanation_en": "Pericardium NFS > hemopericardium NFS^a",
+              "injury_types": [
+                "hematoma",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "心膜 (心嚢) 詳細不明",
+          "explanation_en": "Pericardium NFS",
+          "injury_types": [
+            "hematoma",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "441800.2",
+      "japanese": "胸膜 裂傷・裂創",
+      "english": "Pleura laceration",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "Injury Description",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "442999.9",
+      "japanese": "胸部損傷 詳細不明",
+      "english": "Thoracic injury NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "442200.3",
+          "japanese": "血胸 詳細不明",
+          "english": "Hemothorax NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "442201.4",
+              "japanese": "大：少なくとも片側で1000mlを超える出血",
+              "english": "major ; >1000cc blood loss on at least one side",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部損傷 詳細不明 > 血胸 詳細不明",
+              "explanation_en": "Thoracic injury NFS > Hemothorax NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部損傷 詳細不明",
+          "explanation_en": "Thoracic injury NFS",
+          "injury_types": [
+            "hemorrhage",
+            "hemothorax",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "442202.2",
+          "japanese": "気胸 詳細不明",
+          "english": "Pneumothorax NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "442203.4",
+              "japanese": "大：X線検査で50%を超える肺の虚脱；持続する空気漏れ",
+              "english": "major ; >50% collapse of lung documented on xray ; persistent air leak",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部損傷 詳細不明 > 気胸 詳細不明",
+              "explanation_en": "Thoracic injury NFS > Pneumothorax NFS",
+              "injury_types": [
+                "pneumothorax",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "442204.5",
+              "japanese": "緊張性；大量の空気漏れ",
+              "english": "tension ; massive air leak",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部損傷 詳細不明 > 気胸 詳細不明",
+              "explanation_en": "Thoracic injury NFS > Pneumothorax NFS",
+              "injury_types": [
+                "pneumothorax",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部損傷 詳細不明",
+          "explanation_en": "Thoracic injury NFS",
+          "injury_types": [
+            "pneumothorax",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "442205.3",
+          "japanese": "血気胸 詳細不明",
+          "english": "Hemopneumothorax NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "442206.4",
+              "japanese": "大：少なくとも片側に1000mlを超える出血",
+              "english": "major ; >1000cc blood loss on at least one side",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部損傷 詳細不明 > 血気胸 詳細不明",
+              "explanation_en": "Thoracic injury NFS > Hemopneumothorax NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部損傷 詳細不明",
+          "explanation_en": "Thoracic injury NFS",
+          "injury_types": [
+            "pneumothorax",
+            "hemothorax",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "442207.5",
+          "japanese": "空気塞栓",
+          "english": "Air Embolus",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "胸部損傷 詳細不明",
+          "explanation_en": "Thoracic injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "442208.2",
+          "japanese": "縦隔血腫",
+          "english": "Hemomediastinum",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "胸部損傷 詳細不明",
+          "explanation_en": "Thoracic injury NFS",
+          "injury_types": [
+            "hematoma"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "442209.2",
+          "japanese": "縦隔気腫",
+          "english": "Pneumomediastinum",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "442210.3",
+              "japanese": "心タンポナーデを伴う",
+              "english": "with cardiac tamponade",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部損傷 詳細不明 > 縦隔気腫",
+              "explanation_en": "Thoracic injury NFS > Pneumomediastinum",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部損傷 詳細不明",
+          "explanation_en": "Thoracic injury NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "442402.2",
+      "japanese": "胸管 裂傷・裂創",
+      "english": "Thoracic duct laceration",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "442502.2",
+      "japanese": "胸腺 裂傷・裂創；穿孔",
+      "english": "Thymus laceration ; perforation",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "laceration",
+        "perforation"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "442699.3",
+      "japanese": "胸部気管損傷 詳細不明",
+      "english": "Trachea injury in Thorax NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "THORAX",
+      "children": [
+        {
+          "code": "442602.3",
+          "japanese": "挫傷；血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [],
+          "explanation_ja": "胸部気管損傷 詳細不明",
+          "explanation_en": "Trachea injury in Thorax NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "442604.3",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "THORAX",
+          "children": [
+            {
+              "code": "442606.3",
+              "japanese": "穿孔なし；非全層性",
+              "english": "no perforation ; partial thickness",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部気管損傷 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Trachea injury in Thorax NFS > laceration NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "442608.4",
+              "japanese": "穿孔；全層性；“骨折”",
+              "english": "perforation ; full thickness ; \"fracture\"",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部気管損傷 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Trachea injury in Thorax NFS > laceration NFS",
+              "injury_types": [
+                "fracture",
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "442610.5",
+              "japanese": "断裂；破裂；離断；広範な破壊；粉砕；咽頭と気管の分離",
+              "english": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "THORAX",
+              "children": [],
+              "explanation_ja": "胸部気管損傷 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Trachea injury in Thorax NFS > laceration NFS",
+              "injury_types": [
+                "rupture",
+                "crush",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸部気管損傷 詳細不明",
+          "explanation_en": "Trachea injury in Thorax NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "450299.1",
+      "japanese": "肋骨 詳細不明",
+      "english": "Rib Cage NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "Injury Description",
+      "children": [
+        {
+          "code": "450289.1",
+          "japanese": "挫傷",
+          "english": "contusion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [],
+          "explanation_ja": "肋骨 詳細不明",
+          "explanation_en": "Rib Cage NFS",
+          "injury_types": [
+            "contusion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "450210.2",
+          "japanese": "多発肋骨骨折 詳細不明",
+          "english": "multiple rib fractures NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [],
+          "explanation_ja": "肋骨 詳細不明",
+          "explanation_en": "Rib Cage NFS",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "450200.1",
+          "japanese": "フレイルチェストを伴わない骨折, 片側または両側 詳細不明",
+          "english": "fracture(s) without flail, any location unilateral or bilateral NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [
+            {
+              "code": "450201.1",
+              "japanese": "1本の肋骨 [OIS I]",
+              "english": "one rib [OIS I]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肋骨 詳細不明 > フレイルチェストを伴わない骨折, 片側または両側 詳細不明",
+              "explanation_en": "Rib Cage NFS > fracture(s) without flail, any location unilateral or bilateral NFS",
+              "injury_types": [
+                "fracture",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "450202.2",
+              "japanese": "2本の肋骨 [OIS I]",
+              "english": "two ribs [OIS I]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肋骨 詳細不明 > フレイルチェストを伴わない骨折, 片側または両側 詳細不明",
+              "explanation_en": "Rib Cage NFS > fracture(s) without flail, any location unilateral or bilateral NFS",
+              "injury_types": [
+                "fracture",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "450203.3",
+              "japanese": "3本以上の肋骨 [OIS II]",
+              "english": "≥3 ribs [OIS II]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肋骨 詳細不明 > フレイルチェストを伴わない骨折, 片側または両側 詳細不明",
+              "explanation_en": "Rib Cage NFS > fracture(s) without flail, any location unilateral or bilateral NFS",
+              "injury_types": [
+                "fracture",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肋骨 詳細不明",
+          "explanation_en": "Rib Cage NFS",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "450209.3",
+          "japanese": "フレイルチェストを伴う骨折 詳細不明",
+          "english": "fractures with flail, NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [
+            {
+              "code": "450211.3",
+              "japanese": "片側性フレイルチェスト [OIS IV]",
+              "english": "unilateral flail chest NFS [OIS IV]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [
+                {
+                  "code": "450212.3",
+                  "japanese": "3~5本の動揺性骨折 [OIS IV]",
+                  "english": "",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "Injury Description",
+                  "children": [],
+                  "explanation_ja": "肋骨 詳細不明 > フレイルチェストを伴う骨折 詳細不明 > 片側性フレイルチェスト [OIS IV]",
+                  "explanation_en": "Rib Cage NFS > fractures with flail, NFS > unilateral flail chest NFS [OIS IV]",
+                  "injury_types": [
+                    "fracture"
+                  ],
+                  "iss_body_region": "thorax"
+                },
+                {
+                  "code": "450213.4",
+                  "japanese": "5本を超える動揺性骨折 [OIS IV]",
+                  "english": "",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "Injury Description",
+                  "children": [],
+                  "explanation_ja": "肋骨 詳細不明 > フレイルチェストを伴う骨折 詳細不明 > 片側性フレイルチェスト [OIS IV]",
+                  "explanation_en": "Rib Cage NFS > fractures with flail, NFS > unilateral flail chest NFS [OIS IV]",
+                  "injury_types": [
+                    "fracture"
+                  ],
+                  "iss_body_region": "thorax"
+                }
+              ],
+              "explanation_ja": "肋骨 詳細不明 > フレイルチェストを伴う骨折 詳細不明",
+              "explanation_en": "Rib Cage NFS > fractures with flail, NFS",
+              "injury_types": [
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "450214.5",
+              "japanese": "両側のフレイルチェスト [OIS V]",
+              "english": "",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "肋骨 詳細不明 > フレイルチェストを伴う骨折 詳細不明",
+              "explanation_en": "Rib Cage NFS > fractures with flail, NFS",
+              "injury_types": [
+                "fracture",
+                "nfs"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "肋骨 詳細不明",
+          "explanation_en": "Rib Cage NFS",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "450899.1",
+      "japanese": "胸骨 詳細不明",
+      "english": "Sternum NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "Injury Description",
+      "children": [
+        {
+          "code": "450802.1",
+          "japanese": "挫傷",
+          "english": "contusion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [],
+          "explanation_ja": "胸骨 詳細不明",
+          "explanation_en": "Sternum NFS",
+          "injury_types": [
+            "contusion"
+          ],
+          "iss_body_region": "thorax"
+        },
+        {
+          "code": "450804.2",
+          "japanese": "骨折 [OIS II, III]",
+          "english": "fracture [OIS II, III]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [],
+          "explanation_ja": "胸骨 詳細不明",
+          "explanation_en": "Sternum NFS",
+          "injury_types": [
+            "fracture"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    },
+    {
+      "code": "451099.1",
+      "japanese": "胸壁 詳細不明ᵃ",
+      "english": "Thoracic Wall NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "Injury Description",
+      "children": [
+        {
+          "code": "451020.4",
+          "japanese": "肋骨を含む胸壁の組織欠損 [OIS IVに相当する]ᵃ",
+          "english": "avulsion of chest wall tissues including rib cage [OIS IV for entire category]",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "Injury Description",
+          "children": [
+            {
+              "code": "451021.4",
+              "japanese": "小; 肋骨を含む胸壁15%以下の欠損ᵃ",
+              "english": "minor ; ≤15% of chest wall including rib cage",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "胸壁 詳細不明ᵃ > 肋骨を含む胸壁の組織欠損 [OIS IVに相当する]ᵃ",
+              "explanation_en": "Thoracic Wall NFS > avulsion of chest wall tissues including rib cage [OIS IV for entire category]",
+              "injury_types": [
+                "avulsion"
+              ],
+              "iss_body_region": "thorax"
+            },
+            {
+              "code": "451022.5",
+              "japanese": "大; 肋骨を含む胸壁15%を超える欠損ᵃ",
+              "english": "major ; >15% of chest wall including rib cage",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "Injury Description",
+              "children": [],
+              "explanation_ja": "胸壁 詳細不明ᵃ > 肋骨を含む胸壁の組織欠損 [OIS IVに相当する]ᵃ",
+              "explanation_en": "Thoracic Wall NFS > avulsion of chest wall tissues including rib cage [OIS IV for entire category]",
+              "injury_types": [
+                "avulsion"
+              ],
+              "iss_body_region": "thorax"
+            }
+          ],
+          "explanation_ja": "胸壁 詳細不明ᵃ",
+          "explanation_en": "Thoracic Wall NFS",
+          "injury_types": [
+            "avulsion"
+          ],
+          "iss_body_region": "thorax"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "thorax"
+    }
+  ],
+  "structure": "nested"
+}

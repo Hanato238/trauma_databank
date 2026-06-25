@@ -1,0 +1,1828 @@
+{
+  "body_part": "neck",
+  "source": "neck.md",
+  "total_entries": 110,
+  "entries": [
+    {
+      "code": "300099.9",
+      "japanese": "頸部への損傷 詳細不明",
+      "english": "Injuries to the Neck NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "頸部",
+      "children": [
+        {
+          "code": "300999.9",
+          "japanese": "他の詳細な損傷や、他に頸部損傷による死亡",
+          "english": "Died of neck injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "頸部",
+          "children": [],
+          "explanation_ja": "頸部への損傷 詳細不明",
+          "explanation_en": "Injuries to the Neck NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "311000.6",
+      "japanese": "断頭",
+      "english": "Decapitation",
+      "ais_severity": 6,
+      "hierarchy_level": 1,
+      "section": "頸部",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "amputation"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "316000.1",
+      "japanese": "穿通性損傷 詳細不明",
+      "english": "Penetrating injury NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "頸部",
+      "children": [
+        {
+          "code": "316002.1",
+          "japanese": "小;表在性",
+          "english": "minor ; superficial",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "頸部",
+          "children": [],
+          "explanation_ja": "穿通性損傷 詳細不明",
+          "explanation_en": "Penetrating injury NFS",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "316004.2",
+          "japanese": "組織欠損が25cm²を超える",
+          "english": "tissue loss >25cm²",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "頸部",
+          "children": [],
+          "explanation_ja": "穿通性損傷 詳細不明",
+          "explanation_en": "Penetrating injury NFS",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "316006.3",
+          "japanese": "出血量が全血液量の20%を超える",
+          "english": "blood loss >20% by volume",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頸部",
+          "children": [],
+          "explanation_ja": "穿通性損傷 詳細不明",
+          "explanation_en": "Penetrating injury NFS",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "310099.1",
+      "japanese": "皮膚/皮下組織/筋肉 詳細不明",
+      "english": "Skin/subcutaneous tissue/muscle NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "頸部",
+      "children": [
+        {
+          "code": "310402.1",
+          "japanese": "挫傷;血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "頸部",
+          "children": [],
+          "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明",
+          "explanation_en": "Skin/subcutaneous tissue/muscle NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "310600.1",
+          "japanese": "裂傷・裂創 詳細不明",
+          "english": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "頸部",
+          "children": [
+            {
+              "code": "310602.1",
+              "japanese": "小;表在性",
+              "english": "minor ; superficial",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "頸部",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Skin/subcutaneous tissue/muscle NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "310604.2",
+              "japanese": "大;長さが10cmを超え, かつ皮下に達する",
+              "english": "major ; >10cm long and into subcutaneous tissueʲ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "頸部",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Skin/subcutaneous tissue/muscle NFS > laceration NFS",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "310606.3",
+              "japanese": "出血量が全血液量の20%を超える",
+              "english": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頸部",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 裂傷・裂創 詳細不明",
+              "explanation_en": "Skin/subcutaneous tissue/muscle NFS > laceration NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明",
+          "explanation_en": "Skin/subcutaneous tissue/muscle NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "310800.1",
+          "japanese": "剥離 詳細不明",
+          "english": "avulsion NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "頸部",
+          "children": [
+            {
+              "code": "310802.1",
+              "japanese": "小;表在性; 25cm²以下",
+              "english": "minor ; superficial ; ≤25cm²ʲ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "頸部",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 剥離 詳細不明",
+              "explanation_en": "Skin/subcutaneous tissue/muscle NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "310804.2",
+              "japanese": "大;組織欠損が25cm²を超える",
+              "english": "major ; tissue loss >25cm²ʲ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "頸部",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 剥離 詳細不明",
+              "explanation_en": "Skin/subcutaneous tissue/muscle NFS > avulsion NFS",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "310806.3",
+              "japanese": "出血量が全血液量の20%を超える",
+              "english": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頸部",
+              "children": [],
+              "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明 > 剥離 詳細不明",
+              "explanation_en": "Skin/subcutaneous tissue/muscle NFS > avulsion NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "皮膚/皮下組織/筋肉 詳細不明",
+          "explanation_en": "Skin/subcutaneous tissue/muscle NFS",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "320099.9",
+      "japanese": "頸部の血管損傷 詳細不明",
+      "english": "Vascular Injury in Neck NFSᵆ",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "320299.3",
+      "japanese": "頸動脈 [総頸, 内頸] 損傷 詳細不明",
+      "english": "Carotid artery [common, internal] NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "320202.3",
+          "japanese": "内膜剥離, 断裂なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "320204.4",
+              "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+              "english": "neurological deficit (stroke) not head-injury related",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 内膜剥離, 断裂なし",
+              "explanation_en": "Carotid artery [common, internal] NFS > intimal tear, no disruption",
+              "injury_types": [
+                "laceration",
+                "rupture",
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明",
+          "explanation_en": "Carotid artery [common, internal] NFS",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "320206.3",
+          "japanese": "裂傷・裂創・穿孔; 詳細不明",
+          "english": "laceration; perforation; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "320208.3",
+              "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "english": "minor; superficial; incomplete circumferential involvement; blood loss ≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [
+                {
+                  "code": "320209.3",
+                  "japanese": "両側性°",
+                  "english": "bilateralᶜ",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [],
+                  "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+                  "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > minor; superficial; incomplete circumferential involvement; blood loss ≤20% by volume",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "320210.4",
+                  "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                  "english": "neurological deficit (stroke) not head-injury related",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [
+                    {
+                      "code": "320211.4",
+                      "japanese": "両側性°",
+                      "english": "bilateralᶜ",
+                      "ais_severity": 4,
+                      "hierarchy_level": 5,
+                      "section": "NECK",
+                      "children": [],
+                      "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下 > 頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                      "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > minor; superficial; incomplete circumferential involvement; blood loss ≤20% by volume > neurological deficit (stroke) not head-injury related",
+                      "injury_types": [
+                        "hemorrhage"
+                      ],
+                      "iss_body_region": "head_neck"
+                    }
+                  ],
+                  "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+                  "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > minor; superficial; incomplete circumferential involvement; blood loss ≤20% by volume",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明",
+              "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "320212.4",
+              "japanese": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
+              "english": "major; rupture; transection; segmental loss; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [
+                {
+                  "code": "320213.4",
+                  "japanese": "両側性°",
+                  "english": "bilateralᶜ",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [],
+                  "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
+                  "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > major; rupture; transection; segmental loss; blood loss >20% by volume",
+                  "injury_types": [
+                    "rupture",
+                    "hemorrhage",
+                    "amputation"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "320214.5",
+                  "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                  "english": "neurological deficit (stroke) not head-injury related",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [
+                    {
+                      "code": "320215.5",
+                      "japanese": "両側性°",
+                      "english": "bilateralᶜ",
+                      "ais_severity": 5,
+                      "hierarchy_level": 5,
+                      "section": "NECK",
+                      "children": [],
+                      "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える > 頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                      "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > major; rupture; transection; segmental loss; blood loss >20% by volume > neurological deficit (stroke) not head-injury related",
+                      "injury_types": [
+                        "rupture",
+                        "hemorrhage",
+                        "amputation"
+                      ],
+                      "iss_body_region": "head_neck"
+                    }
+                  ],
+                  "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
+                  "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > major; rupture; transection; segmental loss; blood loss >20% by volume",
+                  "injury_types": [
+                    "rupture",
+                    "hemorrhage",
+                    "amputation"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明",
+              "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "320216.3",
+              "japanese": "外傷に起因する血栓 (閉塞)",
+              "english": "with thrombosis (occlusion) secondary to trauma",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [
+                {
+                  "code": "320217.3",
+                  "japanese": "両側性°",
+                  "english": "bilateralᶜ",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [],
+                  "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 外傷に起因する血栓 (閉塞)",
+                  "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > with thrombosis (occlusion) secondary to trauma",
+                  "injury_types": [
+                    "laceration",
+                    "perforation",
+                    "penetrating",
+                    "nfs"
+                  ],
+                  "iss_body_region": "head_neck"
+                },
+                {
+                  "code": "320218.4",
+                  "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                  "english": "neurological deficit (stroke) not head-injury related",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [
+                    {
+                      "code": "320219.4",
+                      "japanese": "両側性°",
+                      "english": "bilateralᶜ",
+                      "ais_severity": 4,
+                      "hierarchy_level": 5,
+                      "section": "NECK",
+                      "children": [],
+                      "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 外傷に起因する血栓 (閉塞) > 頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                      "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > with thrombosis (occlusion) secondary to trauma > neurological deficit (stroke) not head-injury related",
+                      "injury_types": [
+                        "laceration",
+                        "perforation",
+                        "penetrating",
+                        "nfs"
+                      ],
+                      "iss_body_region": "head_neck"
+                    }
+                  ],
+                  "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明 > 外傷に起因する血栓 (閉塞)",
+                  "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS > with thrombosis (occlusion) secondary to trauma",
+                  "injury_types": [
+                    "laceration",
+                    "perforation",
+                    "penetrating",
+                    "nfs"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創・穿孔; 詳細不明",
+              "explanation_en": "Carotid artery [common, internal] NFS > laceration; perforation; puncture NFS",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "penetrating",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明",
+          "explanation_en": "Carotid artery [common, internal] NFS",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "320220.3",
+          "japanese": "裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
+          "english": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "320221.3",
+              "japanese": "両側性°",
+              "english": "bilateralᶜ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
+              "explanation_en": "Carotid artery [common, internal] NFS > thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+              "injury_types": [
+                "laceration"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "320222.4",
+              "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+              "english": "neurological deficit (stroke) not head-injury related",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [
+                {
+                  "code": "320223.4",
+                  "japanese": "両側性°",
+                  "english": "bilateralᶜ",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [],
+                  "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞) > 頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                  "explanation_en": "Carotid artery [common, internal] NFS > thrombosis (occlusion) secondary to trauma from any lesion but laceration > neurological deficit (stroke) not head-injury related",
+                  "injury_types": [
+                    "laceration"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明 > 裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
+              "explanation_en": "Carotid artery [common, internal] NFS > thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+              "injury_types": [
+                "laceration"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸動脈 [総頸, 内頸] 損傷 詳細不明",
+          "explanation_en": "Carotid artery [common, internal] NFS",
+          "injury_types": [
+            "laceration"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "320499.2",
+      "japanese": "頸動脈 [外頸] 詳細不明",
+      "english": "Carotid artery [external] NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "AIS 2005",
+      "children": [
+        {
+          "code": "320402.2",
+          "japanese": "内膜剥離, 断裂 なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [],
+          "explanation_ja": "頸動脈 [外頸] 詳細不明",
+          "explanation_en": "Carotid artery [external] NFS",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "320404.2",
+          "japanese": "裂傷・裂創; 穿孔 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "320406.2",
+              "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "頸動脈 [外頸] 詳細不明 > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Carotid artery [external] NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "320408.3",
+              "japanese": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "頸動脈 [外頸] 詳細不明 > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Carotid artery [external] NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "320410.2",
+              "japanese": "外傷に起因する血栓 (閉塞) を伴う",
+              "english": "with thrombosis (occlusion) secondary to trauma",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "頸動脈 [外頸] 詳細不明 > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Carotid artery [external] NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "penetrating",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸動脈 [外頸] 詳細不明",
+          "explanation_en": "Carotid artery [external] NFS",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "320412.2",
+          "japanese": "裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
+          "english": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [],
+          "explanation_ja": "頸動脈 [外頸] 詳細不明",
+          "explanation_en": "Carotid artery [external] NFS",
+          "injury_types": [
+            "laceration"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "321099.2",
+      "japanese": "椎骨動脈 詳細不明",
+      "english": "Vertebral artery NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "AIS 2005",
+      "children": [
+        {
+          "code": "321002.2",
+          "japanese": "内膜剥離, 断裂 なし",
+          "english": "intimal tear, no disruption",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "321004.3",
+              "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+              "english": "neurological deficit (stroke) not head-injury related",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [],
+              "explanation_ja": "椎骨動脈 詳細不明 > 内膜剥離, 断裂 なし",
+              "explanation_en": "Vertebral artery NFS > intimal tear, no disruption",
+              "injury_types": [
+                "laceration",
+                "rupture",
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "椎骨動脈 詳細不明",
+          "explanation_en": "Vertebral artery NFS",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "321006.2",
+          "japanese": "裂傷・裂創; 穿孔 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "321008.2",
+              "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [
+                {
+                  "code": "321010.3",
+                  "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                  "english": "neurological deficit (stroke) not head-injury related",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+                  "explanation_en": "Vertebral artery NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Vertebral artery NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "321012.3",
+              "japanese": "大; 破裂; 離断; 出血量が全血液量の20%を超える",
+              "english": "major ; rupture ; transection ; blood loss > 20 % by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [
+                {
+                  "code": "321014.4",
+                  "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                  "english": "neurological deficit (stroke) not head-injury related",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [
+                    {
+                      "code": "321015.5",
+                      "japanese": "両側性ᶜ",
+                      "english": "bilateralᶜ",
+                      "ais_severity": 5,
+                      "hierarchy_level": 5,
+                      "section": "AIS 2005",
+                      "children": [],
+                      "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 > 大; 破裂; 離断; 出血量が全血液量の20%を超える > 頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                      "explanation_en": "Vertebral artery NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; blood loss > 20 % by volume > neurological deficit (stroke) not head-injury related",
+                      "injury_types": [
+                        "rupture",
+                        "hemorrhage",
+                        "amputation"
+                      ],
+                      "iss_body_region": "head_neck"
+                    }
+                  ],
+                  "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 > 大; 破裂; 離断; 出血量が全血液量の20%を超える",
+                  "explanation_en": "Vertebral artery NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; blood loss > 20 % by volume",
+                  "injury_types": [
+                    "rupture",
+                    "hemorrhage",
+                    "amputation"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Vertebral artery NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "321016.4",
+              "japanese": "外傷に起因する血栓 (閉塞) を伴う",
+              "english": "with thrombosis (occlusion) secondary to trauma",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [
+                {
+                  "code": "321017.5",
+                  "japanese": "両側性ᶜ",
+                  "english": "bilateralᶜ",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 > 外傷に起因する血栓 (閉塞) を伴う",
+                  "explanation_en": "Vertebral artery NFS > laceration ; perforation ; puncture NFS > with thrombosis (occlusion) secondary to trauma",
+                  "injury_types": [
+                    "laceration",
+                    "perforation",
+                    "penetrating",
+                    "nfs"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創; 穿孔 詳細不明",
+              "explanation_en": "Vertebral artery NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "penetrating",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "椎骨動脈 詳細不明",
+          "explanation_en": "Vertebral artery NFS",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "321018.3",
+          "japanese": "裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
+          "english": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "AIS 2005",
+          "children": [
+            {
+              "code": "321020.4",
+              "japanese": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+              "english": "neurological deficit (stroke) not head-injury related",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "AIS 2005",
+              "children": [
+                {
+                  "code": "321021.5",
+                  "japanese": "両側性ᶜ",
+                  "english": "bilateralᶜ",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "AIS 2005",
+                  "children": [],
+                  "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞) > 頭部外傷に関連のない神経脱落症状 (脳卒中)",
+                  "explanation_en": "Vertebral artery NFS > thrombosis (occlusion) secondary to trauma from any lesion but laceration > neurological deficit (stroke) not head-injury related",
+                  "injury_types": [
+                    "laceration"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "椎骨動脈 詳細不明 > 裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
+              "explanation_en": "Vertebral artery NFS > thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+              "injury_types": [
+                "laceration"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "椎骨動脈 詳細不明",
+          "explanation_en": "Vertebral artery NFS",
+          "injury_types": [
+            "laceration"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "320699.1",
+      "japanese": "頸静脈 [外頸] 詳細不明",
+      "english": "Jugular vein [external] NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "頸 部",
+      "children": [
+        {
+          "code": "320602.1",
+          "japanese": "裂傷・裂創；穿孔・穿刺 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "頸 部",
+          "children": [
+            {
+              "code": "320604.1",
+              "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "頸 部",
+              "children": [],
+              "explanation_ja": "頸静脈 [外頸] 詳細不明 > 裂傷・裂創；穿孔・穿刺 詳細不明",
+              "explanation_en": "Jugular vein [external] NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "320606.3",
+              "japanese": "大；破裂；離断；部分欠損；出血量が全血液量の20%を超える",
+              "english": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頸 部",
+              "children": [],
+              "explanation_ja": "頸静脈 [外頸] 詳細不明 > 裂傷・裂創；穿孔・穿刺 詳細不明",
+              "explanation_en": "Jugular vein [external] NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸静脈 [外頸] 詳細不明",
+          "explanation_en": "Jugular vein [external] NFS",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "320899.1",
+      "japanese": "頸静脈 [内頸] 詳細不明",
+      "english": "Jugular vein [internal] NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "頸 部",
+      "children": [
+        {
+          "code": "320802.2",
+          "japanese": "裂傷・裂創；穿孔・穿刺 詳細不明",
+          "english": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "頸 部",
+          "children": [
+            {
+              "code": "320804.2",
+              "japanese": "小；表在性；非全周性；出血量が全血液量の20%以下",
+              "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "頸 部",
+              "children": [],
+              "explanation_ja": "頸静脈 [内頸] 詳細不明 > 裂傷・裂創；穿孔・穿刺 詳細不明",
+              "explanation_en": "Jugular vein [internal] NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "320806.3",
+              "japanese": "大；破裂；離断；出血量が全血液量の20%を超える",
+              "english": "major ; rupture ; transection ; blood loss > 20 % by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頸 部",
+              "children": [],
+              "explanation_ja": "頸静脈 [内頸] 詳細不明 > 裂傷・裂創；穿孔・穿刺 詳細不明",
+              "explanation_en": "Jugular vein [internal] NFS > laceration ; perforation ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸静脈 [内頸] 詳細不明",
+          "explanation_en": "Jugular vein [internal] NFS",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "330099.1",
+      "japanese": "頸部の神経損傷 詳細不明ª",
+      "english": "Nerve Injury in Neck NFSªw",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "頸 部",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nerve",
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "330299.2",
+      "japanese": "横隔膜神経損傷",
+      "english": "Phrenic nerve injury",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "頸 部",
+      "children": [
+        {
+          "code": "330298.4",
+          "japanese": "両側性ᶜ",
+          "english": "bilateralªc",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "頸 部",
+          "children": [],
+          "explanation_ja": "横隔膜神経損傷",
+          "explanation_en": "Phrenic nerve injury",
+          "injury_types": [
+            "nerve"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nerve"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "330499.1",
+      "japanese": "迷走神経損傷",
+      "english": "Vagus nerve injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "頸 部",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nerve"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "340199.2",
+      "japanese": "頸部食道 詳細不明",
+      "english": "Esophagus injury in Neck NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "340102.2",
+          "japanese": "挫傷；血腫 (OIS I)",
+          "english": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "頸部食道 詳細不明",
+          "explanation_en": "Esophagus injury in Neck NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "340103.3",
+          "japanese": "経口摂取による障害 詳細不明",
+          "english": "ingestion injury NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "340104.3",
+              "japanese": "非全層性壊死",
+              "english": "partial thickness necrosis",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部食道 詳細不明 > 経口摂取による障害 詳細不明",
+              "explanation_en": "Esophagus injury in Neck NFS > ingestion injury NFS",
+              "injury_types": [
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340105.4",
+              "japanese": "全層性壊死",
+              "english": "full thickness necrosis",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部食道 詳細不明 > 経口摂取による障害 詳細不明",
+              "explanation_en": "Esophagus injury in Neck NFS > ingestion injury NFS",
+              "injury_types": [
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸部食道 詳細不明",
+          "explanation_en": "Esophagus injury in Neck NFS",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "340106.3",
+          "japanese": "裂傷・裂創；詳細不明",
+          "english": "laceration ; tear NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "340107.3",
+              "japanese": "穿孔なし；非全層性；周径の50%以下 (OIS I, II)",
+              "english": "no perforation ; partial thickness ; ≤50% circumfer-ence [OIS I, II]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部食道 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Esophagus injury in Neck NFS > laceration ; tear NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340108.4",
+              "japanese": "穿孔；全層性；周径の50%を超える (OIS III)",
+              "english": "perforation ; full thickness ; >50% circumference [OIS III]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部食道 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Esophagus injury in Neck NFS > laceration ; tear NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340109.5",
+              "japanese": "剥離；破裂；離断；広範囲損傷 (OIS IV, V)",
+              "english": "avulsion ; rupture ; transection ; massive destruction [OIS IV, V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部食道 詳細不明 > 裂傷・裂創；詳細不明",
+              "explanation_en": "Esophagus injury in Neck NFS > laceration ; tear NFS",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸部食道 詳細不明",
+          "explanation_en": "Esophagus injury in Neck NFS",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "340299.2",
+      "japanese": "喉頭 (甲状腺、輪状軟骨を含む) 詳細不明",
+      "english": "Larynx, including thyroid and cricoid cartilage, NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "340202.2",
+          "japanese": "挫傷；血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "喉頭 (甲状腺、輪状軟骨を含む) 詳細不明",
+          "explanation_en": "Larynx, including thyroid and cricoid cartilage, NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "340204.2",
+          "japanese": "裂傷・裂創；穿刺創；詳細不明",
+          "english": "laceration ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "340206.2",
+              "japanese": "穿孔なし；非全層性；粘膜裂傷",
+              "english": "no perforation ; partial thickness ; mucosal tear",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "喉頭 (甲状腺、輪状軟骨を含む) 詳細不明 > 裂傷・裂創；穿刺創；詳細不明",
+              "explanation_en": "Larynx, including thyroid and cricoid cartilage, NFS > laceration ; puncture NFS",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340208.3",
+              "japanese": "穿孔；全層性；”骨折”",
+              "english": "perforation ; full thickness ; \"fracture\"",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [
+                {
+                  "code": "340210.4",
+                  "japanese": "声帯損傷",
+                  "english": "vocal cord involvement",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "NECK",
+                  "children": [],
+                  "explanation_ja": "喉頭 (甲状腺、輪状軟骨を含む) 詳細不明 > 裂傷・裂創；穿刺創；詳細不明 > 穿孔；全層性；”骨折”",
+                  "explanation_en": "Larynx, including thyroid and cricoid cartilage, NFS > laceration ; puncture NFS > perforation ; full thickness ; \"fracture\"",
+                  "injury_types": [
+                    "fracture",
+                    "perforation",
+                    "burn"
+                  ],
+                  "iss_body_region": "head_neck"
+                }
+              ],
+              "explanation_ja": "喉頭 (甲状腺、輪状軟骨を含む) 詳細不明 > 裂傷・裂創；穿刺創；詳細不明",
+              "explanation_en": "Larynx, including thyroid and cricoid cartilage, NFS > laceration ; puncture NFS",
+              "injury_types": [
+                "fracture",
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340212.5",
+              "japanese": "剥離；破裂；離断；広範囲損傷；挫滅",
+              "english": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "喉頭 (甲状腺、輪状軟骨を含む) 詳細不明 > 裂傷・裂創；穿刺創；詳細不明",
+              "explanation_en": "Larynx, including thyroid and cricoid cartilage, NFS > laceration ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "crush",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "喉頭 (甲状腺、輪状軟骨を含む) 詳細不明",
+          "explanation_en": "Larynx, including thyroid and cricoid cartilage, NFS",
+          "injury_types": [
+            "laceration",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "340699.2",
+      "japanese": "咽頭または後咽頭領域 詳細不明",
+      "english": "Pharynx or Retropharyngeal area, NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "340602.2",
+          "japanese": "挫傷；血腫 詳細不明",
+          "english": "contusion ; hematoma NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "340603.2",
+              "japanese": "小；気道損傷の75%以下",
+              "english": "minor ; ≤75% airway involvement",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "咽頭または後咽頭領域 詳細不明 > 挫傷；血腫 詳細不明",
+              "explanation_en": "Pharynx or Retropharyngeal area, NFS > contusion ; hematoma NFS",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340605.3",
+              "japanese": "大；気道損傷の75%を超える",
+              "english": "major ; >75% airway involvement",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "咽頭または後咽頭領域 詳細不明 > 挫傷；血腫 詳細不明",
+              "explanation_en": "Pharynx or Retropharyngeal area, NFS > contusion ; hematoma NFS",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "咽頭または後咽頭領域 詳細不明",
+          "explanation_en": "Pharynx or Retropharyngeal area, NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "340604.2",
+          "japanese": "裂傷・裂創；穿刺創；詳細不明",
+          "english": "laceration ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "340606.3",
+              "japanese": "穿孔なし；非全層性；粘膜裂傷",
+              "english": "no perforation ; partial thickness ; mucosal tear",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "咽頭または後咽頭領域 詳細不明 > 裂傷・裂創；穿刺創；詳細不明",
+              "explanation_en": "Pharynx or Retropharyngeal area, NFS > laceration ; puncture NFS",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340608.4",
+              "japanese": "穿孔；全層性",
+              "english": "perforation ; full thickness",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "咽頭または後咽頭領域 詳細不明 > 裂傷・裂創；穿刺創；詳細不明",
+              "explanation_en": "Pharynx or Retropharyngeal area, NFS > laceration ; puncture NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "340610.5",
+              "japanese": "剥離；破裂；離断；広範囲損傷；挫滅",
+              "english": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "咽頭または後咽頭領域 詳細不明 > 裂傷・裂創；穿刺創；詳細不明",
+              "explanation_en": "Pharynx or Retropharyngeal area, NFS > laceration ; puncture NFS",
+              "injury_types": [
+                "rupture",
+                "crush",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "咽頭または後咽頭領域 詳細不明",
+          "explanation_en": "Pharynx or Retropharyngeal area, NFS",
+          "injury_types": [
+            "laceration",
+            "penetrating",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "341099.2",
+      "japanese": "唾液腺 詳細不明",
+      "english": "Salivary gland NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "341002.3",
+          "japanese": "導管損傷；離断",
+          "english": "ductal involvement ; transection",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "唾液腺 詳細不明",
+          "explanation_en": "Salivary gland NFS",
+          "injury_types": [
+            "amputation"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "341499.1",
+      "japanese": "甲状腺 詳細不明",
+      "english": "Thyroid gland NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "341402.1",
+          "japanese": "挫傷；血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "甲状腺 詳細不明",
+          "explanation_en": "Thyroid gland NFS",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "341404.2",
+          "japanese": "裂傷；裂創",
+          "english": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "甲状腺 詳細不明",
+          "explanation_en": "Thyroid gland NFS",
+          "injury_types": [
+            "laceration"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "341699.2",
+      "japanese": "頸部の気管損傷 詳細不明",
+      "english": "Trachea injury in Neck NFSk",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "341602.2",
+          "japanese": "挫傷；血腫",
+          "english": "contusion ; hematoma",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "頸部の気管損傷 詳細不明",
+          "explanation_en": "Trachea injury in Neck NFSk",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "341604.2",
+          "japanese": "裂傷；裂創；詳細不明",
+          "english": "laceration ; tear NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [
+            {
+              "code": "341606.2",
+              "japanese": "穿孔なし；非全層性",
+              "english": "no perforation ; partial thickness",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部の気管損傷 詳細不明 > 裂傷；裂創；詳細不明",
+              "explanation_en": "Trachea injury in Neck NFSk > laceration ; tear NFS",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "341608.3",
+              "japanese": "穿孔；全層性；\"骨折\"",
+              "english": "perforation ; full thickness ; \"fracture\"",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部の気管損傷 詳細不明 > 裂傷；裂創；詳細不明",
+              "explanation_en": "Trachea injury in Neck NFSk > laceration ; tear NFS",
+              "injury_types": [
+                "fracture",
+                "perforation",
+                "burn"
+              ],
+              "iss_body_region": "head_neck"
+            },
+            {
+              "code": "341610.4",
+              "japanese": "剥離；破裂；離断；広範囲損傷；挫滅；喉頭と気管の剥離",
+              "english": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "NECK",
+              "children": [],
+              "explanation_ja": "頸部の気管損傷 詳細不明 > 裂傷；裂創；詳細不明",
+              "explanation_en": "Trachea injury in Neck NFSk > laceration ; tear NFS",
+              "injury_types": [
+                "rupture",
+                "crush",
+                "amputation",
+                "avulsion"
+              ],
+              "iss_body_region": "head_neck"
+            }
+          ],
+          "explanation_ja": "頸部の気管損傷 詳細不明",
+          "explanation_en": "Trachea injury in Neck NFSk",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "341899.2",
+      "japanese": "声帯 詳細不明 [気管挿管が原因ではない]",
+      "english": "Vocal cord NFS [not due to intubation]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [
+        {
+          "code": "341802.2",
+          "japanese": "片側",
+          "english": "unilateral",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "声帯 詳細不明 [気管挿管が原因ではない]",
+          "explanation_en": "Vocal cord NFS [not due to intubation]",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        },
+        {
+          "code": "341804.3",
+          "japanese": "両側",
+          "english": "bilateral",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "NECK",
+          "children": [],
+          "explanation_ja": "声帯 詳細不明 [気管挿管が原因ではない]",
+          "explanation_en": "Vocal cord NFS [not due to intubation]",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "head_neck"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "head_neck"
+    },
+    {
+      "code": "350200.2",
+      "japanese": "舌骨骨折",
+      "english": "Hyoid fracture",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NECK",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "fracture"
+      ],
+      "iss_body_region": "head_neck"
+    }
+  ],
+  "structure": "nested"
+}

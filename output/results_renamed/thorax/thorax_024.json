@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": "442999.9",
+      "description_ja": null,
+      "description_en": "Thoracic injury NFS",
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "442200.3",
+      "description_ja": null,
+      "description_en": "Hemothorax NFS",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "442201.4",
+      "description_ja": null,
+      "description_en": "major ; >1000cc blood loss on at least one side",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "442202.2",
+      "description_ja": null,
+      "description_en": "Pneumothorax NFS",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "442203.4",
+      "description_ja": null,
+      "description_en": "major ; >50% collapse of lung documented on xray ; persistent air leak",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "442204.5",
+      "description_ja": null,
+      "description_en": "tension ; massive air leak",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "442205.3",
+      "description_ja": null,
+      "description_en": "Hemopneumothorax NFS",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "442206.4",
+      "description_ja": null,
+      "description_en": "major ; >1000cc blood loss on at least one side",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "442207.5",
+      "description_ja": null,
+      "description_en": "Air Embolus",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "442208.2",
+      "description_ja": null,
+      "description_en": "Hemomediastinum",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "442209.2",
+      "description_ja": null,
+      "description_en": "Pneumomediastinum",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "442210.3",
+      "description_ja": null,
+      "description_en": "with cardiac tamponade",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "442402.2",
+      "description_ja": null,
+      "description_en": "Thoracic duct laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "442502.2",
+      "description_ja": null,
+      "description_en": "Thymus laceration ; perforation",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "442699.3",
+      "description_ja": null,
+      "description_en": "Trachea injury in Thorax NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "442602.3",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "442604.3",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "442606.3",
+      "description_ja": null,
+      "description_en": "no perforation ; partial thickness",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "442608.4",
+      "description_ja": null,
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "442610.5",
+      "description_ja": null,
+      "description_en": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_024.jpg",
+  "body_part_normalized": "thorax"
+}

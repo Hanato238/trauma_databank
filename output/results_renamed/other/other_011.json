@@ -1,0 +1,81 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "other",
+  "section_title": "その他の外傷",
+  "entries": [
+    {
+      "code": "010000.1",
+      "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "010002.1",
+      "description_ja": "34～35℃を超える",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "010004.2",
+      "description_ja": "33～32℃",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "010006.3",
+      "description_ja": "31～30℃",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "010008.4",
+      "description_ja": "29～28℃",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "010010.5",
+      "description_ja": "27℃ 未満",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "012002.2",
+      "description_ja": "全身損傷（爆傷） 詳細不明ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "012004.2",
+      "description_ja": "軽傷、または皮膚・皮下組織・筋の表在性損傷 軽微な骨折を伴う、または伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "012006.4",
+      "description_ja": "広範囲（25% TBSAを超える）の皮膚・皮下組織・筋の損傷、多発性の骨折かつ／または臓器損傷を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "012008.6",
+      "description_ja": "重症；脳、胸部かつ／または腹部の多発性の臓器損傷 一肢以上の四肢欠損かつ／または断頭を伴う",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_011.jpg",
+  "body_part_normalized": "other"
+}

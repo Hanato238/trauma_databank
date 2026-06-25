@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "FACE (includes Eye and Ear)",
+  "entries": [
+    {
+      "code": "251499.1",
+      "description_ja": null,
+      "description_en": "Teeth, any number but NFS as to injury",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "See also Alveolar Ridge.",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "251402.1",
+      "description_ja": null,
+      "description_en": "dislocation ; subluxation ; loosened",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251404.1",
+      "description_ja": null,
+      "description_en": "fracture",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251406.1",
+      "description_ja": null,
+      "description_en": "avulsion",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251408.1",
+      "description_ja": null,
+      "description_en": "any combination of dislocation/fracture/avulsion",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251800.1",
+      "description_ja": null,
+      "description_en": "Zygoma fracture [Includes tripod and malar fractures]",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "251802.1",
+      "description_ja": null,
+      "description_en": "non-displaced [KN I]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251804.1",
+      "description_ja": null,
+      "description_en": "displaced NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251806.1",
+      "description_ja": null,
+      "description_en": "arch [KN II]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251808.1",
+      "description_ja": null,
+      "description_en": "body",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "251810.1",
+      "description_ja": null,
+      "description_en": "unrotated [KN III]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "251812.1",
+      "description_ja": null,
+      "description_en": "rotated [KN IV, V]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "251814.2",
+      "description_ja": null,
+      "description_en": "complex [KN VI]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "251900.3",
+      "description_ja": null,
+      "description_en": "Panfacial fracture",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "251902.4",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Multiple and complex fractures that may involve middle and lower face, upper and middle face or all three, but not LeFort fractures.",
+      "severity": 0,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_022.jpg",
+  "body_part_normalized": "face"
+}

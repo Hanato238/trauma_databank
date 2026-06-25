@@ -1,0 +1,560 @@
+{
+  "body_part": "surface",
+  "source": "surface.md",
+  "total_entries": 36,
+  "entries": [
+    {
+      "code": "910000.1",
+      "japanese": "軟部組織（皮膚）損傷 詳細不明",
+      "english": "Soft tissue (skin) injury NFS^a",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [
+        {
+          "code": "910200.1",
+          "japanese": "擦過傷",
+          "english": "abrasion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "軟部組織（皮膚）損傷 詳細不明",
+          "explanation_en": "Soft tissue (skin) injury NFS^a",
+          "injury_types": [
+            "abrasion"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "910400.1",
+          "japanese": "挫傷；血腫",
+          "english": "contusion; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "軟部組織（皮膚）損傷 詳細不明",
+          "explanation_en": "Soft tissue (skin) injury NFS^a",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "910600.1",
+          "japanese": "裂傷・裂創",
+          "english": "laceration",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "軟部組織（皮膚）損傷 詳細不明",
+          "explanation_en": "Soft tissue (skin) injury NFS^a",
+          "injury_types": [
+            "laceration"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "910800.2",
+          "japanese": "剥離",
+          "english": "avulsion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "軟部組織（皮膚）損傷 詳細不明",
+          "explanation_en": "Soft tissue (skin) injury NFS^a",
+          "injury_types": [
+            "avulsion"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "914000.1",
+      "japanese": "デグロービング損傷",
+      "english": "Degloving injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "avulsion"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "915000.1",
+      "japanese": "凍傷 詳細不明",
+      "english": "Frostbite NFS^a",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [
+        {
+          "code": "915002.1",
+          "japanese": "I 度；表在性",
+          "english": "1^st degree; superficial",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "凍傷 詳細不明",
+          "explanation_en": "Frostbite NFS^a",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "915004.2",
+          "japanese": "II 度；III 度",
+          "english": "deep; full thickness",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [
+            {
+              "code": "915006.3",
+              "japanese": "多部位 例：指, つま先, 耳",
+              "english": "multiple body sites e.g., fingers, toes, ears",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+              "children": [],
+              "explanation_ja": "凍傷 詳細不明 > II 度；III 度",
+              "explanation_en": "Frostbite NFS^a > deep; full thickness",
+              "injury_types": [
+                "burn"
+              ],
+              "iss_body_region": "external"
+            }
+          ],
+          "explanation_ja": "凍傷 詳細不明",
+          "explanation_en": "Frostbite NFS^a",
+          "injury_types": [
+            "burn"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "916000.1",
+      "japanese": "穿通性損傷",
+      "english": "Penetrating injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "penetrating"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912000.1",
+      "japanese": "熱傷、詳細不明",
+      "english": "NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn",
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912002.1",
+      "japanese": "Ⅰ度：1歳を超える、熱傷面積を問わない",
+      "english": "1st degree burns",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [
+        {
+          "code": "912003.1",
+          "japanese": "1歳以下、50%以下",
+          "english": "≤1yo ≤50%",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "Ⅰ度：1歳を超える、熱傷面積を問わない",
+          "explanation_en": "1st degree burns",
+          "injury_types": [
+            "burn"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "912004.2",
+          "japanese": "1歳以下、50%を超える",
+          "english": "≤1yo >50%",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "Ⅰ度：1歳を超える、熱傷面積を問わない",
+          "explanation_en": "1st degree burns",
+          "injury_types": [
+            "burn"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912006.1",
+      "japanese": "Ⅱ度：非全層性、10%未満",
+      "english": "2nd degree burns",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [
+        {
+          "code": "912007.1",
+          "japanese": "Ⅲ度：全層性、100cm²以下 [顔面の場合は25cm²以下]",
+          "english": "3rd degree; full thickness [face ≤25cm²]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "Ⅱ度：非全層性、10%未満",
+          "explanation_en": "2nd degree burns",
+          "injury_types": [
+            "burn"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912008.2",
+      "japanese": "Ⅲ度：全層性、100cm²を超える; 10%未満 [顔面の場合は25cm²を超える]",
+      "english": "3rd degree burns",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912012.2",
+      "japanese": "Ⅱ度またはⅢ度; 非全層性または全層性、10～19%cc",
+      "english": "2nd or 3rd degree; partial or full thickness 10-19%ᶜᶜ",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [
+        {
+          "code": "912014.3",
+          "japanese": "5歳未満、10～19%cc",
+          "english": "<5yo 10-19%ᶜᶜ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "Ⅱ度またはⅢ度; 非全層性または全層性、10～19%cc",
+          "explanation_en": "2nd or 3rd degree; partial or full thickness 10-19%ᶜᶜ",
+          "injury_types": [
+            "burn"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912018.3",
+      "japanese": "Ⅱ度またはⅢ度; 非全層性または全層性、20～29%cc",
+      "english": "combined 2nd and 3rd degree burns",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [
+        {
+          "code": "912020.4",
+          "japanese": "5歳未満、20～29%cc",
+          "english": "<5yo 20-29%ᶜᶜ",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "Ⅱ度またはⅢ度; 非全層性または全層性、20～29%cc",
+          "explanation_en": "combined 2nd and 3rd degree burns",
+          "injury_types": [
+            "burn"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912024.4",
+      "japanese": "Ⅱ度またはⅢ度; 非全層性または全層性、30～39%cc",
+      "english": "2nd or 3rd degree; partial or full thickness 30-39%ᶜᶜ",
+      "ais_severity": 4,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [
+        {
+          "code": "912026.5",
+          "japanese": "5歳未満、30～39%cc",
+          "english": "<5yo 30-39%ᶜᶜ",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "children": [],
+          "explanation_ja": "Ⅱ度またはⅢ度; 非全層性または全層性、30～39%cc",
+          "explanation_en": "2nd or 3rd degree; partial or full thickness 30-39%ᶜᶜ",
+          "injury_types": [
+            "burn"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912030.5",
+      "japanese": "Ⅱ度またはⅢ度; 非全層性または全層性、40～89%",
+      "english": "2nd or 3rd degree; partial or full thickness 40-89%",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "912032.6",
+      "japanese": "Ⅱ度またはⅢ度; 非全層性または全層性 炭化を含む、90%以上",
+      "english": "2nd or 3rd degree; partial or full thickness including incineration ≥90%",
+      "ais_severity": 6,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "children": [],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "burn"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "010000.1",
+      "japanese": "低体温症 詳細不明（主損傷である場合を指し，治療によるものや続発症は除く）",
+      "english": "",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "その他の外傷",
+      "children": [
+        {
+          "code": "010002.1",
+          "japanese": "34～35℃を超える",
+          "english": "",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "低体温症 詳細不明（主損傷である場合を指し，治療によるものや続発症は除く）",
+          "explanation_en": "",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "010004.2",
+          "japanese": "33～32℃",
+          "english": "",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "低体温症 詳細不明（主損傷である場合を指し，治療によるものや続発症は除く）",
+          "explanation_en": "",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "010006.3",
+          "japanese": "31～30℃",
+          "english": "",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "低体温症 詳細不明（主損傷である場合を指し，治療によるものや続発症は除く）",
+          "explanation_en": "",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "010008.4",
+          "japanese": "29～28℃",
+          "english": "",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "低体温症 詳細不明（主損傷である場合を指し，治療によるものや続発症は除く）",
+          "explanation_en": "",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "010010.5",
+          "japanese": "27℃ 未満",
+          "english": "",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "低体温症 詳細不明（主損傷である場合を指し，治療によるものや続発症は除く）",
+          "explanation_en": "",
+          "injury_types": [
+            "nfs"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    },
+    {
+      "code": "012002.2",
+      "japanese": "全身損傷（爆傷）詳細不明",
+      "english": "",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "その他の外傷",
+      "children": [
+        {
+          "code": "012004.2",
+          "japanese": "軽傷，または皮膚・皮下組織・筋の表在性損傷 軽微な骨折を伴う，または伴わない",
+          "english": "",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "全身損傷（爆傷）詳細不明",
+          "explanation_en": "",
+          "injury_types": [
+            "fracture"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "012006.4",
+          "japanese": "広範囲（25% TBSAを超える）の皮膚・皮下組織・筋の損傷，多発性の骨折かつ／または臓器損傷を伴う",
+          "english": "",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "全身損傷（爆傷）詳細不明",
+          "explanation_en": "",
+          "injury_types": [
+            "fracture"
+          ],
+          "iss_body_region": "external"
+        },
+        {
+          "code": "012008.6",
+          "japanese": "重症；脳，胸部かつ／または腹部の多発性の臓器損傷 一肢以上の四肢欠損かつ／または断頭を伴う",
+          "english": "",
+          "ais_severity": 6,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "children": [],
+          "explanation_ja": "全身損傷（爆傷）詳細不明",
+          "explanation_en": "",
+          "injury_types": [
+            "amputation"
+          ],
+          "iss_body_region": "external"
+        }
+      ],
+      "explanation_ja": "",
+      "explanation_en": "",
+      "injury_types": [
+        "nfs"
+      ],
+      "iss_body_region": "external"
+    }
+  ],
+  "structure": "nested"
+}

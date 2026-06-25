@@ -1,0 +1,102 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上 肢",
+  "entries": [
+    {
+      "code": "720899.1",
+      "description_ja": "上腕静脈 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": "721099.1",
+      "description_ja": "その他の名前のある動脈 ［例；橈骨, 尺骨］",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": "721299.1",
+      "description_ja": "その他の名前のある静脈 ［例；橈側皮静脈, 尺側皮静脈］",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 0,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 0,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_013.jpg",
+  "body_part_normalized": "extremity"
+}

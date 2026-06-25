@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Cerebrum (continued)",
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "140688.3",
+      "description_ja": null,
+      "description_en": "laceration NFS [not from penetrating injury]ᵉ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140687.3",
+      "description_ja": null,
+      "description_en": "≤ 2cm length or depth",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140686.4",
+      "description_ja": null,
+      "description_en": "> 2cm length or depth",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140690.3",
+      "description_ja": null,
+      "description_en": "penetrating injury NFSᵉ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140691.3",
+      "description_ja": null,
+      "description_en": "≤ 2cm deep",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140692.5",
+      "description_ja": null,
+      "description_en": "> 2cm deep",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140689.9",
+      "description_ja": null,
+      "description_en": "trauma-associated findings not related either to intervention or to anatomically-described head injury NFSᶠ",
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "140660.3",
+      "description_ja": null,
+      "description_en": "brain swelling NFSʰ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140662.3",
+      "description_ja": null,
+      "description_en": "mild ; compressed ventricles without compressed brain stem cisterns",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140664.4",
+      "description_ja": null,
+      "description_en": "moderate ; compressed ventricles and brain stem cisterns",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140666.5",
+      "description_ja": null,
+      "description_en": "severe ; absent ventricles or brain stem cisterns",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140668.3",
+      "description_ja": null,
+      "description_en": "brain edema NFSʰ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140670.3",
+      "description_ja": null,
+      "description_en": "mild ; compressed ventricles without compressed brain stem cisterns",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140672.4",
+      "description_ja": null,
+      "description_en": "moderate ; compressed ventricles and brain stem cisterns",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140674.5",
+      "description_ja": null,
+      "description_en": "severe ; absent ventricles or brain stem cisterns",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140701.9",
+      "description_ja": null,
+      "description_en": "hypoxic or ischemic brain damage secondary to systemic hypoxemia, hypotension or shock not directly related to head traumaᶠ",
+      "severity": 9,
+      "level": 2
+    },
+    {
+      "code": "140702.9",
+      "description_ja": null,
+      "description_en": "not associated with coma >24 hoursᶠ",
+      "severity": 9,
+      "level": 3
+    },
+    {
+      "code": "140703.9",
+      "description_ja": null,
+      "description_en": "associated with coma >24 hours not secondary to primary brain injury ; bilateral ; multifocalᶠ",
+      "severity": 9,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_036.jpg",
+  "body_part_normalized": "head"
+}

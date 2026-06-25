@@ -1,0 +1,60 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "750099.9",
+      "description_ja": null,
+      "description_en": "Upper Extremity fracture NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "751800.2",
+      "description_ja": null,
+      "description_en": "Arm fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751801.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751900.2",
+      "description_ja": null,
+      "description_en": "Forearm fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751901.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752000.2",
+      "description_ja": null,
+      "description_en": "Hand fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752001.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_020.jpg",
+  "body_part_normalized": "extremity"
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "jtdb_schema_version": "1.0",
+    "session_id": "81f67a57",
+    "created_at": "2026-06-23T13:53:05.743358",
+    "completed_at": "2026-06-23T13:54:06.680690",
+    "ais_coding_status": "complete"
+  },
+  "patient": {},
+  "injuries": {
+    "70": [
+      "頸椎脱臼骨折",
+      "頭蓋前頭骨骨折"
+    ],
+    "71": [
+      "鼻漏"
+    ],
+    "72": [],
+    "73": [],
+    "74": [],
+    "75": []
+  },
+  "scores": {
+    "gcs": null,
+    "rts": null,
+    "iss": 4,
+    "triss_ps": null,
+    "ais_coding_status": "complete",
+    "max_ais_by_region": {
+      "70": 2,
+      "71": 0,
+      "72": 0,
+      "73": 0,
+      "74": 0,
+      "75": 0
+    }
+  },
+  "ais_codes": {
+    "70": [
+      {
+        "description": "頭蓋前頭骨骨折",
+        "code": "150400.2",
+        "japanese": "頭蓋冠骨折 詳細不明",
+        "description_ja": "前頭骨が属する頭蓋冠における骨折ですが、その詳細（開放性、陥没、転位など）が不明な場合に用いられます。",
+        "english": "Vault fracture NFS",
+        "severity": 2,
+        "confidence": "medium"
+      }
+    ],
+    "71": [],
+    "72": [],
+    "73": [],
+    "74": [],
+    "75": []
+  }
+}

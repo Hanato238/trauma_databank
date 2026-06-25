@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "neck",
+  "section_title": "頚 部",
+  "entries": [
+    {
+      "code": "320099.9",
+      "description_ja": "頚部の血管損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "320299.3",
+      "description_ja": "頚動脈 [総頚、内頚] 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "320202.3",
+      "description_ja": "内膜剥離、断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320204.4",
+      "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "320206.3",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320208.3",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "320209.3",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320210.4",
+      "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "320211.4",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "320212.4",
+      "description_ja": "大；破裂；離断；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "320213.4",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "320214.5",
+      "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "320215.5",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "320216.3",
+      "description_ja": "外傷に起因する血栓 (閉塞)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320217.3",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320218.4",
+      "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "320219.4",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "320220.3",
+      "description_ja": "裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320221.3",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320222.4",
+      "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "320223.4",
+      "description_ja": "両側性",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_005.jpg",
+  "body_part_normalized": "neck"
+}

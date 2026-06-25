@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "腹 部",
+  "entries": [
+    {
+      "code": "500099.9",
+      "description_ja": "鈍的腹部損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "500099.9",
+      "description_ja": "死亡 (詳細な評価なし); 剖検なし",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "516000.1",
+      "description_ja": "穿通性損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "516002.1",
+      "description_ja": "表在性 ; 小 ; 腹膜に達するが深部組織の損傷は伴わない",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "516004.2",
+      "description_ja": "組織欠損が100cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "516006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "510100.2",
+      "description_ja": "腹直筋断裂 詳細不明ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "511000.6",
+      "description_ja": "体幹部離断ᵃ",
+      "description_en": null,
+      "severity": 6,
+      "level": 1
+    },
+    {
+      "code": "510099.1",
+      "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "510202.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "510402.1",
+      "description_ja": "挫傷 ; 血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "510600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "510602.1",
+      "description_ja": "小 ; 表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "510604.2",
+      "description_ja": "大 ; 長さが20cmを超え, かつ皮下組織に達する",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "510606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "510800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "510802.1",
+      "description_ja": "小 ; 表在性 ; 100cm²以下",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "510804.2",
+      "description_ja": "大 ; 100cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "510806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_003.jpg",
+  "body_part_normalized": "abdomen"
+}

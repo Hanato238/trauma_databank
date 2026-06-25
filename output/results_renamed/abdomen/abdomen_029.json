@@ -1,0 +1,123 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "腹部",
+  "entries": [
+    {
+      "code": "543800.2",
+      "description_ja": "後腹膜 出血または血腫",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "544099.1",
+      "description_ja": "膵臓 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "544010.1",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "544020.1",
+      "description_ja": "裂傷・裂創；穿孔 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "544022.1",
+      "description_ja": "小；表在性：直径25%未満 [OIS II]",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "544024.2",
+      "description_ja": "大；切断；断裂；複雑 [OIS III, IV, V]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544299.2",
+      "description_ja": "脾臓 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "544210.2",
+      "description_ja": "挫傷；血腫 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544212.2",
+      "description_ja": "被膜下、表面積の50%以下；実質内、直径5cm以下；小；表在性 [OIS I, II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544214.3",
+      "description_ja": "被膜下、表面積の50%を超える、増大；被膜下または実質の破裂；直径5cmを超える実質損傷；大 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "544220.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544222.2",
+      "description_ja": "実質の深さ3cm以下の単純な被膜損傷で脾柱血管の損傷を伴わない；小；表在性 [OIS I, II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544224.3",
+      "description_ja": "脾門部または区域性実質の破裂または破壊を伴わない；実質の深さ3cmを超える、または脾柱血管の損傷；中 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "544226.4",
+      "description_ja": "脾門部離断を伴わないが脾臓の25%を超える血行遮断を生じるような区域性血管損傷または脾門部血管の損傷；大 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "544228.5",
+      "description_ja": "完全な血行遮断を生じる脾門部離断；組織欠損；断裂；広範囲 [OIS V]",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "544240.3",
+      "description_ja": "破裂 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_029.jpg",
+  "body_part_normalized": "abdomen"
+}

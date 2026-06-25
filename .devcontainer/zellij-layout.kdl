@@ -1,0 +1,61 @@
+// Ctrl+f でファイルツリー(yazi)をトグル
+layout {
+    default_tab_template {
+        pane size=1 borderless=true {
+            plugin location="zellij:tab-bar"
+        }
+        children
+        pane size=1 borderless=true {
+            plugin location="zellij:status-bar"
+        }
+        pane size=1 borderless=true {
+            plugin location="file:/home/node/.config/zellij/plugins/zjstatus.wasm" {
+                format_left   " {command_project} "
+                format_center ""
+                format_right  "{command_claude_model} {command_claude_tokens} {command_git_branch} {datetime}"
+
+                command_project_command    "/home/node/.config/zellij/scripts/project-name.sh"
+                command_project_format     "#[fg=#89B4FA,bold]{stdout}"
+                command_project_interval   "3600"
+                command_project_rendermode "static"
+
+                command_claude_model_command    "/home/node/.config/zellij/scripts/claude-model.sh"
+                command_claude_model_format     "#[fg=#A6E3A1]{stdout}"
+                command_claude_model_interval   "2"
+                command_claude_model_rendermode "static"
+
+                command_claude_tokens_command    "/home/node/.config/zellij/scripts/claude-tokens.sh"
+                command_claude_tokens_format     "#[fg=#FAB387]{stdout}"
+                command_claude_tokens_interval   "2"
+                command_claude_tokens_rendermode "static"
+
+                command_git_branch_command      "/home/node/.config/zellij/scripts/git-branch.sh"
+                command_git_branch_format       "#[fg=#89DCEB]{stdout}"
+                command_git_branch_interval     "5"
+                command_git_branch_rendermode   "static"
+
+                datetime          "#[fg=#6C7086]{format}"
+                datetime_format   "%H:%M"
+                datetime_interval "60"
+            }
+        }
+    }
+
+    tab name="claude" {
+        pane command="claude" close_on_exit=true {
+            args "--dangerously-skip-permissions"
+        }
+        floating_panes {
+            pane command="yazi" {
+                width "30%"
+                height "90%"
+                x "0%"
+                y "5%"
+                name "files"
+            }
+        }
+    }
+    tab name="agy" {
+        pane command="agy" close_on_exit=true
+    }
+}

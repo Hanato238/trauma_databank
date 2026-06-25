@@ -1,0 +1,151 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "thorax",
+  "section_title": "胸部",
+  "entries": [
+    {
+      "code": "442999.9",
+      "description_ja": "胸部損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "442200.3",
+      "description_ja": "血胸 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "442201.4",
+      "description_ja": "大：少なくとも片側で1000mlを超える出血",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "442202.2",
+      "description_ja": "気胸 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "442203.4",
+      "description_ja": "大：X線検査で50%を超える肺の虚脱；持続する空気漏れ",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "442204.5",
+      "description_ja": "緊張性；大量の空気漏れ",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "442205.3",
+      "description_ja": "血気胸 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "442206.4",
+      "description_ja": "大：少なくとも片側に1000mlを超える出血",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "442207.5",
+      "description_ja": "空気塞栓",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "442208.2",
+      "description_ja": "縦隔血腫",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "442209.2",
+      "description_ja": "縦隔気腫",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "442210.3",
+      "description_ja": "心タンポナーデを伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "442402.2",
+      "description_ja": "胸管 裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "442502.2",
+      "description_ja": "胸腺 裂傷・裂創；穿孔",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "442699.3",
+      "description_ja": "胸部気管損傷 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "442602.3",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "442604.3",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "442606.3",
+      "description_ja": "穿孔なし；非全層性",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "442608.4",
+      "description_ja": "穿孔；全層性；“骨折”",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "442610.5",
+      "description_ja": "断裂；破裂；離断；広範な破壊；粉砕；咽頭と気管の分離",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_025.jpg",
+  "body_part_normalized": "thorax"
+}

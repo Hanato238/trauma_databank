@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "812000.2",
+      "description_ja": "コンパートメント症候群 外傷による軟部組織損傷の結果生じたもの, 骨折, または骨その他の解剖学的構造に広範囲な挫滅を伴わないもの。解剖学的部位については詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "812001.2",
+      "description_ja": "大腿部",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "812002.2",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "812003.3",
+      "description_ja": "筋肉の欠損を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "812004.2",
+      "description_ja": "下腿",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "812005.2",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "812006.3",
+      "description_ja": "筋肉の欠損を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "812007.2",
+      "description_ja": "足部",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "812008.2",
+      "description_ja": "筋肉の欠損を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "812009.3",
+      "description_ja": "筋肉の欠損を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "813000.3",
+      "description_ja": "挫滅損傷 股関節と足部の間の下肢, 具体的な部位については詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "813001.4",
+      "description_ja": "股関節または殿部",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "813002.4",
+      "description_ja": "膝関節と股関節の間 (膝関節を含む)",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "813003.3",
+      "description_ja": "足関節と膝関節の間 (足関節を含む)",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "813004.2",
+      "description_ja": "足部, 部分的または全体",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "813005.2",
+      "description_ja": "母趾",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "813006.2",
+      "description_ja": "他の趾, 1本または複数本",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "814000.2",
+      "description_ja": "デグロービング損傷 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "814002.3",
+      "description_ja": "下肢全体",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "814004.2",
+      "description_ja": "大腿または下腿",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "814006.2",
+      "description_ja": "膝, 足関節または足部",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "814008.2",
+      "description_ja": "足趾, 1本または複数本",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_046.jpg",
+  "body_part_normalized": "extremity"
+}

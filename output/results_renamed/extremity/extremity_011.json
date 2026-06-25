@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上肢",
+  "entries": [
+    {
+      "code": "720099.9",
+      "description_ja": "上肢の血管損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "720299.2",
+      "description_ja": "腋窩動脈 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "720202.2",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720204.2",
+      "description_ja": "裂傷・裂創・穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720206.2",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "720208.3",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "720499.2",
+      "description_ja": "腋窩静脈 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "720402.2",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720404.2",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "720406.3",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "720699.2",
+      "description_ja": "上腕動脈 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "720602.2",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720604.2",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720606.2",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "720608.3",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_011.jpg",
+  "body_part_normalized": "extremity"
+}

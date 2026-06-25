@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "720099.9",
+      "description_ja": null,
+      "description_en": "Vascular Injury in Upper Extremity NFS",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "720299.2",
+      "description_ja": null,
+      "description_en": "Axillary artery NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "720202.2",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720204.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720206.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720208.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "720499.2",
+      "description_ja": null,
+      "description_en": "Axillary vein NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "720402.2",
+      "description_ja": null,
+      "description_en": "laceration ; puncture ; perforation NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720404.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720406.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "720699.2",
+      "description_ja": null,
+      "description_en": "Brachial artery NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "720602.2",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720604.2",
+      "description_ja": null,
+      "description_en": "laceration ; puncture ; perforation NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720606.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "720608.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_010.jpg",
+  "body_part_normalized": "extremity"
+}

@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140699.3",
+      "description_ja": null,
+      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”.",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140602.3",
+      "description_ja": null,
+      "description_en": "contusion NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140604.3",
+      "description_ja": null,
+      "description_en": "single NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140605.2",
+      "description_ja": null,
+      "description_en": "tiny ; <1cm diameter",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140606.3",
+      "description_ja": null,
+      "description_en": "small ; superficial ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or 1-2cm diameter if ≤age 10 ; midline shift ≤5mm",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140608.4",
+      "description_ja": null,
+      "description_en": "large ; deep ; 30-50cc or 15-30cc if ≤age 10 ; > 4cm diameter or 2-4cm diameter if ≤age 10 ; midline shift >5mm",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140610.5",
+      "description_ja": null,
+      "description_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140611.3",
+      "description_ja": null,
+      "description_en": "multiple NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140612.3",
+      "description_ja": null,
+      "description_en": "multiple, on same side but NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140613.2",
+      "description_ja": null,
+      "description_en": "tiny ; each <1cm diameter",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140614.3",
+      "description_ja": null,
+      "description_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10 ; midline shift ≤5mm",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140616.4",
+      "description_ja": null,
+      "description_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10 ; midline shift >5mm",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140618.5",
+      "description_ja": null,
+      "description_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140620.3",
+      "description_ja": null,
+      "description_en": "multiple, at least one on each side but NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140621.2",
+      "description_ja": null,
+      "description_en": "tiny ; each <1cm diameter",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140622.3",
+      "description_ja": null,
+      "description_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140624.4",
+      "description_ja": null,
+      "description_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140626.5",
+      "description_ja": null,
+      "description_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_028.jpg",
+  "body_part_normalized": "head"
+}

@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "損傷内容",
+  "entries": [
+    {
+      "code": null,
+      "description_ja": "神 経",
+      "description_en": null,
+      "severity": 0,
+      "level": 1
+    },
+    {
+      "code": "830099.9",
+      "description_ja": "下肢の神経損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "830299.1",
+      "description_ja": "脛神経 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "830202.1",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "830204.1",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "830399.2",
+      "description_ja": "大腿神経 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "830302.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830304.2",
+      "description_ja": "裂傷・裂創;剥離 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830306.2",
+      "description_ja": "運動麻痺を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830599.2",
+      "description_ja": "腓骨神経 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "830502.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830504.2",
+      "description_ja": "裂傷・裂創;剥離 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830506.2",
+      "description_ja": "運動麻痺を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830499.2",
+      "description_ja": "坐骨神経 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "830402.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830404.3",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "830406.3",
+      "description_ja": "不完全",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "830408.3",
+      "description_ja": "完全",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "830699.2",
+      "description_ja": "脛骨神経 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "830602.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830604.2",
+      "description_ja": "裂傷・裂創;剥離 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "830606.2",
+      "description_ja": "運動麻痺を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_056.jpg",
+  "body_part_normalized": "extremity"
+}

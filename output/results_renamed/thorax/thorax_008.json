@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "AIS 2005",
+  "entries": [
+    {
+      "code": "420699.3",
+      "description_ja": null,
+      "description_en": "Brachiocephalic (innominate) vein NFS [OIS II for entire category]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "420602.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420604.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "420606.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "420608.5",
+      "description_ja": null,
+      "description_en": "with air embolus right side",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "421299.3",
+      "description_ja": null,
+      "description_en": "Pulmonary vein NFS [OIS IV, V for entire category]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421202.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421204.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421206.5",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "421207.6",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "421699.3",
+      "description_ja": null,
+      "description_en": "Subclavian vein NFS [OIS II for entire category]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421602.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421604.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421606.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "421899.3",
+      "description_ja": null,
+      "description_en": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "421802.3",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421804.3",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume with or without thrombosis",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "421806.4",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "421808.5",
+      "description_ja": null,
+      "description_en": "with air embolus right side",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "422299.2",
+      "description_ja": null,
+      "description_en": "Other named veins, e.g., azygos, bronchial, esophageal, hemi-azygos, intercostal, internal jugular, internal mammary [OIS I for entire category except azygos and internal jugular, OIS II]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "422202.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "422204.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_008.jpg",
+  "body_part_normalized": "thorax"
+}

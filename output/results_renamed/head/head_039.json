@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "140676.3",
+      "description_ja": "梗塞 [外傷性血管閉塞による急性性のもの]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "脳室内出血°",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "140678.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140675.2",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140677.4",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140680.3",
+      "description_ja": "頭部外傷に直接起因する虚血性脳損傷°",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140681.3",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140683.5",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140682.3",
+      "description_ja": "頭部外傷に直接起因する気脳症",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": null,
+      "description_ja": "くも膜下出血 詳細不明°",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "140693.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140694.2",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140695.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": "軟膜下出血 詳細不明°",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "140696.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140697.2",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140698.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_039.jpg",
+  "body_part_normalized": "head"
+}

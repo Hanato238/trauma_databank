@@ -1,0 +1,123 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "abdomen",
+  "section_title": "ABDOMEN",
+  "entries": [
+    {
+      "code": "543800.2",
+      "description_ja": null,
+      "description_en": "Retroperitoneum hemorrhage or hematoma",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "544099.1",
+      "description_ja": null,
+      "description_en": "Scrotum NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "544010.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "544020.1",
+      "description_ja": null,
+      "description_en": "laceration ; perforation NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "544022.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; <25% diameter [OIS II]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "544024.2",
+      "description_ja": null,
+      "description_en": "major ; amputation ; avulsion ; complex [OIS III, IV, V]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544299.2",
+      "description_ja": null,
+      "description_en": "Spleen NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "544210.2",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544212.2",
+      "description_ja": null,
+      "description_en": "subcapsular, ≤50% surface area ; intraparenchymal, ≤5cm in diameter ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544214.3",
+      "description_ja": null,
+      "description_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal, >5cm in diameter or expanding ; major [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "544220.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "544222.2",
+      "description_ja": null,
+      "description_en": "simple capsular tear ≤3cm parenchymal depth and no trabecular vessel involvement ; minor ; superficial [OIS I, II]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "544224.3",
+      "description_ja": null,
+      "description_en": "no hilar or segmental parenchymal disruption or destruction ; >3cm parenchymal depth or involving trabecular vessels ; moderate [OIS III]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "544226.4",
+      "description_ja": null,
+      "description_en": "involving segmental or hilar vessels producing major devascularization of >25% of spleen but no hilar injury ; major [OIS IV]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "544228.5",
+      "description_ja": null,
+      "description_en": "hilar disruption producing total devascularization ; tissue loss ; avulsion ; massive [OIS V]",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "544240.3",
+      "description_ja": null,
+      "description_en": "rupture NFS",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_028.jpg",
+  "body_part_normalized": "abdomen"
+}

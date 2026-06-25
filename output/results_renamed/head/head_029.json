@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "140699.3",
+      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140602.3",
+      "description_ja": "挫傷 詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140604.3",
+      "description_ja": "単発性 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140605.2",
+      "description_ja": "微小; 直径1 cm未満ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140606.3",
+      "description_ja": "小; 表在性; 30ml以下 (10歳以下では15ml以下); 直径1～4cm (10歳以下では1～2cm); 正中偏位が5 mm以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140608.4",
+      "description_ja": "大; 深在性; 30～50ml (10歳以下では15～30ml); 直径4cmを超える (10歳以下では2～4cm); 正中偏位が5mmを超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140610.5",
+      "description_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140611.3",
+      "description_ja": "多発性 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140612.3",
+      "description_ja": "多発性, 片側 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140613.2",
+      "description_ja": "微小; いずれも直径1 cm未満ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140614.3",
+      "description_ja": "小; 表在性; 合計30ml以下 (10歳以下では15ml以下); 正中偏位が5 mm以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140616.4",
+      "description_ja": "大; 合計30～50ml (10歳以下では15～30ml); 正中偏位が5 mmを超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140618.5",
+      "description_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140620.3",
+      "description_ja": "多発性, 両側 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140621.2",
+      "description_ja": "微小; いずれも直径1 cm未満ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140622.3",
+      "description_ja": "小; 表在性; 合計30ml以下 (10歳以下では15ml以下)",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140624.4",
+      "description_ja": "大; 合計30～50ml (10歳以下では15～30ml)",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140626.5",
+      "description_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_029.jpg",
+  "body_part_normalized": "head"
+}

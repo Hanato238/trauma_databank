@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "FACE (includes Eye and Ear)",
+  "entries": [
+    {
+      "code": "210099.1",
+      "description_ja": null,
+      "description_en": "Skin/subcutaneous/muscle NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210202.1",
+      "description_ja": null,
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210402.1",
+      "description_ja": null,
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210600.1",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210602.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "210604.2",
+      "description_ja": null,
+      "description_en": "major ; >10cm long and into subcutaneous tissue",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "210606.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "210800.1",
+      "description_ja": null,
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "210802.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; ≤25cm²",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "210804.2",
+      "description_ja": null,
+      "description_en": "major ; >25cm²",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "210806.3",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "220099.9",
+      "description_ja": null,
+      "description_en": "Vascular Injury in Face NFSᶠ",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "220200.1",
+      "description_ja": null,
+      "description_en": "External carotid artery branch (es) laceration NFS [includes facial, temporal, and internal maxillary]",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "220202.1",
+      "description_ja": null,
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "220204.3",
+      "description_ja": null,
+      "description_en": "major ; transection ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_004.jpg",
+  "body_part_normalized": "face"
+}

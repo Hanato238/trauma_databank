@@ -1,0 +1,123 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "spine",
+  "section_title": "LUMBAR SPINE",
+  "entries": [
+    {
+      "code": "640600.3",
+      "description_ja": null,
+      "description_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "640601.3",
+      "description_ja": null,
+      "description_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640602.3",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "640604.3",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "640606.3",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "640608.3",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "640610.4",
+      "description_ja": null,
+      "description_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "640612.4",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "640614.4",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "640616.4",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "640618.4",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "640620.5",
+      "description_ja": null,
+      "description_en": "complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "640622.5",
+      "description_ja": null,
+      "description_en": "with no fracture or dislocation",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "640624.5",
+      "description_ja": null,
+      "description_en": "with fracture",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640626.5",
+      "description_ja": null,
+      "description_en": "with dislocation",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "640628.5",
+      "description_ja": null,
+      "description_en": "with both fracture and dislocation",
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_022.jpg",
+  "body_part_normalized": "spine"
+}

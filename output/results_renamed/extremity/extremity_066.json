@@ -1,0 +1,221 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "878099.1",
+      "description_ja": "足根中足関節 詳細不明ᶻ",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "878089.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878010.1",
+      "description_ja": "捻挫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878020.1",
+      "description_ja": "亜脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878030.1",
+      "description_ja": "脱臼 詳細不明 ［Lisfranc（リスフラン）関節］",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878031.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878032.1",
+      "description_ja": "関節軟骨の損傷を伴わない",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878033.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878034.1",
+      "description_ja": "関節軟骨の損傷を伴う",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878035.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878199.1",
+      "description_ja": "中足趾節関節または趾節間関節 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "878189.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878150.1",
+      "description_ja": "母趾 詳細不明ʸ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878151.1",
+      "description_ja": "捻挫",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878153.1",
+      "description_ja": "亜脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878154.1",
+      "description_ja": "脱臼 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878155.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878156.1",
+      "description_ja": "関節軟骨の損傷を伴わない",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878157.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878158.1",
+      "description_ja": "関節軟骨の損傷を伴う",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878159.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878160.1",
+      "description_ja": "他の趾, 単一または複数, 詳細不明ʸ",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "878161.1",
+      "description_ja": "捻挫",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878163.1",
+      "description_ja": "亜脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878164.1",
+      "description_ja": "脱臼",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878165.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878166.1",
+      "description_ja": "関節軟骨の損傷を伴わない",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878167.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 4
+    },
+    {
+      "code": "878168.1",
+      "description_ja": "関節軟骨の損傷を伴う",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "878169.1",
+      "description_ja": "開放ª",
+      "description_en": null,
+      "severity": 1,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_066.jpg",
+  "body_part_normalized": "extremity"
+}

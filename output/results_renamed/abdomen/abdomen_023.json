@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "腹部",
+  "entries": [
+    {
+      "code": "541899.2",
+      "description_ja": "肝臓 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541810.2",
+      "description_ja": "挫傷; 血腫 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541812.2",
+      "description_ja": "被膜下, 表面積の50%以下, 限局性または直径10cm以下 の実質損傷; 小; 表在性 [OIS I, II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541814.3",
+      "description_ja": "被膜下, 表面積の50%を超える, 増大; 被膜下または 実質の破裂; 直径10cmを超える実質損傷; 大 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "541820.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541822.2",
+      "description_ja": "単純な被膜損傷; 実質の深さが3cm以下; 長さ10cm以下; 小; 表在性 [OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541824.3",
+      "description_ja": "実質の深さが3cmを超える; 主要胆管の損傷; 中等度 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "541826.4",
+      "description_ja": "肝葉の75%以下の実質破裂; 深さ3cmを超える多発性裂傷・裂創; “破裂”損傷; 大 [OIS IV]",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "541828.5",
+      "description_ja": "肝葉の75%を超える実質破裂または一葉のうち4つ以上 のクノー肝区域にわたる実質損傷; 肝後面下大静脈または肝静脈損傷を伴っている; 広範囲; 複雑 [OIS V]",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "541830.6",
+      "description_ja": "肝断裂 (すべての肝血管系の完全断裂) [OIS VI]",
+      "description_en": null,
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "541840.4",
+      "description_ja": "破裂",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "542099.2",
+      "description_ja": "腸間膜 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542010.2",
+      "description_ja": "挫傷; 血腫",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542020.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "542022.2",
+      "description_ja": "小; 表在性",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "542024.3",
+      "description_ja": "大",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "542026.4",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_023.jpg",
+  "body_part_normalized": "abdomen"
+}

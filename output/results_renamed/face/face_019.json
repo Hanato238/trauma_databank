@@ -1,0 +1,46 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head/face/neck",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "250800.2",
+      "description_ja": "上顎骨骨折 [上顎洞を含む]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "250804.2",
+      "description_ja": "LeFort I 型",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250806.2",
+      "description_ja": "LeFort II 型",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "250808.3",
+      "description_ja": "LeFort III 型",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "250810.4",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_019.jpg",
+  "body_part_normalized": "face"
+}

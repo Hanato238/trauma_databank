@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "血 管",
+  "entries": [
+    {
+      "code": "520099.9",
+      "description_ja": "腹部血管損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "520299.4",
+      "description_ja": "腹部大動脈 詳細不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "520202.4",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520204.4",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520206.4",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520208.5",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "520499.3",
+      "description_ja": "腹腔動脈 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "520402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520404.3",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520406.4",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520408.5",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "520699.3",
+      "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "520698.4",
+      "description_ja": "両側c 総腸骨動脈に限る。",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "520602.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520604.3",
+      "description_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520606.3",
+      "description_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "520608.4",
+      "description_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_005.jpg",
+  "body_part_normalized": "abdomen"
+}

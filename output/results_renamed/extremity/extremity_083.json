@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "LOWER EXTREMITY, PELVIS AND BUTTOCKS",
+  "entries": [
+    {
+      "code": "857200.2",
+      "description_ja": null,
+      "description_en": "Talus fracture NFS^s",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "857201.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857251.2",
+      "description_ja": null,
+      "description_en": "extra articular ; talus neck",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857252.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857261.2",
+      "description_ja": null,
+      "description_en": "fracture line into one joint surface ; talus body",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857262.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857271.2",
+      "description_ja": null,
+      "description_en": "fracture line into ≥2 joint surfaces",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857272.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857300.2",
+      "description_ja": null,
+      "description_en": "Calcaneus fracture NFS^s",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "857301.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857351.2",
+      "description_ja": null,
+      "description_en": "extra articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857352.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857361.2",
+      "description_ja": null,
+      "description_en": "fracture line into one joint surface",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857362.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857371.2",
+      "description_ja": null,
+      "description_en": "fracture line into ≥2 joint surfaces",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857372.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857400.2",
+      "description_ja": null,
+      "description_en": "Navicular fracture NFS^bb",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "857401.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857451.2",
+      "description_ja": null,
+      "description_en": "extra articular [coronal body split, no joint involvement]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857452.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857461.2",
+      "description_ja": null,
+      "description_en": "fracture line into one joint surface",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857462.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857471.2",
+      "description_ja": null,
+      "description_en": "fracture line into ≥2 joint surfaces",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857472.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_083.jpg",
+  "body_part_normalized": "extremity"
+}

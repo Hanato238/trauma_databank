@@ -1,0 +1,179 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "内 臓",
+  "entries": [
+    {
+      "code": "540299.1",
+      "description_ja": "副腎 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "540210.1",
+      "description_ja": "挫傷；血腫 詳細不明 [OIS I]",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "540212.1",
+      "description_ja": "小；表在性 [OIS I]",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "540214.2",
+      "description_ja": "大；大きい [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540220.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "540222.1",
+      "description_ja": "小；表在性；皮質内にとどまる；2 cm未満 [OIS II]",
+      "description_en": null,
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "540224.2",
+      "description_ja": "大；多発性裂傷・裂創；髄質に及ぶ；2 cm以上 [OIS III]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540226.3",
+      "description_ja": "広範囲；断裂；複雑；破裂；実質の破壊が50%を超える [OIS IV, V]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540499.1",
+      "description_ja": "肛門 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "540410.1",
+      "description_ja": "挫傷；血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "540420.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540422.2",
+      "description_ja": "穿孔なし；非全層性",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540424.3",
+      "description_ja": "穿孔あり；全層性",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540426.4",
+      "description_ja": "広範囲；断裂；複雑；破裂；高度組織欠損",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "540322.2",
+      "description_ja": "虫垂 裂傷・裂創；穿孔ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540699.2",
+      "description_ja": "膀胱 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "540610.2",
+      "description_ja": "挫傷；血腫 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540620.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "540622.2",
+      "description_ja": "穿孔なし；非全層性 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540623.2",
+      "description_ja": "腹膜外で2 cm以下 [OIS II]ᵃ",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "540624.3",
+      "description_ja": "腹膜外で2 cmを超える；腹膜内で2 cm以下 [OIS III]ᵃ",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540625.3",
+      "description_ja": "腹膜内で2 cmを超える [OIS IV]ᵃ",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "540626.4",
+      "description_ja": "広範囲；断裂；複雑；組織欠損；尿道口や膀胱頸部に及ぶ [OIS V]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "540640.3",
+      "description_ja": "破裂 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_013.jpg",
+  "body_part_normalized": "abdomen"
+}

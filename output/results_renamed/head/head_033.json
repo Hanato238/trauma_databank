@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "大脳 (続き)",
+  "entries": [
+    {
+      "code": "140638.3",
+      "description_ja": "詳細不明 [損傷周囲の浮腫を含む]",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140639.2",
+      "description_ja": "微小; 単発性または直径 1cm未満の多発性のものa",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140642.2",
+      "description_ja": "点状出血 [放射線学的 “剪断” 損傷を含む]e",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140643.2",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140645.4",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140640.4",
+      "description_ja": "小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140647.3",
+      "description_ja": "6時間を超える昏睡と関連がないもの",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140649.4",
+      "description_ja": "6時間を超える昏睡と関連があるもの",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140646.5",
+      "description_ja": "30mlを超える (10歳以下では15mlを超える); 直径 4cmを超える (10歳以下では 1 cmを超える)",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140648.5",
+      "description_ja": "両側 [それぞれ4cmを超える]c",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140641.5",
+      "description_ja": "詳細不明",
+      "description_en": null,
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140650.3",
+      "description_ja": "微小; 厚さ0.6cm未満 [一側または両側のテントの (硬膜下) 出血を含む]a",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140651.3",
+      "description_ja": "中程度; 50ml以下 (10歳以下では25ml以下); 厚さ0.6～1cm",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140652.4",
+      "description_ja": "両側 [両側とも厚さ0.6～1cm]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140654.4",
+      "description_ja": "大量; 広範囲; 50mlを超える (10歳以下では25mlを超える); 厚さ1cmを超える",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140656.5",
+      "description_ja": "両側 [少なくとも一側は厚さ1cmを超える]e",
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140655.5",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_033.jpg",
+  "body_part_normalized": "head"
+}

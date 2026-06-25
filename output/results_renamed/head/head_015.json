@@ -1,0 +1,88 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部（頭蓋と脳）",
+  "entries": [
+    {
+      "code": "130299.2",
+      "description_ja": "脳神経 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130202.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130204.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130499.2",
+      "description_ja": "I (嗅神経, 嗅覚路) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130402.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130404.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130699.2",
+      "description_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む]",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "130602.2",
+      "description_ja": "挫傷",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130604.2",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "130606.2",
+      "description_ja": "裂傷・裂創",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "130608.2",
+      "description_ja": "両側",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_015.jpg",
+  "body_part_normalized": "head"
+}

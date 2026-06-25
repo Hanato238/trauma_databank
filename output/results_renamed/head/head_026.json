@@ -1,0 +1,74 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140478.3",
+      "description_ja": null,
+      "description_en": "penetrating injury NFSᵉ",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140477.3",
+      "description_ja": null,
+      "description_en": "≤2cm deep",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140476.5",
+      "description_ja": null,
+      "description_en": ">2cm deep",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140489.9",
+      "description_ja": null,
+      "description_en": "trauma-associated findings not related either to interven-tion or to anatomically-described head injury NFSᶠ",
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "140450.3",
+      "description_ja": null,
+      "description_en": "brain swelling/edema NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140458.3",
+      "description_ja": null,
+      "description_en": "infarction (acute due to traumatic vascular occlusion)",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140462.3",
+      "description_ja": null,
+      "description_en": "ischemic brain damage directly related to head trauma",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140466.2",
+      "description_ja": null,
+      "description_en": "subarachnoid hemorrhage",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "140470.2",
+      "description_ja": null,
+      "description_en": "subpial hemorrhage",
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_026.jpg",
+  "body_part_normalized": "head"
+}

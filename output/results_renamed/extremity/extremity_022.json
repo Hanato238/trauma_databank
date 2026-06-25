@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "extremity",
+  "section_title": "UPPER EXTREMITY",
+  "entries": [
+    {
+      "code": "750500.2",
+      "description_ja": null,
+      "description_en": "Clavicle fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "750501.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750511.2",
+      "description_ja": null,
+      "description_en": "Proximal clavicle fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "750512.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750621.2",
+      "description_ja": null,
+      "description_en": "Clavicle shaft fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "750622.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750651.2",
+      "description_ja": null,
+      "description_en": "simple",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750652.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750661.2",
+      "description_ja": null,
+      "description_en": "wedge ; \"butterfly\" fragment",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750662.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750671.2",
+      "description_ja": null,
+      "description_en": "comminuted ; segmental",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750672.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750731.2",
+      "description_ja": null,
+      "description_en": "Distal (lateral end) clavicle fracture",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "750732.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750751.2",
+      "description_ja": null,
+      "description_en": "extra-articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750752.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750761.2",
+      "description_ja": null,
+      "description_en": "intra-articular",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750762.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750900.2",
+      "description_ja": null,
+      "description_en": "Scapula fracture NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "750901.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750951.2",
+      "description_ja": null,
+      "description_en": "body",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750952.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750961.2",
+      "description_ja": null,
+      "description_en": "neck with or without body",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750962.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "750971.2",
+      "description_ja": null,
+      "description_en": "glenoid with or without neck or body",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "750972.2",
+      "description_ja": null,
+      "description_en": "open",
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_022.jpg",
+  "body_part_normalized": "extremity"
+}

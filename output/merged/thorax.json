@@ -1,0 +1,2699 @@
+{
+  "body_part": "thorax",
+  "body_part_name": "Thorax / 胸部",
+  "source_file_count": 27,
+  "source_files": [
+    "thorax_001.json",
+    "thorax_002.json",
+    "thorax_003.json",
+    "thorax_004.json",
+    "thorax_005.json",
+    "thorax_006.json",
+    "thorax_007.json",
+    "thorax_008.json",
+    "thorax_009.json",
+    "thorax_010.json",
+    "thorax_011.json",
+    "thorax_012.json",
+    "thorax_013.json",
+    "thorax_014.json",
+    "thorax_015.json",
+    "thorax_016.json",
+    "thorax_017.json",
+    "thorax_018.json",
+    "thorax_019.json",
+    "thorax_020.json",
+    "thorax_021.json",
+    "thorax_022.json",
+    "thorax_023.json",
+    "thorax_024.json",
+    "thorax_025.json",
+    "thorax_026.json",
+    "thorax_027.json"
+  ],
+  "total_entries": 219,
+  "collision_count": 64,
+  "entries": [
+    {
+      "code": "418000.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_001.json"
+      ]
+    },
+    {
+      "code": "41802.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_001.json"
+      ]
+    },
+    {
+      "code": "418004.2",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_001.json"
+      ]
+    },
+    {
+      "code": "418008.8",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 8,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_001.json"
+      ]
+    },
+    {
+      "code": "400099.9",
+      "description_ja": null,
+      "description_en": "Injuries to the Whole Thorax NFS",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_002.json"
+      ]
+    },
+    {
+      "code": "400999.9",
+      "description_ja": "胸部全体の損傷 詳細不明 (具体的な損傷の詳細な記載がない, または剖検による損傷部位の特定がなされていない胸部損傷による死亡)",
+      "description_en": "Died of thoracic injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ]
+    },
+    {
+      "code": "411000.2",
+      "description_ja": "乳房の剥離創, 女性",
+      "description_en": "Breast avulsion, female",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ]
+    },
+    {
+      "code": "413000.6",
+      "description_ja": "挫滅損傷 (骨格, 血管, 臓器, 組織系の広範な両側性高度損傷を伴わなくてはならない。)",
+      "description_en": "Crush injury",
+      "severity": 6,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ]
+    },
+    {
+      "code": "415000.4",
+      "description_ja": "開放性胸壁損傷（吸い込み創）",
+      "description_en": "Open (\"sucking\") chest wound",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ]
+    },
+    {
+      "code": "410102.2",
+      "description_ja": "胸筋剥離；裂傷・裂創",
+      "description_en": "Pectoral muscle tear ; laceration",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ]
+    },
+    {
+      "code": "416000.1",
+      "description_ja": "穿通性損傷 詳細不明",
+      "description_en": "Penetrating injury NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ]
+    },
+    {
+      "code": "416002.1",
+      "description_ja": "表在性；小；胸腔内に達するが深部組織の損傷は認めない",
+      "description_en": "superficial ; minor ; into pleural cavity but not involving deeper structures",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "416004.2",
+      "description_ja": "組織欠損が100cm²を超える",
+      "description_en": "with tissue loss >100cm²",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "416006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "with blood loss >20% by volume",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_002.json",
+        "thorax_003.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "410099.1",
+      "description_ja": "皮膚/皮下組織/筋肉 詳細不明",
+      "description_en": "Skin/subcutaneous/muscle NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410202.1",
+      "description_ja": "擦過傷",
+      "description_en": "abrasion",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410402.1",
+      "description_ja": "挫傷;血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410602.1",
+      "description_ja": "小;表在性",
+      "description_en": "minor ; superficial",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410604.2",
+      "description_ja": "大;長さが20cmを超えかつ皮下組織に達する",
+      "description_en": "major ; >20cm long and into subcutaneous tissue",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": "avulsion NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410802.1",
+      "description_ja": "小;表在性;100cm²以下",
+      "description_en": "minor ; superficial ; ≤100cm²",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410804.2",
+      "description_ja": "大;100cm²を超える",
+      "description_en": "major ; >100cm²",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "410806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": "blood loss >20% by volume",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420099.9",
+      "description_ja": "胸部の血管損傷 詳細不明",
+      "description_en": "Vascular Injury in Thorax NFS",
+      "severity": 9,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420299.4",
+      "description_ja": "胸部大動脈 詳細不明 [別の区分に入る場合を除き OIS IV, V]",
+      "description_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise]",
+      "severity": 4,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420202.4",
+      "description_ja": "内膜剥離,断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420204.5",
+      "description_ja": "大動脈弁の損傷を伴う",
+      "description_en": "with aortic valve involvement",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420206.4",
+      "description_ja": "裂傷・裂創;穿孔;詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420208.4",
+      "description_ja": "小;表在性;非全周性;出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ;",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "420210.5",
+      "description_ja": "大;破裂;離断;部分欠損;出血量が全血液量の20%を超える",
+      "description_en": "blood loss≤20% by volume",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420212.5",
+      "description_ja": "大動脈基底部または大動脈弁の損傷を伴う",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420216.5",
+      "description_ja": "縦隔内に限局した出血を伴う",
+      "description_en": "with aortic root or valve involvement",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420218.6",
+      "description_ja": "縦隔外への出血を伴う [OIS VI]",
+      "description_en": "with hemorrhage confined to mediastinum",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_004.json",
+        "thorax_005.json"
+      ]
+    },
+    {
+      "code": "420499.3",
+      "description_ja": "腕頭 (無名) 動脈 詳細不明 [OIS IIIに相当する]",
+      "description_en": "Brachiocephalic (innominate) artery NFS [OIS III for entire category]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "420402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "420404.3",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "420406.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "420408.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "420800.5",
+      "description_ja": "冠動脈 左右の冠動脈本幹あるいは左前下行枝, 冠静脈洞の裂傷・裂創あるいは血栓症",
+      "description_en": "Coronary artery laceration or thrombosis to left main, right main or left anterior descending artery ; coronary sinus",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421099.3",
+      "description_ja": "肺動脈 詳細不明 [OIS IV, Vに相当する]",
+      "description_en": "Pulmonary artery NFS [OIS IV, V for entire category]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421002.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421004.3",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421006.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421008.5",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "421009.6",
+      "description_ja": "両側性ᶜ",
+      "description_en": "bilateralᶜ",
+      "severity": 6,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "421499.3",
+      "description_ja": "鎖骨下動脈 詳細不明 [OIS IIIに相当する]",
+      "description_en": "Subclavian artery NFS [OIS III for entire category]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421402.3",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421404.3",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421406.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "421408.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "422099.2",
+      "description_ja": "その他の動脈 例: 気管支動脈, 食道動脈, 肋間動脈, 内胸動脈 詳細不明 [OIS Iに相当する]",
+      "description_en": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category]",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "422002.2",
+      "description_ja": "内膜剥離, 断裂なし",
+      "description_en": "intimal tear, no disruption",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "422004.2",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "422006.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ]
+    },
+    {
+      "code": "422008.3",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を越える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_006.json",
+        "thorax_007.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "420699.3",
+      "description_ja": "腕頭 (無名) 静脈 詳細不明 [すべて OIS II のカテゴリー]",
+      "description_en": "Brachiocephalic (innominate) vein NFS [OIS II for entire category]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "420602.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "420604.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "420606.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "420608.5",
+      "description_ja": "右心系に空気塞栓を伴う",
+      "description_en": "with air embolus right side",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421299.3",
+      "description_ja": "肺静脈 詳細不明 [すべて OIS IV, V のカテゴリー]",
+      "description_en": "Pulmonary vein NFS [OIS IV, V for entire category]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421202.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421204.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421206.5",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421207.6",
+      "description_ja": "両側",
+      "description_en": "bilateral",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421699.3",
+      "description_ja": "鎖骨下静脈 詳細不明 [すべて OIS II のカテゴリー]",
+      "description_en": "Subclavian vein NFS [OIS II for entire category]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421602.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421604.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421606.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421899.3",
+      "description_ja": "上大静脈, 胸腔内下静脈 詳細不明 [すべて OIS IV, V のカテゴリー]",
+      "description_en": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category]",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421802.3",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421804.3",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下 血栓の有無を問わない",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume with or without thrombosis",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421806.4",
+      "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20% を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "421808.5",
+      "description_ja": "右心系に空気塞栓を伴う",
+      "description_en": "with air embolus right side",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "422299.2",
+      "description_ja": "その他の静脈, 例: 奇静脈, 気管支静脈, 食道静脈, 半奇静脈, 肋間静脈, 内頸静脈, 内胸静脈 [すべて OIS I のカテゴリー, 奇静脈と内頸静脈は OIS II]",
+      "description_en": "Other named veins, e.g., azygos, bronchial, esophageal, hemi-azygos, intercostal, internal jugular, internal mammary [OIS I for entire category except azygos and internal jugular, OIS II]",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "422202.2",
+      "description_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "422204.2",
+      "description_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_008.json",
+        "thorax_009.json"
+      ]
+    },
+    {
+      "code": "422206.3",
+      "description_ja": "大；破裂；離断；部分欠損；出血量が全血液量の20% を超える",
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss > 20% by volume",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_010.json",
+        "thorax_011.json"
+      ]
+    },
+    {
+      "code": "430499.1",
+      "description_ja": "迷走神経損傷",
+      "description_en": "Vagus nerve injury",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_012.json",
+        "thorax_013.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440099.9",
+      "description_ja": "気管支損傷 詳細不明",
+      "description_en": "Bronchus injury NFS",
+      "severity": 9,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440199.3",
+      "description_ja": "鎖骨下動脈 詳細不明",
+      "description_en": "Bronchus, main stem, NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440102.3",
+      "description_ja": "挫傷;血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440104.3",
+      "description_ja": "裂傷・裂創;断裂 詳細不明",
+      "description_en": "laceration ; tear NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440106.3",
+      "description_ja": "穿孔なし;非全層性",
+      "description_en": "no perforation ; partial thickness",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440108.4",
+      "description_ja": "穿孔;全層性;\"骨折\"",
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440110.5",
+      "description_ja": "複雑;断裂;破裂;離断;断裂を伴う",
+      "description_en": "complex ; avulsion ; rupture ; transection ; with sepa- ration",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440299.1",
+      "description_ja": "主気管支より末梢の気管支 詳細不明",
+      "description_en": "Bronchus, distal to main stem NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440202.1",
+      "description_ja": "挫傷;血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440204.2",
+      "description_ja": "裂傷・裂創;詳細不明",
+      "description_en": "laceration ; tear NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440206.2",
+      "description_ja": "穿孔なし;非全層性",
+      "description_en": "no perforation ; partial thickness",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440208.3",
+      "description_ja": "穿孔;全層性;\"骨折\"",
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440210.4",
+      "description_ja": "複雑;断裂;破裂;離断;断裂を伴う",
+      "description_en": "complex ; avulsion ; rupture ; transection ; with sepa- ration",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440699.2",
+      "description_ja": "横隔膜 詳細不明",
+      "description_en": "Diaphragm NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440602.2",
+      "description_ja": "挫傷;血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440604.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440606.3",
+      "description_ja": "10cm以下 [OIS II, III]",
+      "description_en": "<=10cm [OIS II, III]",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440608.4",
+      "description_ja": "10cmを超える;広範な組織欠損 [OIS IV, V]",
+      "description_en": ">10cm ; with significant tissue loss [OIS IV, V]",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440610.4",
+      "description_ja": "ヘルニアを伴う破裂",
+      "description_en": "rupture with herniation",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_014.json",
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "440899.2",
+      "description_ja": "胸部食道損傷 詳細不明",
+      "description_en": "Esophagus injury in Thorax NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "440802.2",
+      "description_ja": "挫傷 ; 血腫 [OIS I]",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440805.3",
+      "description_ja": "経口摂取による障害",
+      "description_en": "ingestion injury NFSᵃ",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440807.3",
+      "description_ja": "非全層性壊死ª",
+      "description_en": "partial-thickness necrosisᵃ",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "440809.4",
+      "description_ja": "全層性壊死ª",
+      "description_en": "full-thickness necrosisᵃ",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "440804.3",
+      "description_ja": "裂傷・裂創 ; 詳細不明",
+      "description_en": "laceration; tear NFS; no perforation; partial thickness; ≤50 % circumfer-ence [OIS I, II]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440808.4",
+      "description_ja": "穿孔 ; 全層性 ; 周径の50%を超える [OIS III]",
+      "description_en": "perforation; full thickness; >50% circumference [OIS III]",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440810.5",
+      "description_ja": "剥離 ; 破裂 ; 離断 ; 広範囲損傷 [OIS IV, V]",
+      "description_en": "avulsion; rupture; transection; massive destruction [OIS IV, V]",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441099.1",
+      "description_ja": "心臓 (心筋) 損傷 詳細不明",
+      "description_en": "Heart (Myocardium) injury NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "441089.9",
+      "description_ja": "心停止を伴う 詳細不明f",
+      "description_en": "with cardiac arrest NFSᶠ",
+      "severity": 9,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "441002.1",
+      "description_ja": "挫傷 詳細不明",
+      "description_en": "contusion NFS",
+      "severity": 1,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "441004.1",
+      "description_ja": "小 [OIS I]",
+      "description_en": "minor [OIS I]",
+      "severity": 1,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "441006.4",
+      "description_ja": "大",
+      "description_en": "major",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "441008.3",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "441010.3",
+      "description_ja": "穿孔なし ; 心室・心房損傷なし",
+      "description_en": "no perforation; no chamber involvement",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441012.5",
+      "description_ja": "穿孔 ; 心室・心房の穿孔を認め, タンポナーデの有無 は問わない",
+      "description_en": "perforation, ventricular or atrial, with or without tam-ponade",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441013.5",
+      "description_ja": "心房破裂ª",
+      "description_en": "atrial ruptureᵃ",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441014.6",
+      "description_ja": "心室破裂",
+      "description_en": "ventricular rupture",
+      "severity": 6,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441016.6",
+      "description_ja": "多発裂傷・裂創 ; 心室・心房の50%を超える組織 欠損",
+      "description_en": "multiple lacerations; > 50 % tissue loss of a chamber",
+      "severity": 6,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441018.6",
+      "description_ja": "断裂",
+      "description_en": "avulsion",
+      "severity": 6,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_016.json",
+        "thorax_017.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "440806.3",
+      "description_ja": "穿孔なし ; 非全層性 ; 周径の50%以下 [OIS I, II]",
+      "description_en": null,
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_017.json"
+      ]
+    },
+    {
+      "code": "440400.5",
+      "description_ja": "心筋腱索の裂傷・裂創；破裂",
+      "description_en": "Intracardiac chordae tendineae laceration ; rupture",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441300.5",
+      "description_ja": "心室または心房中隔の裂傷・裂創；破裂",
+      "description_en": "Intracardiac septum laceration ; rupture",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441200.5",
+      "description_ja": "心臓弁の裂傷・裂創；破裂",
+      "description_en": "Intracardiac valve laceration ; rupture",
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441499.3",
+      "description_ja": "肺 詳細不明",
+      "description_en": "Lung NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441420.3",
+      "description_ja": "爆風傷（過度の圧力／爆発）詳細不明ᵃ",
+      "description_en": "blast injury (overpressure/explosive) NFSᵃ",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441422.3",
+      "description_ja": "軽症ᵃ",
+      "description_en": "mildᵃ",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441424.4",
+      "description_ja": "中等症；片側または両側の胸腔内出血を伴うᵃ",
+      "description_en": "moderate ; uni/bilateral with pulmonary peripheral hemorrhageᵃ",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441426.5",
+      "description_ja": "重症；両側の空気塞栓を伴うᵃ",
+      "description_en": "severe ; bilateral with air embolusᵃ",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441402.3",
+      "description_ja": "挫傷 詳細不明",
+      "description_en": "contusion NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441406.2",
+      "description_ja": "片側 詳細不明ᵉ",
+      "description_en": "unilateral NFSᵉ",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441407.2",
+      "description_ja": "小；一葉未満",
+      "description_en": "minor ; <1 lobe",
+      "severity": 2,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441408.3",
+      "description_ja": "大；一葉以上",
+      "description_en": "major ; ≥1 lobe",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441410.3",
+      "description_ja": "両側 詳細不明ᵉ",
+      "description_en": "bilateral NFSᵉ",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441411.3",
+      "description_ja": "小；一葉未満",
+      "description_en": "minor ; <1 lobe",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441412.4",
+      "description_ja": "大；少なくとも一側肺の一葉以上",
+      "description_en": "major ; ≥1 lobe in at least one lung",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441414.3",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441430.3",
+      "description_ja": "片側 詳細不明ᵉ",
+      "description_en": "unilateral NFSᵉ",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441431.3",
+      "description_ja": "小；一葉未満",
+      "description_en": "minor ; <1 lobe",
+      "severity": 3,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441432.4",
+      "description_ja": "大；一葉以上",
+      "description_en": "major ; ≥1 lobe",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441450.4",
+      "description_ja": "両側 詳細不明ᵉ",
+      "description_en": "bilateral NFSᵉ",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441551.4",
+      "description_ja": "小；一葉未満",
+      "description_en": "minor ; <1 lobe",
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json",
+        "thorax_019.json"
+      ]
+    },
+    {
+      "code": "441452.5",
+      "description_ja": null,
+      "description_en": "major ; ≥1 lobe in at least one lung",
+      "severity": 5,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_018.json"
+      ]
+    },
+    {
+      "code": "419200.2",
+      "description_ja": "吸引損傷 詳細不明 (加熱, 粒状物質, 有害物質)",
+      "description_en": "inhalation injury NFS (heat, particulate matter, noxious agents)",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ],
+      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "419201.2",
+      "description_ja": "すすの沈着, 発赤, 浮腫, 気道分泌物, 気管支閉塞の所見がない",
+      "description_en": "absence of carbonaceous deposits, erythema, edema, bronchorrhea, obstruction",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "419202.3",
+      "description_ja": "近位または遠位気管支への軽度または斑状の発赤, 気道分泌物, すすの沈着がある",
+      "description_en": "minor or patchy areas of erythema, bronchorrhea, carbonaceous deposits in proximal or distal bronchi",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "419204.4",
+      "description_ja": "中等度の発赤, すすの沈着, 気道分泌物 (ただし, 気管支損傷の有無を問わない)",
+      "description_en": "moderate degree of erythema, carbonaceous deposits, bronchorrhea with or without compromise of the bronchi",
+      "severity": 4,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "419206.5",
+      "description_ja": "重度の炎症, 多量のすすの沈着, 多量の気道分泌物, 気管支閉塞, 低酸素血症",
+      "description_en": "severe inflammation with friability, copious carbonaceous deposits, bronchorrhea, bronchial obstruction, hypoxemia",
+      "severity": 5,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "419208.6",
+      "description_ja": "粘膜の脱落, 壊死, 内腔の消失",
+      "description_en": "evidence of mucosal sloughing, necrosis, endoluminal obliteration",
+      "severity": 6,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "441699.2",
+      "description_ja": "心膜 (心嚢) 詳細不明",
+      "description_en": "Pericardium NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "441602.2",
+      "description_ja": "裂傷・裂創; 穿刺",
+      "description_en": "laceration ; puncture",
+      "severity": 2,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "441603.3",
+      "description_ja": "心膜 (心嚢) ・心膜血腫 詳細不明",
+      "description_en": "hemopericardium NFS^a",
+      "severity": 3,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "441604.3",
+      "description_ja": "心タンポナーデや心損傷を伴わない",
+      "description_en": "without cardiac tamponade or heart injury^a",
+      "severity": 3,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441605.4",
+      "description_ja": "心損傷を合併しない心タンポナーデ",
+      "description_en": "with cardiac tamponade but without heart injury",
+      "severity": 4,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441606.5",
+      "description_ja": "心嚢からのヘルニア",
+      "description_en": "herniation of heart through pericardium",
+      "severity": 5,
+      "level": 3,
+      "collision": true,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ],
+      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "441800.2",
+      "description_ja": "胸膜 裂傷・裂創",
+      "description_en": "Pleura laceration",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_022.json",
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "442999.9",
+      "description_ja": "胸部損傷 詳細不明",
+      "description_en": "Thoracic injury NFS",
+      "severity": 9,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442200.3",
+      "description_ja": "血胸 詳細不明",
+      "description_en": "Hemothorax NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442201.4",
+      "description_ja": "大：少なくとも片側で1000mlを超える出血",
+      "description_en": "major ; >1000cc blood loss on at least one side",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442202.2",
+      "description_ja": "気胸 詳細不明",
+      "description_en": "Pneumothorax NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442203.4",
+      "description_ja": "大：X線検査で50%を超える肺の虚脱；持続する空気漏れ",
+      "description_en": "major ; >50% collapse of lung documented on xray ; persistent air leak",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442204.5",
+      "description_ja": "緊張性；大量の空気漏れ",
+      "description_en": "tension ; massive air leak",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442205.3",
+      "description_ja": "血気胸 詳細不明",
+      "description_en": "Hemopneumothorax NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442206.4",
+      "description_ja": "大：少なくとも片側に1000mlを超える出血",
+      "description_en": "major ; >1000cc blood loss on at least one side",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442207.5",
+      "description_ja": "空気塞栓",
+      "description_en": "Air Embolus",
+      "severity": 5,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442208.2",
+      "description_ja": "縦隔血腫",
+      "description_en": "Hemomediastinum",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442209.2",
+      "description_ja": "縦隔気腫",
+      "description_en": "Pneumomediastinum",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442210.3",
+      "description_ja": "心タンポナーデを伴う",
+      "description_en": "with cardiac tamponade",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442402.2",
+      "description_ja": "胸管 裂傷・裂創",
+      "description_en": "Thoracic duct laceration",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442502.2",
+      "description_ja": "胸腺 裂傷・裂創；穿孔",
+      "description_en": "Thymus laceration ; perforation",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442699.3",
+      "description_ja": "胸部気管損傷 詳細不明",
+      "description_en": "Trachea injury in Thorax NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442602.3",
+      "description_ja": "挫傷；血腫",
+      "description_en": "contusion ; hematoma",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442604.3",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": "laceration NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442606.3",
+      "description_ja": "穿孔なし；非全層性",
+      "description_en": "no perforation ; partial thickness",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442608.4",
+      "description_ja": "穿孔；全層性；“骨折”",
+      "description_en": "perforation ; full thickness ; \"fracture\"",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "442610.5",
+      "description_ja": "断裂；破裂；離断；広範な破壊；粉砕；咽頭と気管の分離",
+      "description_en": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_024.json",
+        "thorax_025.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450299.1",
+      "description_ja": "肋骨 詳細不明",
+      "description_en": "Rib Cage NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450289.1",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450210.2",
+      "description_ja": "多発肋骨骨折 詳細不明",
+      "description_en": "multiple rib fractures NFS",
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450200.1",
+      "description_ja": "フレイルチェストを伴わない骨折, 片側または両側 詳細不明",
+      "description_en": "fracture(s) without flail, any location unilateral or bilateral NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450201.1",
+      "description_ja": "1本の肋骨 [OIS I]",
+      "description_en": "one rib [OIS I]",
+      "severity": 1,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450202.2",
+      "description_ja": "2本の肋骨 [OIS II]",
+      "description_en": "two ribs [OIS I]",
+      "severity": 2,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450203.3",
+      "description_ja": "3本以上の肋骨 [OIS III]",
+      "description_en": "≥3 ribs [OIS II]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450209.3",
+      "description_ja": "フレイルチェストを伴う骨折 詳細不明",
+      "description_en": "fractures with flail, NFS",
+      "severity": 3,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450211.3",
+      "description_ja": "片側性フレイルチェスト [OIS IV]",
+      "description_en": "unilateral flail chest NFS [OIS IV]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450212.3",
+      "description_ja": "3～5本の動揺性骨折 [OIS IV]",
+      "description_en": "3-5 flail ribs [OIS IV]",
+      "severity": 3,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450213.4",
+      "description_ja": "5本を超える動揺性骨折 [OIS IV]",
+      "description_en": ">5 flail ribs [OIS IV]",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450214.5",
+      "description_ja": "両側のフレイルチェスト [OIS V]",
+      "description_en": "bilateral flail chest [OIS V]",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450899.1",
+      "description_ja": "胸骨 詳細不明",
+      "description_en": "Sternum NFS",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450802.1",
+      "description_ja": "挫傷",
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450804.2",
+      "description_ja": "骨折 [OIS II, III]",
+      "description_en": "fracture [OIS II, III]",
+      "severity": 2,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "451099.1",
+      "description_ja": "胸壁 詳細不明ª",
+      "description_en": "Thoracic Wall NFSª",
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "451020.4",
+      "description_ja": "肋骨を含む胸壁の組織欠損 [OIS IVに相当する]ª",
+      "description_en": "avulsion of chest wall tissues including rib cage [OIS IV for entire category]ª",
+      "severity": 4,
+      "level": 1,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "451021.4",
+      "description_ja": "小: 肋骨を含む胸壁15%以下の欠損ª",
+      "description_en": "minor ; ≤15% of chest wall including rib cageª",
+      "severity": 4,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "451022.5",
+      "description_ja": "大: 肋骨を含む胸壁15%を超える欠損ª",
+      "description_en": "major ; >15% of chest wall including rib cageª",
+      "severity": 5,
+      "level": 2,
+      "collision": true,
+      "source_files": [
+        "thorax_026.json",
+        "thorax_027.json"
+      ],
+      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+    },
+    {
+      "code": "450202.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450212.1",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 1,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450220.2",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 2,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450230.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450260.3",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 3,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "450266.5",
+      "description_ja": null,
+      "description_en": null,
+      "severity": 5,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_027.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "NERVES",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_012.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "内臓",
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "主気管支より末梢の気管支",
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "横隔膜",
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_015.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Superior Lobe",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Superior division (culmen)",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Apico-posterior",
+      "severity": 0,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Anterior",
+      "severity": 0,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Lingular division",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Superior",
+      "severity": 0,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Inferior",
+      "severity": 0,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Inferior Lobe",
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Superior",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Anteromedial basal",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Lateral basal",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": null,
+      "description_en": "Posterior basal",
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_020.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "肺 (続き)",
+      "description_en": null,
+      "severity": 0,
+      "level": 1,
+      "collision": false,
+      "source_files": [
+        "thorax_023.json"
+      ]
+    },
+    {
+      "code": "",
+      "description_ja": "下記の外傷記述においていずれか1つ以上の状態があれば選択する。",
+      "description_en": null,
+      "severity": 0,
+      "level": 2,
+      "collision": false,
+      "source_files": [
+        "thorax_023.json"
+      ]
+    }
+  ]
+}

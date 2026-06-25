@@ -1,0 +1,137 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "spine",
+  "section_title": "腰 椎",
+  "entries": [
+    {
+      "code": "630099.9",
+      "description_ja": "腰椎損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "630999.9",
+      "description_ja": "腰椎損傷による死亡 (詳細不明) または剖検なし",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "630600.3",
+      "description_ja": "馬尾挫傷 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630602.3",
+      "description_ja": "一過性の神経症状 (知覚異常) を伴う 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630604.3",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630606.3",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630608.3",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630610.3",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630620.3",
+      "description_ja": "不完全馬尾症候群 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630622.3",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630624.3",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630626.3",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630628.3",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630630.4",
+      "description_ja": "完全馬尾症候群 骨折・脱臼については不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "630632.4",
+      "description_ja": "骨折や脱臼を伴わない",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "630634.4",
+      "description_ja": "骨折を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "630636.4",
+      "description_ja": "脱臼を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "630638.4",
+      "description_ja": "骨折かつ脱臼を伴う",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_021.jpg",
+  "body_part_normalized": "spine"
+}

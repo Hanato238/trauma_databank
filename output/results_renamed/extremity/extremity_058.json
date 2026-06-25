@@ -1,0 +1,186 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "840099.9",
+      "description_ja": "筋肉, 腱, 靭帯の損傷 詳細不明ᵇ",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "840200.2",
+      "description_ja": "アキレス腱 断裂;剥離 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840202.2",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840204.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840400.2",
+      "description_ja": "側副靭帯 断裂;剥離 詳細不明ᶠ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": "足関節部",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "840402.2",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "840403.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": null,
+      "description_ja": "膝部",
+      "description_en": null,
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "840404.2",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "840407.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "840500.2",
+      "description_ja": "十字靭帯 [前十字靭帯または後十字靭帯] 断裂;剥離 詳細不明ᶠ",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840501.2",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840502.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840300.2",
+      "description_ja": "半月板断裂;剥離 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840600.1",
+      "description_ja": "筋肉断裂;剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "840601.1",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "840603.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840602.1",
+      "description_ja": "挫傷;ストレイン (部分的な過伸展損傷)",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "840800.2",
+      "description_ja": "腱 [アキレス腱または膝蓋腱以外] 断裂;剥離",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "840801.2",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "840802.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "841000.2",
+      "description_ja": "膝蓋腱断裂;剥離",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "841001.2",
+      "description_ja": "部分断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "841002.2",
+      "description_ja": "完全断裂",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_058.jpg",
+  "body_part_normalized": "extremity"
+}

@@ -1,0 +1,46 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "face",
+  "section_title": "FACE (includes Eye and Ear)",
+  "entries": [
+    {
+      "code": "250800.2",
+      "description_ja": null,
+      "description_en": "Maxilla fracture [including maxillary sinus]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "250804.2",
+      "description_ja": null,
+      "description_en": "LeFort I",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "250806.2",
+      "description_ja": null,
+      "description_en": "LeFort II",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "250808.3",
+      "description_ja": null,
+      "description_en": "LeFort III",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "250810.4",
+      "description_ja": null,
+      "description_en": "blood loss >20% by volume",
+      "severity": 4,
+      "level": 1
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_018.jpg",
+  "body_part_normalized": "face"
+}

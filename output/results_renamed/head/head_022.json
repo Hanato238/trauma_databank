@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140299.5",
+      "description_ja": null,
+      "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140202.5",
+      "description_ja": null,
+      "description_en": "compression [includes transtentorial (uncal) or cerebellar tonsillar herniation]",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140204.5",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140208.5",
+      "description_ja": null,
+      "description_en": "infarction",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140210.5",
+      "description_ja": null,
+      "description_en": "injury involving hemorrhage",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140212.6",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "140214.6",
+      "description_ja": null,
+      "description_en": "massive destruction (crush-type injury)",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "140216.6",
+      "description_ja": null,
+      "description_en": "penetrating injury",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "140218.6",
+      "description_ja": null,
+      "description_en": "transection",
+      "severity": 6,
+      "level": 2
+    },
+    {
+      "code": "140499.3",
+      "description_ja": null,
+      "description_en": "Cerebellum NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140402.3",
+      "description_ja": null,
+      "description_en": "contusion, single or multiple, NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140407.2",
+      "description_ja": null,
+      "description_en": "tiny ; < 1cm diameter",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140403.3",
+      "description_ja": null,
+      "description_en": "small ; superficial ; ≤15cc ; 1-3cm diameter",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "140404.4",
+      "description_ja": null,
+      "description_en": "large ; 15-30cc ; >3cm diameter",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140405.5",
+      "description_ja": null,
+      "description_en": "extensive ; massive ; total volume >30cc",
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_022.jpg",
+  "body_part_normalized": "head"
+}

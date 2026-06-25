@@ -1,0 +1,165 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "854441.2",
+      "description_ja": "腓骨 [足関節果部] 骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "854442.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854453.2",
+      "description_ja": "足関節の下方 (靱帯結合部の下方); 外果単独; Weber A 型",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854454.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854455.2",
+      "description_ja": "外果および内果 (両果)",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854456.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "854461.2",
+      "description_ja": "足関節部 (靱帯結合部レベル); Weber B 型",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854462.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854463.2",
+      "description_ja": "外果および内果 (両果)",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854464.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "854465.2",
+      "description_ja": "三果",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854466.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "854471.2",
+      "description_ja": "足関節の上方 (靱帯結合部の上方); 骨幹部単独, 骨頭または頸部; Weber C 型",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854472.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854500.2",
+      "description_ja": "膝蓋骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "854501.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854551.2",
+      "description_ja": "関節外",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854552.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854561.2",
+      "description_ja": "部分関節内または膝伸展機構損傷を伴わない",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854562.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "854571.2",
+      "description_ja": "完全関節内または膝伸展機構損傷を伴う",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "854572.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_080.jpg",
+  "body_part_normalized": "extremity"
+}

@@ -1,0 +1,60 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上肢",
+  "entries": [
+    {
+      "code": "750099.9",
+      "description_ja": "上肢の骨折 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "751800.2",
+      "description_ja": "上腕の骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751801.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751900.2",
+      "description_ja": "前腕の骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "751901.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752000.2",
+      "description_ja": "手の骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752001.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_021.jpg",
+  "body_part_normalized": "extremity"
+}

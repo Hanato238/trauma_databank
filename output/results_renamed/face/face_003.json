@@ -1,0 +1,60 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "face",
+  "section_title": "顔面 (目と耳を含む)",
+  "entries": [
+    {
+      "code": "200099.9",
+      "description_ja": "顔面損傷 詳細不明",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "200999.9",
+      "description_ja": "他の明らかな損傷がないか、遺体解剖で特別な損傷がない 顔面外傷の死亡例",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    },
+    {
+      "code": "216000.1",
+      "description_ja": "穿通性損傷 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "216002.1",
+      "description_ja": "小；表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "216004.2",
+      "description_ja": "組織欠損が25cm²を超える",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "216006.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "216008.4",
+      "description_ja": "両眼を含んだ顔面全体の広範な高度損傷ᵃ",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    }
+  ],
+  "source_dir": "02_face",
+  "source_file": "face_003.jpg",
+  "body_part_normalized": "face"
+}

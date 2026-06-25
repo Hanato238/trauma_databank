@@ -1,0 +1,158 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "neck",
+  "section_title": "NECK",
+  "entries": [
+    {
+      "code": "320499.2",
+      "description_ja": null,
+      "description_en": "Carotid artery [external] NFS [includes thyroid]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "320402.2",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "320404.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "320406.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss <=20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "320408.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "320410.2",
+      "description_ja": null,
+      "description_en": "with thrombosis ; (occlusion) secondary to trauma",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "320412.2",
+      "description_ja": null,
+      "description_en": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "321099.2",
+      "description_ja": null,
+      "description_en": "Vertebral artery NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "321002.2",
+      "description_ja": null,
+      "description_en": "intimal tear, no disruption",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "321004.3",
+      "description_ja": null,
+      "description_en": "neurological deficit (stroke) not head-injury related",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "321006.2",
+      "description_ja": null,
+      "description_en": "laceration ; perforation ; puncture NFS",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "321008.2",
+      "description_ja": null,
+      "description_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss <=20% by volume",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "321010.3",
+      "description_ja": null,
+      "description_en": "neurological deficit (stroke) not head-injury related",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "321012.3",
+      "description_ja": null,
+      "description_en": "major ; rupture ; transection ; blood loss > 20 % by volume",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "321014.4",
+      "description_ja": null,
+      "description_en": "neurological deficit (stroke) not head-injury related",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "321015.5",
+      "description_ja": null,
+      "description_en": "neurological deficit (stroke) not head-injury related, bilateral",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "321016.4",
+      "description_ja": null,
+      "description_en": "with thrombosis (occlusion) secondary to trauma",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "321017.5",
+      "description_ja": null,
+      "description_en": "with thrombosis (occlusion) secondary to trauma, bilateral",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "321018.3",
+      "description_ja": null,
+      "description_en": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "321020.4",
+      "description_ja": null,
+      "description_en": "neurological deficit (stroke) not head-injury related",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "321021.5",
+      "description_ja": null,
+      "description_en": "neurological deficit (stroke) not head-injury related, bilateral",
+      "severity": 5,
+      "level": 2
+    }
+  ],
+  "source_dir": "03_neck",
+  "source_file": "neck_006.jpg",
+  "body_part_normalized": "neck"
+}

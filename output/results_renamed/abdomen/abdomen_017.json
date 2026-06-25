@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "abdomen",
+  "section_title": "腹部",
+  "entries": [
+    {
+      "code": "541299.2",
+      "description_ja": "胆嚢 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541210.2",
+      "description_ja": "挫傷; 血腫 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541220.2",
+      "description_ja": "裂傷・裂創; 穿孔 詳細不明 [OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541222.2",
+      "description_ja": "小; 表在性; 胆嚢管の損傷なし [OIS II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "541224.3",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損; 胆嚢管の裂傷 または断裂 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "541226.4",
+      "description_ja": "総胆管または肝管の裂傷・裂創または断裂を伴う [OIS IV, V]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "541499.2",
+      "description_ja": "空腸-回腸 (小腸) 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "541410.2",
+      "description_ja": "挫傷; 血腫 [OIS I]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541420.2",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "541422.2",
+      "description_ja": "穿孔なし; 非全層性; 周径の50%未満 [OIS I, II]",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "541424.3",
+      "description_ja": "穿孔あり; 全層性; 周径の50%以上だが断裂には至らない; 多数の単純裂傷 [OIS III]",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "541426.4",
+      "description_ja": "広範囲; 断裂; 複雑; 組織欠損; 断裂; 広範囲の組織壊死または血行遮断 [OIS IV, V]",
+      "description_en": null,
+      "severity": 4,
+      "level": 3
+    }
+  ],
+  "source_dir": "05_abdomen",
+  "source_file": "abdomen_017.jpg",
+  "body_part_normalized": "abdomen"
+}

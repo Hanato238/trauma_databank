@@ -1,0 +1,95 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "856100.2",
+      "description_ja": "骨盤輪骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856101.3",
+      "description_ja": "開放 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856151.2",
+      "description_ja": "骨盤輪骨折, 後方弓にかからないもの; 骨盤弓連続性が破綻していない単独の骨折",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "856152.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856161.3",
+      "description_ja": "骨盤輪骨折, 後方弓の不完全破綻 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "856162.4",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856163.4",
+      "description_ja": "出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856164.5",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "856171.4",
+      "description_ja": "骨盤輪骨折, 後方弓と骨盤底の完全破綻 詳細不明",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856172.4",
+      "description_ja": "出血量が全血液量の20%以下",
+      "description_en": null,
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "856173.5",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "856174.5",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 5,
+      "level": 1
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_096.jpg",
+  "body_part_normalized": "extremity"
+}

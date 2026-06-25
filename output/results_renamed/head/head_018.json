@@ -1,0 +1,102 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "132099.2",
+      "description_ja": null,
+      "description_en": "IX (Glossopharyngeal nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "132002.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132004.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132299.2",
+      "description_ja": null,
+      "description_en": "X (Vagus nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "[excludes injury in neck, thorax or abdomen]",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "132202.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132204.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132499.2",
+      "description_ja": null,
+      "description_en": "XI (Spinal accessory nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "132402.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132404.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132699.2",
+      "description_ja": null,
+      "description_en": "XII (Hypoglossal nerve) NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "132602.2",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "132604.2",
+      "description_ja": null,
+      "description_en": "laceration",
+      "severity": 2,
+      "level": 2
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_018.jpg",
+  "body_part_normalized": "head"
+}

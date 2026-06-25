@@ -1,0 +1,39 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "surface",
+  "section_title": "EXTERNAL (Skin) and THERMAL INJURIES",
+  "entries": [
+    {
+      "code": "912002.1",
+      "description_ja": null,
+      "description_en": "1st degree burns",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912006.1",
+      "description_ja": null,
+      "description_en": "2nd degree burns",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "912008.2",
+      "description_ja": null,
+      "description_en": "3rd degree burns",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "912018.3",
+      "description_ja": null,
+      "description_en": "combined 2nd and 3rd degree burns",
+      "severity": 3,
+      "level": 1
+    }
+  ],
+  "source_dir": "08_other",
+  "source_file": "other_004.jpg",
+  "body_part_normalized": "other"
+}

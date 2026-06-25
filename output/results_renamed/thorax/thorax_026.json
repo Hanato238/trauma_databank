@@ -1,0 +1,144 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "thorax",
+  "section_title": "THORAX",
+  "entries": [
+    {
+      "code": "450299.1",
+      "description_ja": null,
+      "description_en": "Rib Cage NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450289.1",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "450210.2",
+      "description_ja": null,
+      "description_en": "multiple rib fractures NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "450200.1",
+      "description_ja": null,
+      "description_en": "fracture(s) without flail, any location unilateral or bilateral NFS",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "450201.1",
+      "description_ja": null,
+      "description_en": "one rib [OIS I]",
+      "severity": 1,
+      "level": 3
+    },
+    {
+      "code": "450202.2",
+      "description_ja": null,
+      "description_en": "two ribs [OIS I]",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "450203.3",
+      "description_ja": null,
+      "description_en": "≥3 ribs [OIS II]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "450209.3",
+      "description_ja": null,
+      "description_en": "fractures with flail, NFS",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "450211.3",
+      "description_ja": null,
+      "description_en": "unilateral flail chest NFS [OIS IV]",
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "450212.3",
+      "description_ja": null,
+      "description_en": "3-5 flail ribs [OIS IV]",
+      "severity": 3,
+      "level": 4
+    },
+    {
+      "code": "450213.4",
+      "description_ja": null,
+      "description_en": ">5 flail ribs [OIS IV]",
+      "severity": 4,
+      "level": 4
+    },
+    {
+      "code": "450214.5",
+      "description_ja": null,
+      "description_en": "bilateral flail chest [OIS V]",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "450899.1",
+      "description_ja": null,
+      "description_en": "Sternum NFS",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "450802.1",
+      "description_ja": null,
+      "description_en": "contusion",
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "450804.2",
+      "description_ja": null,
+      "description_en": "fracture [OIS II, III]",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "451099.1",
+      "description_ja": null,
+      "description_en": "Thoracic Wall NFSª",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "451020.4",
+      "description_ja": null,
+      "description_en": "avulsion of chest wall tissues including rib cage [OIS IV for entire category]ª",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "451021.4",
+      "description_ja": null,
+      "description_en": "minor ; ≤15% of chest wall including rib cageª",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "451022.5",
+      "description_ja": null,
+      "description_en": "major ; >15% of chest wall including rib cageª",
+      "severity": 5,
+      "level": 3
+    }
+  ],
+  "source_dir": "04_thorax",
+  "source_file": "thorax_026.jpg",
+  "body_part_normalized": "thorax"
+}

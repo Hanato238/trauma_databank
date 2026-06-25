@@ -1,0 +1,130 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "head",
+  "section_title": "HEAD (cranium and brain)",
+  "entries": [
+    {
+      "code": "140638.3",
+      "description_ja": null,
+      "description_en": "intracerebral NFS [include perilesional edema for size]",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140639.2",
+      "description_ja": null,
+      "description_en": "tiny ; single or multiple <1cm diameterᵃ",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140642.2",
+      "description_ja": null,
+      "description_en": "petechial hemorrhage (s) [includes radio-graphic “shearing” lesions]ᵉ",
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "140643.2",
+      "description_ja": null,
+      "description_en": "not associated with coma >6 hours",
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "140645.4",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140640.4",
+      "description_ja": null,
+      "description_en": "small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ",
+      "severity": 4,
+      "level": 1
+    },
+    {
+      "code": "140647.3",
+      "description_ja": null,
+      "description_en": "not associated with coma >6 hours",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140649.4",
+      "description_ja": null,
+      "description_en": "associated with coma >6 hours",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140646.5",
+      "description_ja": null,
+      "description_en": "bilateral",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140648.5",
+      "description_ja": null,
+      "description_en": "large ; >30cc or >15cc if ≤age 10 ; >4cm or >1cm diameter if ≤age 10",
+      "severity": 5,
+      "level": 1
+    },
+    {
+      "code": "140641.5",
+      "description_ja": null,
+      "description_en": "bilateral [each >4cm]ᶜ",
+      "severity": 5,
+      "level": 2
+    },
+    {
+      "code": "140650.3",
+      "description_ja": null,
+      "description_en": "subdural NFS",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "140651.3",
+      "description_ja": null,
+      "description_en": "tiny ; <0.6cm thick [includes tentorial (subdural) blood one or both sides]ᵃ",
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "140652.4",
+      "description_ja": null,
+      "description_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+      "severity": 4,
+      "level": 2
+    },
+    {
+      "code": "140654.4",
+      "description_ja": null,
+      "description_en": "bilateral [both sides 0.6-1cm thick]",
+      "severity": 4,
+      "level": 3
+    },
+    {
+      "code": "140656.5",
+      "description_ja": null,
+      "description_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+      "severity": 5,
+      "level": 3
+    },
+    {
+      "code": "140655.5",
+      "description_ja": null,
+      "description_en": "bilateral [at least one side >1cm thick]ᶜ",
+      "severity": 5,
+      "level": 4
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_032.jpg",
+  "body_part_normalized": "head"
+}

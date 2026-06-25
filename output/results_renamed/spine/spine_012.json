@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "en",
+  "body_part": "spine",
+  "section_title": "CERVICAL SPINE",
+  "entries": [
+    {
+      "code": "650216.2",
+      "description_ja": null,
+      "description_en": "Fracture with or without dislocation but no cord involvement NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Code each vertebra separately. Note instructions at lamina, pedicle and vertebral body for coding fractures of the atlas (C1).",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "650217.2",
+      "description_ja": null,
+      "description_en": "multiple fractures of same vertebra^a",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "Exceptions : odontoid or major compression fracture which are coded additionally.",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "650218.2",
+      "description_ja": null,
+      "description_en": "spinous process",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650220.2",
+      "description_ja": null,
+      "description_en": "transverse process",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650222.2",
+      "description_ja": null,
+      "description_en": "facet",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650224.2",
+      "description_ja": null,
+      "description_en": "lamina",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "code C1 posterior arch here",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "650226.2",
+      "description_ja": null,
+      "description_en": "pedicle",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "code C1 lateral mass here",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "650228.3",
+      "description_ja": null,
+      "description_en": "odontoid (dens)",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "650230.2",
+      "description_ja": null,
+      "description_en": "vertebral body NFS [\"burst\" fracture]",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": null,
+      "description_ja": null,
+      "description_en": "code C1 anterior arch here",
+      "severity": 0,
+      "level": 2
+    },
+    {
+      "code": "650232.2",
+      "description_ja": null,
+      "description_en": "minor compression (<=20% loss of anterior height)",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "650234.3",
+      "description_ja": null,
+      "description_en": "major compression (>20% loss of anterior height)",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "640284.1",
+      "description_ja": null,
+      "description_en": "Spinous ligament injury",
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "630260.2",
+      "description_ja": null,
+      "description_en": "Nerve root, single or multiple NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630202.2",
+      "description_ja": null,
+      "description_en": "contusion : stretch injury",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630204.2",
+      "description_ja": null,
+      "description_en": "laceration NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630206.2",
+      "description_ja": null,
+      "description_en": "single nerve root",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630208.3",
+      "description_ja": null,
+      "description_en": "multiple nerve roots",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "630262.2",
+      "description_ja": null,
+      "description_en": "avulsion NFS",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630264.2",
+      "description_ja": null,
+      "description_en": "single nerve root",
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "630266.3",
+      "description_ja": null,
+      "description_en": "multiple nerve roots",
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "640278.1",
+      "description_ja": null,
+      "description_en": "Strain, acute, with no fracture or dislocation",
+      "severity": 1,
+      "level": 1
+    }
+  ],
+  "source_dir": "06_spine",
+  "source_file": "spine_012.jpg",
+  "body_part_normalized": "spine"
+}

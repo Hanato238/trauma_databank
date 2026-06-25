@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "上肢",
+  "entries": [
+    {
+      "code": "752400.2",
+      "description_ja": "手根骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752401.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752451.2",
+      "description_ja": "舟状骨のみ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752452.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752461.2",
+      "description_ja": "舟状骨以外",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752462.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752471.2",
+      "description_ja": "2つ以上の手根骨",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752472.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752500.2",
+      "description_ja": "中手骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "752501.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752511.2",
+      "description_ja": "母指 (第1指)",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752512.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752551.2",
+      "description_ja": "関節外または骨幹部",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752552.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752561.2",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752562.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752571.2",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752572.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752521.2",
+      "description_ja": "第2～5指の1つ",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "752522.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752553.2",
+      "description_ja": "関節外または骨幹部",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752554.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752563.2",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752564.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "752573.2",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "752574.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_039.jpg",
+  "body_part_normalized": "extremity"
+}

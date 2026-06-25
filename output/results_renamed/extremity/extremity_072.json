@@ -1,0 +1,193 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "853000.3",
+      "description_ja": "大腿骨骨折 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "853001.3",
+      "description_ja": "開放　詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853111.3",
+      "description_ja": "近位部骨折 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "853112.3",
+      "description_ja": "開放　詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853151.3",
+      "description_ja": "転子部；転子間",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853152.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853161.3",
+      "description_ja": "大腿骨頸部",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853162.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853171.3",
+      "description_ja": "大腿骨骨頭；Pipkin (ピプキン) 分類",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853172.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853221.3",
+      "description_ja": "骨幹部骨折 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "853222.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853251.3",
+      "description_ja": "単純；螺旋；斜走；横断；Winquist (ウィンクイスト) Ⅰ型",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853252.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853261.3",
+      "description_ja": "楔状；\"蝶形\"；Winquist ⅡまたはⅢ型",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853262.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853271.3",
+      "description_ja": "複雑；粉砕；分節；Winquist Ⅳ型",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853272.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853331.3",
+      "description_ja": "遠位部骨折 詳細不明",
+      "description_en": null,
+      "severity": 3,
+      "level": 1
+    },
+    {
+      "code": "853332.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853351.3",
+      "description_ja": "関節外；顆上",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853352.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853361.3",
+      "description_ja": "部分関節内；顆部；Hoffa (ホッファ) 骨折",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853362.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    },
+    {
+      "code": "853371.3",
+      "description_ja": "完全関節内；両顆；T 字形；Y 字形",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "853372.3",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 3,
+      "level": 3
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_072.jpg",
+  "body_part_normalized": "extremity"
+}

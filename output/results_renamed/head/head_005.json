@@ -1,0 +1,116 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "head",
+  "section_title": "頭部 (頭蓋と脳)",
+  "entries": [
+    {
+      "code": "110099.1",
+      "description_ja": "頭皮 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110202.1",
+      "description_ja": "擦過傷",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "110402.1",
+      "description_ja": "挫傷: 6ヵ月を超える乳児では帽状腱膜下血腫",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "110403.2",
+      "description_ja": "6ヵ月以下の乳児では帽状腱膜下血腫",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "110404.3",
+      "description_ja": "出血量が全血液量の20%を超えるᵃ",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "110600.1",
+      "description_ja": "裂傷・裂創 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110602.1",
+      "description_ja": "小; 表在性",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "110604.2",
+      "description_ja": "大; 長さが10cmを超え, かつ皮下組織まで達する",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "110606.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "110800.1",
+      "description_ja": "剥離 詳細不明",
+      "description_en": null,
+      "severity": 1,
+      "level": 1
+    },
+    {
+      "code": "110802.1",
+      "description_ja": "表在性; 100cm²以下の組織欠損",
+      "description_en": null,
+      "severity": 1,
+      "level": 2
+    },
+    {
+      "code": "110804.2",
+      "description_ja": "大; 100cm²を超える組織欠損",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "110806.3",
+      "description_ja": "出血量が全血液量の20%を超える",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "110808.3",
+      "description_ja": "全頭皮剥離",
+      "description_en": null,
+      "severity": 3,
+      "level": 2
+    },
+    {
+      "code": "120099.9",
+      "description_ja": "頭部内血管損傷 詳細不明ᶠ",
+      "description_en": null,
+      "severity": 9,
+      "level": 1
+    }
+  ],
+  "source_dir": "01_head",
+  "source_file": "head_005.jpg",
+  "body_part_normalized": "head"
+}

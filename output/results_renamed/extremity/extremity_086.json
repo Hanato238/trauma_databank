@@ -1,0 +1,249 @@
+{
+  "page_type": "code",
+  "lang": "ja",
+  "body_part": "extremity",
+  "section_title": "下肢・骨盤・殿部",
+  "entries": [
+    {
+      "code": "857600.2",
+      "description_ja": "立方骨骨折 詳細不明bb",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "857601.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857651.2",
+      "description_ja": "関節外 [冠状の体部の骨折, 関節にかからない]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857652.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857661.2",
+      "description_ja": "骨折が1つの関節面に及ぶもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857662.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857671.2",
+      "description_ja": "骨折が2つ以上の関節面に及ぶもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857672.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857500.2",
+      "description_ja": "楔状骨骨折 詳細不明bb",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "857501.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857551.2",
+      "description_ja": "関節外 [冠状の体部の骨折, 関節にかからない]",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857552.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857561.2",
+      "description_ja": "骨折が1つの関節面に及ぶもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857562.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "857571.2",
+      "description_ja": "骨折が2つ以上の関節面に及ぶもの",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "857572.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858100.2",
+      "description_ja": "中足骨骨折 詳細不明bb",
+      "description_en": null,
+      "severity": 2,
+      "level": 1
+    },
+    {
+      "code": "858101.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858111.2",
+      "description_ja": "第1中足骨 骨折 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858112.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858151.2",
+      "description_ja": "関節外または体部",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858152.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "858161.2",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858162.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "858171.2",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858172.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "858121.2",
+      "description_ja": "第2~5中足骨の1つ 詳細不明",
+      "description_en": null,
+      "severity": 2,
+      "level": 2
+    },
+    {
+      "code": "858122.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858153.2",
+      "description_ja": "関節外または体部",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858154.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "858163.2",
+      "description_ja": "部分関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858164.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    },
+    {
+      "code": "858173.2",
+      "description_ja": "完全関節内",
+      "description_en": null,
+      "severity": 2,
+      "level": 3
+    },
+    {
+      "code": "858174.2",
+      "description_ja": "開放",
+      "description_en": null,
+      "severity": 2,
+      "level": 4
+    }
+  ],
+  "source_dir": "07_extremity",
+  "source_file": "extremity_086.jpg",
+  "body_part_normalized": "extremity"
+}
