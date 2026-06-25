@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 load_dotenv(Path(__file__).parent / ".env")        # scripts/.env（開発時）
 load_dotenv(Path(__file__).parent.parent / ".env") # プロジェクトルートの .env
 
-DATA_JSON_DIR = Path(__file__).parent.parent / "output" / "codebook" / "json"
+DATA_JSON_DIR = Path(__file__).parent.parent / "output" / "codebook_v2" / "json"
 PATIENTS_DIR  = Path(__file__).parent.parent / "output" / "patients"
 SESSIONS_DIR  = Path(__file__).parent.parent / "output" / "sessions"
 GEMINI_MD     = Path(__file__).parent.parent / "GEMINI.md"
@@ -116,11 +116,11 @@ _INJURY_TYPE_QUERY: dict[str, list[str]] = {
 
 # Stage 2: フィールド重み
 _FIELD_WEIGHTS: dict[str, float] = {
-    "japanese":       3.0,
-    "english":        2.0,
+    "title_ja":       3.0,
+    "title_en":       2.0,
     "section":        1.0,
-    "explanation_ja": 0.5,
-    "explanation_en": 0.5,
+    "description_ja": 0.5,
+    "description_en": 0.5,
 }
 
 _TYPE_MATCH_BONUS   = 2.0  # 損傷形態一致時のスコア倍率
@@ -143,8 +143,8 @@ def build_idf_index(codebook: dict) -> dict[str, float]:
 def _entry_terms(e: dict) -> set[str]:
     """エントリからIDF計算用term集合を抽出"""
     terms: set[str] = set()
-    ja = e.get("japanese") or ""
-    en = (e.get("english") or "").lower()
+    ja = e.get("title_ja") or ""
+    en = (e.get("title_en") or "").lower()
     terms.update(ja[i:i+2] for i in range(len(ja) - 1))
     terms.update(w for w in en.split() if len(w) >= 2)
     terms.update(en[i:i+2] for i in range(len(en) - 1))
@@ -175,11 +175,11 @@ def _score_entry(
     """1エントリのIDF重み付き多フィールドスコアを計算する（Stage 2）"""
     score = 0.0
     field_texts: dict[str, str] = {
-        "japanese":       entry.get("japanese") or "",
-        "english":        (entry.get("english") or "").lower(),
+        "title_ja":       entry.get("title_ja") or "",
+        "title_en":       (entry.get("title_en") or "").lower(),
         "section":        (entry.get("section") or "").lower(),
-        "explanation_ja": entry.get("explanation_ja") or "",
-        "explanation_en": (entry.get("explanation_en") or "").lower(),
+        "description_ja": entry.get("description_ja") or "",
+        "description_en": (entry.get("description_en") or "").lower(),
     }
     for field, text in field_texts.items():
         w = _FIELD_WEIGHTS[field]
@@ -264,8 +264,8 @@ def build_ais_context(
         lines.append("-------|--------|---------|----------")
         for e in filtered:
             lines.append(
-                f"{e.get('code','')} | {e.get('japanese','')} | "
-                f"{e.get('english','')} | {e.get('ais_severity','')}"
+                f"{e.get('code','')} | {e.get('title_ja','')} | "
+                f"{e.get('title_en','')} | {e.get('ais_severity','')}"
             )
     return "\n".join(lines)
 
@@ -353,7 +353,7 @@ def _drill_down(entry: dict, cb_entry: dict | None) -> dict:
         child     = children[0]
         child_code = child.get("code", "")
         child_sev  = child.get("ais_severity", cur_sev)
-        child_ja   = (child.get("japanese") or "")[:50]
+        child_ja   = (child.get("title_ja") or "")[:50]
         print(f"\n  🔍 詳細分類があります")
         print(f"     現在: [{cur_code}] AIS{cur_sev}  {cur_ja}")
         print(f"     該当しますか?: [{child_code}] AIS{child_sev}  {child_ja}")
@@ -363,8 +363,8 @@ def _drill_down(entry: dict, cb_entry: dict | None) -> dict:
             ans = ""
         if ans == "y":
             next_entry = {**entry,
-                          "code": child_code, "japanese": child.get("japanese", ""),
-                          "english": child.get("english", ""),
+                          "code": child_code, "japanese": child.get("title_ja", ""),
+                          "english": child.get("title_en", ""),
                           "severity": child_sev, "confidence": "confirmed"}
             print(f"     → [{child_code}] AIS{child_sev}  {child_ja}")
             return _drill_down(next_entry, child)
@@ -378,7 +378,7 @@ def _drill_down(entry: dict, cb_entry: dict | None) -> dict:
     for i, child in enumerate(children, 1):
         num       = str(i % 10)
         child_sev = child.get("ais_severity", cur_sev)
-        child_ja  = (child.get("japanese") or "")[:45]
+        child_ja  = (child.get("title_ja") or "")[:45]
         print(f"       {num}. [{child.get('code','')}] AIS{child_sev}  {child_ja}")
     try:
         ans = input(f"     選択（1-{min(len(children), 9)} / Enter=詳細不明で確定）> ").strip()
@@ -396,10 +396,10 @@ def _drill_down(entry: dict, cb_entry: dict | None) -> dict:
             child      = children[idx]
             child_code = child.get("code", "")
             child_sev  = child.get("ais_severity", cur_sev)
-            child_ja   = (child.get("japanese") or "")[:45]
+            child_ja   = (child.get("title_ja") or "")[:45]
             next_entry = {**entry,
-                          "code": child_code, "japanese": child.get("japanese", ""),
-                          "english": child.get("english", ""),
+                          "code": child_code, "japanese": child.get("title_ja", ""),
+                          "english": child.get("title_en", ""),
                           "severity": child_sev, "confidence": "confirmed"}
             print(f"     → [{child_code}] AIS{child_sev}  {child_ja}")
             return _drill_down(next_entry, child)
@@ -441,12 +441,12 @@ def _ask_clarifying(
     ctx_lines: list[str] = []
     for e in candidates_with_children[:4]:
         ctx_lines.append(
-            f"[{e.get('code')}] {e.get('japanese')} / {e.get('english')}"
+            f"[{e.get('code')}] {e.get('title_ja')} / {e.get('title_en')}"
         )
         for child in (e.get("children") or [])[:8]:
             ctx_lines.append(
                 f"  └ [{child.get('code')}] AIS{child.get('ais_severity')} "
-                f"{child.get('japanese')} / {child.get('english')}"
+                f"{child.get('title_ja')} / {child.get('title_en')}"
             )
     context = "\n".join(ctx_lines)
 
@@ -795,8 +795,8 @@ def run_ais_coding(patient_data: dict, client) -> dict:
                             found_entry = {
                                 "description": injury_desc,
                                 "code": ans,
-                                "japanese": e.get("japanese", ""),
-                                "english": e.get("english", ""),
+                                "japanese": e.get("title_ja", ""),
+                                "english": e.get("title_en", ""),
                                 "severity": e.get("ais_severity", 0),
                                 "confidence": "manual",
                             }

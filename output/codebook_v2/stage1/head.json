@@ -1,59 +1,7 @@
 {
   "body_part": "head",
   "body_part_name": "Head / 頭部",
-  "iss_body_region": "head_neck",
-  "source_file_count": 47,
-  "source_files": [
-    "head_001.json",
-    "head_002.json",
-    "head_003.json",
-    "head_004.json",
-    "head_005.json",
-    "head_006.json",
-    "head_007.json",
-    "head_008.json",
-    "head_009.json",
-    "head_010.json",
-    "head_011.json",
-    "head_012.json",
-    "head_013.json",
-    "head_014.json",
-    "head_015.json",
-    "head_016.json",
-    "head_017.json",
-    "head_018.json",
-    "head_019.json",
-    "head_020.json",
-    "head_021.json",
-    "head_022.json",
-    "head_023.json",
-    "head_024.json",
-    "head_025.json",
-    "head_026.json",
-    "head_027.json",
-    "head_028.json",
-    "head_029.json",
-    "head_030.json",
-    "head_031.json",
-    "head_032.json",
-    "head_033.json",
-    "head_034.json",
-    "head_035.json",
-    "head_036.json",
-    "head_037.json",
-    "head_038.json",
-    "head_039.json",
-    "head_040.json",
-    "head_041.json",
-    "head_042.json",
-    "head_043.json",
-    "head_044.json",
-    "head_045.json",
-    "head_046.json",
-    "head_047.json"
-  ],
   "total_entries": 281,
-  "collision_count": 138,
   "entries": [
     {
       "code": "100099.9",
@@ -61,16 +9,13 @@
       "title_en": "Injuries to the Head NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_002.json",
-        "head_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "100999.9",
@@ -78,14 +23,13 @@
       "title_en": "Died of head injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_002.json",
-        "head_003.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110009.1",
@@ -93,16 +37,13 @@
       "title_en": "Head Injury NFS involving only headache",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_002.json",
-        "head_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "113000.6",
@@ -110,16 +51,13 @@
       "title_en": "Crush Injury. Must involve massive destruction of skull, brain and intracranial contents.",
       "ais_severity": 6,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "crush"
       ],
-      "collision": false,
-      "source_files": [
-        "head_002.json",
-        "head_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "116000.3",
@@ -127,17 +65,14 @@
       "title_en": "Penetrating Injury to Skull NFSᵃ",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_002.json",
-        "head_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "116002.3",
@@ -145,14 +80,14 @@
       "title_en": "superficial ; ≤ 2cm beneath entrance",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_002.json",
-        "head_003.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "116004.5",
@@ -160,16 +95,14 @@
       "title_en": "major ; >2cm penetration",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "penetrating"
+        "penetrating",
+        "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_002.json",
-        "head_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110099.1",
@@ -177,16 +110,13 @@
       "title_en": "Scalp NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110202.1",
@@ -194,17 +124,13 @@
       "title_en": "abrasion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "abrasion"
       ],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110402.1",
@@ -212,19 +138,14 @@
       "title_en": "contusion; subgaleal hematoma if >6 months old",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110403.2",
@@ -232,18 +153,13 @@
       "title_en": "subgaleal hematoma in infants <= 6 months old",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110404.3",
@@ -251,17 +167,13 @@
       "title_en": "blood loss > 20% by volume in infants <= 6 months old",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110600.1",
@@ -269,17 +181,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110602.1",
@@ -287,15 +196,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110604.2",
@@ -303,15 +211,14 @@
       "title_en": "major ; >10cm long and into subcutaneous tissue",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110606.3",
@@ -319,17 +226,13 @@
       "title_en": "blood loss > 20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110800.1",
@@ -337,17 +240,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110802.1",
@@ -355,15 +255,14 @@
       "title_en": "superficial ; minor ; tissue loss <= 100cm²",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "avulsion",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110804.2",
@@ -371,15 +270,14 @@
       "title_en": "major ; tissue loss >100cm²",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "avulsion",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110806.3",
@@ -387,17 +285,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "110808.3",
@@ -405,17 +299,13 @@
       "title_en": "total scalp loss",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120099.9",
@@ -423,17 +313,14 @@
       "title_en": "Vascular Injury in Head NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_004.json",
-        "head_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120199.3",
@@ -441,16 +328,14 @@
       "title_en": "Artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120299.3",
@@ -458,17 +343,14 @@
       "title_en": "Anterior cerebral artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120202.5",
@@ -476,17 +358,13 @@
       "title_en": "laceration",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120204.3",
@@ -494,15 +372,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120205.4",
@@ -510,15 +387,14 @@
       "title_en": "bilateral",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120206.3",
@@ -526,15 +402,13 @@
       "title_en": "traumatic aneurysm",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120499.4",
@@ -542,17 +416,14 @@
       "title_en": "Basilar artery NFS",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120402.5",
@@ -560,17 +431,13 @@
       "title_en": "laceration",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120404.5",
@@ -578,15 +445,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120406.5",
@@ -594,15 +460,13 @@
       "title_en": "traumatic aneurysm",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121099.3",
@@ -610,17 +474,14 @@
       "title_en": "Internal carotid artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121002.5",
@@ -628,17 +489,13 @@
       "title_en": "laceration",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121003.6",
@@ -646,15 +503,13 @@
       "title_en": "bilateral",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121004.4",
@@ -662,15 +517,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121005.5",
@@ -678,15 +532,14 @@
       "title_en": "bilateral",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121006.3",
@@ -694,15 +547,13 @@
       "title_en": "traumatic aneurysm",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121499.3",
@@ -710,17 +561,14 @@
       "title_en": "Middle cerebral artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121402.5",
@@ -728,17 +576,13 @@
       "title_en": "laceration",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121404.4",
@@ -746,15 +590,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121405.5",
@@ -762,15 +605,14 @@
       "title_en": "bilateral",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121406.3",
@@ -778,15 +620,13 @@
       "title_en": "traumatic aneurysm",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_006.json",
-        "head_007.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121699.3",
@@ -794,16 +634,14 @@
       "title_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121602.4",
@@ -811,16 +649,13 @@
       "title_en": "laceration",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121604.3",
@@ -828,14 +663,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121606.3",
@@ -843,14 +678,13 @@
       "title_en": "traumatic aneurysm",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121899.3",
@@ -858,16 +692,14 @@
       "title_en": "Posterior cerebral artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121802.5",
@@ -875,16 +707,13 @@
       "title_en": "laceration",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121804.3",
@@ -892,14 +721,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121805.4",
@@ -907,14 +736,14 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "121806.3",
@@ -922,14 +751,13 @@
       "title_en": "traumatic aneurysm",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122899.3",
@@ -937,16 +765,14 @@
       "title_en": "Vertebral artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122802.5",
@@ -954,16 +780,13 @@
       "title_en": "laceration",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122803.6",
@@ -971,14 +794,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 6,
       "hierarchy_level": 3,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "laceration"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122804.3",
@@ -986,14 +808,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122805.4",
@@ -1001,14 +823,14 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122806.3",
@@ -1016,14 +838,13 @@
       "title_en": "traumatic aneurysm",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_008.json",
-        "head_009.json"
-      ]
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122299.3",
@@ -1031,16 +852,14 @@
       "title_en": "Sinus NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122202.4",
@@ -1048,16 +867,13 @@
       "title_en": "laceration",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122204.3",
@@ -1065,14 +881,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120602.4",
@@ -1080,14 +896,13 @@
       "title_en": "Carotid-cavernous fistula",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120603.4",
@@ -1095,14 +910,13 @@
       "title_en": "bilateral",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120899.3",
@@ -1110,16 +924,14 @@
       "title_en": "Cavernous sinus NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120802.4",
@@ -1127,16 +939,13 @@
       "title_en": "laceration",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120804.5",
@@ -1144,17 +953,14 @@
       "title_en": "open laceration (bleeding externally) or segmental loss",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "120806.3",
@@ -1162,14 +968,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122099.4",
@@ -1177,16 +983,14 @@
       "title_en": "Sigmoid sinus NFS",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122002.4",
@@ -1194,16 +998,13 @@
       "title_en": "laceration",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122003.5",
@@ -1211,14 +1012,13 @@
       "title_en": "bilateral",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122004.5",
@@ -1226,17 +1026,14 @@
       "title_en": "open laceration (bleeding externally) or segmental loss",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122005.6",
@@ -1244,14 +1041,14 @@
       "title_en": "bilateral",
       "ais_severity": 6,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "hemorrhage"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122006.4",
@@ -1259,14 +1056,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122007.5",
@@ -1274,14 +1071,14 @@
       "title_en": "bilateral",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "123099.4",
@@ -1289,16 +1086,14 @@
       "title_en": "Straight sinus NFS",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "123002.4",
@@ -1306,16 +1101,13 @@
       "title_en": "laceration",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "123003.5",
@@ -1323,17 +1115,14 @@
       "title_en": "open laceration (bleeding externally) or segmental loss",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "123004.5",
@@ -1341,14 +1130,14 @@
       "title_en": "thrombosis ; occlusion",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_010.json",
-        "head_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122499.3",
@@ -1356,16 +1145,14 @@
       "title_en": "Superior longitudinal (sagittal) sinus NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122402.4",
@@ -1373,17 +1160,13 @@
       "title_en": "laceration",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122404.5",
@@ -1391,18 +1174,14 @@
       "title_en": "open laceration (bleeding externally) or segmental loss",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122406.4",
@@ -1410,14 +1189,14 @@
       "title_en": "thrombosis ; occlusion^e",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122407.4",
@@ -1425,14 +1204,14 @@
       "title_en": "anterior half of sinus^a",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122408.5",
@@ -1440,14 +1219,14 @@
       "title_en": "posterior half of sinus^a",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122699.3",
@@ -1455,17 +1234,15 @@
       "title_en": "Transverse sinus NFS, laceration",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122602.4",
@@ -1473,17 +1250,13 @@
       "title_en": "Transverse sinus NFS, laceration, bilateral^c",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "laceration",
-        "nfs"
+        "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122603.5",
@@ -1491,19 +1264,13 @@
       "title_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "laceration",
-        "hemorrhage",
-        "nfs"
+        "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122604.5",
@@ -1511,18 +1278,14 @@
       "title_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, bilateral^c",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
-        "hemorrhage",
-        "nfs"
+        "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122605.6",
@@ -1530,14 +1293,14 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 6,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "hemorrhage"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122607.6",
@@ -1545,15 +1308,13 @@
       "title_en": "torcular^a",
       "ais_severity": 6,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122606.4",
@@ -1561,14 +1322,15 @@
       "title_en": "thrombosis ; occlusion, bilateral^c",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122608.5",
@@ -1576,14 +1338,15 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 5,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122399.3",
@@ -1591,16 +1354,14 @@
       "title_en": null,
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122599.3",
@@ -1608,14 +1369,14 @@
       "title_en": null,
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122502.4",
@@ -1623,18 +1384,13 @@
       "title_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, laceration",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "laceration",
-        "nfs"
+        "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122504.3",
@@ -1642,17 +1398,14 @@
       "title_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, thrombosis ; occlusion",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122799.3",
@@ -1660,16 +1413,14 @@
       "title_en": null,
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122702.4",
@@ -1677,18 +1428,13 @@
       "title_en": "Vein, non-major NFS^a [any named vein that is not major], laceration^a",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "laceration",
-        "nfs"
+        "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "122704.3",
@@ -1696,17 +1442,14 @@
       "title_en": "Vein, non-major NFS^a [any named vein that is not major], thrombosis ; occlusion^a",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_012.json",
-        "head_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130299.2",
@@ -1714,17 +1457,13 @@
       "title_en": "Cranial nerve NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130202.2",
@@ -1732,16 +1471,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130204.2",
@@ -1749,16 +1485,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130499.2",
@@ -1766,17 +1499,13 @@
       "title_en": "I (Olfactory nerve, tract) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130402.2",
@@ -1784,16 +1513,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130404.2",
@@ -1801,16 +1527,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130699.2",
@@ -1818,17 +1541,13 @@
       "title_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts]",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130602.2",
@@ -1836,16 +1555,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130604.2",
@@ -1853,15 +1569,13 @@
       "title_en": "bilateral",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130606.2",
@@ -1869,16 +1583,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130608.2",
@@ -1886,15 +1597,13 @@
       "title_en": "bilateral",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "NERVES, CRANIAL",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_014.json",
-        "head_015.json"
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130899.2",
@@ -1902,17 +1611,14 @@
       "title_en": "III (Oculomotor nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
+        "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130802.2",
@@ -1920,16 +1626,14 @@
       "title_en": "contusion or compression [includes injury due to transtentorial herniation]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "laceration",
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "130804.2",
@@ -1937,16 +1641,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131099.2",
@@ -1954,17 +1655,14 @@
       "title_en": "IV (Trochlear nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
+        "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131002.2",
@@ -1972,16 +1670,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131004.2",
@@ -1989,16 +1684,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131299.2",
@@ -2006,17 +1698,14 @@
       "title_en": "V (Trigeminal nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
+        "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131202.2",
@@ -2024,16 +1713,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131204.2",
@@ -2041,16 +1727,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131499.2",
@@ -2058,17 +1741,14 @@
       "title_en": "VI (Abducens nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
+        "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131402.2",
@@ -2076,16 +1756,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131404.2",
@@ -2093,16 +1770,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131699.2",
@@ -2110,17 +1784,14 @@
       "title_en": "VII (Facial nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
+        "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131602.2",
@@ -2128,16 +1799,14 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "laceration",
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131604.2",
@@ -2145,16 +1814,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131605.3",
@@ -2162,15 +1828,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131899.2",
@@ -2178,17 +1842,14 @@
       "title_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves]",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
+        "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131802.2",
@@ -2196,16 +1857,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131804.2",
@@ -2213,16 +1871,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "131806.3",
@@ -2230,15 +1885,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_016.json",
-        "head_017.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132099.2",
@@ -2246,17 +1899,13 @@
       "title_en": "IX (Glossopharyngeal nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132002.2",
@@ -2264,16 +1913,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132004.2",
@@ -2281,16 +1927,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132299.2",
@@ -2298,17 +1941,13 @@
       "title_en": "X (Vagus nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132202.2",
@@ -2316,16 +1955,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132204.2",
@@ -2333,16 +1969,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132499.2",
@@ -2350,17 +1983,13 @@
       "title_en": "XI (Spinal accessory nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132402.2",
@@ -2368,16 +1997,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132404.2",
@@ -2385,16 +2011,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132699.2",
@@ -2402,17 +2025,13 @@
       "title_en": "XII (Hypoglossal nerve) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132602.2",
@@ -2420,16 +2039,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "132604.2",
@@ -2437,16 +2053,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_018.json",
-        "head_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140299.5",
@@ -2454,16 +2067,13 @@
       "title_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140202.5",
@@ -2471,14 +2081,13 @@
       "title_en": "compression [includes transtentorial (uncal) or cerebellar tonsillar herniation]",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140204.5",
@@ -2486,16 +2095,13 @@
       "title_en": "contusion",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140208.5",
@@ -2503,14 +2109,13 @@
       "title_en": "infarction",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140210.5",
@@ -2518,16 +2123,13 @@
       "title_en": "injury involving hemorrhage",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140212.6",
@@ -2535,16 +2137,13 @@
       "title_en": "laceration",
       "ais_severity": 6,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140214.6",
@@ -2552,16 +2151,13 @@
       "title_en": "massive destruction (crush-type injury)",
       "ais_severity": 6,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "crush"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140216.6",
@@ -2569,16 +2165,13 @@
       "title_en": "penetrating injury",
       "ais_severity": 6,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "penetrating"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140218.6",
@@ -2586,16 +2179,13 @@
       "title_en": "transection",
       "ais_severity": 6,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140499.3",
@@ -2603,16 +2193,13 @@
       "title_en": "Cerebellum NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140402.3",
@@ -2620,18 +2207,15 @@
       "title_en": "contusion, single or multiple, NFS [include perilesional edema for size]",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
         "edema",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140407.2",
@@ -2639,14 +2223,15 @@
       "title_en": "tiny ; < 1cm diameter",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "edema",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140403.3",
@@ -2654,14 +2239,15 @@
       "title_en": "small ; superficial ; ≤15cc ; 1-3cm diameter",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "edema",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140404.4",
@@ -2669,14 +2255,15 @@
       "title_en": "large ; 15-30cc ; >3cm diameter",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "edema",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140405.5",
@@ -2684,14 +2271,15 @@
       "title_en": "extensive ; massive ; total volume >30cc",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_022.json",
-        "head_023.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "edema",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140410.3",
@@ -2699,19 +2287,15 @@
       "title_en": "hematoma (hemorrhage) NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hematoma",
         "hemorrhage",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140414.3",
@@ -2719,18 +2303,14 @@
       "title_en": "epidural or extradural NFS [include perilesional edema for size]",
       "ais_severity": 3,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "edema",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140416.2",
@@ -2738,15 +2318,14 @@
       "title_en": "tiny ; <0.6cm thick^a",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140418.4",
@@ -2754,15 +2333,14 @@
       "title_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 4（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140422.5",
@@ -2770,15 +2348,14 @@
       "title_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 1 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140426.3",
@@ -2786,18 +2363,14 @@
       "title_en": "intracerebellar including petechial and subcortical NFS [include perilesional edema for size]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "edema",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140428.2",
@@ -2805,15 +2378,14 @@
       "title_en": "tiny ; <0.6cm diameter [includes radiographic “shearing” lesions]^a",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140430.4",
@@ -2821,15 +2393,14 @@
       "title_en": "small ; ≤15cc ; 0.6–3cm diameter",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 4（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140434.5",
@@ -2837,15 +2408,14 @@
       "title_en": "large ; >15cc ; >3cm diameter",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140438.3",
@@ -2853,17 +2423,13 @@
       "title_en": "subdural NFS",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140440.2",
@@ -2871,15 +2437,13 @@
       "title_en": "tiny ; <0.6cm thick^a",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140442.4",
@@ -2887,15 +2451,13 @@
       "title_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 4（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140446.5",
@@ -2903,15 +2465,13 @@
       "title_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140474.3",
@@ -2919,19 +2479,15 @@
       "title_en": "laceration [not from penetrating injury] NFS^e",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "penetrating",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140473.3",
@@ -2939,15 +2495,15 @@
       "title_en": "≤2cm length or depth",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140472.4",
@@ -2955,15 +2511,15 @@
       "title_en": ">2cm length or depth",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_024.json",
-        "head_025.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 3 → 4（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140478.3",
@@ -2971,18 +2527,14 @@
       "title_en": "penetrating injury NFSᵉ",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "penetrating",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140477.3",
@@ -2990,15 +2542,14 @@
       "title_en": "≤2cm deep",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140476.5",
@@ -3006,15 +2557,14 @@
       "title_en": ">2cm deep",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140489.9",
@@ -3022,17 +2572,13 @@
       "title_en": "trauma-associated findings not related either to interven-tion or to anatomically-described head injury NFSᶠ",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140450.3",
@@ -3040,18 +2586,14 @@
       "title_en": "brain swelling/edema NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "edema",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140458.3",
@@ -3059,17 +2601,13 @@
       "title_en": "infarction (acute due to traumatic vascular occlusion)",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "vascular"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140462.3",
@@ -3077,15 +2615,13 @@
       "title_en": "ischemic brain damage directly related to head trauma",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140466.2",
@@ -3093,17 +2629,13 @@
       "title_en": "subarachnoid hemorrhage",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140470.2",
@@ -3111,17 +2643,13 @@
       "title_en": "subpial hemorrhage",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_026.json",
-        "head_027.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140699.3",
@@ -3129,16 +2657,13 @@
       "title_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”.",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140602.3",
@@ -3146,18 +2671,15 @@
       "title_en": "contusion NFS [include perilesional edema for size]",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "contusion",
         "edema",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140604.3",
@@ -3165,17 +2687,13 @@
       "title_en": "single NFS",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140605.2",
@@ -3183,15 +2701,13 @@
       "title_en": "tiny ; <1cm diameter",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140606.3",
@@ -3199,15 +2715,13 @@
       "title_en": "small ; superficial ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or 1-2cm diameter if ≤age 10 ; midline shift ≤5mm",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140608.4",
@@ -3215,15 +2729,13 @@
       "title_en": "large ; deep ; 30-50cc or 15-30cc if ≤age 10 ; > 4cm diameter or 2-4cm diameter if ≤age 10 ; midline shift >5mm",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140610.5",
@@ -3231,15 +2743,13 @@
       "title_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140611.3",
@@ -3247,16 +2757,13 @@
       "title_en": "multiple NFS",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140612.3",
@@ -3264,16 +2771,13 @@
       "title_en": "multiple, on same side but NFS",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140613.2",
@@ -3281,14 +2785,11 @@
       "title_en": "tiny ; each <1cm diameter",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140614.3",
@@ -3296,14 +2797,13 @@
       "title_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10 ; midline shift ≤5mm",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140616.4",
@@ -3311,14 +2811,13 @@
       "title_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10 ; midline shift >5mm",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140618.5",
@@ -3326,14 +2825,13 @@
       "title_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140620.3",
@@ -3341,17 +2839,13 @@
       "title_en": "multiple, at least one on each side but NFS",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140621.2",
@@ -3359,15 +2853,13 @@
       "title_en": "tiny ; each <1cm diameter",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140622.3",
@@ -3375,15 +2867,13 @@
       "title_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140624.4",
@@ -3391,15 +2881,13 @@
       "title_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140626.5",
@@ -3407,15 +2895,13 @@
       "title_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "頭部（頭蓋と脳）",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_028.json",
-        "head_029.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140628.4",
@@ -3423,16 +2909,13 @@
       "title_en": "diffuse axonal injury (DAI) NFS [requires coma >6 hours or, if fatal within 6 hours, diagnosis is made by pathological examination]",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140625.4",
@@ -3440,14 +2923,13 @@
       "title_en": "DAI confined to white matter or basal ganglia",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140627.5",
@@ -3455,14 +2937,13 @@
       "title_en": "DAI involving corpus callosum",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140629.3",
@@ -3470,18 +2951,15 @@
       "title_en": "hematoma (hemorrhage) NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hematoma",
         "hemorrhage",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140630.3",
@@ -3489,17 +2967,14 @@
       "title_en": "epidural or extradural NFS [include perilesional edema for size]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "edema",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140631.2",
@@ -3507,15 +2982,14 @@
       "title_en": "tiny ; <0.6cm thick",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140632.4",
@@ -3523,15 +2997,14 @@
       "title_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140634.5",
@@ -3539,15 +3012,14 @@
       "title_en": "bilateral",
       "ais_severity": 5,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140636.5",
@@ -3555,15 +3027,14 @@
       "title_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_030.json",
-        "head_031.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140638.3",
@@ -3571,19 +3042,15 @@
       "title_en": "intracerebral NFS [include perilesional edema for size]",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "hematoma",
-        "hemorrhage",
         "edema",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140639.2",
@@ -3591,15 +3058,15 @@
       "title_en": "tiny ; single or multiple <1cm diameterᵃ",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "hematoma",
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140642.2",
@@ -3607,17 +3074,13 @@
       "title_en": "petechial hemorrhage (s) [includes radio-graphic “shearing” lesions]ᵉ",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140643.2",
@@ -3625,15 +3088,13 @@
       "title_en": "not associated with coma >6 hours",
       "ais_severity": 2,
       "hierarchy_level": 5,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140645.4",
@@ -3641,15 +3102,13 @@
       "title_en": "associated with coma >6 hours",
       "ais_severity": 4,
       "hierarchy_level": 5,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140640.4",
@@ -3657,16 +3116,13 @@
       "title_en": "small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140647.3",
@@ -3674,15 +3130,13 @@
       "title_en": "not associated with coma >6 hours",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140649.4",
@@ -3690,15 +3144,13 @@
       "title_en": "associated with coma >6 hours",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140646.5",
@@ -3706,15 +3158,15 @@
       "title_en": "bilateral",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "hematoma",
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140648.5",
@@ -3722,15 +3174,15 @@
       "title_en": "large ; >30cc or >15cc if ≤age 10 ; >4cm or >1cm diameter if ≤age 10",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "hematoma",
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140641.5",
@@ -3738,14 +3190,15 @@
       "title_en": "bilateral [each >4cm]ᶜ",
       "ais_severity": 5,
       "hierarchy_level": 5,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ]
+      "injury_types": [
+        "hematoma",
+        "edema",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140650.3",
@@ -3753,17 +3206,13 @@
       "title_en": "subdural NFS",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140651.3",
@@ -3771,17 +3220,13 @@
       "title_en": "tiny ; <0.6cm thick [includes tentorial (subdural) blood one or both sides]ᵃ",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140652.4",
@@ -3789,15 +3234,13 @@
       "title_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140654.4",
@@ -3805,14 +3248,13 @@
       "title_en": "bilateral [both sides 0.6-1cm thick]",
       "ais_severity": 4,
       "hierarchy_level": 5,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140656.5",
@@ -3820,14 +3262,13 @@
       "title_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140655.5",
@@ -3835,15 +3276,13 @@
       "title_en": "bilateral [at least one side >1cm thick]ᶜ",
       "ais_severity": 5,
       "hierarchy_level": 5,
+      "section": "Cerebrum (continued)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_032.json",
-        "head_033.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140688.3",
@@ -3851,19 +3290,15 @@
       "title_en": "laceration NFS [not from penetrating injury]ᵉ",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "penetrating",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140687.3",
@@ -3871,15 +3306,15 @@
       "title_en": "≤ 2cm length or depth",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140686.4",
@@ -3887,15 +3322,15 @@
       "title_en": "> 2cm length or depth",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140690.3",
@@ -3903,18 +3338,14 @@
       "title_en": "penetrating injury NFSᵉ",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "penetrating",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140691.3",
@@ -3922,15 +3353,14 @@
       "title_en": "≤ 2cm deep",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140692.5",
@@ -3938,15 +3368,14 @@
       "title_en": "> 2cm deep",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140689.9",
@@ -3954,17 +3383,13 @@
       "title_en": "trauma-associated findings not related either to intervention or to anatomically-described head injury NFSᶠ",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140660.3",
@@ -3972,17 +3397,13 @@
       "title_en": "brain swelling NFSʰ",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140662.3",
@@ -3990,15 +3411,13 @@
       "title_en": "mild ; compressed ventricles without compressed brain stem cisterns",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140664.4",
@@ -4006,15 +3425,13 @@
       "title_en": "moderate ; compressed ventricles and brain stem cisterns",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140666.5",
@@ -4022,15 +3439,13 @@
       "title_en": "severe ; absent ventricles or brain stem cisterns",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140668.3",
@@ -4038,18 +3453,14 @@
       "title_en": "brain edema NFSʰ",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "edema",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140670.3",
@@ -4057,15 +3468,14 @@
       "title_en": "mild ; compressed ventricles without compressed brain stem cisterns",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140672.4",
@@ -4073,15 +3483,14 @@
       "title_en": "moderate ; compressed ventricles and brain stem cisterns",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140674.5",
@@ -4089,15 +3498,14 @@
       "title_en": "severe ; absent ventricles or brain stem cisterns",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "edema",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140701.9",
@@ -4105,15 +3513,13 @@
       "title_en": "hypoxic or ischemic brain damage secondary to systemic hypoxemia, hypotension or shock not directly related to head traumaᶠ",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140702.9",
@@ -4121,15 +3527,13 @@
       "title_en": "not associated with coma >24 hoursᶠ",
       "ais_severity": 9,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140703.9",
@@ -4137,15 +3541,13 @@
       "title_en": "associated with coma >24 hours not secondary to primary brain injury ; bilateral ; multifocalᶠ",
       "ais_severity": 9,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_036.json",
-        "head_037.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140676.3",
@@ -4153,17 +3555,13 @@
       "title_en": "infarction [acute due to traumatic vascular occlusion]",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "vascular"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140678.2",
@@ -4171,17 +3569,13 @@
       "title_en": "intraventricular hemorrhageᵉ",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
-      ],
-      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140675.2",
@@ -4189,15 +3583,13 @@
       "title_en": "not associated with coma >6 hours",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140677.4",
@@ -4205,15 +3597,13 @@
       "title_en": "associated with coma >6 hours",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140680.3",
@@ -4221,15 +3611,13 @@
       "title_en": "ischemic brain damage directly related to head traumaᵉ",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140681.3",
@@ -4237,15 +3625,13 @@
       "title_en": "not associated with coma >6 hours",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140683.5",
@@ -4253,15 +3639,11 @@
       "title_en": "associated with coma >6 hours",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140682.3",
@@ -4269,15 +3651,13 @@
       "title_en": "pneumocephalus directly related to head trauma",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140693.2",
@@ -4285,18 +3665,14 @@
       "title_en": "subarachnoid hemorrhage NFSᵉ",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "hemorrhage",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
-      ],
-      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140694.2",
@@ -4304,15 +3680,14 @@
       "title_en": "not associated with coma >6 hours",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140695.3",
@@ -4320,15 +3695,14 @@
       "title_en": "associated with coma >6 hours",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140696.2",
@@ -4336,18 +3710,14 @@
       "title_en": "subpial hemorrhage NFSᵉ",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
-      ],
-      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140697.2",
@@ -4355,15 +3725,14 @@
       "title_en": "not associated with coma >6 hours",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140698.3",
@@ -4371,15 +3740,14 @@
       "title_en": "associated with coma >6 hours",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_038.json",
-        "head_039.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "140799.3",
@@ -4387,14 +3755,11 @@
       "title_en": "Pituitary injury",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
       "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_040.json",
-        "head_041.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150000.2",
@@ -4402,17 +3767,14 @@
       "title_en": "Skull fracture NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150200.3",
@@ -4420,17 +3782,14 @@
       "title_en": "Base (basilar) fracture NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150202.3",
@@ -4438,14 +3797,14 @@
       "title_en": "without CSF leak",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150204.3",
@@ -4453,14 +3812,14 @@
       "title_en": "with CSF leak",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150206.4",
@@ -4468,17 +3827,14 @@
       "title_en": "complex ; open with torn, exposed or loss of brain tissue ; comminuted ; ring ; hinge",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150400.2",
@@ -4486,17 +3842,14 @@
       "title_en": "Vault fracture NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150402.2",
@@ -4504,14 +3857,14 @@
       "title_en": "closed ; simple ; undisplaced ; diastatic ; linear",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150404.3",
@@ -4519,16 +3872,13 @@
       "title_en": "comminuted ; compound but dura intact ; depressed ≤2cm ; displaced",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150406.4",
@@ -4536,17 +3886,14 @@
       "title_en": "complex ; open with torn, exposed or loss of brain tissue",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "150408.4",
@@ -4554,14 +3901,14 @@
       "title_en": "massive ; large areas of skull depressed >2cm",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "SKELETAL",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "head_042.json",
-        "head_043.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161000.1",
@@ -4569,17 +3916,13 @@
       "title_en": "Cerebral Concussion, NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161001.1",
@@ -4587,15 +3930,13 @@
       "title_en": "mild concussion ; no loss of consciousness",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161002.2",
@@ -4603,17 +3944,13 @@
       "title_en": "brief loss of consciousness NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161003.2",
@@ -4621,17 +3958,13 @@
       "title_en": "loss of consciousness < 1 hour NFS",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161004.2",
@@ -4639,15 +3972,13 @@
       "title_en": "loss of consciousness ≤30 mins",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161005.2",
@@ -4655,15 +3986,13 @@
       "title_en": "loss of consciousness 31-59 mins",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161006.3",
@@ -4671,15 +4000,13 @@
       "title_en": "loss of consciousness 1-6 hours (severe concussion)",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161007.4",
@@ -4687,17 +4014,13 @@
       "title_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS",
       "ais_severity": 4,
       "hierarchy_level": 1,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161008.4",
@@ -4705,15 +4028,13 @@
       "title_en": "LOC 6-24 hours (mild DAI)",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "頭部 (頭蓋と脳)",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161011.5",
@@ -4721,17 +4042,13 @@
       "title_en": "LOC >24 hours NFS",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161012.5",
@@ -4739,15 +4056,13 @@
       "title_en": "without brainstem signs (moderate DAI)",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "161013.5",
@@ -4755,15 +4070,13 @@
       "title_en": "with brainstem signs (severe DAI)",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "CONCUSSIVE INJURY",
       "iss_body_region": "head_neck",
-      "section": "HEAD (cranium and brain)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "head_046.json",
-        "head_047.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     }
   ]
 }

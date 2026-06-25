@@ -1,25 +1,7 @@
 {
   "body_part": "neck",
   "body_part_name": "Neck / 頸部",
-  "iss_body_region": "head_neck",
-  "source_file_count": 13,
-  "source_files": [
-    "neck_001.json",
-    "neck_002.json",
-    "neck_003.json",
-    "neck_004.json",
-    "neck_005.json",
-    "neck_006.json",
-    "neck_007.json",
-    "neck_008.json",
-    "neck_009.json",
-    "neck_010.json",
-    "neck_011.json",
-    "neck_012.json",
-    "neck_013.json"
-  ],
   "total_entries": 111,
-  "collision_count": 56,
   "entries": [
     {
       "code": "300099.9",
@@ -27,16 +9,13 @@
       "title_en": "Injuries to the Neck NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "300999.9",
@@ -44,14 +23,13 @@
       "title_en": "Died of neck injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
       "ais_severity": 9,
       "hierarchy_level": 2,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "311000.6",
@@ -59,16 +37,13 @@
       "title_en": "Decapitation",
       "ais_severity": 6,
       "hierarchy_level": 1,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "316000.1",
@@ -76,17 +51,14 @@
       "title_en": "Penetrating injury NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "316002.1",
@@ -94,14 +66,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "316004.2",
@@ -109,14 +81,14 @@
       "title_en": "tissue loss >25cm²j",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "316006.3",
@@ -124,16 +96,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310099.1",
@@ -141,16 +110,13 @@
       "title_en": "Skin/subcutaneous tissue/muscle NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310202.1",
@@ -158,16 +124,13 @@
       "title_en": "abrasion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "abrasion"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310402.1",
@@ -175,18 +138,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310600.1",
@@ -194,17 +153,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310602.1",
@@ -212,14 +168,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310604.2",
@@ -227,14 +183,14 @@
       "title_en": "major ; >10cm long and into subcutaneous tissuej",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310606.3",
@@ -242,16 +198,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310800.1",
@@ -259,17 +212,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310802.1",
@@ -277,14 +227,14 @@
       "title_en": "minor ; superficial ; ≤25cm²j",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310804.2",
@@ -292,14 +242,14 @@
       "title_en": "major ; tissue loss >25cm²j",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "310806.3",
@@ -307,16 +257,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頸部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_002.json",
-        "neck_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320099.9",
@@ -324,17 +271,14 @@
       "title_en": "Vascular Injury in Neck NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320299.3",
@@ -342,16 +286,14 @@
       "title_en": "Carotid artery [common, internal] NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320202.3",
@@ -359,17 +301,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320204.4",
@@ -377,14 +317,15 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "rupture",
+        "avulsion"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320206.3",
@@ -392,19 +333,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320208.3",
@@ -412,17 +350,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320209.3",
@@ -430,15 +364,13 @@
       "title_en": "bilateral",
       "ais_severity": 3,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320210.4",
@@ -446,14 +378,13 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320211.4",
@@ -461,15 +392,13 @@
       "title_en": "bilateral",
       "ais_severity": 4,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320212.4",
@@ -477,19 +406,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320213.4",
@@ -497,15 +422,15 @@
       "title_en": "bilateral",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320214.5",
@@ -513,14 +438,15 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320215.5",
@@ -528,15 +454,15 @@
       "title_en": "bilateral",
       "ais_severity": 5,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
       ],
-      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320216.3",
@@ -544,14 +470,16 @@
       "title_en": "with thrombosis (occlusion) secondary to trauma",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320217.3",
@@ -559,15 +487,16 @@
       "title_en": "bilateral",
       "ais_severity": 3,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320218.4",
@@ -575,14 +504,16 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320219.4",
@@ -590,15 +521,16 @@
       "title_en": "bilateral",
       "ais_severity": 4,
       "hierarchy_level": 5,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320220.3",
@@ -606,16 +538,13 @@
       "title_en": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320221.3",
@@ -623,15 +552,13 @@
       "title_en": "bilateral",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320222.4",
@@ -639,14 +566,13 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320223.4",
@@ -654,15 +580,13 @@
       "title_en": "bilateral",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_004.json",
-        "neck_005.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320499.2",
@@ -670,17 +594,14 @@
       "title_en": "Carotid artery [external] NFS [includes thyroid]",
       "ais_severity": 5,
       "hierarchy_level": 1,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320402.2",
@@ -688,18 +609,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320404.2",
@@ -707,19 +625,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320406.2",
@@ -727,17 +642,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss <=20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320408.3",
@@ -745,19 +656,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 3 → 5（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320410.2",
@@ -765,15 +672,16 @@
       "title_en": "with thrombosis ; (occlusion) secondary to trauma",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320412.2",
@@ -781,17 +689,13 @@
       "title_en": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321099.2",
@@ -799,17 +703,14 @@
       "title_en": "Vertebral artery NFS",
       "ais_severity": 5,
       "hierarchy_level": 1,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321002.2",
@@ -817,18 +718,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321004.3",
@@ -836,15 +734,15 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "laceration",
+        "rupture",
+        "avulsion"
       ],
-      "collision_note": "severity 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321006.2",
@@ -852,19 +750,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321008.2",
@@ -872,17 +767,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss <=20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321010.3",
@@ -890,15 +781,13 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "severity 衝突: 3 → 2（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321012.3",
@@ -906,19 +795,15 @@
       "title_en": "major ; rupture ; transection ; blood loss > 20 % by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 3 → 5（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321014.4",
@@ -926,15 +811,15 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
       ],
-      "collision_note": "severity 衝突: 4 → 2（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321015.5",
@@ -942,15 +827,15 @@
       "title_en": "neurological deficit (stroke) not head-injury related, bilateral",
       "ais_severity": 1,
       "hierarchy_level": 5,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
       ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）; level 衝突: 2 → 4（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321016.4",
@@ -958,15 +843,16 @@
       "title_en": "with thrombosis (occlusion) secondary to trauma",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 4 → 5（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321017.5",
@@ -974,15 +860,16 @@
       "title_en": "with thrombosis (occlusion) secondary to trauma, bilateral",
       "ais_severity": 5,
       "hierarchy_level": 5,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 4（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321018.3",
@@ -990,17 +877,13 @@
       "title_en": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
-      ],
-      "collision_note": "severity 衝突: 3 → 5（日本語ページを優先して上書き）; level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321020.4",
@@ -1008,15 +891,13 @@
       "title_en": "neurological deficit (stroke) not head-injury related",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "severity 衝突: 4 → 2（日本語ページを優先して上書き）; level 衝突: 2 → 4（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "321021.5",
@@ -1024,15 +905,13 @@
       "title_en": "neurological deficit (stroke) not head-injury related, bilateral",
       "ais_severity": 1,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_006.json",
-        "neck_007.json"
+      "injury_types": [
+        "laceration"
       ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）; level 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320699.1",
@@ -1040,16 +919,14 @@
       "title_en": "Jugular vein [external] NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320602.1",
@@ -1057,19 +934,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320604.1",
@@ -1077,17 +951,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320606.3",
@@ -1095,18 +965,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320899.1",
@@ -1114,16 +981,14 @@
       "title_en": "Jugular vein [internal] NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320802.2",
@@ -1131,19 +996,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320804.2",
@@ -1151,17 +1013,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "320806.3",
@@ -1169,18 +1027,15 @@
       "title_en": "major ; rupture ; transection ; blood loss > 20 % by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "330099.1",
@@ -1188,17 +1043,14 @@
       "title_en": "Nerve Injury in Neck NFS^a",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "330299.2",
@@ -1206,17 +1058,13 @@
       "title_en": "Phrenic nerve injury",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "nerve"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "330298.4",
@@ -1224,15 +1072,13 @@
       "title_en": "bilateral^c",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
+      "injury_types": [
+        "nerve"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "330499.1",
@@ -1240,17 +1086,13 @@
       "title_en": "Vagus nerve injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "頸 部",
       "iss_body_region": "head_neck",
-      "section": "NECK",
       "injury_types": [
         "nerve"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_008.json",
-        "neck_009.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340199.2",
@@ -1258,17 +1100,13 @@
       "title_en": "Esophagus injury in Neck NFSᵏ",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340102.2",
@@ -1276,18 +1114,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340103.3",
@@ -1295,16 +1129,13 @@
       "title_en": "ingestion injury NFSᵃ",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340104.3",
@@ -1312,14 +1143,13 @@
       "title_en": "partial thickness necrosisᵃ",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340105.4",
@@ -1327,14 +1157,13 @@
       "title_en": "full thickness necrosisᵃ",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340106.3",
@@ -1342,18 +1171,14 @@
       "title_en": "laceration ; tear NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
-        "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340107.3",
@@ -1361,16 +1186,14 @@
       "title_en": "no perforation ; partial thickness ; ≤50% circumfer-ence [OIS I, II]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340108.4",
@@ -1378,16 +1201,14 @@
       "title_en": "perforation ; full thickness ; >50% circumference [OIS III]",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340109.5",
@@ -1395,18 +1216,15 @@
       "title_en": "avulsion ; rupture ; transection ; massive destruction [OIS IV, V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340299.2",
@@ -1414,17 +1232,13 @@
       "title_en": "Larynx, including thyroid and cricoid cartilage, NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340202.2",
@@ -1432,18 +1246,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340204.2",
@@ -1451,18 +1261,15 @@
       "title_en": "laceration ; puncture NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340206.2",
@@ -1470,18 +1277,15 @@
       "title_en": "no perforation ; partial thickness ; mucosal tear",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
-        "rupture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340208.3",
@@ -1489,17 +1293,15 @@
       "title_en": "perforation ; full thickness ; \"fracture\"",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340210.4",
@@ -1507,14 +1309,15 @@
       "title_en": "vocal cord involvement",
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "perforation",
+        "burn"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340212.5",
@@ -1522,19 +1325,16 @@
       "title_en": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "rupture",
         "crush",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340699.2",
@@ -1542,17 +1342,13 @@
       "title_en": "Pharynx or Retropharyngeal area, NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340602.2",
@@ -1560,19 +1356,15 @@
       "title_en": "contusion ; hematoma NFSᵉ",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
         "hematoma",
-        "hemorrhage",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340603.2",
@@ -1580,15 +1372,15 @@
       "title_en": "minor ; ≤75% airway involvement",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340605.3",
@@ -1596,15 +1388,15 @@
       "title_en": "major ; >75% airway involvement",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340604.2",
@@ -1612,18 +1404,15 @@
       "title_en": "laceration ; puncture NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340606.3",
@@ -1631,18 +1420,15 @@
       "title_en": "no perforation ; partial thickness ; mucosal tear",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
-        "rupture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340608.4",
@@ -1650,16 +1436,14 @@
       "title_en": "perforation ; full thickness",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "340610.5",
@@ -1667,19 +1451,16 @@
       "title_en": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "rupture",
         "crush",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "neck_010.json",
-        "neck_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341099.2",
@@ -1687,17 +1468,13 @@
       "title_en": "Salivary gland NFS",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341002.3",
@@ -1705,17 +1482,13 @@
       "title_en": "ductal involvement ; transection",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 3 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341499.1",
@@ -1723,17 +1496,13 @@
       "title_en": "Thyroid gland NFS",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 1 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341402.1",
@@ -1741,19 +1510,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 1 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341404.2",
@@ -1761,17 +1525,13 @@
       "title_en": "laceration",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341699.2",
@@ -1779,17 +1539,13 @@
       "title_en": "Trachea injury in Neck NFSᵏ",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341602.2",
@@ -1797,19 +1553,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341604.2",
@@ -1817,19 +1568,14 @@
       "title_en": "laceration ; tear NFS",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
-        "rupture",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341606.2",
@@ -1837,17 +1583,14 @@
       "title_en": "no perforation ; partial thickness",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341608.3",
@@ -1855,18 +1598,15 @@
       "title_en": "perforation ; full thickness ; \"fracture\"",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 3 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341610.4",
@@ -1874,20 +1614,16 @@
       "title_en": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "rupture",
         "crush",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 4 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341899.2",
@@ -1895,17 +1631,13 @@
       "title_en": "Vocal cord NFS [not due to intubation]",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341802.2",
@@ -1913,15 +1645,13 @@
       "title_en": "unilateral",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "341804.3",
@@ -1929,15 +1659,13 @@
       "title_en": "bilateral",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "head_neck",
       "section": "NECK",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "350200.2",
@@ -1945,17 +1673,13 @@
       "title_en": "Hyoid fracture",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "head_neck",
       "section": "NECK",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "neck_012.json",
-        "neck_013.json"
-      ],
-      "collision_note": "severity 衝突: 2 → 5（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     }
   ]
 }

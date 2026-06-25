@@ -1,0 +1,741 @@
+{
+  "body_part": "other",
+  "body_part_name": "Other / その他",
+  "total_entries": 48,
+  "entries": [
+    {
+      "code": "910000.1",
+      "title_ja": "軟部組織（皮膚）損傷 詳細不明",
+      "title_en": "Soft tissue (skin) injury NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "軟部組織（皮膚）損傷 詳細不明",
+      "description_en": "Soft tissue (skin) injury NFS",
+      "children": [
+        {
+          "code": "910200.1",
+          "title_ja": "擦過傷",
+          "title_en": "abrasion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "abrasion"
+          ],
+          "description_ja": "軟部組織（皮膚）損傷 詳細不明 > 擦過傷",
+          "description_en": "Soft tissue (skin) injury NFS > abrasion",
+          "children": []
+        },
+        {
+          "code": "910400.1",
+          "title_ja": "挫傷: 血腫",
+          "title_en": "contusion; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "軟部組織（皮膚）損傷 詳細不明 > 挫傷: 血腫",
+          "description_en": "Soft tissue (skin) injury NFS > contusion; hematoma",
+          "children": []
+        },
+        {
+          "code": "910600.1",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "軟部組織（皮膚）損傷 詳細不明 > 裂傷・裂創",
+          "description_en": "Soft tissue (skin) injury NFS > laceration",
+          "children": []
+        },
+        {
+          "code": "910800.1",
+          "title_ja": "剥離",
+          "title_en": "avulsion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "体表（皮膚）および熱傷 その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "avulsion"
+          ],
+          "description_ja": "軟部組織（皮膚）損傷 詳細不明 > 剥離",
+          "description_en": "Soft tissue (skin) injury NFS > avulsion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "914000.1",
+      "title_ja": "デグロービング損傷",
+      "title_en": "Degloving injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "avulsion"
+      ],
+      "description_ja": "デグロービング損傷",
+      "description_en": "Degloving injury",
+      "children": []
+    },
+    {
+      "code": "915000.1",
+      "title_ja": "凍傷 詳細不明",
+      "title_en": "Frostbite NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "凍傷 詳細不明",
+      "description_en": "Frostbite NFS",
+      "children": [
+        {
+          "code": "915002.1",
+          "title_ja": "I度: 表在性",
+          "title_en": "1st degree; superficial",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "凍傷 詳細不明 > I度: 表在性",
+          "description_en": "Frostbite NFS > 1st degree; superficial",
+          "children": []
+        },
+        {
+          "code": "915004.2",
+          "title_ja": "II度: III度",
+          "title_en": "deep; full thickness",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "burn"
+          ],
+          "description_ja": "凍傷 詳細不明 > II度: III度",
+          "description_en": "Frostbite NFS > deep; full thickness",
+          "children": [
+            {
+              "code": "915006.3",
+              "title_ja": "多部位 例: 指, つま先, 耳",
+              "title_en": "multiple body sites e.g., fingers, toes, ears",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+              "iss_body_region": "external",
+              "injury_types": [
+                "burn"
+              ],
+              "description_ja": "凍傷 詳細不明 > II度: III度 > 多部位 例: 指, つま先, 耳",
+              "description_en": "Frostbite NFS > deep; full thickness > multiple body sites e.g., fingers, toes, ears",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "916000.1",
+      "title_ja": "穿通性損傷",
+      "title_en": "Penetrating injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "penetrating"
+      ],
+      "description_ja": "穿通性損傷",
+      "description_en": "Penetrating injury",
+      "children": []
+    },
+    {
+      "code": "912000.1",
+      "title_ja": "熱傷深度: 詳細不明; 熱傷面積: 詳細不明",
+      "title_en": "NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn",
+        "nfs"
+      ],
+      "description_ja": "熱傷深度: 詳細不明; 熱傷面積: 詳細不明",
+      "description_en": "NFS",
+      "children": []
+    },
+    {
+      "code": "912002.1",
+      "title_ja": "熱傷深度: I 度；1歳を超える; 熱傷面積: 熱傷面積を問わない",
+      "title_en": "1st degree burns",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: I 度；1歳を超える; 熱傷面積: 熱傷面積を問わない",
+      "description_en": "1st degree burns",
+      "children": [
+        {
+          "code": "912003.1",
+          "title_ja": "熱傷深度: 1歳以下; 熱傷面積: 50%以下",
+          "title_en": "≤1yo",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "burn"
+          ],
+          "description_ja": "熱傷深度: I 度；1歳を超える; 熱傷面積: 熱傷面積を問わない > 熱傷深度: 1歳以下; 熱傷面積: 50%以下",
+          "description_en": "1st degree burns > ≤1yo",
+          "children": []
+        },
+        {
+          "code": "912004.2",
+          "title_ja": "熱傷深度: 1歳以下; 熱傷面積: 50%を超える",
+          "title_en": "≤1yo",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "burn"
+          ],
+          "description_ja": "熱傷深度: I 度；1歳を超える; 熱傷面積: 熱傷面積を問わない > 熱傷深度: 1歳以下; 熱傷面積: 50%を超える",
+          "description_en": "1st degree burns > ≤1yo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "912006.1",
+      "title_ja": "熱傷深度: II度；非全層性; 熱傷面積: 10%未満",
+      "title_en": "2nd degree burns",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: II度；非全層性; 熱傷面積: 10%未満",
+      "description_en": "2nd degree burns",
+      "children": []
+    },
+    {
+      "code": "912007.1",
+      "title_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²以下 [顔面の場合は25cm²以下]",
+      "title_en": "3rd degree; full thickness",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²以下 [顔面の場合は25cm²以下]",
+      "description_en": "3rd degree; full thickness",
+      "children": []
+    },
+    {
+      "code": "912008.2",
+      "title_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²を超える；10%未満 [顔面の場合は25cm²を超える]",
+      "title_en": "3rd degree burns",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: III度；全層性; 熱傷面積: 100cm²を超える；10%未満 [顔面の場合は25cm²を超える]",
+      "description_en": "3rd degree burns",
+      "children": []
+    },
+    {
+      "code": "912012.2",
+      "title_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 10~19%",
+      "title_en": "2nd or 3rd degree; partial or full thickness",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 10~19%",
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "children": [
+        {
+          "code": "912014.3",
+          "title_ja": "熱傷深度: 5歳未満; 熱傷面積: 10~19%",
+          "title_en": "<5yo",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "burn"
+          ],
+          "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 10~19% > 熱傷深度: 5歳未満; 熱傷面積: 10~19%",
+          "description_en": "2nd or 3rd degree; partial or full thickness > <5yo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "912018.3",
+      "title_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 20~29%",
+      "title_en": "combined 2nd and 3rd degree burns",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 20~29%",
+      "description_en": "combined 2nd and 3rd degree burns",
+      "children": [
+        {
+          "code": "912020.4",
+          "title_ja": "熱傷深度: 5歳未満; 熱傷面積: 20~29%",
+          "title_en": "<5yo",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "burn"
+          ],
+          "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 20~29% > 熱傷深度: 5歳未満; 熱傷面積: 20~29%",
+          "description_en": "combined 2nd and 3rd degree burns > <5yo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "912024.4",
+      "title_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 30~39%",
+      "title_en": "2nd or 3rd degree; partial or full thickness",
+      "ais_severity": 4,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 30~39%",
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "children": [
+        {
+          "code": "912026.5",
+          "title_ja": "熱傷深度: 5歳未満; 熱傷面積: 30~39%",
+          "title_en": "<5yo",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+          "iss_body_region": "external",
+          "injury_types": [
+            "burn"
+          ],
+          "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 30~39% > 熱傷深度: 5歳未満; 熱傷面積: 30~39%",
+          "description_en": "2nd or 3rd degree; partial or full thickness > <5yo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "912030.5",
+      "title_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 40~89%",
+      "title_en": "2nd or 3rd degree; partial or full thickness",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性; 熱傷面積: 40~89%",
+      "description_en": "2nd or 3rd degree; partial or full thickness",
+      "children": []
+    },
+    {
+      "code": "912032.6",
+      "title_ja": "熱傷深度: II度またはIII度；非全層性または全層性 炭化を含む; 熱傷面積: 90%以上",
+      "title_en": "2nd or 3rd degree; partial or full thickness including incineration",
+      "ais_severity": 6,
+      "hierarchy_level": 1,
+      "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
+      ],
+      "description_ja": "熱傷深度: II度またはIII度；非全層性または全層性 炭化を含む; 熱傷面積: 90%以上",
+      "description_en": "2nd or 3rd degree; partial or full thickness including incineration",
+      "children": []
+    },
+    {
+      "code": "020000.3",
+      "title_ja": "窒息 詳細不明ª",
+      "title_en": "Asphyxia/Suffocation NFSᵃ",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "窒息 詳細不明ª",
+      "description_en": "Asphyxia/Suffocation NFSᵃ",
+      "children": [
+        {
+          "code": "020002.3",
+          "title_ja": "神経脱落症状を伴わない",
+          "title_en": "without neurological deficit",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "窒息 詳細不明ª > 神経脱落症状を伴わない",
+          "description_en": "Asphyxia/Suffocation NFSᵃ > without neurological deficit",
+          "children": []
+        },
+        {
+          "code": "020004.4",
+          "title_ja": "神経脱落症状を伴う",
+          "title_en": "with neurological deficit",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "窒息 詳細不明ª > 神経脱落症状を伴う",
+          "description_en": "Asphyxia/Suffocation NFSᵃ > with neurological deficit",
+          "children": []
+        },
+        {
+          "code": "020006.5",
+          "title_ja": "医療従事者により確認された心停止を伴う",
+          "title_en": "with cardiac arrest documented by medical personnel",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "窒息 詳細不明ª > 医療従事者により確認された心停止を伴う",
+          "description_en": "Asphyxia/Suffocation NFSᵃ > with cardiac arrest documented by medical personnel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "040099.9",
+      "title_ja": "腐食物 詳細不明f",
+      "title_en": "Caustic Agents NFSᶠ",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "腐食物 詳細不明f",
+      "description_en": "Caustic Agents NFSᶠ",
+      "children": []
+    },
+    {
+      "code": "060000.3",
+      "title_ja": "溺水 詳細不明ª",
+      "title_en": "Drowning NFSᵃ",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "溺水 詳細不明ª",
+      "description_en": "Drowning NFSᵃ",
+      "children": [
+        {
+          "code": "060002.3",
+          "title_ja": "神経脱落症状を伴わない溺水",
+          "title_en": "near drowning, no neurological deficit",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "溺水 詳細不明ª > 神経脱落症状を伴わない溺水",
+          "description_en": "Drowning NFSᵃ > near drowning, no neurological deficit",
+          "children": []
+        },
+        {
+          "code": "060004.4",
+          "title_ja": "神経脱落症状を伴う溺水",
+          "title_en": "near drowning with neurological deficit",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "溺水 詳細不明ª > 神経脱落症状を伴う溺水",
+          "description_en": "Drowning NFSᵃ > near drowning with neurological deficit",
+          "children": []
+        },
+        {
+          "code": "060006.5",
+          "title_ja": "医療従事者により確認された心停止を伴う",
+          "title_en": "with cardiac arrest documented by medical personnel",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "溺水 詳細不明ª > 医療従事者により確認された心停止を伴う",
+          "description_en": "Drowning NFSᵃ > with cardiac arrest documented by medical personnel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "080000.2",
+      "title_ja": "電撃傷 詳細不明",
+      "title_en": "Electrical injury NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "電撃傷 詳細不明",
+      "description_en": "Electrical injury NFS",
+      "children": [
+        {
+          "code": "080002.3",
+          "title_ja": "筋肉の壊死を伴う",
+          "title_en": "with muscle necrosis",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "電撃傷 詳細不明 > 筋肉の壊死を伴う",
+          "description_en": "Electrical injury NFS > with muscle necrosis",
+          "children": []
+        },
+        {
+          "code": "080004.5",
+          "title_ja": "医療従事者により確認された心停止を伴う",
+          "title_en": "with cardiac arrest documented by medical personnel",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "OTHER TRAUMA",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "電撃傷 詳細不明 > 医療従事者により確認された心停止を伴う",
+          "description_en": "Electrical injury NFS > with cardiac arrest documented by medical personnel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "010000.1",
+      "title_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ",
+      "title_en": "Hypothermia NFS (primary injury, not treatment-related or sequela)",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "その他の外傷",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ",
+      "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela)",
+      "children": [
+        {
+          "code": "010002.1",
+          "title_ja": "34～35℃を超える",
+          "title_en": ">34-35°C",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ > 34～35℃を超える",
+          "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela) > >34-35°C",
+          "children": []
+        },
+        {
+          "code": "010004.2",
+          "title_ja": "33～32℃",
+          "title_en": "33-32°C",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ > 33～32℃",
+          "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela) > 33-32°C",
+          "children": []
+        },
+        {
+          "code": "010006.3",
+          "title_ja": "31～30℃",
+          "title_en": "31-30°C",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ > 31～30℃",
+          "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela) > 31-30°C",
+          "children": []
+        },
+        {
+          "code": "010008.4",
+          "title_ja": "29～28℃",
+          "title_en": "29-28°C",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ > 29～28℃",
+          "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela) > 29-28°C",
+          "children": []
+        },
+        {
+          "code": "010010.5",
+          "title_ja": "27℃ 未満",
+          "title_en": "<27°C",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "低体温症 詳細不明（主損傷である場合を指し、治療によるものや続発症は除く）ᵃ > 27℃ 未満",
+          "description_en": "Hypothermia NFS (primary injury, not treatment-related or sequela) > <27°C",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "012002.2",
+      "title_ja": "全身損傷（爆傷） 詳細不明ᵃ",
+      "title_en": "Whole Body (explosion-type) Injury NFSᵃ",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "その他の外傷",
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "全身損傷（爆傷） 詳細不明ᵃ",
+      "description_en": "Whole Body (explosion-type) Injury NFSᵃ",
+      "children": [
+        {
+          "code": "012004.2",
+          "title_ja": "軽傷、または皮膚・皮下組織・筋の表在性損傷 軽微な骨折を伴う、または伴わない",
+          "title_en": "minor or superficial to skin, subcutaneous tissue and muscle with or without minor fracture(s)",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "全身損傷（爆傷） 詳細不明ᵃ > 軽傷、または皮膚・皮下組織・筋の表在性損傷 軽微な骨折を伴う、または伴わない",
+          "description_en": "Whole Body (explosion-type) Injury NFSᵃ > minor or superficial to skin, subcutaneous tissue and muscle with or without minor fracture(s)",
+          "children": []
+        },
+        {
+          "code": "012006.4",
+          "title_ja": "広範囲（25% TBSAを超える）の皮膚・皮下組織・筋の損傷、多発性の骨折かつ／または臓器損傷を伴う",
+          "title_en": "major or extensive (>25% TBSA) to skin, subcutaneous tissue and muscle with multiple fractures and/or multiple organ injuries",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "全身損傷（爆傷） 詳細不明ᵃ > 広範囲（25% TBSAを超える）の皮膚・皮下組織・筋の損傷、多発性の骨折かつ／または臓器損傷を伴う",
+          "description_en": "Whole Body (explosion-type) Injury NFSᵃ > major or extensive (>25% TBSA) to skin, subcutaneous tissue and muscle with multiple fractures and/or multiple organ injuries",
+          "children": []
+        },
+        {
+          "code": "012008.6",
+          "title_ja": "重症；脳、胸部かつ／または腹部の多発性の臓器損傷 一肢以上の四肢欠損かつ／または断頭を伴う",
+          "title_en": "massive: multiple organ injury to brain, thorax and/or abdomen with loss of one or more limbs and/or decapitation",
+          "ais_severity": 6,
+          "hierarchy_level": 2,
+          "section": "その他の外傷",
+          "iss_body_region": "external",
+          "injury_types": [
+            "amputation"
+          ],
+          "description_ja": "全身損傷（爆傷） 詳細不明ᵃ > 重症；脳、胸部かつ／または腹部の多発性の臓器損傷 一肢以上の四肢欠損かつ／または断頭を伴う",
+          "description_en": "Whole Body (explosion-type) Injury NFSᵃ > massive: multiple organ injury to brain, thorax and/or abdomen with loss of one or more limbs and/or decapitation",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

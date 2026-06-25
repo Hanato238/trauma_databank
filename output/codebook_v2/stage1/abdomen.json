@@ -1,45 +1,7 @@
 {
   "body_part": "abdomen",
   "body_part_name": "Abdomen / 腹部",
-  "iss_body_region": "abdomen",
-  "source_file_count": 33,
-  "source_files": [
-    "abdomen_001.json",
-    "abdomen_002.json",
-    "abdomen_003.json",
-    "abdomen_004.json",
-    "abdomen_005.json",
-    "abdomen_006.json",
-    "abdomen_007.json",
-    "abdomen_008.json",
-    "abdomen_009.json",
-    "abdomen_010.json",
-    "abdomen_011.json",
-    "abdomen_012.json",
-    "abdomen_013.json",
-    "abdomen_014.json",
-    "abdomen_015.json",
-    "abdomen_016.json",
-    "abdomen_017.json",
-    "abdomen_018.json",
-    "abdomen_019.json",
-    "abdomen_020.json",
-    "abdomen_021.json",
-    "abdomen_022.json",
-    "abdomen_023.json",
-    "abdomen_024.json",
-    "abdomen_025.json",
-    "abdomen_026.json",
-    "abdomen_027.json",
-    "abdomen_028.json",
-    "abdomen_029.json",
-    "abdomen_030.json",
-    "abdomen_031.json",
-    "abdomen_032.json",
-    "abdomen_033.json"
-  ],
   "total_entries": 250,
-  "collision_count": 88,
   "entries": [
     {
       "code": "500099.9",
@@ -47,17 +9,13 @@
       "title_en": "Injuries to the Whole Abdomen NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ],
-      "collision_note": "description_ja 衝突: [鈍的腹部損傷 詳細不明] vs [死亡 (詳細な評価なし); 剖検なし] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "500999.9",
@@ -65,13 +23,13 @@
       "title_en": "Died of abdominal injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "516000.1",
@@ -79,17 +37,14 @@
       "title_en": "Penetrating injury NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "516002.1",
@@ -97,14 +52,14 @@
       "title_en": "superficial ; minor ; into peritoneum but not involving underlying structures",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "516004.2",
@@ -112,14 +67,14 @@
       "title_en": "with tissue loss >100cm²",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "516006.3",
@@ -127,16 +82,13 @@
       "title_en": "with blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510100.2",
@@ -144,17 +96,14 @@
       "title_en": "Rectus Abdominus rupture NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "511000.6",
@@ -162,16 +111,13 @@
       "title_en": "Torso transection",
       "ais_severity": 6,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510099.1",
@@ -179,16 +125,13 @@
       "title_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510202.1",
@@ -196,16 +139,13 @@
       "title_en": "abrasion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "abrasion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510402.1",
@@ -213,18 +153,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510600.1",
@@ -232,17 +168,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510602.1",
@@ -250,14 +183,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510604.2",
@@ -265,14 +198,14 @@
       "title_en": "major ; >20cm long and into subcutaneous tissue",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510606.3",
@@ -280,16 +213,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510800.1",
@@ -297,17 +227,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510802.1",
@@ -315,14 +242,14 @@
       "title_en": "minor ; superficial ; ≤100cm²",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510804.2",
@@ -330,14 +257,14 @@
       "title_en": "major ; >100cm²",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "510806.3",
@@ -345,16 +272,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_002.json",
-        "abdomen_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520099.9",
@@ -362,17 +286,14 @@
       "title_en": "Vascular Injury in Abdomen NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520299.4",
@@ -380,16 +301,14 @@
       "title_en": "Aorta, Abdominal NFS",
       "ais_severity": 4,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520202.4",
@@ -397,17 +316,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520204.4",
@@ -415,19 +332,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520206.4",
@@ -435,16 +349,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520208.5",
@@ -452,17 +363,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520499.3",
@@ -470,16 +379,14 @@
       "title_en": "Celiac Artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520402.3",
@@ -487,17 +394,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520404.3",
@@ -505,19 +410,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520406.4",
@@ -525,16 +427,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520408.5",
@@ -542,17 +441,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520699.3",
@@ -560,16 +457,14 @@
       "title_en": "Iliac Artery [common, internal, external] and its named branches NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520698.4",
@@ -577,14 +472,13 @@
       "title_en": "bilateral",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520602.3",
@@ -592,17 +486,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520604.3",
@@ -610,19 +502,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520606.3",
@@ -630,16 +519,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520608.4",
@@ -647,17 +533,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "VESSELS",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_004.json",
-        "abdomen_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521199.3",
@@ -665,16 +549,16 @@
       "title_en": "Superior Mesenteric Artery NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
+        "rupture",
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521102.3",
@@ -682,17 +566,18 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
         "rupture",
-        "avulsion"
+        "perforation",
+        "avulsion",
+        "penetrating",
+        "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521104.3",
@@ -700,18 +585,14 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
-        "perforation",
-        "nfs"
+        "perforation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521106.3",
@@ -719,16 +600,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521108.4",
@@ -736,17 +614,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521499.3",
@@ -754,16 +630,16 @@
       "title_en": "Other named arteries NFS [e.g., hepatic, renal, splenic]",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
+        "rupture",
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521402.3",
@@ -771,17 +647,18 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
         "rupture",
-        "avulsion"
+        "perforation",
+        "avulsion",
+        "penetrating",
+        "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521404.3",
@@ -789,19 +666,14 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
-        "perforation",
-        "penetrating",
-        "nfs"
+        "perforation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521406.3",
@@ -809,16 +681,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521408.4",
@@ -826,17 +695,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520899.3",
@@ -844,16 +711,17 @@
       "title_en": "Iliac Vein [common] NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520802.3",
@@ -861,19 +729,14 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
-        "perforation",
-        "penetrating",
-        "nfs"
+        "perforation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520804.3",
@@ -881,16 +744,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "520806.4",
@@ -898,17 +758,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521099.2",
@@ -916,16 +774,17 @@
       "title_en": "Iliac Vein [internal, external] NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521002.2",
@@ -933,19 +792,14 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
-        "perforation",
-        "penetrating",
-        "nfs"
+        "perforation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521004.2",
@@ -953,16 +807,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521006.3",
@@ -970,17 +821,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521299.3",
@@ -988,16 +837,14 @@
       "title_en": "Vena Cava, inferior NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521202.3",
@@ -1005,19 +852,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521204.3",
@@ -1025,16 +869,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521206.4",
@@ -1042,17 +883,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_006.json",
-        "abdomen_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521699.3",
@@ -1060,16 +899,14 @@
       "title_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric]",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_008.json",
-        "abdomen_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521602.3",
@@ -1077,18 +914,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_008.json",
-        "abdomen_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521604.3",
@@ -1096,16 +931,13 @@
       "title_en": "minor with or without thrombosis ; superficial ; incomplete circumferential involvement ; blood loss <=20 % by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_008.json",
-        "abdomen_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "521606.4",
@@ -1113,17 +945,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_008.json",
-        "abdomen_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "530499.1",
@@ -1131,16 +961,13 @@
       "title_en": "Vagus nerve injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nerve"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_008.json",
-        "abdomen_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540299.1",
@@ -1148,16 +975,13 @@
       "title_en": "Adrenal Gland NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540210.1",
@@ -1165,19 +989,15 @@
       "title_en": "contusion ; hematoma NFS [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
         "hematoma",
-        "hemorrhage",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540212.1",
@@ -1185,14 +1005,15 @@
       "title_en": "minor ; superficial [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540214.2",
@@ -1200,14 +1021,15 @@
       "title_en": "major ; large [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540220.1",
@@ -1215,17 +1037,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540222.1",
@@ -1233,14 +1052,14 @@
       "title_en": "minor ; superficial ; only cortex involvement ; <2cm [OIS II]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540224.2",
@@ -1248,16 +1067,13 @@
       "title_en": "major ; multiple lacerations ; extending into medulla ; ≥2cm [OIS III]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540226.3",
@@ -1265,17 +1081,14 @@
       "title_en": "massive ; avulsion ; complex ; rupture ; >50% parenchymal destruction [OIS IV, V]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540499.1",
@@ -1283,16 +1096,13 @@
       "title_en": "Anus NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540410.1",
@@ -1300,18 +1110,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540420.2",
@@ -1319,17 +1125,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540422.2",
@@ -1337,16 +1140,14 @@
       "title_en": "no perforation ; partial thickness",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540424.3",
@@ -1354,16 +1155,14 @@
       "title_en": "perforation ; full thickness",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540426.4",
@@ -1371,17 +1170,14 @@
       "title_en": "massive ; avulsion ; complex ; rupture ; major tissue loss",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540322.2",
@@ -1389,17 +1185,14 @@
       "title_en": "Appendix laceration ; perforationª",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540699.2",
@@ -1407,16 +1200,13 @@
       "title_en": "Bladder (urinary) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540610.2",
@@ -1424,18 +1214,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540620.2",
@@ -1443,17 +1229,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540622.2",
@@ -1461,16 +1244,14 @@
       "title_en": "no perforation ; partial thickness [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540623.2",
@@ -1478,14 +1259,14 @@
       "title_en": "extraperitoneal wall ≤2cm [OIS II]ª",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540624.3",
@@ -1493,14 +1274,14 @@
       "title_en": "extraperitoneal wall >2cm ; intraperitoneal wall ≤2cm [OIS III]ª",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540625.3",
@@ -1508,14 +1289,14 @@
       "title_en": "intraperitoneal wall >2cm [OIS IV]ª",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540626.4",
@@ -1523,17 +1304,14 @@
       "title_en": "massive ; avulsion ; complex, tissue loss ; involving urethral orifice (trigone) or bladder neck [OIS V]",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540640.3",
@@ -1541,17 +1319,14 @@
       "title_en": "rupture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_012.json",
-        "abdomen_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540899.2",
@@ -1559,20 +1334,13 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
-        "contusion",
-        "hematoma",
-        "hemorrhage",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540810.2",
@@ -1580,20 +1348,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
-        "laceration",
         "contusion",
-        "hematoma",
-        "nfs"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540820.2",
@@ -1601,19 +1363,14 @@
       "title_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
-        "perforation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540822.2",
@@ -1621,17 +1378,14 @@
       "title_en": "perforation ; full thickness ; >=50% circumference without transection ; multiple simple wounds [OIS III]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540824.3",
@@ -1639,21 +1393,16 @@
       "title_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
-        "laceration",
         "rupture",
         "perforation",
-        "avulsion",
-        "vascular"
+        "amputation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "540826.4",
@@ -1661,18 +1410,16 @@
       "title_en": null,
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "rupture",
-        "amputation"
+        "amputation",
+        "avulsion",
+        "vascular"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541099.2",
@@ -1680,15 +1427,13 @@
       "title_en": "Duodenum NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "内 臓",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541010.2",
@@ -1696,19 +1441,14 @@
       "title_en": "contusion ; hematoma [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541020.2",
@@ -1716,18 +1456,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541022.2",
@@ -1735,19 +1471,15 @@
       "title_en": "no perforation ; partial thickness ; serosal tear [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
-        "rupture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541021.2",
@@ -1755,15 +1487,13 @@
       "title_en": "disruption ; <50% circumference [OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
+      "injury_types": [
+        "rupture"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541023.3",
@@ -1771,15 +1501,13 @@
       "title_en": "disruption 50-100% circumference of D1 (superior or first part), D3 (transverse or third part) or D4 (ascending or fourth part) [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
+      "injury_types": [
+        "rupture"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541025.3",
@@ -1787,15 +1515,13 @@
       "title_en": "disruption 50-75 % circumference of D2 (descending or second part) [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
+      "injury_types": [
+        "rupture"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541024.4",
@@ -1803,15 +1529,13 @@
       "title_en": "disruption >75% circumference of D2 (descending or second part) ; involving ampulla or distal common bile duct [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
+      "injury_types": [
+        "rupture"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541028.5",
@@ -1819,19 +1543,15 @@
       "title_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; devascularization ; massive disruption of duodenopancreatic complex [OIS V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "rupture",
         "avulsion",
         "vascular"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_014.json",
-        "abdomen_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541299.2",
@@ -1839,16 +1559,13 @@
       "title_en": "Gallbladder NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541210.2",
@@ -1856,18 +1573,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541220.2",
@@ -1875,18 +1588,15 @@
       "title_en": "laceration ; perforation NFS [OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541222.2",
@@ -1894,15 +1604,13 @@
       "title_en": "minor ; superficial ; no cystic duct involvement [OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541224.3",
@@ -1910,19 +1618,16 @@
       "title_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; cystic duct laceration or transection [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
         "rupture",
+        "amputation",
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541226.4",
@@ -1930,18 +1635,15 @@
       "title_en": "with common bile or hepatic duct laceration or transection [OIS IV, V]",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
-        "rupture"
+        "rupture",
+        "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541499.2",
@@ -1949,16 +1651,13 @@
       "title_en": "Jejunum-Ileum (small bowel) NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541410.2",
@@ -1966,18 +1665,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541420.2",
@@ -1985,17 +1680,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541422.2",
@@ -2003,17 +1695,14 @@
       "title_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541424.3",
@@ -2021,19 +1710,17 @@
       "title_en": "perforation ; full thickness ; ≥50% circumference without transection ; multiple simple wounds [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
         "rupture",
-        "perforation"
+        "perforation",
+        "amputation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541426.4",
@@ -2041,19 +1728,16 @@
       "title_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "rupture",
+        "amputation",
         "avulsion",
         "vascular"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_016.json",
-        "abdomen_017.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541699.2",
@@ -2061,16 +1745,13 @@
       "title_en": "Kidney NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541610.2",
@@ -2078,20 +1759,15 @@
       "title_en": "contusion ; hematoma NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "contusion",
         "hematoma",
-        "hemorrhage",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541612.2",
@@ -2099,17 +1775,13 @@
       "title_en": "subcapsular, nonexpanding ; confined to renal retroperitoneum ; minor ; superficial [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541614.3",
@@ -2117,15 +1789,15 @@
       "title_en": "subcapsular, > 50 % surface area or expanding ; major ; large [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541620.2",
@@ -2133,17 +1805,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541622.2",
@@ -2151,15 +1820,14 @@
       "title_en": "≤ 1cm parenchymal depth of renal cortex, no urinary extravasation ; minor ; superficial [OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541624.3",
@@ -2167,17 +1835,13 @@
       "title_en": ">1cm parenchymal depth of renal cortex, no collecting system rupture or urinary extravasation ; moderate [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541626.4",
@@ -2185,18 +1849,14 @@
       "title_en": "extending through renal cortex, medulla and collecting system ; main renal vessel injury with contained hemorrhage ; major [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "hemorrhage",
         "vascular"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541628.5",
@@ -2204,19 +1864,14 @@
       "title_en": "hilum avulsion ; total destruction of organ and its vascular system [OIS V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "vascular"
+        "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541640.4",
@@ -2224,16 +1879,13 @@
       "title_en": "rupture",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "Injury Description",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_018.json",
-        "abdomen_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541899.2",
@@ -2241,16 +1893,13 @@
       "title_en": "Liver NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541810.2",
@@ -2258,20 +1907,15 @@
       "title_en": "contusion ; hematoma NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
         "hematoma",
-        "hemorrhage",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541812.2",
@@ -2279,15 +1923,15 @@
       "title_en": "subcapsular, ≤50% surface area, or nonexpanding ; intraparenchymal ≤10cm in diameter ; minor ; superficial [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541814.3",
@@ -2295,17 +1939,13 @@
       "title_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal >10cm or expanding ; major [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541820.2",
@@ -2313,18 +1953,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541822.2",
@@ -2332,17 +1968,13 @@
       "title_en": "simple capsular tears ; ≤3cm parenchymal depth ; ≤10cm long ; minor ; superficial [OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
-        "rupture"
+        "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541824.3",
@@ -2350,15 +1982,14 @@
       "title_en": ">3cm parenchymal depth ; major duct involvement ; moderate [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541826.4",
@@ -2366,18 +1997,14 @@
       "title_en": "parenchymal disruption ≤75 % hepatic lobe ; multiple lacerations >3cm deep ; \"burst\" injury ; major [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541828.5",
@@ -2385,17 +2012,14 @@
       "title_en": "parenchymal disruption of >75% of hepatic lobe or > 3 Couinard's segments within a single lobe ; or involving retrohepatic vena cava/central hepatic veins ; massive ; complex [OIS V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
-        "rupture"
+        "rupture",
+        "vascular"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541830.6",
@@ -2403,19 +2027,14 @@
       "title_en": "hepatic avulsion (total separation of all vascular attachments) [OIS VI]",
       "ais_severity": 6,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "vascular"
+        "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "541840.4",
@@ -2423,17 +2042,13 @@
       "title_en": "rupture",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542099.2",
@@ -2441,16 +2056,13 @@
       "title_en": "Mesentery NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542010.2",
@@ -2458,19 +2070,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542020.2",
@@ -2478,18 +2085,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542022.2",
@@ -2497,15 +2100,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542024.3",
@@ -2513,15 +2115,14 @@
       "title_en": "major",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542026.4",
@@ -2529,18 +2130,14 @@
       "title_en": "massive ; avulsion ; complex ; tissue loss",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "腹 部",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_022.json",
-        "abdomen_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542299.2",
@@ -2548,16 +2145,13 @@
       "title_en": "Omentum NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542210.2",
@@ -2565,18 +2159,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542220.2",
@@ -2584,17 +2174,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542222.2",
@@ -2602,14 +2189,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542224.3",
@@ -2617,14 +2204,14 @@
       "title_en": "major",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542400.2",
@@ -2632,16 +2219,13 @@
       "title_en": "Ovarian (Fallopian) tube laceration",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542699.1",
@@ -2649,16 +2233,13 @@
       "title_en": "Ovary NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542610.1",
@@ -2666,18 +2247,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542620.1",
@@ -2685,18 +2262,15 @@
       "title_en": "laceration ; perforation NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542622.1",
@@ -2704,14 +2278,15 @@
       "title_en": "superficial ; <=.5cm ; minor [OIS II]",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542623.2",
@@ -2719,14 +2294,15 @@
       "title_en": "deep ; >.5cm [OIS III]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542624.2",
@@ -2734,17 +2310,14 @@
       "title_en": "complete parenchymal destruction ; massive ; avulsion ; complex [OIS IV, V]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542899.2",
@@ -2752,16 +2325,13 @@
       "title_en": "Pancreas NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542810.2",
@@ -2769,19 +2339,15 @@
       "title_en": "contusion ; hematoma NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
         "hematoma",
-        "hemorrhage",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542812.2",
@@ -2789,14 +2355,13 @@
       "title_en": "minor ; superficial ; no duct involvement [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542814.3",
@@ -2804,14 +2369,15 @@
       "title_en": "major ; large ; extensive ; with duct involvement [OIS II]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542820.2",
@@ -2819,17 +2385,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542822.2",
@@ -2837,14 +2400,13 @@
       "title_en": "minor ; superficial ; no duct involvement [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542824.3",
@@ -2852,17 +2414,13 @@
       "title_en": "moderate ; major vessel or major duct involvement ; distal transection [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "amputation",
-        "vascular"
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542826.4",
@@ -2870,15 +2428,14 @@
       "title_en": "if involving ampulla [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542828.4",
@@ -2886,17 +2443,14 @@
       "title_en": "major ; multiple lacerations ; proximal transection [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542830.4",
@@ -2904,15 +2458,14 @@
       "title_en": "if involving ampulla [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "542832.5",
@@ -2920,17 +2473,14 @@
       "title_en": "massive ; avulsion ; complex ; tissue loss ; massive disruption of pancreatic head [OIS V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_024.json",
-        "abdomen_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543099.1",
@@ -2938,16 +2488,13 @@
       "title_en": "Penis NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543010.1",
@@ -2955,19 +2502,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543020.1",
@@ -2975,19 +2517,15 @@
       "title_en": "laceration ; perforation NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543022.1",
@@ -2995,15 +2533,15 @@
       "title_en": "minor ; superficial [OIS II, III]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543024.2",
@@ -3011,15 +2549,15 @@
       "title_en": "major [OIS IV]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543026.2",
@@ -3027,19 +2565,14 @@
       "title_en": "massive ; amputation ; avulsion ; complex ; [OIS V]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
-        "avulsion",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543299.1",
@@ -3047,16 +2580,13 @@
       "title_en": "Perineum NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543210.1",
@@ -3064,19 +2594,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543220.1",
@@ -3084,19 +2609,15 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543222.1",
@@ -3104,15 +2625,15 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543224.2",
@@ -3120,15 +2641,15 @@
       "title_en": "major",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543226.3",
@@ -3136,18 +2657,13 @@
       "title_en": "massive ; avulsion ; complex",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
-        "rupture",
-        "avulsion"
+        "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543599.1",
@@ -3155,16 +2671,13 @@
       "title_en": "Prostate NFSᵃ",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543510.1",
@@ -3172,19 +2685,14 @@
       "title_en": "contusion ; hematomaᵃ",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543520.2",
@@ -3192,18 +2700,14 @@
       "title_en": "laceration NFSᵃ",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543522.3",
@@ -3211,15 +2715,14 @@
       "title_en": "involving urethraᵃ",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543699.2",
@@ -3227,16 +2730,13 @@
       "title_en": "Rectum NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543610.2",
@@ -3244,19 +2744,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543620.2",
@@ -3264,18 +2759,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543622.2",
@@ -3283,17 +2774,13 @@
       "title_en": "no perforation ; partial thickness ; ≤50% of circumfer-ence [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
         "perforation"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543624.3",
@@ -3301,15 +2788,14 @@
       "title_en": "full thickness ; >50% circumference [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543625.4",
@@ -3317,15 +2803,14 @@
       "title_en": "extending into perineum [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543626.5",
@@ -3333,19 +2818,13 @@
       "title_en": "massive ; avulsion ; tissue loss ; devascularization [OIS V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "ABDOMEN",
       "iss_body_region": "abdomen",
-      "section": "AIS 2005",
       "injury_types": [
-        "rupture",
-        "avulsion",
-        "vascular"
+        "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_026.json",
-        "abdomen_027.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "543800.2",
@@ -3353,17 +2832,14 @@
       "title_en": "Retroperitoneum hemorrhage or hematoma",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "hematoma",
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544099.1",
@@ -3371,16 +2847,13 @@
       "title_en": "Scrotum NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544010.1",
@@ -3388,18 +2861,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544020.1",
@@ -3407,18 +2876,15 @@
       "title_en": "laceration ; perforation NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544022.1",
@@ -3426,14 +2892,15 @@
       "title_en": "minor ; superficial ; <25% diameter [OIS II]",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544024.2",
@@ -3441,18 +2908,14 @@
       "title_en": "major ; amputation ; avulsion ; complex [OIS III, IV, V]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "rupture",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544299.2",
@@ -3460,16 +2923,13 @@
       "title_en": "Spleen NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544210.2",
@@ -3477,19 +2937,15 @@
       "title_en": "contusion ; hematoma NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
         "hematoma",
-        "hemorrhage",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544212.2",
@@ -3497,14 +2953,15 @@
       "title_en": "subcapsular, ≤50% surface area ; intraparenchymal, ≤5cm in diameter ; minor ; superficial [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "contusion",
+        "hematoma",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544214.3",
@@ -3512,16 +2969,13 @@
       "title_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal, >5cm in diameter or expanding ; major [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544220.2",
@@ -3529,17 +2983,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544222.2",
@@ -3547,17 +2998,13 @@
       "title_en": "simple capsular tear ≤3cm parenchymal depth and no trabecular vessel involvement ; minor ; superficial [OIS I, II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "rupture",
-        "vascular"
+        "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544224.3",
@@ -3565,17 +3012,13 @@
       "title_en": "no hilar or segmental parenchymal disruption or destruction ; >3cm parenchymal depth or involving trabecular vessels ; moderate [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "rupture",
-        "vascular"
+        "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544226.4",
@@ -3583,17 +3026,13 @@
       "title_en": "involving segmental or hilar vessels producing major devascularization of >25% of spleen but no hilar injury ; major [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "amputation",
         "vascular"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544228.5",
@@ -3601,19 +3040,15 @@
       "title_en": "hilar disruption producing total devascularization ; tissue loss ; avulsion ; massive [OIS V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
         "avulsion",
-        "amputation",
         "vascular"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544240.3",
@@ -3621,17 +3056,14 @@
       "title_en": "rupture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_028.json",
-        "abdomen_029.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544499.2",
@@ -3639,16 +3071,13 @@
       "title_en": "Stomach NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544410.2",
@@ -3656,19 +3085,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544414.3",
@@ -3676,15 +3100,13 @@
       "title_en": "ingestion injury^a",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544415.3",
@@ -3692,15 +3114,13 @@
       "title_en": "partial thickness necrosis^a",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "burn"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544416.4",
@@ -3708,15 +3128,13 @@
       "title_en": "full thickness necrosis^a",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "burn"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544420.2",
@@ -3724,18 +3142,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544422.2",
@@ -3743,17 +3157,14 @@
       "title_en": "no perforation ; partial thickness [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544424.3",
@@ -3761,17 +3172,14 @@
       "title_en": "perforation ; full thickness [OIS II, III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544426.4",
@@ -3779,19 +3187,15 @@
       "title_en": "avulsion ; complex ; rupture ; tissue loss ; massive ; devascularization [OIS IV, V]",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
         "avulsion",
         "vascular"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544699.1",
@@ -3799,16 +3203,13 @@
       "title_en": "Testes NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544610.1",
@@ -3816,19 +3217,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544620.1",
@@ -3836,18 +3232,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544622.1",
@@ -3855,15 +3247,14 @@
       "title_en": "minor ; superficial [OIS II, III]",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544624.2",
@@ -3871,19 +3262,15 @@
       "title_en": "avulsion ; amputation ; complex ; massive [OIS IV, V]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544899.2",
@@ -3891,16 +3278,13 @@
       "title_en": "Ureter NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544810.2",
@@ -3908,19 +3292,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544820.2",
@@ -3928,18 +3307,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544822.2",
@@ -3947,17 +3322,14 @@
       "title_en": "no perforation ; partial thickness [OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544824.3",
@@ -3965,17 +3337,14 @@
       "title_en": "perforation ; full thickness [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "544826.3",
@@ -3983,19 +3352,15 @@
       "title_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; transection [OIS IV, V]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545099.2",
@@ -4003,16 +3368,13 @@
       "title_en": "Urethra NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545010.2",
@@ -4020,19 +3382,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545020.2",
@@ -4040,18 +3397,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545022.2",
@@ -4059,17 +3412,14 @@
       "title_en": "no perforation ; partial thickness [OIS III]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545024.2",
@@ -4077,17 +3427,14 @@
       "title_en": "perforation ; full thickness ; urethral separation <2cm [OIS IV]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545026.2",
@@ -4095,18 +3442,14 @@
       "title_en": "avulsion ; complex ; tissue loss ; massive [OIS IV]",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545028.3",
@@ -4114,17 +3457,13 @@
       "title_en": "posterior tissue loss ; transection ; urethral separation >2cm [OIS V]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545030.2",
@@ -4132,15 +3471,14 @@
       "title_en": "stretch injury [OIS II]^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "abdomen",
       "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "abdomen_030.json",
-        "abdomen_031.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545299.1",
@@ -4148,16 +3486,13 @@
       "title_en": "Uterus NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545210.1",
@@ -4165,18 +3500,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545220.2",
@@ -4184,18 +3515,15 @@
       "title_en": "laceration ; perforation NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545222.2",
@@ -4203,14 +3531,15 @@
       "title_en": "≤1cm ; minor ; superficial [OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545224.3",
@@ -4218,16 +3547,13 @@
       "title_en": ">1cm ; placental abruption ≤50% ; major ; deep [OIS III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545226.4",
@@ -4235,16 +3561,13 @@
       "title_en": "involving uterine artery ; placental abruption >50% but not complete [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
-        "avulsion"
+        "vascular"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545228.5",
@@ -4252,18 +3575,15 @@
       "title_en": "uterine rupture ; avulsion ; devascularization ; complete placental abruption",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "rupture",
         "avulsion",
         "vascular"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545499.1",
@@ -4271,15 +3591,13 @@
       "title_en": null,
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "腹部",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545410.1",
@@ -4287,18 +3605,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545420.1",
@@ -4306,18 +3620,15 @@
       "title_en": "laceration ; perforation NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545422.1",
@@ -4325,14 +3636,15 @@
       "title_en": "minor ; superficial ; mucosa only [OIS II]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545424.2",
@@ -4340,14 +3652,15 @@
       "title_en": "major ; deep into fat/muscle [OIS III]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545426.3",
@@ -4355,17 +3668,14 @@
       "title_en": "massive ; avulsion ; complex ; into cervix or peritoneum [OIS IV, V]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545699.1",
@@ -4373,15 +3683,13 @@
       "title_en": "Vulva NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "abdomen",
       "section": "腹部",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545610.1",
@@ -4389,18 +3697,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545620.1",
@@ -4408,18 +3712,15 @@
       "title_en": "laceration ; perforation NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "laceration",
         "perforation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545622.1",
@@ -4427,14 +3728,15 @@
       "title_en": "minor ; superficial ; skin only [OIS II]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545624.2",
@@ -4442,14 +3744,15 @@
       "title_en": "major ; deep into fat/muscle [OIS III]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "545626.3",
@@ -4457,17 +3760,14 @@
       "title_en": "massive ; avulsion ; complex [OIS IV, V]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "腹部",
       "iss_body_region": "abdomen",
-      "section": "ABDOMEN",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "abdomen_032.json",
-        "abdomen_033.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     }
   ]
 }

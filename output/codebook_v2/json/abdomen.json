@@ -1,0 +1,4106 @@
+{
+  "body_part": "abdomen",
+  "body_part_name": "Abdomen / 腹部",
+  "total_entries": 250,
+  "entries": [
+    {
+      "code": "500099.9",
+      "title_ja": "鈍的腹部損傷 詳細不明",
+      "title_en": "Injuries to the Whole Abdomen NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "鈍的腹部損傷 詳細不明",
+      "description_en": "Injuries to the Whole Abdomen NFS",
+      "children": [
+        {
+          "code": "500999.9",
+          "title_ja": "死亡 (詳細な評価なし): 剖検なし",
+          "title_en": "Died of abdominal injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "鈍的腹部損傷 詳細不明 > 死亡 (詳細な評価なし): 剖検なし",
+          "description_en": "Injuries to the Whole Abdomen NFS > Died of abdominal injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "516000.1",
+      "title_ja": "穿通性損傷 詳細不明",
+      "title_en": "Penetrating injury NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": "穿通性損傷 詳細不明",
+      "description_en": "Penetrating injury NFS",
+      "children": [
+        {
+          "code": "516002.1",
+          "title_ja": "表在性 ; 小 ; 腹膜に達するが深部組織の損傷は伴わない",
+          "title_en": "superficial ; minor ; into peritoneum but not involving underlying structures",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "穿通性損傷 詳細不明 > 表在性 ; 小 ; 腹膜に達するが深部組織の損傷は伴わない",
+          "description_en": "Penetrating injury NFS > superficial ; minor ; into peritoneum but not involving underlying structures",
+          "children": []
+        },
+        {
+          "code": "516004.2",
+          "title_ja": "組織欠損が100cm²を超える",
+          "title_en": "with tissue loss >100cm²",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "穿通性損傷 詳細不明 > 組織欠損が100cm²を超える",
+          "description_en": "Penetrating injury NFS > with tissue loss >100cm²",
+          "children": []
+        },
+        {
+          "code": "516006.3",
+          "title_ja": "出血量が全血液量の20%を超える",
+          "title_en": "with blood loss >20% by volume",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "穿通性損傷 詳細不明 > 出血量が全血液量の20%を超える",
+          "description_en": "Penetrating injury NFS > with blood loss >20% by volume",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "510100.2",
+      "title_ja": "腹直筋断裂 詳細不明ᵃ",
+      "title_en": "Rectus Abdominus rupture NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "rupture",
+        "nfs"
+      ],
+      "description_ja": "腹直筋断裂 詳細不明ᵃ",
+      "description_en": "Rectus Abdominus rupture NFS",
+      "children": []
+    },
+    {
+      "code": "511000.6",
+      "title_ja": "体幹部離断ᵃ",
+      "title_en": "Torso transection",
+      "ais_severity": 6,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "amputation"
+      ],
+      "description_ja": "体幹部離断ᵃ",
+      "description_en": "Torso transection",
+      "children": []
+    },
+    {
+      "code": "510099.1",
+      "title_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明",
+      "title_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明",
+      "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS",
+      "children": [
+        {
+          "code": "510202.1",
+          "title_ja": "擦過傷",
+          "title_en": "abrasion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "abrasion"
+          ],
+          "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 擦過傷",
+          "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > abrasion",
+          "children": []
+        },
+        {
+          "code": "510402.1",
+          "title_ja": "挫傷 ; 血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 挫傷 ; 血腫",
+          "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "510600.1",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > laceration NFS",
+          "children": [
+            {
+              "code": "510602.1",
+              "title_ja": "小 ; 表在性",
+              "title_en": "minor ; superficial",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 裂傷・裂創 詳細不明 > 小 ; 表在性",
+              "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > laceration NFS > minor ; superficial",
+              "children": []
+            },
+            {
+              "code": "510604.2",
+              "title_ja": "大 ; 長さが20cmを超え, かつ皮下組織に達する",
+              "title_en": "major ; >20cm long and into subcutaneous tissue",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 裂傷・裂創 詳細不明 > 大 ; 長さが20cmを超え, かつ皮下組織に達する",
+              "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > laceration NFS > major ; >20cm long and into subcutaneous tissue",
+              "children": []
+            },
+            {
+              "code": "510606.3",
+              "title_ja": "出血量が全血液量の20%を超える",
+              "title_en": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 裂傷・裂創 詳細不明 > 出血量が全血液量の20%を超える",
+              "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > laceration NFS > blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "510800.1",
+          "title_ja": "剥離 詳細不明",
+          "title_en": "avulsion NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 剥離 詳細不明",
+          "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > avulsion NFS",
+          "children": [
+            {
+              "code": "510802.1",
+              "title_ja": "小 ; 表在性 ; 100cm²以下",
+              "title_en": "minor ; superficial ; ≤100cm²",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 剥離 詳細不明 > 小 ; 表在性 ; 100cm²以下",
+              "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > avulsion NFS > minor ; superficial ; ≤100cm²",
+              "children": []
+            },
+            {
+              "code": "510804.2",
+              "title_ja": "大 ; 100cm²を超える",
+              "title_en": "major ; >100cm²",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 剥離 詳細不明 > 大 ; 100cm²を超える",
+              "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > avulsion NFS > major ; >100cm²",
+              "children": []
+            },
+            {
+              "code": "510806.3",
+              "title_ja": "出血量が全血液量の20%を超える",
+              "title_en": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "皮膚/皮下組織/筋肉 [腹直筋を除く] 詳細不明 > 剥離 詳細不明 > 出血量が全血液量の20%を超える",
+              "description_en": "Skin/Subcutaneous/Muscle [except rectus abdominus] NFS > avulsion NFS > blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "520099.9",
+      "title_ja": "腹部血管損傷 詳細不明",
+      "title_en": "Vascular Injury in Abdomen NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "VESSELS",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "腹部血管損傷 詳細不明",
+      "description_en": "Vascular Injury in Abdomen NFS",
+      "children": []
+    },
+    {
+      "code": "520299.4",
+      "title_ja": "腹部大動脈 詳細不明",
+      "title_en": "Aorta, Abdominal NFS",
+      "ais_severity": 4,
+      "hierarchy_level": 1,
+      "section": "VESSELS",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "腹部大動脈 詳細不明",
+      "description_en": "Aorta, Abdominal NFS",
+      "children": [
+        {
+          "code": "520202.4",
+          "title_ja": "内膜剥離, 断裂なし",
+          "title_en": "intimal tear, no disruption",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "VESSELS",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "description_ja": "腹部大動脈 詳細不明 > 内膜剥離, 断裂なし",
+          "description_en": "Aorta, Abdominal NFS > intimal tear, no disruption",
+          "children": []
+        },
+        {
+          "code": "520204.4",
+          "title_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "VESSELS",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "腹部大動脈 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明",
+          "description_en": "Aorta, Abdominal NFS > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "520206.4",
+              "title_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "VESSELS",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "腹部大動脈 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明 > 小；表在性；非全周性；出血量が全血液量の20%以下",
+              "description_en": "Aorta, Abdominal NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "520208.5",
+              "title_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "VESSELS",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "腹部大動脈 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明 > 大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "description_en": "Aorta, Abdominal NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "520499.3",
+      "title_ja": "腹腔動脈 詳細不明",
+      "title_en": "Celiac Artery NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "VESSELS",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "腹腔動脈 詳細不明",
+      "description_en": "Celiac Artery NFS",
+      "children": [
+        {
+          "code": "520402.3",
+          "title_ja": "内膜剥離, 断裂なし",
+          "title_en": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "VESSELS",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "description_ja": "腹腔動脈 詳細不明 > 内膜剥離, 断裂なし",
+          "description_en": "Celiac Artery NFS > intimal tear, no disruption",
+          "children": []
+        },
+        {
+          "code": "520404.3",
+          "title_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "VESSELS",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "腹腔動脈 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明",
+          "description_en": "Celiac Artery NFS > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "520406.4",
+              "title_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "VESSELS",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "腹腔動脈 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明 > 小；表在性；非全周性；出血量が全血液量の20%以下",
+              "description_en": "Celiac Artery NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "520408.5",
+              "title_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "VESSELS",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "腹腔動脈 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明 > 大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "description_en": "Celiac Artery NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "520699.3",
+      "title_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明",
+      "title_en": "Iliac Artery [common, internal, external] and its named branches NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "VESSELS",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明",
+      "description_en": "Iliac Artery [common, internal, external] and its named branches NFS",
+      "children": [
+        {
+          "code": "520698.4",
+          "title_ja": "両側c 総腸骨動脈に限る。",
+          "title_en": "bilateral",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "VESSELS",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "vascular"
+          ],
+          "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明 > 両側c 総腸骨動脈に限る。",
+          "description_en": "Iliac Artery [common, internal, external] and its named branches NFS > bilateral",
+          "children": []
+        },
+        {
+          "code": "520602.3",
+          "title_ja": "内膜剥離, 断裂なし",
+          "title_en": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "VESSELS",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "avulsion"
+          ],
+          "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明 > 内膜剥離, 断裂なし",
+          "description_en": "Iliac Artery [common, internal, external] and its named branches NFS > intimal tear, no disruption",
+          "children": []
+        },
+        {
+          "code": "520604.3",
+          "title_ja": "裂傷・裂創；穿孔；穿刺 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "VESSELS",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明",
+          "description_en": "Iliac Artery [common, internal, external] and its named branches NFS > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "520606.3",
+              "title_ja": "小；表在性；非全周性；出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "VESSELS",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明 > 小；表在性；非全周性；出血量が全血液量の20%以下",
+              "description_en": "Iliac Artery [common, internal, external] and its named branches NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "520608.4",
+              "title_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "VESSELS",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "腸骨動脈 [総, 内, 外] (名前の付いた分枝血管を含む) 詳細不明 > 裂傷・裂創；穿孔；穿刺 詳細不明 > 大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "description_en": "Iliac Artery [common, internal, external] and its named branches NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "521199.3",
+      "title_ja": "上腸間膜動脈 詳細不明",
+      "title_en": "Superior Mesenteric Artery NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "rupture",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "上腸間膜動脈 詳細不明",
+      "description_en": "Superior Mesenteric Artery NFS",
+      "children": [
+        {
+          "code": "521102.3",
+          "title_ja": "内膜剥離, 断裂なし",
+          "title_en": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "perforation",
+            "avulsion",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "上腸間膜動脈 詳細不明 > 内膜剥離, 断裂なし",
+          "description_en": "Superior Mesenteric Artery NFS > intimal tear, no disruption",
+          "children": []
+        },
+        {
+          "code": "521104.3",
+          "title_ja": "裂傷・裂創; 穿孔; 穿",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation"
+          ],
+          "description_ja": "上腸間膜動脈 詳細不明 > 裂傷・裂創; 穿孔; 穿",
+          "description_en": "Superior Mesenteric Artery NFS > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "521106.3",
+              "title_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "上腸間膜動脈 詳細不明 > 裂傷・裂創; 穿孔; 穿 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "description_en": "Superior Mesenteric Artery NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "521108.4",
+              "title_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "上腸間膜動脈 詳細不明 > 裂傷・裂創; 穿孔; 穿 > 大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "description_en": "Superior Mesenteric Artery NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "521499.3",
+      "title_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈]",
+      "title_en": "Other named arteries NFS [e.g., hepatic, renal, splenic]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "rupture",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈]",
+      "description_en": "Other named arteries NFS [e.g., hepatic, renal, splenic]",
+      "children": [
+        {
+          "code": "521402.3",
+          "title_ja": "内膜剥離, 断裂なし",
+          "title_en": "intimal tear, no disruption",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "rupture",
+            "perforation",
+            "avulsion",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈] > 内膜剥離, 断裂なし",
+          "description_en": "Other named arteries NFS [e.g., hepatic, renal, splenic] > intimal tear, no disruption",
+          "children": []
+        },
+        {
+          "code": "521404.3",
+          "title_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation"
+          ],
+          "description_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈] > 裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "description_en": "Other named arteries NFS [e.g., hepatic, renal, splenic] > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "521406.3",
+              "title_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈] > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "description_en": "Other named arteries NFS [e.g., hepatic, renal, splenic] > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "521408.4",
+              "title_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "その他の動脈 詳細不明 [例：肝動脈, 腎動脈, 脾動脈] > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "description_en": "Other named arteries NFS [e.g., hepatic, renal, splenic] > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "520899.3",
+      "title_ja": "腸骨静脈 [総] 詳細不明",
+      "title_en": "Iliac Vein [common] NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "腸骨静脈 [総] 詳細不明",
+      "description_en": "Iliac Vein [common] NFS",
+      "children": [
+        {
+          "code": "520802.3",
+          "title_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation"
+          ],
+          "description_ja": "腸骨静脈 [総] 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "description_en": "Iliac Vein [common] NFS > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "520804.3",
+              "title_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "腸骨静脈 [総] 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "description_en": "Iliac Vein [common] NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "520806.4",
+              "title_ja": "大; 破裂; 断裂; 部分欠損; 全周性; 出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "腸骨静脈 [総] 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 大; 破裂; 断裂; 部分欠損; 全周性; 出血量が全血液量の20%を超える",
+              "description_en": "Iliac Vein [common] NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "521099.2",
+      "title_ja": "腸骨静脈 [内, 外] 詳細不明",
+      "title_en": "Iliac Vein [internal, external] NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "perforation",
+        "penetrating",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "腸骨静脈 [内, 外] 詳細不明",
+      "description_en": "Iliac Vein [internal, external] NFS",
+      "children": [
+        {
+          "code": "521002.2",
+          "title_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation"
+          ],
+          "description_ja": "腸骨静脈 [内, 外] 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "description_en": "Iliac Vein [internal, external] NFS > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "521004.2",
+              "title_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "腸骨静脈 [内, 外] 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "description_en": "Iliac Vein [internal, external] NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "521006.3",
+              "title_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "腸骨静脈 [内, 外] 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "description_en": "Iliac Vein [internal, external] NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "521299.3",
+      "title_ja": "下大静脈 詳細不明",
+      "title_en": "Vena Cava, inferior NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "下大静脈 詳細不明",
+      "description_en": "Vena Cava, inferior NFS",
+      "children": [
+        {
+          "code": "521202.3",
+          "title_ja": "裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "下大静脈 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明",
+          "description_en": "Vena Cava, inferior NFS > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "521204.3",
+              "title_ja": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "下大静脈 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+              "description_en": "Vena Cava, inferior NFS > laceration ; perforation ; puncture NFS > minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+              "children": []
+            },
+            {
+              "code": "521206.4",
+              "title_ja": "大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "下大静脈 詳細不明 > 裂傷・裂創; 穿孔; 穿刺 詳細不明 > 大; 破裂; 断裂; 部分欠損; 出血量が全血液量の20%を超える",
+              "description_en": "Vena Cava, inferior NFS > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "521699.3",
+      "title_ja": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈]",
+      "title_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈]",
+      "description_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric]",
+      "children": [
+        {
+          "code": "521602.3",
+          "title_ja": "裂傷・裂創；穿孔 詳細不明",
+          "title_en": "laceration ; perforation ; puncture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈] > 裂傷・裂創；穿孔 詳細不明",
+          "description_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric] > laceration ; perforation ; puncture NFS",
+          "children": [
+            {
+              "code": "521604.3",
+              "title_ja": "小；血栓の有無を問わない；表在性；非全周性；出血量が全血液量の20%以下",
+              "title_en": "minor with or without thrombosis ; superficial ; incomplete circumferential involvement ; blood loss <=20 % by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈] > 裂傷・裂創；穿孔 詳細不明 > 小；血栓の有無を問わない；表在性；非全周性；出血量が全血液量の20%以下",
+              "description_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric] > laceration ; perforation ; puncture NFS > minor with or without thrombosis ; superficial ; incomplete circumferential involvement ; blood loss <=20 % by volume",
+              "children": []
+            },
+            {
+              "code": "521606.4",
+              "title_ja": "大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "hemorrhage",
+                "amputation"
+              ],
+              "description_ja": "その他の静脈 詳細不明 [例：門脈, 腎静脈, 脾静脈, 上腸間膜静脈] > 裂傷・裂創；穿孔 詳細不明 > 大；破裂；断裂；部分欠損；出血量が全血液量の20%を超える",
+              "description_en": "Other named veins NFS [e.g., portal, renal, splenic, superior mesenteric] > laceration ; perforation ; puncture NFS > major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "530499.1",
+      "title_ja": "迷走神経損傷",
+      "title_en": "Vagus nerve injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nerve"
+      ],
+      "description_ja": "迷走神経損傷",
+      "description_en": "Vagus nerve injury",
+      "children": []
+    },
+    {
+      "code": "540299.1",
+      "title_ja": "副腎 詳細不明",
+      "title_en": "Adrenal Gland NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "副腎 詳細不明",
+      "description_en": "Adrenal Gland NFS",
+      "children": [
+        {
+          "code": "540210.1",
+          "title_ja": "挫傷；血腫 詳細不明 [OIS I]",
+          "title_en": "contusion ; hematoma NFS [OIS I]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma",
+            "nfs"
+          ],
+          "description_ja": "副腎 詳細不明 > 挫傷；血腫 詳細不明 [OIS I]",
+          "description_en": "Adrenal Gland NFS > contusion ; hematoma NFS [OIS I]",
+          "children": [
+            {
+              "code": "540212.1",
+              "title_ja": "小；表在性 [OIS I]",
+              "title_en": "minor ; superficial [OIS I]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "description_ja": "副腎 詳細不明 > 挫傷；血腫 詳細不明 [OIS I] > 小；表在性 [OIS I]",
+              "description_en": "Adrenal Gland NFS > contusion ; hematoma NFS [OIS I] > minor ; superficial [OIS I]",
+              "children": []
+            },
+            {
+              "code": "540214.2",
+              "title_ja": "大；大きい [OIS I]",
+              "title_en": "major ; large [OIS I]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "description_ja": "副腎 詳細不明 > 挫傷；血腫 詳細不明 [OIS I] > 大；大きい [OIS I]",
+              "description_en": "Adrenal Gland NFS > contusion ; hematoma NFS [OIS I] > major ; large [OIS I]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "540220.1",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "副腎 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Adrenal Gland NFS > laceration NFS",
+          "children": [
+            {
+              "code": "540222.1",
+              "title_ja": "小；表在性；皮質内にとどまる；2 cm未満 [OIS II]",
+              "title_en": "minor ; superficial ; only cortex involvement ; <2cm [OIS II]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "副腎 詳細不明 > 裂傷・裂創 詳細不明 > 小；表在性；皮質内にとどまる；2 cm未満 [OIS II]",
+              "description_en": "Adrenal Gland NFS > laceration NFS > minor ; superficial ; only cortex involvement ; <2cm [OIS II]",
+              "children": []
+            },
+            {
+              "code": "540224.2",
+              "title_ja": "大；多発性裂傷・裂創；髄質に及ぶ；2 cm以上 [OIS III]",
+              "title_en": "major ; multiple lacerations ; extending into medulla ; ≥2cm [OIS III]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "副腎 詳細不明 > 裂傷・裂創 詳細不明 > 大；多発性裂傷・裂創；髄質に及ぶ；2 cm以上 [OIS III]",
+              "description_en": "Adrenal Gland NFS > laceration NFS > major ; multiple lacerations ; extending into medulla ; ≥2cm [OIS III]",
+              "children": []
+            },
+            {
+              "code": "540226.3",
+              "title_ja": "広範囲；断裂；複雑；破裂；実質の破壊が50%を超える [OIS IV, V]",
+              "title_en": "massive ; avulsion ; complex ; rupture ; >50% parenchymal destruction [OIS IV, V]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "副腎 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲；断裂；複雑；破裂；実質の破壊が50%を超える [OIS IV, V]",
+              "description_en": "Adrenal Gland NFS > laceration NFS > massive ; avulsion ; complex ; rupture ; >50% parenchymal destruction [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "540499.1",
+      "title_ja": "肛門 詳細不明",
+      "title_en": "Anus NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "肛門 詳細不明",
+      "description_en": "Anus NFS",
+      "children": [
+        {
+          "code": "540410.1",
+          "title_ja": "挫傷；血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "肛門 詳細不明 > 挫傷；血腫",
+          "description_en": "Anus NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "540420.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "肛門 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Anus NFS > laceration NFS",
+          "children": [
+            {
+              "code": "540422.2",
+              "title_ja": "穿孔なし；非全層性",
+              "title_en": "no perforation ; partial thickness",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "肛門 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし；非全層性",
+              "description_en": "Anus NFS > laceration NFS > no perforation ; partial thickness",
+              "children": []
+            },
+            {
+              "code": "540424.3",
+              "title_ja": "穿孔あり；全層性",
+              "title_en": "perforation ; full thickness",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "肛門 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔あり；全層性",
+              "description_en": "Anus NFS > laceration NFS > perforation ; full thickness",
+              "children": []
+            },
+            {
+              "code": "540426.4",
+              "title_ja": "広範囲；断裂；複雑；破裂；高度組織欠損",
+              "title_en": "massive ; avulsion ; complex ; rupture ; major tissue loss",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "肛門 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲；断裂；複雑；破裂；高度組織欠損",
+              "description_en": "Anus NFS > laceration NFS > massive ; avulsion ; complex ; rupture ; major tissue loss",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "540322.2",
+      "title_ja": "虫垂 裂傷・裂創；穿孔ᵃ",
+      "title_en": "Appendix laceration ; perforationª",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration",
+        "perforation"
+      ],
+      "description_ja": "虫垂 裂傷・裂創；穿孔ᵃ",
+      "description_en": "Appendix laceration ; perforationª",
+      "children": []
+    },
+    {
+      "code": "540699.2",
+      "title_ja": "膀胱 詳細不明",
+      "title_en": "Bladder (urinary) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "膀胱 詳細不明",
+      "description_en": "Bladder (urinary) NFS",
+      "children": [
+        {
+          "code": "540610.2",
+          "title_ja": "挫傷；血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "膀胱 詳細不明 > 挫傷；血腫 [OIS I]",
+          "description_en": "Bladder (urinary) NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "540620.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "膀胱 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Bladder (urinary) NFS > laceration NFS",
+          "children": [
+            {
+              "code": "540622.2",
+              "title_ja": "穿孔なし；非全層性 [OIS I]",
+              "title_en": "no perforation ; partial thickness [OIS I]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "膀胱 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし；非全層性 [OIS I]",
+              "description_en": "Bladder (urinary) NFS > laceration NFS > no perforation ; partial thickness [OIS I]",
+              "children": []
+            },
+            {
+              "code": "540623.2",
+              "title_ja": "腹膜外で2 cm以下 [OIS II]ᵃ",
+              "title_en": "extraperitoneal wall ≤2cm [OIS II]ª",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "膀胱 詳細不明 > 裂傷・裂創 詳細不明 > 腹膜外で2 cm以下 [OIS II]ᵃ",
+              "description_en": "Bladder (urinary) NFS > laceration NFS > extraperitoneal wall ≤2cm [OIS II]ª",
+              "children": []
+            },
+            {
+              "code": "540624.3",
+              "title_ja": "腹膜外で2 cmを超える；腹膜内で2 cm以下 [OIS III]ᵃ",
+              "title_en": "extraperitoneal wall >2cm ; intraperitoneal wall ≤2cm [OIS III]ª",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "膀胱 詳細不明 > 裂傷・裂創 詳細不明 > 腹膜外で2 cmを超える；腹膜内で2 cm以下 [OIS III]ᵃ",
+              "description_en": "Bladder (urinary) NFS > laceration NFS > extraperitoneal wall >2cm ; intraperitoneal wall ≤2cm [OIS III]ª",
+              "children": []
+            },
+            {
+              "code": "540625.3",
+              "title_ja": "腹膜内で2 cmを超える [OIS IV]ᵃ",
+              "title_en": "intraperitoneal wall >2cm [OIS IV]ª",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "膀胱 詳細不明 > 裂傷・裂創 詳細不明 > 腹膜内で2 cmを超える [OIS IV]ᵃ",
+              "description_en": "Bladder (urinary) NFS > laceration NFS > intraperitoneal wall >2cm [OIS IV]ª",
+              "children": []
+            },
+            {
+              "code": "540626.4",
+              "title_ja": "広範囲；断裂；複雑；組織欠損；尿道口や膀胱頸部に及ぶ [OIS V]",
+              "title_en": "massive ; avulsion ; complex, tissue loss ; involving urethral orifice (trigone) or bladder neck [OIS V]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "膀胱 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲；断裂；複雑；組織欠損；尿道口や膀胱頸部に及ぶ [OIS V]",
+              "description_en": "Bladder (urinary) NFS > laceration NFS > massive ; avulsion ; complex, tissue loss ; involving urethral orifice (trigone) or bladder neck [OIS V]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "540640.3",
+          "title_ja": "破裂 詳細不明",
+          "title_en": "rupture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "rupture",
+            "nfs"
+          ],
+          "description_ja": "膀胱 詳細不明 > 破裂 詳細不明",
+          "description_en": "Bladder (urinary) NFS > rupture NFS",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "540899.2",
+      "title_ja": "結腸 (大腸) 詳細不明",
+      "title_en": "contusion ; hematoma [OIS I]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "結腸 (大腸) 詳細不明",
+      "description_en": "contusion ; hematoma [OIS I]",
+      "children": [
+        {
+          "code": "540810.2",
+          "title_ja": "挫傷;血腫 [OIS I]",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "結腸 (大腸) 詳細不明 > 挫傷;血腫 [OIS I]",
+          "description_en": "contusion ; hematoma [OIS I] > laceration NFS",
+          "children": []
+        },
+        {
+          "code": "540820.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "結腸 (大腸) 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "contusion ; hematoma [OIS I] > no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+          "children": [
+            {
+              "code": "540822.2",
+              "title_ja": "穿孔なし;非全層性;周径の50%未満 [OIS I, II]",
+              "title_en": "perforation ; full thickness ; >=50% circumference without transection ; multiple simple wounds [OIS III]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "結腸 (大腸) 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし;非全層性;周径の50%未満 [OIS I, II]",
+              "description_en": "contusion ; hematoma [OIS I] > no perforation ; partial thickness ; < 50 % circumference [OIS I, II] > perforation ; full thickness ; >=50% circumference without transection ; multiple simple wounds [OIS III]",
+              "children": []
+            },
+            {
+              "code": "540824.3",
+              "title_ja": "穿孔;全層性;周径の50%以上だが断裂には至らない;多発する単純裂創 [OIS III]",
+              "title_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "perforation",
+                "amputation",
+                "burn"
+              ],
+              "description_ja": "結腸 (大腸) 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔;全層性;周径の50%以上だが断裂には至らない;多発する単純裂創 [OIS III]",
+              "description_en": "contusion ; hematoma [OIS I] > no perforation ; partial thickness ; < 50 % circumference [OIS I, II] > massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+              "children": []
+            },
+            {
+              "code": "540826.4",
+              "title_ja": "広範囲;断裂;複雑;組織欠損;離断;広範囲の組織壊死または血行遮断 [OIS IV]",
+              "title_en": null,
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion",
+                "vascular"
+              ],
+              "description_ja": "結腸 (大腸) 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲;断裂;複雑;組織欠損;離断;広範囲の組織壊死または血行遮断 [OIS IV]",
+              "description_en": "contusion ; hematoma [OIS I] > no perforation ; partial thickness ; < 50 % circumference [OIS I, II] > ",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "541099.2",
+      "title_ja": "十二指腸 詳細不明",
+      "title_en": "Duodenum NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "十二指腸 詳細不明",
+      "description_en": "Duodenum NFS",
+      "children": [
+        {
+          "code": "541010.2",
+          "title_ja": "挫傷;血腫 [OIS I, II]",
+          "title_en": "contusion ; hematoma [OIS I, II]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "十二指腸 詳細不明 > 挫傷;血腫 [OIS I, II]",
+          "description_en": "Duodenum NFS > contusion ; hematoma [OIS I, II]",
+          "children": []
+        },
+        {
+          "code": "541020.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "十二指腸 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Duodenum NFS > laceration NFS",
+          "children": [
+            {
+              "code": "541022.2",
+              "title_ja": "穿孔なし;非全層性;漿膜裂傷 [OIS I]",
+              "title_en": "no perforation ; partial thickness ; serosal tear [OIS I]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "十二指腸 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし;非全層性;漿膜裂傷 [OIS I]",
+              "description_en": "Duodenum NFS > laceration NFS > no perforation ; partial thickness ; serosal tear [OIS I]",
+              "children": []
+            },
+            {
+              "code": "541021.2",
+              "title_ja": "周径の50%未満 [OIS II]",
+              "title_en": "disruption ; <50% circumference [OIS II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "十二指腸 詳細不明 > 裂傷・裂創 詳細不明 > 周径の50%未満 [OIS II]",
+              "description_en": "Duodenum NFS > laceration NFS > disruption ; <50% circumference [OIS II]",
+              "children": []
+            },
+            {
+              "code": "541023.3",
+              "title_ja": "D1 (上部または第1部), D3 (水平部または第3部) またはD4 (上行部または第4部) の周径の50～100% [OIS III]",
+              "title_en": "disruption 50-100% circumference of D1 (superior or first part), D3 (transverse or third part) or D4 (ascending or fourth part) [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "十二指腸 詳細不明 > 裂傷・裂創 詳細不明 > D1 (上部または第1部), D3 (水平部または第3部) またはD4 (上行部または第4部) の周径の50～100% [OIS III]",
+              "description_en": "Duodenum NFS > laceration NFS > disruption 50-100% circumference of D1 (superior or first part), D3 (transverse or third part) or D4 (ascending or fourth part) [OIS III]",
+              "children": []
+            },
+            {
+              "code": "541025.3",
+              "title_ja": "D2 (下行部または第2部) の周径の50～75% [OIS III]",
+              "title_en": "disruption 50-75 % circumference of D2 (descending or second part) [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "十二指腸 詳細不明 > 裂傷・裂創 詳細不明 > D2 (下行部または第2部) の周径の50～75% [OIS III]",
+              "description_en": "Duodenum NFS > laceration NFS > disruption 50-75 % circumference of D2 (descending or second part) [OIS III]",
+              "children": []
+            },
+            {
+              "code": "541024.4",
+              "title_ja": "D2 (下行部または第2部) の周径の75%を超える; 膨大部または遠位総胆管の損傷を合併する [OIS IV]",
+              "title_en": "disruption >75% circumference of D2 (descending or second part) ; involving ampulla or distal common bile duct [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "十二指腸 詳細不明 > 裂傷・裂創 詳細不明 > D2 (下行部または第2部) の周径の75%を超える; 膨大部または遠位総胆管の損傷を合併する [OIS IV]",
+              "description_en": "Duodenum NFS > laceration NFS > disruption >75% circumference of D2 (descending or second part) ; involving ampulla or distal common bile duct [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "541028.5",
+              "title_ja": "広範囲;断裂;複雑;破裂;組織欠損;血行遮断;十二指腸・膵臓結合部の高度損傷 [OIS V]",
+              "title_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; devascularization ; massive disruption of duodenopancreatic complex [OIS V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion",
+                "vascular"
+              ],
+              "description_ja": "十二指腸 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲;断裂;複雑;破裂;組織欠損;血行遮断;十二指腸・膵臓結合部の高度損傷 [OIS V]",
+              "description_en": "Duodenum NFS > laceration NFS > massive ; avulsion ; complex ; rupture ; tissue loss ; devascularization ; massive disruption of duodenopancreatic complex [OIS V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "541299.2",
+      "title_ja": "胆嚢 詳細不明",
+      "title_en": "Gallbladder NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "胆嚢 詳細不明",
+      "description_en": "Gallbladder NFS",
+      "children": [
+        {
+          "code": "541210.2",
+          "title_ja": "挫傷; 血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "胆嚢 詳細不明 > 挫傷; 血腫 [OIS I]",
+          "description_en": "Gallbladder NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "541220.2",
+          "title_ja": "裂傷・裂創; 穿孔 詳細不明 [OIS II]",
+          "title_en": "laceration ; perforation NFS [OIS II]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "胆嚢 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 [OIS II]",
+          "description_en": "Gallbladder NFS > laceration ; perforation NFS [OIS II]",
+          "children": [
+            {
+              "code": "541222.2",
+              "title_ja": "小; 表在性; 胆嚢管の損傷なし [OIS II]",
+              "title_en": "minor ; superficial ; no cystic duct involvement [OIS II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "胆嚢 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 [OIS II] > 小; 表在性; 胆嚢管の損傷なし [OIS II]",
+              "description_en": "Gallbladder NFS > laceration ; perforation NFS [OIS II] > minor ; superficial ; no cystic duct involvement [OIS II]",
+              "children": []
+            },
+            {
+              "code": "541224.3",
+              "title_ja": "広範囲; 断裂; 複雑; 組織欠損; 胆嚢管の裂傷 または断裂 [OIS III]",
+              "title_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; cystic duct laceration or transection [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "rupture",
+                "amputation",
+                "avulsion"
+              ],
+              "description_ja": "胆嚢 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 [OIS II] > 広範囲; 断裂; 複雑; 組織欠損; 胆嚢管の裂傷 または断裂 [OIS III]",
+              "description_en": "Gallbladder NFS > laceration ; perforation NFS [OIS II] > massive ; avulsion ; complex ; rupture ; tissue loss ; cystic duct laceration or transection [OIS III]",
+              "children": [
+                {
+                  "code": "541226.4",
+                  "title_ja": "総胆管または肝管の裂傷・裂創または断裂を伴う [OIS IV, V]",
+                  "title_en": "with common bile or hepatic duct laceration or transection [OIS IV, V]",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "ABDOMEN",
+                  "iss_body_region": "abdomen",
+                  "injury_types": [
+                    "laceration",
+                    "rupture",
+                    "amputation"
+                  ],
+                  "description_ja": "胆嚢 詳細不明 > 裂傷・裂創; 穿孔 詳細不明 [OIS II] > 広範囲; 断裂; 複雑; 組織欠損; 胆嚢管の裂傷 または断裂 [OIS III] > 総胆管または肝管の裂傷・裂創または断裂を伴う [OIS IV, V]",
+                  "description_en": "Gallbladder NFS > laceration ; perforation NFS [OIS II] > massive ; avulsion ; complex ; rupture ; tissue loss ; cystic duct laceration or transection [OIS III] > with common bile or hepatic duct laceration or transection [OIS IV, V]",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "541499.2",
+      "title_ja": "空腸-回腸 (小腸) 詳細不明",
+      "title_en": "Jejunum-Ileum (small bowel) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "空腸-回腸 (小腸) 詳細不明",
+      "description_en": "Jejunum-Ileum (small bowel) NFS",
+      "children": [
+        {
+          "code": "541410.2",
+          "title_ja": "挫傷; 血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "空腸-回腸 (小腸) 詳細不明 > 挫傷; 血腫 [OIS I]",
+          "description_en": "Jejunum-Ileum (small bowel) NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "541420.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "空腸-回腸 (小腸) 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Jejunum-Ileum (small bowel) NFS > laceration NFS",
+          "children": [
+            {
+              "code": "541422.2",
+              "title_ja": "穿孔なし; 非全層性; 周径の50%未満 [OIS I, II]",
+              "title_en": "no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "空腸-回腸 (小腸) 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし; 非全層性; 周径の50%未満 [OIS I, II]",
+              "description_en": "Jejunum-Ileum (small bowel) NFS > laceration NFS > no perforation ; partial thickness ; < 50 % circumference [OIS I, II]",
+              "children": []
+            },
+            {
+              "code": "541424.3",
+              "title_ja": "穿孔あり; 全層性; 周径の50%以上だが断裂には至らない; 多数の単純裂傷 [OIS III]",
+              "title_en": "perforation ; full thickness ; ≥50% circumference without transection ; multiple simple wounds [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "rupture",
+                "perforation",
+                "amputation",
+                "burn"
+              ],
+              "description_ja": "空腸-回腸 (小腸) 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔あり; 全層性; 周径の50%以上だが断裂には至らない; 多数の単純裂傷 [OIS III]",
+              "description_en": "Jejunum-Ileum (small bowel) NFS > laceration NFS > perforation ; full thickness ; ≥50% circumference without transection ; multiple simple wounds [OIS III]",
+              "children": []
+            },
+            {
+              "code": "541426.4",
+              "title_ja": "広範囲; 断裂; 複雑; 組織欠損; 断裂; 広範囲の組織壊死または血行遮断 [OIS IV, V]",
+              "title_en": "massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion",
+                "vascular"
+              ],
+              "description_ja": "空腸-回腸 (小腸) 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲; 断裂; 複雑; 組織欠損; 断裂; 広範囲の組織壊死または血行遮断 [OIS IV, V]",
+              "description_en": "Jejunum-Ileum (small bowel) NFS > laceration NFS > massive ; avulsion ; complex ; tissue loss ; transection ; large areas of tissue devitalization or devascularization [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "541699.2",
+      "title_ja": "腎臓 詳細不明",
+      "title_en": "Kidney NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "腎臓 詳細不明",
+      "description_en": "Kidney NFS",
+      "children": [
+        {
+          "code": "541610.2",
+          "title_ja": "挫傷;血腫 詳細不明",
+          "title_en": "contusion ; hematoma NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma",
+            "nfs"
+          ],
+          "description_ja": "腎臓 詳細不明 > 挫傷;血腫 詳細不明",
+          "description_en": "Kidney NFS > contusion ; hematoma NFS",
+          "children": [
+            {
+              "code": "541612.2",
+              "title_ja": "被膜下, 後腹膜腔に限局;実質の裂傷なし;小;表在 [OIS I, II]",
+              "title_en": "subcapsular, nonexpanding ; confined to renal retroperitoneum ; minor ; superficial [OIS I, II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "腎臓 詳細不明 > 挫傷;血腫 詳細不明 > 被膜下, 後腹膜腔に限局;実質の裂傷なし;小;表在 [OIS I, II]",
+              "description_en": "Kidney NFS > contusion ; hematoma NFS > subcapsular, nonexpanding ; confined to renal retroperitoneum ; minor ; superficial [OIS I, II]",
+              "children": []
+            },
+            {
+              "code": "541614.3",
+              "title_ja": "被膜下;表面積の50%を超える, 増大;大;広範囲 [OIS III]",
+              "title_en": "subcapsular, > 50 % surface area or expanding ; major ; large [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "description_ja": "腎臓 詳細不明 > 挫傷;血腫 詳細不明 > 被膜下;表面積の50%を超える, 増大;大;広範囲 [OIS III]",
+              "description_en": "Kidney NFS > contusion ; hematoma NFS > subcapsular, > 50 % surface area or expanding ; major ; large [OIS III]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "541620.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "腎臓 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Kidney NFS > laceration NFS",
+          "children": [
+            {
+              "code": "541622.2",
+              "title_ja": "深さ1cm以下の腎皮質実質の損傷, 溢尿なし;小;表在性; [OIS II]",
+              "title_en": "≤ 1cm parenchymal depth of renal cortex, no urinary extravasation ; minor ; superficial [OIS II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "腎臓 詳細不明 > 裂傷・裂創 詳細不明 > 深さ1cm以下の腎皮質実質の損傷, 溢尿なし;小;表在性; [OIS II]",
+              "description_en": "Kidney NFS > laceration NFS > ≤ 1cm parenchymal depth of renal cortex, no urinary extravasation ; minor ; superficial [OIS II]",
+              "children": []
+            },
+            {
+              "code": "541624.3",
+              "title_ja": "深さ1cmを超える腎皮質実質の損傷, 腎盂腎杯の破裂, 溢尿なし;中等度; [OIS III]",
+              "title_en": ">1cm parenchymal depth of renal cortex, no collecting system rupture or urinary extravasation ; moderate [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "腎臓 詳細不明 > 裂傷・裂創 詳細不明 > 深さ1cmを超える腎皮質実質の損傷, 腎盂腎杯の破裂, 溢尿なし;中等度; [OIS III]",
+              "description_en": "Kidney NFS > laceration NFS > >1cm parenchymal depth of renal cortex, no collecting system rupture or urinary extravasation ; moderate [OIS III]",
+              "children": []
+            },
+            {
+              "code": "541626.4",
+              "title_ja": "腎皮質を貫通し, 髄質, 腎盂腎杯に達する損傷;腎茎部の主要血管損傷で出血を伴う;大 [OIS IV]",
+              "title_en": "extending through renal cortex, medulla and collecting system ; main renal vessel injury with contained hemorrhage ; major [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "hemorrhage",
+                "vascular"
+              ],
+              "description_ja": "腎臓 詳細不明 > 裂傷・裂創 詳細不明 > 腎皮質を貫通し, 髄質, 腎盂腎杯に達する損傷;腎茎部の主要血管損傷で出血を伴う;大 [OIS IV]",
+              "description_en": "Kidney NFS > laceration NFS > extending through renal cortex, medulla and collecting system ; main renal vessel injury with contained hemorrhage ; major [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "541628.5",
+              "title_ja": "腎門部の断裂;腎組織および血管系の完全破壊 [OIS V]",
+              "title_en": "hilum avulsion ; total destruction of organ and its vascular system [OIS V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "腎臓 詳細不明 > 裂傷・裂創 詳細不明 > 腎門部の断裂;腎組織および血管系の完全破壊 [OIS V]",
+              "description_en": "Kidney NFS > laceration NFS > hilum avulsion ; total destruction of organ and its vascular system [OIS V]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "541640.4",
+          "title_ja": "破裂",
+          "title_en": "rupture",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "rupture"
+          ],
+          "description_ja": "腎臓 詳細不明 > 破裂",
+          "description_en": "Kidney NFS > rupture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "541899.2",
+      "title_ja": "肝臓 詳細不明",
+      "title_en": "Liver NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "腹 部",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "肝臓 詳細不明",
+      "description_en": "Liver NFS",
+      "children": [
+        {
+          "code": "541810.2",
+          "title_ja": "挫傷; 血腫 詳細不明",
+          "title_en": "contusion ; hematoma NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "腹 部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma",
+            "nfs"
+          ],
+          "description_ja": "肝臓 詳細不明 > 挫傷; 血腫 詳細不明",
+          "description_en": "Liver NFS > contusion ; hematoma NFS",
+          "children": [
+            {
+              "code": "541812.2",
+              "title_ja": "被膜下, 表面積の50%以下, 限局性または直径10cm以下 の実質損傷; 小; 表在性 [OIS I, II]",
+              "title_en": "subcapsular, ≤50% surface area, or nonexpanding ; intraparenchymal ≤10cm in diameter ; minor ; superficial [OIS I, II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "description_ja": "肝臓 詳細不明 > 挫傷; 血腫 詳細不明 > 被膜下, 表面積の50%以下, 限局性または直径10cm以下 の実質損傷; 小; 表在性 [OIS I, II]",
+              "description_en": "Liver NFS > contusion ; hematoma NFS > subcapsular, ≤50% surface area, or nonexpanding ; intraparenchymal ≤10cm in diameter ; minor ; superficial [OIS I, II]",
+              "children": []
+            },
+            {
+              "code": "541814.3",
+              "title_ja": "被膜下, 表面積の50%を超える, 増大; 被膜下または 実質の破裂; 直径10cmを超える実質損傷; 大 [OIS III]",
+              "title_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal >10cm or expanding ; major [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "肝臓 詳細不明 > 挫傷; 血腫 詳細不明 > 被膜下, 表面積の50%を超える, 増大; 被膜下または 実質の破裂; 直径10cmを超える実質損傷; 大 [OIS III]",
+              "description_en": "Liver NFS > contusion ; hematoma NFS > subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal >10cm or expanding ; major [OIS III]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "541820.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "腹 部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "肝臓 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Liver NFS > laceration NFS",
+          "children": [
+            {
+              "code": "541822.2",
+              "title_ja": "単純な被膜損傷; 実質の深さが3cm以下; 長さ10cm以下; 小; 表在性 [OIS II]",
+              "title_en": "simple capsular tears ; ≤3cm parenchymal depth ; ≤10cm long ; minor ; superficial [OIS II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "肝臓 詳細不明 > 裂傷・裂創 詳細不明 > 単純な被膜損傷; 実質の深さが3cm以下; 長さ10cm以下; 小; 表在性 [OIS II]",
+              "description_en": "Liver NFS > laceration NFS > simple capsular tears ; ≤3cm parenchymal depth ; ≤10cm long ; minor ; superficial [OIS II]",
+              "children": []
+            },
+            {
+              "code": "541824.3",
+              "title_ja": "実質の深さが3cmを超える; 主要胆管の損傷; 中等度 [OIS III]",
+              "title_en": ">3cm parenchymal depth ; major duct involvement ; moderate [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "肝臓 詳細不明 > 裂傷・裂創 詳細不明 > 実質の深さが3cmを超える; 主要胆管の損傷; 中等度 [OIS III]",
+              "description_en": "Liver NFS > laceration NFS > >3cm parenchymal depth ; major duct involvement ; moderate [OIS III]",
+              "children": []
+            },
+            {
+              "code": "541826.4",
+              "title_ja": "肝葉の75%以下の実質破裂; 深さ3cmを超える多発性裂傷・裂創; “破裂”損傷; 大 [OIS IV]",
+              "title_en": "parenchymal disruption ≤75 % hepatic lobe ; multiple lacerations >3cm deep ; \"burst\" injury ; major [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "rupture"
+              ],
+              "description_ja": "肝臓 詳細不明 > 裂傷・裂創 詳細不明 > 肝葉の75%以下の実質破裂; 深さ3cmを超える多発性裂傷・裂創; “破裂”損傷; 大 [OIS IV]",
+              "description_en": "Liver NFS > laceration NFS > parenchymal disruption ≤75 % hepatic lobe ; multiple lacerations >3cm deep ; \"burst\" injury ; major [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "541828.5",
+              "title_ja": "肝葉の75%を超える実質破裂または一葉のうち4つ以上 のクノー肝区域にわたる実質損傷; 肝後面下大静脈または肝静脈損傷を伴っている; 広範囲; 複雑 [OIS V]",
+              "title_en": "parenchymal disruption of >75% of hepatic lobe or > 3 Couinard's segments within a single lobe ; or involving retrohepatic vena cava/central hepatic veins ; massive ; complex [OIS V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "vascular"
+              ],
+              "description_ja": "肝臓 詳細不明 > 裂傷・裂創 詳細不明 > 肝葉の75%を超える実質破裂または一葉のうち4つ以上 のクノー肝区域にわたる実質損傷; 肝後面下大静脈または肝静脈損傷を伴っている; 広範囲; 複雑 [OIS V]",
+              "description_en": "Liver NFS > laceration NFS > parenchymal disruption of >75% of hepatic lobe or > 3 Couinard's segments within a single lobe ; or involving retrohepatic vena cava/central hepatic veins ; massive ; complex [OIS V]",
+              "children": []
+            },
+            {
+              "code": "541830.6",
+              "title_ja": "肝断裂 (すべての肝血管系の完全断裂) [OIS VI]",
+              "title_en": "hepatic avulsion (total separation of all vascular attachments) [OIS VI]",
+              "ais_severity": 6,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "肝臓 詳細不明 > 裂傷・裂創 詳細不明 > 肝断裂 (すべての肝血管系の完全断裂) [OIS VI]",
+              "description_en": "Liver NFS > laceration NFS > hepatic avulsion (total separation of all vascular attachments) [OIS VI]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "541840.4",
+          "title_ja": "破裂",
+          "title_en": "rupture",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "腹 部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "rupture"
+          ],
+          "description_ja": "肝臓 詳細不明 > 破裂",
+          "description_en": "Liver NFS > rupture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "542099.2",
+      "title_ja": "腸間膜 詳細不明",
+      "title_en": "Mesentery NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "腹 部",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "腸間膜 詳細不明",
+      "description_en": "Mesentery NFS",
+      "children": [
+        {
+          "code": "542010.2",
+          "title_ja": "挫傷; 血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "腹 部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "腸間膜 詳細不明 > 挫傷; 血腫",
+          "description_en": "Mesentery NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "542020.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "腹 部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "腸間膜 詳細不明 > 裂傷・裂創",
+          "description_en": "Mesentery NFS > laceration NFS",
+          "children": [
+            {
+              "code": "542022.2",
+              "title_ja": "小; 表在性",
+              "title_en": "minor ; superficial",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "腸間膜 詳細不明 > 裂傷・裂創 > 小; 表在性",
+              "description_en": "Mesentery NFS > laceration NFS > minor ; superficial",
+              "children": []
+            },
+            {
+              "code": "542024.3",
+              "title_ja": "大",
+              "title_en": "major",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "腸間膜 詳細不明 > 裂傷・裂創 > 大",
+              "description_en": "Mesentery NFS > laceration NFS > major",
+              "children": []
+            },
+            {
+              "code": "542026.4",
+              "title_ja": "広範囲; 断裂; 複雑; 組織欠損",
+              "title_en": "massive ; avulsion ; complex ; tissue loss",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "腹 部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "腸間膜 詳細不明 > 裂傷・裂創 > 広範囲; 断裂; 複雑; 組織欠損",
+              "description_en": "Mesentery NFS > laceration NFS > massive ; avulsion ; complex ; tissue loss",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "542299.2",
+      "title_ja": "大網 詳細不明",
+      "title_en": "Omentum NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "大網 詳細不明",
+      "description_en": "Omentum NFS",
+      "children": [
+        {
+          "code": "542210.2",
+          "title_ja": "挫傷; 血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "大網 詳細不明 > 挫傷; 血腫",
+          "description_en": "Omentum NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "542220.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "大網 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Omentum NFS > laceration NFS",
+          "children": [
+            {
+              "code": "542222.2",
+              "title_ja": "小; 表在性",
+              "title_en": "minor ; superficial",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "大網 詳細不明 > 裂傷・裂創 詳細不明 > 小; 表在性",
+              "description_en": "Omentum NFS > laceration NFS > minor ; superficial",
+              "children": []
+            },
+            {
+              "code": "542224.3",
+              "title_ja": "大",
+              "title_en": "major",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "大網 詳細不明 > 裂傷・裂創 詳細不明 > 大",
+              "description_en": "Omentum NFS > laceration NFS > major",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "542400.2",
+      "title_ja": "卵管（ファロピアン管）裂傷・裂創",
+      "title_en": "Ovarian (Fallopian) tube laceration",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "laceration"
+      ],
+      "description_ja": "卵管（ファロピアン管）裂傷・裂創",
+      "description_en": "Ovarian (Fallopian) tube laceration",
+      "children": []
+    },
+    {
+      "code": "542699.1",
+      "title_ja": "卵巣 詳細不明",
+      "title_en": "Ovary NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "卵巣 詳細不明",
+      "description_en": "Ovary NFS",
+      "children": [
+        {
+          "code": "542610.1",
+          "title_ja": "挫傷; 血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "卵巣 詳細不明 > 挫傷; 血腫 [OIS I]",
+          "description_en": "Ovary NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "542620.1",
+          "title_ja": "裂傷・裂創; 穿孔",
+          "title_en": "laceration ; perforation NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "卵巣 詳細不明 > 裂傷・裂創; 穿孔",
+          "description_en": "Ovary NFS > laceration ; perforation NFS",
+          "children": [
+            {
+              "code": "542622.1",
+              "title_ja": "表在性; 0.5cm以下; 小 [OIS II]",
+              "title_en": "superficial ; <=.5cm ; minor [OIS II]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "卵巣 詳細不明 > 裂傷・裂創; 穿孔 > 表在性; 0.5cm以下; 小 [OIS II]",
+              "description_en": "Ovary NFS > laceration ; perforation NFS > superficial ; <=.5cm ; minor [OIS II]",
+              "children": []
+            },
+            {
+              "code": "542623.2",
+              "title_ja": "深在性; 0.5cmを超える [OIS III]",
+              "title_en": "deep ; >.5cm [OIS III]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "卵巣 詳細不明 > 裂傷・裂創; 穿孔 > 深在性; 0.5cmを超える [OIS III]",
+              "description_en": "Ovary NFS > laceration ; perforation NFS > deep ; >.5cm [OIS III]",
+              "children": []
+            },
+            {
+              "code": "542624.2",
+              "title_ja": "実質の完全破壊; 広範囲; 断裂; 複雑 [OIS IV, V]",
+              "title_en": "complete parenchymal destruction ; massive ; avulsion ; complex [OIS IV, V]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "卵巣 詳細不明 > 裂傷・裂創; 穿孔 > 実質の完全破壊; 広範囲; 断裂; 複雑 [OIS IV, V]",
+              "description_en": "Ovary NFS > laceration ; perforation NFS > complete parenchymal destruction ; massive ; avulsion ; complex [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "542899.2",
+      "title_ja": "膵臓 詳細不明",
+      "title_en": "Pancreas NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "膵臓 詳細不明",
+      "description_en": "Pancreas NFS",
+      "children": [
+        {
+          "code": "542810.2",
+          "title_ja": "挫傷; 血腫 詳細不明",
+          "title_en": "contusion ; hematoma NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma",
+            "nfs"
+          ],
+          "description_ja": "膵臓 詳細不明 > 挫傷; 血腫 詳細不明",
+          "description_en": "Pancreas NFS > contusion ; hematoma NFS",
+          "children": [
+            {
+              "code": "542812.2",
+              "title_ja": "小; 表在性; 膵管損傷なし [OIS I]",
+              "title_en": "minor ; superficial ; no duct involvement [OIS I]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "膵臓 詳細不明 > 挫傷; 血腫 詳細不明 > 小; 表在性; 膵管損傷なし [OIS I]",
+              "description_en": "Pancreas NFS > contusion ; hematoma NFS > minor ; superficial ; no duct involvement [OIS I]",
+              "children": []
+            },
+            {
+              "code": "542814.3",
+              "title_ja": "大; 大きい; 広範囲; 膵管損傷を伴う [OIS II]",
+              "title_en": "major ; large ; extensive ; with duct involvement [OIS II]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "description_ja": "膵臓 詳細不明 > 挫傷; 血腫 詳細不明 > 大; 大きい; 広範囲; 膵管損傷を伴う [OIS II]",
+              "description_en": "Pancreas NFS > contusion ; hematoma NFS > major ; large ; extensive ; with duct involvement [OIS II]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "542820.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "膵臓 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Pancreas NFS > laceration NFS",
+          "children": [
+            {
+              "code": "542822.2",
+              "title_ja": "小; 表在性; 膵管損傷なし [OIS I]",
+              "title_en": "minor ; superficial ; no duct involvement [OIS I]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創 詳細不明 > 小; 表在性; 膵管損傷なし [OIS I]",
+              "description_en": "Pancreas NFS > laceration NFS > minor ; superficial ; no duct involvement [OIS I]",
+              "children": []
+            },
+            {
+              "code": "542824.3",
+              "title_ja": "中; 主要血管または主膵管の損傷を伴う; 遠位側の離断 [OIS III]",
+              "title_en": "moderate ; major vessel or major duct involvement ; distal transection [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "amputation"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創 詳細不明 > 中; 主要血管または主膵管の損傷を伴う; 遠位側の離断 [OIS III]",
+              "description_en": "Pancreas NFS > laceration NFS > moderate ; major vessel or major duct involvement ; distal transection [OIS III]",
+              "children": []
+            },
+            {
+              "code": "542826.4",
+              "title_ja": "膵大部損傷を伴う [OIS IV]",
+              "title_en": "if involving ampulla [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創 詳細不明 > 膵大部損傷を伴う [OIS IV]",
+              "description_en": "Pancreas NFS > laceration NFS > if involving ampulla [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "542828.4",
+              "title_ja": "大; 多発性裂傷; 近位側の離断 [OIS IV]",
+              "title_en": "major ; multiple lacerations ; proximal transection [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "amputation"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創 詳細不明 > 大; 多発性裂傷; 近位側の離断 [OIS IV]",
+              "description_en": "Pancreas NFS > laceration NFS > major ; multiple lacerations ; proximal transection [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "542830.4",
+              "title_ja": "膵大部損傷を伴う [OIS IV]",
+              "title_en": "if involving ampulla [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創 詳細不明 > 膵大部損傷を伴う [OIS IV]",
+              "description_en": "Pancreas NFS > laceration NFS > if involving ampulla [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "542832.5",
+              "title_ja": "広範囲; 断裂; 複雑; 組織欠損; 膵頭部の高度損傷 [OIS V]",
+              "title_en": "massive ; avulsion ; complex ; tissue loss ; massive disruption of pancreatic head [OIS V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲; 断裂; 複雑; 組織欠損; 膵頭部の高度損傷 [OIS V]",
+              "description_en": "Pancreas NFS > laceration NFS > massive ; avulsion ; complex ; tissue loss ; massive disruption of pancreatic head [OIS V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "543099.1",
+      "title_ja": "陰茎 詳細不明",
+      "title_en": "Penis NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "陰茎 詳細不明",
+      "description_en": "Penis NFS",
+      "children": [
+        {
+          "code": "543010.1",
+          "title_ja": "挫傷；血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "陰茎 詳細不明 > 挫傷；血腫 [OIS I]",
+          "description_en": "Penis NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "543020.1",
+          "title_ja": "裂傷・裂創；穿孔 詳細不明",
+          "title_en": "laceration ; perforation NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "陰茎 詳細不明 > 裂傷・裂創；穿孔 詳細不明",
+          "description_en": "Penis NFS > laceration ; perforation NFS",
+          "children": [
+            {
+              "code": "543022.1",
+              "title_ja": "小：表在性 [OIS II, III]",
+              "title_en": "minor ; superficial [OIS II, III]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "陰茎 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 小：表在性 [OIS II, III]",
+              "description_en": "Penis NFS > laceration ; perforation NFS > minor ; superficial [OIS II, III]",
+              "children": []
+            },
+            {
+              "code": "543024.2",
+              "title_ja": "大 [OIS IV]",
+              "title_en": "major [OIS IV]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "陰茎 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 大 [OIS IV]",
+              "description_en": "Penis NFS > laceration ; perforation NFS > major [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "543026.2",
+              "title_ja": "広範囲；切断；断裂；複雑 [OIS V]",
+              "title_en": "massive ; amputation ; avulsion ; complex ; [OIS V]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "amputation"
+              ],
+              "description_ja": "陰茎 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 広範囲；切断；断裂；複雑 [OIS V]",
+              "description_en": "Penis NFS > laceration ; perforation NFS > massive ; amputation ; avulsion ; complex ; [OIS V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "543299.1",
+      "title_ja": "腹膜 詳細不明",
+      "title_en": "Perineum NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "腹膜 詳細不明",
+      "description_en": "Perineum NFS",
+      "children": [
+        {
+          "code": "543210.1",
+          "title_ja": "挫傷；血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "腹膜 詳細不明 > 挫傷；血腫",
+          "description_en": "Perineum NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "543220.1",
+          "title_ja": "裂傷・裂創；穿孔 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "腹膜 詳細不明 > 裂傷・裂創；穿孔 詳細不明",
+          "description_en": "Perineum NFS > laceration NFS",
+          "children": [
+            {
+              "code": "543222.1",
+              "title_ja": "小；表在性",
+              "title_en": "minor ; superficial",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "腹膜 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 小；表在性",
+              "description_en": "Perineum NFS > laceration NFS > minor ; superficial",
+              "children": []
+            },
+            {
+              "code": "543224.2",
+              "title_ja": "大",
+              "title_en": "major",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "腹膜 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 大",
+              "description_en": "Perineum NFS > laceration NFS > major",
+              "children": []
+            },
+            {
+              "code": "543226.3",
+              "title_ja": "広範囲；断裂；複雑",
+              "title_en": "massive ; avulsion ; complex",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "腹膜 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 広範囲；断裂；複雑",
+              "description_en": "Perineum NFS > laceration NFS > massive ; avulsion ; complex",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "543599.1",
+      "title_ja": "前立腺 詳細不明a",
+      "title_en": "Prostate NFSᵃ",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "前立腺 詳細不明a",
+      "description_en": "Prostate NFSᵃ",
+      "children": [
+        {
+          "code": "543510.1",
+          "title_ja": "挫傷；血腫a",
+          "title_en": "contusion ; hematomaᵃ",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "前立腺 詳細不明a > 挫傷；血腫a",
+          "description_en": "Prostate NFSᵃ > contusion ; hematomaᵃ",
+          "children": []
+        },
+        {
+          "code": "543520.2",
+          "title_ja": "裂傷・裂創；詳細不明a",
+          "title_en": "laceration NFSᵃ",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "前立腺 詳細不明a > 裂傷・裂創；詳細不明a",
+          "description_en": "Prostate NFSᵃ > laceration NFSᵃ",
+          "children": [
+            {
+              "code": "543522.3",
+              "title_ja": "尿道損傷を伴うa",
+              "title_en": "involving urethraᵃ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "前立腺 詳細不明a > 裂傷・裂創；詳細不明a > 尿道損傷を伴うa",
+              "description_en": "Prostate NFSᵃ > laceration NFSᵃ > involving urethraᵃ",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "543699.2",
+      "title_ja": "直腸 詳細不明",
+      "title_en": "Rectum NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "直腸 詳細不明",
+      "description_en": "Rectum NFS",
+      "children": [
+        {
+          "code": "543610.2",
+          "title_ja": "挫傷；血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "直腸 詳細不明 > 挫傷；血腫 [OIS I]",
+          "description_en": "Rectum NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "543620.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "直腸 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Rectum NFS > laceration NFS",
+          "children": [
+            {
+              "code": "543622.2",
+              "title_ja": "穿孔なし；非全層性；周囲の50%以下 [OIS I, II]",
+              "title_en": "no perforation ; partial thickness ; ≤50% of circumfer-ence [OIS I, II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation"
+              ],
+              "description_ja": "直腸 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし；非全層性；周囲の50%以下 [OIS I, II]",
+              "description_en": "Rectum NFS > laceration NFS > no perforation ; partial thickness ; ≤50% of circumfer-ence [OIS I, II]",
+              "children": []
+            },
+            {
+              "code": "543624.3",
+              "title_ja": "全層性；周囲の50%を超える [OIS III]",
+              "title_en": "full thickness ; >50% circumference [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "直腸 詳細不明 > 裂傷・裂創 詳細不明 > 全層性；周囲の50%を超える [OIS III]",
+              "description_en": "Rectum NFS > laceration NFS > full thickness ; >50% circumference [OIS III]",
+              "children": [
+                {
+                  "code": "543625.4",
+                  "title_ja": "会陰部に達する [OIS IV]",
+                  "title_en": "extending into perineum [OIS IV]",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "ABDOMEN",
+                  "iss_body_region": "abdomen",
+                  "injury_types": [
+                    "laceration",
+                    "nfs"
+                  ],
+                  "description_ja": "直腸 詳細不明 > 裂傷・裂創 詳細不明 > 全層性；周囲の50%を超える [OIS III] > 会陰部に達する [OIS IV]",
+                  "description_en": "Rectum NFS > laceration NFS > full thickness ; >50% circumference [OIS III] > extending into perineum [OIS IV]",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "543626.5",
+              "title_ja": "広範囲；断裂；組織欠損；血行遮断 [OIS V]",
+              "title_en": "massive ; avulsion ; tissue loss ; devascularization [OIS V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "直腸 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲；断裂；組織欠損；血行遮断 [OIS V]",
+              "description_en": "Rectum NFS > laceration NFS > massive ; avulsion ; tissue loss ; devascularization [OIS V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "543800.2",
+      "title_ja": "後腹膜 出血または血腫",
+      "title_en": "Retroperitoneum hemorrhage or hematoma",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "hematoma",
+        "hemorrhage"
+      ],
+      "description_ja": "後腹膜 出血または血腫",
+      "description_en": "Retroperitoneum hemorrhage or hematoma",
+      "children": []
+    },
+    {
+      "code": "544099.1",
+      "title_ja": "膵臓 詳細不明",
+      "title_en": "Scrotum NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "膵臓 詳細不明",
+      "description_en": "Scrotum NFS",
+      "children": [
+        {
+          "code": "544010.1",
+          "title_ja": "挫傷；血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "膵臓 詳細不明 > 挫傷；血腫 [OIS I]",
+          "description_en": "Scrotum NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "544020.1",
+          "title_ja": "裂傷・裂創；穿孔 詳細不明",
+          "title_en": "laceration ; perforation NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "膵臓 詳細不明 > 裂傷・裂創；穿孔 詳細不明",
+          "description_en": "Scrotum NFS > laceration ; perforation NFS",
+          "children": [
+            {
+              "code": "544022.1",
+              "title_ja": "小；表在性：直径25%未満 [OIS II]",
+              "title_en": "minor ; superficial ; <25% diameter [OIS II]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 小；表在性：直径25%未満 [OIS II]",
+              "description_en": "Scrotum NFS > laceration ; perforation NFS > minor ; superficial ; <25% diameter [OIS II]",
+              "children": []
+            },
+            {
+              "code": "544024.2",
+              "title_ja": "大；切断；断裂；複雑 [OIS III, IV, V]",
+              "title_en": "major ; amputation ; avulsion ; complex [OIS III, IV, V]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "amputation",
+                "avulsion"
+              ],
+              "description_ja": "膵臓 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 大；切断；断裂；複雑 [OIS III, IV, V]",
+              "description_en": "Scrotum NFS > laceration ; perforation NFS > major ; amputation ; avulsion ; complex [OIS III, IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "544299.2",
+      "title_ja": "脾臓 詳細不明",
+      "title_en": "Spleen NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "脾臓 詳細不明",
+      "description_en": "Spleen NFS",
+      "children": [
+        {
+          "code": "544210.2",
+          "title_ja": "挫傷；血腫 詳細不明",
+          "title_en": "contusion ; hematoma NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma",
+            "nfs"
+          ],
+          "description_ja": "脾臓 詳細不明 > 挫傷；血腫 詳細不明",
+          "description_en": "Spleen NFS > contusion ; hematoma NFS",
+          "children": [
+            {
+              "code": "544212.2",
+              "title_ja": "被膜下、表面積の50%以下；実質内、直径5cm以下；小；表在性 [OIS I, II]",
+              "title_en": "subcapsular, ≤50% surface area ; intraparenchymal, ≤5cm in diameter ; minor ; superficial [OIS I, II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "contusion",
+                "hematoma",
+                "nfs"
+              ],
+              "description_ja": "脾臓 詳細不明 > 挫傷；血腫 詳細不明 > 被膜下、表面積の50%以下；実質内、直径5cm以下；小；表在性 [OIS I, II]",
+              "description_en": "Spleen NFS > contusion ; hematoma NFS > subcapsular, ≤50% surface area ; intraparenchymal, ≤5cm in diameter ; minor ; superficial [OIS I, II]",
+              "children": []
+            },
+            {
+              "code": "544214.3",
+              "title_ja": "被膜下、表面積の50%を超える、増大；被膜下または実質の破裂；直径5cmを超える実質損傷；大 [OIS III]",
+              "title_en": "subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal, >5cm in diameter or expanding ; major [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "脾臓 詳細不明 > 挫傷；血腫 詳細不明 > 被膜下、表面積の50%を超える、増大；被膜下または実質の破裂；直径5cmを超える実質損傷；大 [OIS III]",
+              "description_en": "Spleen NFS > contusion ; hematoma NFS > subcapsular, >50% surface area or expanding ; ruptured subcapsular or parenchymal ; intraparenchymal, >5cm in diameter or expanding ; major [OIS III]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "544220.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "脾臓 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Spleen NFS > laceration NFS",
+          "children": [
+            {
+              "code": "544222.2",
+              "title_ja": "実質の深さ3cm以下の単純な被膜損傷で脾柱血管の損傷を伴わない；小；表在性 [OIS I, II]",
+              "title_en": "simple capsular tear ≤3cm parenchymal depth and no trabecular vessel involvement ; minor ; superficial [OIS I, II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "脾臓 詳細不明 > 裂傷・裂創 詳細不明 > 実質の深さ3cm以下の単純な被膜損傷で脾柱血管の損傷を伴わない；小；表在性 [OIS I, II]",
+              "description_en": "Spleen NFS > laceration NFS > simple capsular tear ≤3cm parenchymal depth and no trabecular vessel involvement ; minor ; superficial [OIS I, II]",
+              "children": []
+            },
+            {
+              "code": "544224.3",
+              "title_ja": "脾門部または区域性実質の破裂または破壊を伴わない；実質の深さ3cmを超える、または脾柱血管の損傷；中 [OIS III]",
+              "title_en": "no hilar or segmental parenchymal disruption or destruction ; >3cm parenchymal depth or involving trabecular vessels ; moderate [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "脾臓 詳細不明 > 裂傷・裂創 詳細不明 > 脾門部または区域性実質の破裂または破壊を伴わない；実質の深さ3cmを超える、または脾柱血管の損傷；中 [OIS III]",
+              "description_en": "Spleen NFS > laceration NFS > no hilar or segmental parenchymal disruption or destruction ; >3cm parenchymal depth or involving trabecular vessels ; moderate [OIS III]",
+              "children": []
+            },
+            {
+              "code": "544226.4",
+              "title_ja": "脾門部離断を伴わないが脾臓の25%を超える血行遮断を生じるような区域性血管損傷または脾門部血管の損傷；大 [OIS IV]",
+              "title_en": "involving segmental or hilar vessels producing major devascularization of >25% of spleen but no hilar injury ; major [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "vascular"
+              ],
+              "description_ja": "脾臓 詳細不明 > 裂傷・裂創 詳細不明 > 脾門部離断を伴わないが脾臓の25%を超える血行遮断を生じるような区域性血管損傷または脾門部血管の損傷；大 [OIS IV]",
+              "description_en": "Spleen NFS > laceration NFS > involving segmental or hilar vessels producing major devascularization of >25% of spleen but no hilar injury ; major [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "544228.5",
+              "title_ja": "完全な血行遮断を生じる脾門部離断；組織欠損；断裂；広範囲 [OIS V]",
+              "title_en": "hilar disruption producing total devascularization ; tissue loss ; avulsion ; massive [OIS V]",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion",
+                "vascular"
+              ],
+              "description_ja": "脾臓 詳細不明 > 裂傷・裂創 詳細不明 > 完全な血行遮断を生じる脾門部離断；組織欠損；断裂；広範囲 [OIS V]",
+              "description_en": "Spleen NFS > laceration NFS > hilar disruption producing total devascularization ; tissue loss ; avulsion ; massive [OIS V]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "544240.3",
+          "title_ja": "破裂 詳細不明",
+          "title_en": "rupture NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "rupture",
+            "nfs"
+          ],
+          "description_ja": "脾臓 詳細不明 > 破裂 詳細不明",
+          "description_en": "Spleen NFS > rupture NFS",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "544499.2",
+      "title_ja": "胃 詳細不明",
+      "title_en": "Stomach NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "胃 詳細不明",
+      "description_en": "Stomach NFS",
+      "children": [
+        {
+          "code": "544410.2",
+          "title_ja": "挫傷;血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "胃 詳細不明 > 挫傷;血腫 [OIS I]",
+          "description_en": "Stomach NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "544414.3",
+          "title_ja": "経口摂取による損傷",
+          "title_en": "ingestion injury^a",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "胃 詳細不明 > 経口摂取による損傷",
+          "description_en": "Stomach NFS > ingestion injury^a",
+          "children": [
+            {
+              "code": "544415.3",
+              "title_ja": "部分壊死（非全層性）",
+              "title_en": "partial thickness necrosis^a",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "burn"
+              ],
+              "description_ja": "胃 詳細不明 > 経口摂取による損傷 > 部分壊死（非全層性）",
+              "description_en": "Stomach NFS > ingestion injury^a > partial thickness necrosis^a",
+              "children": []
+            },
+            {
+              "code": "544416.4",
+              "title_ja": "全層性壊死",
+              "title_en": "full thickness necrosis^a",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "burn"
+              ],
+              "description_ja": "胃 詳細不明 > 経口摂取による損傷 > 全層性壊死",
+              "description_en": "Stomach NFS > ingestion injury^a > full thickness necrosis^a",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "544420.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "胃 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Stomach NFS > laceration NFS",
+          "children": [
+            {
+              "code": "544422.2",
+              "title_ja": "穿孔なし;非全層性 [OIS I]",
+              "title_en": "no perforation ; partial thickness [OIS I]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "胃 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし;非全層性 [OIS I]",
+              "description_en": "Stomach NFS > laceration NFS > no perforation ; partial thickness [OIS I]",
+              "children": []
+            },
+            {
+              "code": "544424.3",
+              "title_ja": "穿孔あり;全層性 [OIS II, III]",
+              "title_en": "perforation ; full thickness [OIS II, III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "胃 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔あり;全層性 [OIS II, III]",
+              "description_en": "Stomach NFS > laceration NFS > perforation ; full thickness [OIS II, III]",
+              "children": []
+            },
+            {
+              "code": "544426.4",
+              "title_ja": "断裂;複雑;破裂;組織欠損;広範囲;血行遮断 [OIS IV, V]",
+              "title_en": "avulsion ; complex ; rupture ; tissue loss ; massive ; devascularization [OIS IV, V]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion",
+                "vascular"
+              ],
+              "description_ja": "胃 詳細不明 > 裂傷・裂創 詳細不明 > 断裂;複雑;破裂;組織欠損;広範囲;血行遮断 [OIS IV, V]",
+              "description_en": "Stomach NFS > laceration NFS > avulsion ; complex ; rupture ; tissue loss ; massive ; devascularization [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "544699.1",
+      "title_ja": "精巣 詳細不明",
+      "title_en": "Testes NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "精巣 詳細不明",
+      "description_en": "Testes NFS",
+      "children": [
+        {
+          "code": "544610.1",
+          "title_ja": "挫傷;血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "精巣 詳細不明 > 挫傷;血腫 [OIS I]",
+          "description_en": "Testes NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "544620.1",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "精巣 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Testes NFS > laceration NFS",
+          "children": [
+            {
+              "code": "544622.1",
+              "title_ja": "小;表在性 [OIS II, III]",
+              "title_en": "minor ; superficial [OIS II, III]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "精巣 詳細不明 > 裂傷・裂創 詳細不明 > 小;表在性 [OIS II, III]",
+              "description_en": "Testes NFS > laceration NFS > minor ; superficial [OIS II, III]",
+              "children": []
+            },
+            {
+              "code": "544624.2",
+              "title_ja": "断裂;切断;複雑;広範囲 [OIS IV, V]",
+              "title_en": "avulsion ; amputation ; complex ; massive [OIS IV, V]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion"
+              ],
+              "description_ja": "精巣 詳細不明 > 裂傷・裂創 詳細不明 > 断裂;切断;複雑;広範囲 [OIS IV, V]",
+              "description_en": "Testes NFS > laceration NFS > avulsion ; amputation ; complex ; massive [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "544899.2",
+      "title_ja": "尿管 詳細不明",
+      "title_en": "Ureter NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "尿管 詳細不明",
+      "description_en": "Ureter NFS",
+      "children": [
+        {
+          "code": "544810.2",
+          "title_ja": "挫傷;血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "尿管 詳細不明 > 挫傷;血腫 [OIS I]",
+          "description_en": "Ureter NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "544820.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "尿管 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Ureter NFS > laceration NFS",
+          "children": [
+            {
+              "code": "544822.2",
+              "title_ja": "穿孔なし;非全層性 [OIS II]",
+              "title_en": "no perforation ; partial thickness [OIS II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "尿管 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし;非全層性 [OIS II]",
+              "description_en": "Ureter NFS > laceration NFS > no perforation ; partial thickness [OIS II]",
+              "children": []
+            },
+            {
+              "code": "544824.3",
+              "title_ja": "穿孔あり;全層性 [OIS III]",
+              "title_en": "perforation ; full thickness [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "尿管 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔あり;全層性 [OIS III]",
+              "description_en": "Ureter NFS > laceration NFS > perforation ; full thickness [OIS III]",
+              "children": []
+            },
+            {
+              "code": "544826.3",
+              "title_ja": "広範囲;断裂;複雑;破裂;組織欠損;離断 [OIS IV, V]",
+              "title_en": "massive ; avulsion ; complex ; rupture ; tissue loss ; transection [OIS IV, V]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "amputation",
+                "avulsion"
+              ],
+              "description_ja": "尿管 詳細不明 > 裂傷・裂創 詳細不明 > 広範囲;断裂;複雑;破裂;組織欠損;離断 [OIS IV, V]",
+              "description_en": "Ureter NFS > laceration NFS > massive ; avulsion ; complex ; rupture ; tissue loss ; transection [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "545099.2",
+      "title_ja": "尿道 詳細不明",
+      "title_en": "Urethra NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "ABDOMEN",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "尿道 詳細不明",
+      "description_en": "Urethra NFS",
+      "children": [
+        {
+          "code": "545010.2",
+          "title_ja": "挫傷;血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "尿道 詳細不明 > 挫傷;血腫 [OIS I]",
+          "description_en": "Urethra NFS > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "545020.2",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "尿道 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Urethra NFS > laceration NFS",
+          "children": [
+            {
+              "code": "545022.2",
+              "title_ja": "穿孔なし;非全層性 [OIS III]",
+              "title_en": "no perforation ; partial thickness [OIS III]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "尿道 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔なし;非全層性 [OIS III]",
+              "description_en": "Urethra NFS > laceration NFS > no perforation ; partial thickness [OIS III]",
+              "children": []
+            },
+            {
+              "code": "545024.2",
+              "title_ja": "穿孔あり;全層性;2cm未満の尿道裂孔 [OIS IV]",
+              "title_en": "perforation ; full thickness ; urethral separation <2cm [OIS IV]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "perforation",
+                "burn"
+              ],
+              "description_ja": "尿道 詳細不明 > 裂傷・裂創 詳細不明 > 穿孔あり;全層性;2cm未満の尿道裂孔 [OIS IV]",
+              "description_en": "Urethra NFS > laceration NFS > perforation ; full thickness ; urethral separation <2cm [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "545026.2",
+              "title_ja": "断裂;複雑;組織欠損;広範囲 [OIS IV]",
+              "title_en": "avulsion ; complex ; tissue loss ; massive [OIS IV]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "尿道 詳細不明 > 裂傷・裂創 詳細不明 > 断裂;複雑;組織欠損;広範囲 [OIS IV]",
+              "description_en": "Urethra NFS > laceration NFS > avulsion ; complex ; tissue loss ; massive [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "545028.3",
+              "title_ja": "後部尿道組織の欠損;離断;2cmを超える尿道裂孔",
+              "title_en": "posterior tissue loss ; transection ; urethral separation >2cm [OIS V]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "ABDOMEN",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "amputation"
+              ],
+              "description_ja": "尿道 詳細不明 > 裂傷・裂創 詳細不明 > 後部尿道組織の欠損;離断;2cmを超える尿道裂孔",
+              "description_en": "Urethra NFS > laceration NFS > posterior tissue loss ; transection ; urethral separation >2cm [OIS V]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "545030.2",
+          "title_ja": "伸展損傷 [OIS II]",
+          "title_en": "stretch injury [OIS II]^a",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "ABDOMEN",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "尿道 詳細不明 > 伸展損傷 [OIS II]",
+          "description_en": "Urethra NFS > stretch injury [OIS II]^a",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "545299.1",
+      "title_ja": "子宮 詳細不明",
+      "title_en": "Uterus NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "腹部",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "子宮 詳細不明",
+      "description_en": "Uterus NFS",
+      "children": [
+        {
+          "code": "545210.1",
+          "title_ja": "挫傷；血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "腹部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "子宮 詳細不明 > 挫傷；血腫",
+          "description_en": "Uterus NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "545220.2",
+          "title_ja": "裂傷・裂創；穿孔 詳細不明",
+          "title_en": "laceration ; perforation NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "腹部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "子宮 詳細不明 > 裂傷・裂創；穿孔 詳細不明",
+          "description_en": "Uterus NFS > laceration ; perforation NFS",
+          "children": [
+            {
+              "code": "545222.2",
+              "title_ja": "1 cm以下；小；表在性 [OIS II]",
+              "title_en": "≤1cm ; minor ; superficial [OIS II]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "子宮 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 1 cm以下；小；表在性 [OIS II]",
+              "description_en": "Uterus NFS > laceration ; perforation NFS > ≤1cm ; minor ; superficial [OIS II]",
+              "children": []
+            },
+            {
+              "code": "545224.3",
+              "title_ja": "1 cmを超える；50%以下の胎盤剥離；大；深在性 [OIS III]",
+              "title_en": ">1cm ; placental abruption ≤50% ; major ; deep [OIS III]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "avulsion"
+              ],
+              "description_ja": "子宮 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 1 cmを超える；50%以下の胎盤剥離；大；深在性 [OIS III]",
+              "description_en": "Uterus NFS > laceration ; perforation NFS > >1cm ; placental abruption ≤50% ; major ; deep [OIS III]",
+              "children": []
+            },
+            {
+              "code": "545226.4",
+              "title_ja": "子宮動脈の損傷を伴う；50%を超えるが完全ではない胎盤剥離 [OIS IV]",
+              "title_en": "involving uterine artery ; placental abruption >50% but not complete [OIS IV]",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "vascular"
+              ],
+              "description_ja": "子宮 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 子宮動脈の損傷を伴う；50%を超えるが完全ではない胎盤剥離 [OIS IV]",
+              "description_en": "Uterus NFS > laceration ; perforation NFS > involving uterine artery ; placental abruption >50% but not complete [OIS IV]",
+              "children": []
+            },
+            {
+              "code": "545228.5",
+              "title_ja": "子宮破裂；断裂；血行遮断；完全な胎盤剥離",
+              "title_en": "uterine rupture ; avulsion ; devascularization ; complete placental abruption",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion",
+                "vascular"
+              ],
+              "description_ja": "子宮 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 子宮破裂；断裂；血行遮断；完全な胎盤剥離",
+              "description_en": "Uterus NFS > laceration ; perforation NFS > uterine rupture ; avulsion ; devascularization ; complete placental abruption",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "545499.1",
+      "title_ja": "膣 詳細不明",
+      "title_en": null,
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "腹部",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "膣 詳細不明",
+      "description_en": "",
+      "children": [
+        {
+          "code": "545410.1",
+          "title_ja": "挫傷；血腫 [OIS I]",
+          "title_en": "contusion ; hematoma [OIS I]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "腹部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "膣 詳細不明 > 挫傷；血腫 [OIS I]",
+          "description_en": " > contusion ; hematoma [OIS I]",
+          "children": []
+        },
+        {
+          "code": "545420.1",
+          "title_ja": "裂傷・裂創；穿孔 詳細不明",
+          "title_en": "laceration ; perforation NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "腹部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "膣 詳細不明 > 裂傷・裂創；穿孔 詳細不明",
+          "description_en": " > laceration ; perforation NFS",
+          "children": [
+            {
+              "code": "545422.1",
+              "title_ja": "小；表在性；粘膜損傷のみ [OIS II]",
+              "title_en": "minor ; superficial ; mucosa only [OIS II]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "膣 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 小；表在性；粘膜損傷のみ [OIS II]",
+              "description_en": " > laceration ; perforation NFS > minor ; superficial ; mucosa only [OIS II]",
+              "children": []
+            },
+            {
+              "code": "545424.2",
+              "title_ja": "大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+              "title_en": "major ; deep into fat/muscle [OIS III]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "膣 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+              "description_en": " > laceration ; perforation NFS > major ; deep into fat/muscle [OIS III]",
+              "children": []
+            },
+            {
+              "code": "545426.3",
+              "title_ja": "広範囲；断裂；複雑；子宮頸部または腹膜にまで及ぶ [OIS IV, V]",
+              "title_en": "massive ; avulsion ; complex ; into cervix or peritoneum [OIS IV, V]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "膣 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 広範囲；断裂；複雑；子宮頸部または腹膜にまで及ぶ [OIS IV, V]",
+              "description_en": " > laceration ; perforation NFS > massive ; avulsion ; complex ; into cervix or peritoneum [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "545699.1",
+      "title_ja": "外陰部 詳細不明",
+      "title_en": "Vulva NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "腹部",
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "外陰部 詳細不明",
+      "description_en": "Vulva NFS",
+      "children": [
+        {
+          "code": "545610.1",
+          "title_ja": "挫傷；血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "腹部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "外陰部 詳細不明 > 挫傷；血腫",
+          "description_en": "Vulva NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "545620.1",
+          "title_ja": "裂傷・裂創；穿孔 詳細不明",
+          "title_en": "laceration ; perforation NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "腹部",
+          "iss_body_region": "abdomen",
+          "injury_types": [
+            "laceration",
+            "perforation",
+            "nfs"
+          ],
+          "description_ja": "外陰部 詳細不明 > 裂傷・裂創；穿孔 詳細不明",
+          "description_en": "Vulva NFS > laceration ; perforation NFS",
+          "children": [
+            {
+              "code": "545622.1",
+              "title_ja": "小；表在性；皮膚損傷のみ [OIS II]",
+              "title_en": "minor ; superficial ; skin only [OIS II]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "外陰部 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 小；表在性；皮膚損傷のみ [OIS II]",
+              "description_en": "Vulva NFS > laceration ; perforation NFS > minor ; superficial ; skin only [OIS II]",
+              "children": []
+            },
+            {
+              "code": "545624.2",
+              "title_ja": "大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+              "title_en": "major ; deep into fat/muscle [OIS III]",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "laceration",
+                "perforation",
+                "nfs"
+              ],
+              "description_ja": "外陰部 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 大；脂肪組織または筋層にまで達する深在性 [OIS III]",
+              "description_en": "Vulva NFS > laceration ; perforation NFS > major ; deep into fat/muscle [OIS III]",
+              "children": []
+            },
+            {
+              "code": "545626.3",
+              "title_ja": "広範囲；断裂；複雑 [OIS IV, V]",
+              "title_en": "massive ; avulsion ; complex [OIS IV, V]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "腹部",
+              "iss_body_region": "abdomen",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "外陰部 詳細不明 > 裂傷・裂創；穿孔 詳細不明 > 広範囲；断裂；複雑 [OIS IV, V]",
+              "description_en": "Vulva NFS > laceration ; perforation NFS > massive ; avulsion ; complex [OIS IV, V]",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

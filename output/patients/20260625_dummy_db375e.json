@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "jtdb_schema_version": "1.0",
+    "session_id": "dummy_db375e",
+    "created_at": "2026-06-25T12:56:00.208259",
+    "completed_at": "2026-06-25T12:56:00.208259",
+    "ais_coding_status": "complete"
+  },
+  "patient": {
+    "2": {
+      "label": "年齢",
+      "value": 55,
+      "display": "55",
+      "raw": "55歳",
+      "unknown": false
+    },
+    "38": {
+      "label": "収縮期血圧",
+      "value": 90,
+      "display": "90",
+      "raw": "90",
+      "unknown": false
+    },
+    "40": {
+      "label": "呼吸数",
+      "value": 20,
+      "display": "20",
+      "raw": "20",
+      "unknown": false
+    },
+    "45": {
+      "label": "GCS-E",
+      "value": 3,
+      "display": "3（呼びかけで開眼）",
+      "raw": "E3",
+      "unknown": false
+    },
+    "46": {
+      "label": "GCS-V",
+      "value": 4,
+      "display": "4（混乱した会話）",
+      "raw": "V4",
+      "unknown": false
+    },
+    "47": {
+      "label": "GCS-M",
+      "value": 5,
+      "display": "5（疼痛部位への反応）",
+      "raw": "M5",
+      "unknown": false
+    },
+    "8": {
+      "label": "外傷分類",
+      "value": 1,
+      "display": "鈍的",
+      "raw": "鈍的",
+      "unknown": false
+    }
+  },
+  "injuries": {
+    "70": [
+      "右硬膜外血腫",
+      "くも膜下出血"
+    ],
+    "71": [],
+    "72": [
+      "左肋骨骨折（第4・5・6肋骨）",
+      "左血胸"
+    ],
+    "73": [
+      "脾臓損傷"
+    ],
+    "74": [
+      "左大腿骨骨幹部骨折"
+    ],
+    "75": []
+  },
+  "scores": {
+    "gcs": 12,
+    "rts": 6.904,
+    "iss": 41,
+    "triss_ps": 0.5715,
+    "ais_coding_status": "complete",
+    "max_ais_by_region": {
+      "70": 4,
+      "71": 0,
+      "72": 3,
+      "73": 4,
+      "74": 3,
+      "75": 0
+    }
+  },
+  "ais_codes": {
+    "70": [
+      {
+        "description": "右硬膜外血腫",
+        "code": "140632.4",
+        "japanese": "小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+        "description_ja": "硬膜外に血腫が存在するが、その大きさやその他の詳細が不明な場合に選択する。",
+        "english": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+        "severity": 4,
+        "confidence": "confirmed"
+      },
+      {
+        "description": "くも膜下出血",
+        "code": "140695.3",
+        "japanese": "6時間を超える昏睡と関連があるもの",
+        "description_ja": "頭部における出血性損傷に伴い、6時間を超える昏睡状態が認められることを示す。",
+        "english": "associated with coma >6 hours",
+        "severity": 3,
+        "confidence": "medium"
+      }
+    ],
+    "71": [],
+    "72": [
+      {
+        "description": "左肋骨骨折（第4・5・6肋骨）",
+        "code": "450203.3",
+        "japanese": "3本以上の肋骨 [OIS II]",
+        "description_ja": "フレイルチェストを伴わない3本以上の肋骨の骨折。この場合は3本の肋骨が骨折している。",
+        "english": "≥3 ribs [OIS II]",
+        "severity": 3,
+        "confidence": "high"
+      },
+      {
+        "description": "左血胸",
+        "code": "442200.3",
+        "japanese": "血胸 詳細不明",
+        "description_ja": "胸腔内に出血が認められるが、その出血量や損傷形態に関する具体的な詳細情報が不明な状態を示す。",
+        "english": "Hemothorax NFS",
+        "severity": 3,
+        "confidence": "high"
+      }
+    ],
+    "73": [
+      {
+        "description": "脾臓損傷",
+        "code": "544226.4",
+        "japanese": "脾門部離断を伴わないが脾臓の25%を超える血行遮断を生じるような区域性血管損傷または脾門部血管の損傷；大 [OIS IV]",
+        "description_ja": "脾臓に損傷があるが、その具体的な形態（挫傷、裂傷、破裂など）や重症度に関する詳細情報が不明な場合に選択するコード。",
+        "english": "involving segmental or hilar vessels producing major devascularization of >25% of spleen but no hilar injury ; major [OIS IV]",
+        "severity": 4,
+        "confidence": "confirmed"
+      }
+    ],
+    "74": [
+      {
+        "description": "左大腿骨骨幹部骨折",
+        "code": "853251.3",
+        "japanese": "単純；螺旋；斜走；横断；Winquist (ウィンクイスト) Ⅰ型",
+        "description_ja": "大腿骨の骨幹部に生じた骨折で、その形態（例: 単純、粉砕、開放など）に関する詳細情報がない場合に用いられるコードです。",
+        "english": "simple ; spiral ; oblique ; transverse ; Winquist I",
+        "severity": 3,
+        "confidence": "confirmed"
+      }
+    ],
+    "75": []
+  }
+}

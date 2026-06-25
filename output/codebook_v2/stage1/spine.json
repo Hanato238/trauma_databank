@@ -1,39 +1,7 @@
 {
   "body_part": "spine",
   "body_part_name": "Spine / 脊椎",
-  "iss_body_region": "spine",
-  "source_file_count": 27,
-  "source_files": [
-    "spine_001.json",
-    "spine_002.json",
-    "spine_003.json",
-    "spine_004.json",
-    "spine_005.json",
-    "spine_006.json",
-    "spine_007.json",
-    "spine_008.json",
-    "spine_009.json",
-    "spine_010.json",
-    "spine_011.json",
-    "spine_012.json",
-    "spine_013.json",
-    "spine_014.json",
-    "spine_015.json",
-    "spine_016.json",
-    "spine_017.json",
-    "spine_018.json",
-    "spine_019.json",
-    "spine_020.json",
-    "spine_021.json",
-    "spine_022.json",
-    "spine_023.json",
-    "spine_024.json",
-    "spine_025.json",
-    "spine_026.json",
-    "spine_027.json"
-  ],
   "total_entries": 216,
-  "collision_count": 116,
   "entries": [
     {
       "code": "600099.9",
@@ -41,16 +9,13 @@
       "title_en": "Injuries to the Cervical Spine NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "600999.9",
@@ -58,17 +23,13 @@
       "title_en": "Died of cervical spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630299.2",
@@ -76,16 +37,13 @@
       "title_en": "Brachial Plexus injury NFS [includes trunks, divisions or cords]",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630210.2",
@@ -93,16 +51,13 @@
       "title_en": "incomplete plexus injury NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630212.2",
@@ -110,16 +65,13 @@
       "title_en": "contusion ; stretch injury",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630214.2",
@@ -127,16 +79,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630216.2",
@@ -144,16 +93,13 @@
       "title_en": "avulsion",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630220.3",
@@ -161,15 +107,13 @@
       "title_en": "complete plexus injury NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
-      "section": "頸 椎",
+      "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630221.4",
@@ -177,13 +121,13 @@
       "title_en": null,
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
-      "section": "頸 椎",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "spine_007.json"
-      ]
+      "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630222.3",
@@ -191,16 +135,13 @@
       "title_en": "contusion ; stretch injury",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630224.3",
@@ -208,16 +149,13 @@
       "title_en": "laceration",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630226.3",
@@ -225,17 +163,13 @@
       "title_en": "avulsion",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_006.json",
-        "spine_007.json"
-      ],
-      "collision_note": "description_en 衝突: [avulsion] vs [bilateral] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630227.4",
@@ -243,13 +177,13 @@
       "title_en": null,
       "ais_severity": 4,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
-      "section": "頸 椎",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "spine_007.json"
-      ]
+      "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "avulsion"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640200.3",
@@ -257,19 +191,16 @@
       "title_en": "Cord contusion NFS [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion",
         "hematoma",
         "hemorrhage",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640201.3",
@@ -277,19 +208,15 @@
       "title_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640202.3",
@@ -297,17 +224,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640204.3",
@@ -315,16 +239,13 @@
       "title_en": "with fracture",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640206.3",
@@ -332,16 +253,13 @@
       "title_en": "with dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640208.3",
@@ -349,17 +267,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640210.4",
@@ -367,19 +282,16 @@
       "title_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes) , but NFS as to fracture/dislocation",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640212.4",
@@ -387,17 +299,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640214.4",
@@ -405,16 +314,13 @@
       "title_en": "with fracture",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640216.4",
@@ -422,16 +328,13 @@
       "title_en": "with dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640218.4",
@@ -439,17 +342,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640220.5",
@@ -457,16 +357,13 @@
       "title_en": "complete cord syndrome (quadriplegia or paraplegia with no sensation)",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "paralysis"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640221.5",
@@ -474,18 +371,15 @@
       "title_en": "C-4 or below, but NFS as to fracture/dislocation or NFS as to site",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640222.5",
@@ -493,17 +387,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640224.5",
@@ -511,16 +402,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640226.5",
@@ -528,16 +416,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640228.5",
@@ -545,17 +430,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640229.6",
@@ -563,18 +445,15 @@
       "title_en": "C-3 or above, but NFS as to fracture/dislocation",
       "ais_severity": 6,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640230.6",
@@ -582,17 +461,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640232.6",
@@ -600,16 +476,13 @@
       "title_en": "with fracture",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640234.6",
@@ -617,16 +490,13 @@
       "title_en": "with dislocation",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640236.6",
@@ -634,17 +504,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_008.json",
-        "spine_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640240.5",
@@ -652,8 +519,8 @@
       "title_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "crush",
@@ -661,11 +528,8 @@
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640242.5",
@@ -673,20 +537,16 @@
       "title_en": "incomplete (preservation of some sensation or motor func- tion), but NFS as to fracture/dislocation",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640244.5",
@@ -694,18 +554,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640246.5",
@@ -713,18 +569,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "fracture",
-        "dislocation"
+        "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640248.5",
@@ -732,17 +583,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640250.5",
@@ -750,18 +597,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640260.5",
@@ -769,17 +612,14 @@
       "title_en": "complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function)",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "paralysis",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640261.5",
@@ -787,18 +627,15 @@
       "title_en": "C-4 or below, but NFS as to fracture/dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640262.5",
@@ -806,17 +643,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640264.5",
@@ -824,16 +658,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640266.5",
@@ -841,16 +672,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640268.5",
@@ -858,17 +686,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640269.6",
@@ -876,18 +701,15 @@
       "title_en": "C-3 or above, but NFS as to fracture/dislocation",
       "ais_severity": 6,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640270.6",
@@ -895,17 +717,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640272.6",
@@ -913,16 +732,13 @@
       "title_en": "with fracture",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640274.6",
@@ -930,16 +746,13 @@
       "title_en": "with dislocation",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640276.6",
@@ -947,17 +760,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 6,
       "hierarchy_level": 4,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650299.2",
@@ -965,16 +775,13 @@
       "title_en": "Disc injury NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650200.2",
@@ -982,16 +789,13 @@
       "title_en": "herniation NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650202.2",
@@ -999,17 +803,13 @@
       "title_en": "no nerve root damage (radiculopathy)",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650203.3",
@@ -1017,17 +817,13 @@
       "title_en": "with nerve root damage (radiculopathy)",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650205.3",
@@ -1035,16 +831,13 @@
       "title_en": "rupture",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650204.2",
@@ -1052,18 +845,15 @@
       "title_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650206.3",
@@ -1071,15 +861,15 @@
       "title_en": "atlanto-axial (odontoid)",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650208.2",
@@ -1087,15 +877,15 @@
       "title_en": "atlanto-occipital",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650209.2",
@@ -1103,17 +893,13 @@
       "title_en": "facet NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650210.2",
@@ -1121,15 +907,13 @@
       "title_en": "unilateral",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650212.3",
@@ -1137,15 +921,13 @@
       "title_en": "bilateral",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_010.json",
-        "spine_011.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650216.2",
@@ -1153,18 +935,15 @@
       "title_en": "Fracture with or without dislocation but no cord involvement NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650217.2",
@@ -1172,16 +951,13 @@
       "title_en": "multiple fractures of same vertebra^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650218.2",
@@ -1189,15 +965,15 @@
       "title_en": "spinous process",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650220.2",
@@ -1205,15 +981,15 @@
       "title_en": "transverse process",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650222.2",
@@ -1221,15 +997,15 @@
       "title_en": "facet",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650224.2",
@@ -1237,15 +1013,15 @@
       "title_en": "lamina",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650226.2",
@@ -1253,15 +1029,15 @@
       "title_en": "pedicle",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650228.3",
@@ -1269,15 +1045,15 @@
       "title_en": "odontoid (dens)",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650230.2",
@@ -1285,19 +1061,15 @@
       "title_en": "vertebral body NFS [\"burst\" fracture]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "rupture",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650232.2",
@@ -1305,17 +1077,13 @@
       "title_en": "minor compression (<=20% loss of anterior height)",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650234.3",
@@ -1323,17 +1091,13 @@
       "title_en": "major compression (>20% loss of anterior height)",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640284.1",
@@ -1341,14 +1105,13 @@
       "title_en": "Spinous ligament injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ]
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "rupture"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630260.2",
@@ -1356,17 +1119,13 @@
       "title_en": "Nerve root, single or multiple NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630202.2",
@@ -1374,17 +1133,13 @@
       "title_en": "contusion : stretch injury",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "contusion"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630204.2",
@@ -1392,18 +1147,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630206.2",
@@ -1411,17 +1162,14 @@
       "title_en": "single nerve root",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve"
+        "laceration",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630208.3",
@@ -1429,17 +1177,14 @@
       "title_en": "multiple nerve roots",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve"
+        "laceration",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630262.2",
@@ -1447,18 +1192,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630264.2",
@@ -1466,17 +1207,14 @@
       "title_en": "single nerve root",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve"
+        "avulsion",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630266.3",
@@ -1484,17 +1222,14 @@
       "title_en": "multiple nerve roots",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
-        "nerve"
+        "avulsion",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640278.1",
@@ -1502,18 +1237,15 @@
       "title_en": "Strain, acute, with no fracture or dislocation",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "CERVICAL SPINE",
+      "iss_body_region": "head_neck",
       "injury_types": [
         "fracture",
         "dislocation",
         "sprain"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_012.json",
-        "spine_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "620099.9",
@@ -1521,16 +1253,13 @@
       "title_en": "Injuries to the Thoracic Spine NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "620999.9",
@@ -1538,16 +1267,13 @@
       "title_en": "Died of thoracic spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640400.3",
@@ -1555,18 +1281,15 @@
       "title_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "contusion",
         "hematoma",
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640401.3",
@@ -1574,19 +1297,15 @@
       "title_en": "with transient neurological signs (paresthesia) but NFS as to fracture/dislocation",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640402.3",
@@ -1594,17 +1313,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640404.3",
@@ -1612,16 +1328,13 @@
       "title_en": "with fracture",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640406.3",
@@ -1629,16 +1342,13 @@
       "title_en": "with dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640408.3",
@@ -1646,17 +1356,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640410.4",
@@ -1664,19 +1371,16 @@
       "title_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes) but NFS as to fracture/dislocation",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640412.4",
@@ -1684,17 +1388,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640414.4",
@@ -1702,16 +1403,13 @@
       "title_en": "with fracture",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640416.4",
@@ -1719,16 +1417,13 @@
       "title_en": "with dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640418.4",
@@ -1736,17 +1431,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640420.5",
@@ -1754,19 +1446,16 @@
       "title_en": "complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640422.5",
@@ -1774,17 +1463,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640424.5",
@@ -1792,16 +1478,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640426.5",
@@ -1809,16 +1492,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640428.5",
@@ -1826,17 +1506,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_014.json",
-        "spine_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640440.5",
@@ -1844,8 +1521,8 @@
       "title_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
         "crush",
@@ -1853,11 +1530,8 @@
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640442.5",
@@ -1865,20 +1539,16 @@
       "title_en": "incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640444.5",
@@ -1886,18 +1556,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640446.5",
@@ -1905,17 +1571,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640448.5",
@@ -1923,17 +1585,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640450.5",
@@ -1941,18 +1599,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640460.5",
@@ -1960,20 +1614,16 @@
       "title_en": "complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）; level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640462.5",
@@ -1981,18 +1631,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）; level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640464.5",
@@ -2000,17 +1646,13 @@
       "title_en": "with fracture",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）; level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640466.5",
@@ -2018,17 +1660,13 @@
       "title_en": "with dislocation",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）; level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640468.5",
@@ -2036,18 +1674,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）; level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650499.2",
@@ -2055,16 +1689,13 @@
       "title_en": "Disc injury NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650400.2",
@@ -2072,16 +1703,13 @@
       "title_en": "herniation NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650402.2",
@@ -2089,17 +1717,13 @@
       "title_en": "no nerve root damage (radiculopathy)",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "nerve"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650403.3",
@@ -2107,17 +1731,13 @@
       "title_en": "with nerve root damage (radiculopathy)",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "nerve"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650405.3",
@@ -2125,16 +1745,13 @@
       "title_en": "rupture",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650404.2",
@@ -2142,18 +1759,15 @@
       "title_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650409.2",
@@ -2161,17 +1775,13 @@
       "title_en": "facet NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650410.2",
@@ -2179,15 +1789,13 @@
       "title_en": "unilateral",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650412.3",
@@ -2195,15 +1803,13 @@
       "title_en": "bilateral",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_016.json",
-        "spine_017.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650416.2",
@@ -2211,18 +1817,15 @@
       "title_en": "Fracture with or without dislocation but no cord involvement NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650417.2",
@@ -2230,17 +1833,13 @@
       "title_en": "multiple fractures of same vertebra",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650418.2",
@@ -2248,15 +1847,15 @@
       "title_en": "spinous process",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650420.2",
@@ -2264,15 +1863,15 @@
       "title_en": "transverse process",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650422.2",
@@ -2280,15 +1879,15 @@
       "title_en": "facet",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650424.2",
@@ -2296,15 +1895,15 @@
       "title_en": "lamina",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650426.2",
@@ -2312,15 +1911,15 @@
       "title_en": "pedicle",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650430.2",
@@ -2328,19 +1927,15 @@
       "title_en": "vertebral body NFS [“burst fracture”]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "rupture",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650432.2",
@@ -2348,17 +1943,13 @@
       "title_en": "minor compression (≤20% loss of anterior height)",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650434.3",
@@ -2366,17 +1957,13 @@
       "title_en": "major compression (>20% loss of anterior height)",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640484.1",
@@ -2384,14 +1971,13 @@
       "title_en": "Spinous ligament injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ]
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "rupture"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630499.2",
@@ -2399,17 +1985,13 @@
       "title_en": "Nerve root, single or multiple NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630402.2",
@@ -2417,17 +1999,13 @@
       "title_en": "contusion ; stretch injury",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "contusion"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630404.2",
@@ -2435,18 +2013,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630406.2",
@@ -2454,17 +2028,14 @@
       "title_en": "single nerve root",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "nerve"
+        "laceration",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630408.3",
@@ -2472,17 +2043,14 @@
       "title_en": "multiple nerve roots",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "nerve"
+        "laceration",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630410.2",
@@ -2490,18 +2058,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630412.2",
@@ -2509,17 +2073,14 @@
       "title_en": "single nerve root",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "nerve"
+        "avulsion",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630414.3",
@@ -2527,17 +2088,14 @@
       "title_en": "multiple nerve roots",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "nerve"
+        "avulsion",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640478.1",
@@ -2545,18 +2103,15 @@
       "title_en": "Strain, acute with no fracture or dislocation",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "THORACIC SPINE",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
         "dislocation",
         "sprain"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_018.json",
-        "spine_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630099.9",
@@ -2564,16 +2119,13 @@
       "title_en": "Injuries to the Lumbar Spine NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630999.9",
@@ -2581,16 +2133,13 @@
       "title_en": "Died of lumbar spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630600.3",
@@ -2598,17 +2147,14 @@
       "title_en": "Cauda equina contusion NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630602.3",
@@ -2616,19 +2162,15 @@
       "title_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630604.3",
@@ -2636,18 +2178,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630606.3",
@@ -2655,17 +2193,13 @@
       "title_en": "with fracture",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630608.3",
@@ -2673,17 +2207,13 @@
       "title_en": "with dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630610.3",
@@ -2691,18 +2221,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630620.3",
@@ -2710,19 +2236,15 @@
       "title_en": "incomplete cauda equina syndrome, but NFS as to fracture/dislocation",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630622.3",
@@ -2730,18 +2252,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630624.3",
@@ -2749,17 +2267,13 @@
       "title_en": "with fracture",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630626.3",
@@ -2767,17 +2281,13 @@
       "title_en": "with dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630628.3",
@@ -2785,18 +2295,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630630.4",
@@ -2804,19 +2310,15 @@
       "title_en": "complete cauda equina syndrome, but NFS as to fracture/dislocation",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630632.4",
@@ -2824,18 +2326,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630634.4",
@@ -2843,17 +2341,13 @@
       "title_en": "with fracture",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630636.4",
@@ -2861,17 +2355,13 @@
       "title_en": "with dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630638.4",
@@ -2879,18 +2369,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_020.json",
-        "spine_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640600.3",
@@ -2898,18 +2384,15 @@
       "title_en": "Cord contusion [includes the diagnosis of compression, or epidural or subdural hemorrhage within spinal canal documented by imaging studies or autopsy]",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion",
         "hematoma",
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640601.3",
@@ -2917,19 +2400,15 @@
       "title_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640602.3",
@@ -2937,17 +2416,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640604.3",
@@ -2955,17 +2431,13 @@
       "title_en": "with fracture",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640606.3",
@@ -2973,17 +2445,13 @@
       "title_en": "with dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640608.3",
@@ -2991,18 +2459,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640610.4",
@@ -3010,19 +2474,16 @@
       "title_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640612.4",
@@ -3030,17 +2491,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640614.4",
@@ -3048,17 +2506,13 @@
       "title_en": "with fracture",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640616.4",
@@ -3066,17 +2520,13 @@
       "title_en": "with dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640618.4",
@@ -3084,18 +2534,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640620.5",
@@ -3103,19 +2549,16 @@
       "title_en": "complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640622.5",
@@ -3123,17 +2566,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640624.5",
@@ -3141,17 +2581,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640626.5",
@@ -3159,17 +2595,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640628.5",
@@ -3177,18 +2609,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_022.json",
-        "spine_023.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640640.5",
@@ -3196,8 +2624,8 @@
       "title_en": "Cord laceration NFS [includes penetrating injury, transection or crush]",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "crush",
@@ -3205,11 +2633,8 @@
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640642.5",
@@ -3217,20 +2642,16 @@
       "title_en": "incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640644.5",
@@ -3238,18 +2659,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640646.5",
@@ -3257,17 +2674,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640648.5",
@@ -3275,17 +2688,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640650.5",
@@ -3293,18 +2702,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640660.5",
@@ -3312,19 +2717,16 @@
       "title_en": "complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "paralysis",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640662.5",
@@ -3332,17 +2734,14 @@
       "title_en": "with no fracture or dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640664.5",
@@ -3350,16 +2749,13 @@
       "title_en": "with fracture",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640666.5",
@@ -3367,16 +2763,13 @@
       "title_en": "with dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640668.5",
@@ -3384,17 +2777,14 @@
       "title_en": "with both fracture and dislocation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650699.2",
@@ -3402,16 +2792,13 @@
       "title_en": "Disc injury NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650600.2",
@@ -3419,16 +2806,13 @@
       "title_en": "herniation NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650602.2",
@@ -3436,17 +2820,13 @@
       "title_en": "no nerve root damage (radiculopathy)",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "nerve"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650603.3",
@@ -3454,17 +2834,13 @@
       "title_en": "with nerve root damage (radiculopathy)",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "nerve"
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650605.3",
@@ -3472,16 +2848,13 @@
       "title_en": "rupture",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650604.2",
@@ -3489,18 +2862,15 @@
       "title_en": "Dislocation [subluxation], no fracture, no cord involvement NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650609.2",
@@ -3508,16 +2878,13 @@
       "title_en": "facet NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650610.2",
@@ -3525,14 +2892,13 @@
       "title_en": "unilateral",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650612.3",
@@ -3540,14 +2906,13 @@
       "title_en": "bilateral",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "spine_024.json",
-        "spine_025.json"
-      ]
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650616.2",
@@ -3555,19 +2920,15 @@
       "title_en": "Fracture with or without dislocation but no cord involvement NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650617.2",
@@ -3575,17 +2936,13 @@
       "title_en": "multiple fractures of same vertebra^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650618.2",
@@ -3593,15 +2950,15 @@
       "title_en": "spinous process",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650620.2",
@@ -3609,15 +2966,15 @@
       "title_en": "transverse process",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650622.2",
@@ -3625,15 +2982,15 @@
       "title_en": "facet",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650624.2",
@@ -3641,15 +2998,15 @@
       "title_en": "lamina",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650626.2",
@@ -3657,15 +3014,15 @@
       "title_en": "pedicle",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "fracture",
+        "dislocation",
+        "nfs"
       ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650630.2",
@@ -3673,19 +3030,15 @@
       "title_en": "vertebral body NFS [\"burst fracture\"]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "rupture",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650632.2",
@@ -3693,17 +3046,13 @@
       "title_en": "minor compression (≤20% loss of anterior height)",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "650634.3",
@@ -3711,17 +3060,13 @@
       "title_en": "major compression (>20% loss of anterior height)",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640684.1",
@@ -3729,15 +3074,13 @@
       "title_en": "Spinous ligament injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
+      "iss_body_region": "abdomen",
+      "injury_types": [
+        "rupture"
       ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630699.2",
@@ -3745,18 +3088,13 @@
       "title_en": "Nerve root or sacral plexus, single or multiple NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630660.2",
@@ -3764,17 +3102,13 @@
       "title_en": "contusion ; stretch injury",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "contusion"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630662.2",
@@ -3782,18 +3116,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630664.2",
@@ -3801,17 +3131,14 @@
       "title_en": "single nerve root",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "nerve"
+        "laceration",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630666.3",
@@ -3819,17 +3146,14 @@
       "title_en": "multiple nerve roots",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "nerve"
+        "laceration",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630668.2",
@@ -3837,18 +3161,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630612.2",
@@ -3856,17 +3176,14 @@
       "title_en": "single nerve root",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "nerve"
+        "avulsion",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "630614.3",
@@ -3874,17 +3191,14 @@
       "title_en": "multiple nerve roots",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
-        "nerve"
+        "avulsion",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "640678.1",
@@ -3892,19 +3206,15 @@
       "title_en": "Strain, acute with no fracture or dislocation",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "spine",
       "section": "LUMBAR SPINE",
+      "iss_body_region": "abdomen",
       "injury_types": [
         "fracture",
         "dislocation",
         "sprain"
       ],
-      "collision": true,
-      "source_files": [
-        "spine_026.json",
-        "spine_027.json"
-      ],
-      "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     }
   ]
 }

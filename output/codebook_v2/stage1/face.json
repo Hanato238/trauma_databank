@@ -1,35 +1,7 @@
 {
   "body_part": "face",
   "body_part_name": "Face / 顔面",
-  "iss_body_region": "face",
-  "source_file_count": 23,
-  "source_files": [
-    "face_001.json",
-    "face_002.json",
-    "face_003.json",
-    "face_004.json",
-    "face_005.json",
-    "face_006.json",
-    "face_007.json",
-    "face_008.json",
-    "face_009.json",
-    "face_010.json",
-    "face_011.json",
-    "face_012.json",
-    "face_013.json",
-    "face_014.json",
-    "face_015.json",
-    "face_016.json",
-    "face_017.json",
-    "face_018.json",
-    "face_019.json",
-    "face_020.json",
-    "face_021.json",
-    "face_022.json",
-    "face_023.json"
-  ],
   "total_entries": 175,
-  "collision_count": 67,
   "entries": [
     {
       "code": "200099.9",
@@ -37,16 +9,13 @@
       "title_en": "Injuries to the Face NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "Injury Description",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_002.json",
-        "face_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "200999.9",
@@ -54,14 +23,13 @@
       "title_en": "Died of facial injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
       "ais_severity": 9,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_002.json",
-        "face_003.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "216000.1",
@@ -69,17 +37,14 @@
       "title_en": "Penetrating injury NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "Injury Description",
       "injury_types": [
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_002.json",
-        "face_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "216002.1",
@@ -87,15 +52,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_002.json",
-        "face_003.json"
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "216004.2",
@@ -103,15 +67,14 @@
       "title_en": "with tissue loss >25cm²",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_002.json",
-        "face_003.json"
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "216006.3",
@@ -119,17 +82,13 @@
       "title_en": "with blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "Injury Description",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "face_002.json",
-        "face_003.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "216008.4",
@@ -137,15 +96,14 @@
       "title_en": "massive destruction of whole face including both eyes",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "Injury Description",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_002.json",
-        "face_003.json"
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210099.1",
@@ -153,16 +111,13 @@
       "title_en": "Skin/subcutaneous/muscle NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210202.1",
@@ -170,16 +125,13 @@
       "title_en": "abrasion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "abrasion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210402.1",
@@ -187,18 +139,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210600.1",
@@ -206,17 +154,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210602.1",
@@ -224,14 +169,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210604.2",
@@ -239,14 +184,14 @@
       "title_en": "major ; >10cm long and into subcutaneous tissue",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210606.3",
@@ -254,16 +199,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210800.1",
@@ -271,17 +213,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210802.1",
@@ -289,14 +228,14 @@
       "title_en": "minor ; superficial ; ≤25cm²",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210804.2",
@@ -304,14 +243,14 @@
       "title_en": "major ; >25cm²",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "210806.3",
@@ -319,16 +258,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "220099.9",
@@ -336,17 +272,14 @@
       "title_en": "Vascular Injury in Face NFSᶠ",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "220200.1",
@@ -354,17 +287,15 @@
       "title_en": "External carotid artery branch (es) laceration NFS [includes facial, temporal, and internal maxillary]",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration",
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "220202.1",
@@ -372,14 +303,15 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "220204.3",
@@ -387,17 +319,15 @@
       "title_en": "major ; transection ; blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "rupture",
-        "hemorrhage"
+        "hemorrhage",
+        "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "face_004.json",
-        "face_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "230299.1",
@@ -405,17 +335,13 @@
       "title_en": "Optic Nerve NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
-        "nerve",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "230202.2",
@@ -423,17 +349,13 @@
       "title_en": "contusion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "contusion"
       ],
-      "collision": true,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "230203.2",
@@ -441,14 +363,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "contusion"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "230204.2",
@@ -456,17 +377,13 @@
       "title_en": "laceration",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "230205.3",
@@ -474,14 +391,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "230206.2",
@@ -489,18 +405,14 @@
       "title_en": "avulsion",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "230207.3",
@@ -508,14 +420,14 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "rupture",
+        "avulsion"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240299.1",
@@ -523,16 +435,13 @@
       "title_en": "Ear NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240204.1",
@@ -540,14 +449,13 @@
       "title_en": "Ear Canal injury",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240208.1",
@@ -555,16 +463,13 @@
       "title_en": "Inner or Middle Ear injury NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240207.2",
@@ -572,14 +477,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240206.1",
@@ -587,14 +491,13 @@
       "title_en": "injury involving dizzinessᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240205.1",
@@ -602,14 +505,13 @@
       "title_en": "injury involving tinnitusᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240212.1",
@@ -617,16 +519,13 @@
       "title_en": "Ossicular chain (ear bone) dislocation",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240213.2",
@@ -634,14 +533,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "dislocation"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240216.1",
@@ -649,16 +547,13 @@
       "title_en": "Tympanic membrane (eardrum) rupture",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240220.1",
@@ -666,14 +561,13 @@
       "title_en": "Vestibular apparatus injury",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_006.json",
-        "face_007.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240499.1",
@@ -681,17 +575,13 @@
       "title_en": "Eye NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240402.2",
@@ -699,17 +589,13 @@
       "title_en": "Eye avulsion ; enucleation",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240403.3",
@@ -717,15 +603,13 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "avulsion"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240408.1",
@@ -733,18 +617,13 @@
       "title_en": "Canaliculus (lacrimal/tear duct) laceration",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
-        "laceration",
-        "rupture"
+        "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240599.1",
@@ -752,17 +631,13 @@
       "title_en": "Choroid NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240502.1",
@@ -770,16 +645,13 @@
       "title_en": "ruptureᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240504.1",
@@ -787,15 +659,13 @@
       "title_en": "peripheral - not involving macula",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "rupture"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240506.1",
@@ -803,15 +673,13 @@
       "title_en": "central - involving macula",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "rupture"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240508.1",
@@ -819,16 +687,13 @@
       "title_en": "detachmentᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240510.1",
@@ -836,16 +701,13 @@
       "title_en": "hemorrhageᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240416.1",
@@ -853,15 +715,13 @@
       "title_en": "Conjunctiva injury",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240699.1",
@@ -869,17 +729,13 @@
       "title_en": "Cornea NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240602.1",
@@ -887,16 +743,13 @@
       "title_en": "abrasion",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "abrasion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240603.1",
@@ -904,16 +757,13 @@
       "title_en": "burn, thermal or chemicalᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240604.1",
@@ -921,16 +771,13 @@
       "title_en": "contusionᵉ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "contusion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240610.1",
@@ -938,17 +785,14 @@
       "title_en": "hyphema NFSᵉ",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "hemorrhage",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240611.1",
@@ -956,14 +800,14 @@
       "title_en": "minor ; ≤50% of anterior chamber",
       "ais_severity": 1,
       "hierarchy_level": 5,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "hemorrhage",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240612.1",
@@ -971,14 +815,14 @@
       "title_en": "major ; >50% of anterior chamber",
       "ais_severity": 1,
       "hierarchy_level": 5,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "hemorrhage",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240620.1",
@@ -986,17 +830,14 @@
       "title_en": "laceration NFSᵉ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240621.1",
@@ -1004,14 +845,14 @@
       "title_en": "not involving central 3mm of cornea",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240622.1",
@@ -1019,15 +860,14 @@
       "title_en": "without prolapse",
       "ais_severity": 1,
       "hierarchy_level": 5,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240623.1",
@@ -1035,15 +875,14 @@
       "title_en": "with prolapse",
       "ais_severity": 1,
       "hierarchy_level": 5,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240624.1",
@@ -1051,14 +890,14 @@
       "title_en": "involving central 3mm of cornea",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240625.1",
@@ -1066,15 +905,14 @@
       "title_en": "without prolapse",
       "ais_severity": 1,
       "hierarchy_level": 5,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240626.1",
@@ -1082,15 +920,14 @@
       "title_en": "with prolapse",
       "ais_severity": 1,
       "hierarchy_level": 5,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240799.1",
@@ -1098,15 +935,13 @@
       "title_en": "Injury with retained Intraocular Foreign Bodyᵃ",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240789.1",
@@ -1114,15 +949,13 @@
       "title_en": "anterior chamberᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240779.1",
@@ -1130,15 +963,13 @@
       "title_en": "posterior chamberᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_008.json",
-        "face_009.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240800.1",
@@ -1146,16 +977,13 @@
       "title_en": "Lens NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240802.1",
@@ -1163,17 +991,14 @@
       "title_en": "capsular rupture NFS",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240804.1",
@@ -1181,14 +1006,14 @@
       "title_en": "anterior capsule",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "rupture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240806.1",
@@ -1196,14 +1021,14 @@
       "title_en": "posterior capsule",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "rupture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240808.1",
@@ -1211,14 +1036,14 @@
       "title_en": "both anterior and posterior capsules",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "rupture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240812.1",
@@ -1226,16 +1051,13 @@
       "title_en": "dislocation ; subluxation",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240814.1",
@@ -1243,14 +1065,13 @@
       "title_en": "anterior segment",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "dislocation"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240816.1",
@@ -1258,14 +1079,13 @@
       "title_en": "posterior segment",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "dislocation"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240999.1",
@@ -1273,16 +1093,13 @@
       "title_en": "Macula NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240902.1",
@@ -1290,17 +1107,14 @@
       "title_en": "contusion ; edema",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "contusion",
         "edema"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "240904.2",
@@ -1308,16 +1122,13 @@
       "title_en": "hole",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "perforation"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241099.1",
@@ -1325,16 +1136,13 @@
       "title_en": "Retina NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241000.1",
@@ -1342,18 +1150,14 @@
       "title_en": "laceration ; tear NFS",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration",
-        "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241002.1",
@@ -1361,14 +1165,14 @@
       "title_en": "minor ; ≤90°",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241004.1",
@@ -1376,14 +1180,14 @@
       "title_en": "major ; >90°",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241006.2",
@@ -1391,17 +1195,14 @@
       "title_en": "detachment NFS",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241008.2",
@@ -1409,14 +1210,14 @@
       "title_en": "with macula attached",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241010.2",
@@ -1424,16 +1225,13 @@
       "title_en": "with macula detached",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241299.1",
@@ -1441,16 +1239,13 @@
       "title_en": "Sclera [includes globe] NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241200.2",
@@ -1458,17 +1253,14 @@
       "title_en": "laceration ; rupture",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration",
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241201.2",
@@ -1476,14 +1268,14 @@
       "title_en": "anterior to ora serrata",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "rupture"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241202.2",
@@ -1491,14 +1283,14 @@
       "title_en": "without prolapse",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "rupture"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241203.2",
@@ -1506,14 +1298,14 @@
       "title_en": "with prolapse",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "rupture"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241204.2",
@@ -1521,14 +1313,13 @@
       "title_en": "posterior to ora serrata but anterior to equator",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241205.2",
@@ -1536,14 +1327,13 @@
       "title_en": "without prolapse",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241206.2",
@@ -1551,14 +1341,13 @@
       "title_en": "with prolapse",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241207.2",
@@ -1566,14 +1355,13 @@
       "title_en": "posterior to equator",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241208.2",
@@ -1581,14 +1369,13 @@
       "title_en": "without prolapse",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241209.2",
@@ -1596,16 +1383,13 @@
       "title_en": "with prolapse NFS",
       "ais_severity": 2,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_010.json",
-        "face_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241499.1",
@@ -1613,15 +1397,13 @@
       "title_en": "Uvea injury",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241699.1",
@@ -1629,16 +1411,13 @@
       "title_en": "Vitreous NFS^e",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241601.1",
@@ -1646,16 +1425,13 @@
       "title_en": "hemorrhage",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241602.1",
@@ -1663,15 +1439,13 @@
       "title_en": "retina visible",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241603.1",
@@ -1679,15 +1453,13 @@
       "title_en": "retina not visible",
       "ais_severity": 1,
       "hierarchy_level": 4,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "hemorrhage"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "241604.1",
@@ -1695,16 +1467,13 @@
       "title_en": "detachment",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243099.1",
@@ -1712,14 +1481,11 @@
       "title_en": "Mouth injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243199.1",
@@ -1727,16 +1493,13 @@
       "title_en": "Palate NFS^a",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243101.1",
@@ -1744,17 +1507,13 @@
       "title_en": "laceration^a",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243102.2",
@@ -1762,17 +1521,13 @@
       "title_en": "fracture^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243299.1",
@@ -1780,17 +1535,13 @@
       "title_en": "Gingiva (gum) NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243202.1",
@@ -1798,17 +1549,13 @@
       "title_en": "contusion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "contusion"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243204.1",
@@ -1816,17 +1563,13 @@
       "title_en": "laceration",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243206.1",
@@ -1834,17 +1577,13 @@
       "title_en": "avulsion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243400.1",
@@ -1852,18 +1591,14 @@
       "title_en": "Tongue laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243402.1",
@@ -1871,15 +1606,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "243404.2",
@@ -1887,15 +1621,14 @@
       "title_en": "deep ; extensive",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251699.1",
@@ -1903,17 +1636,13 @@
       "title_en": "Temporomandibular joint NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251604.2",
@@ -1921,17 +1650,13 @@
       "title_en": "dislocation",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "dislocation"
       ],
-      "collision": true,
-      "source_files": [
-        "face_012.json",
-        "face_013.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250200.2",
@@ -1939,16 +1664,13 @@
       "title_en": "Alveolar ridge fracture with or without injury to teeth",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250400.1",
@@ -1956,17 +1678,14 @@
       "title_en": "Facial bone (s) fracture NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250600.1",
@@ -1974,17 +1693,14 @@
       "title_en": "Mandible fracture NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250602.1",
@@ -1992,16 +1708,13 @@
       "title_en": "closed but NFS as to site",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250603.1",
@@ -2009,14 +1722,13 @@
       "title_en": "condyleᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250604.1",
@@ -2024,14 +1736,13 @@
       "title_en": "coronoidᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250605.1",
@@ -2039,14 +1750,13 @@
       "title_en": "angleᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250606.1",
@@ -2054,14 +1764,13 @@
       "title_en": "symphysis/parasymphysisᵃ",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250607.1",
@@ -2069,14 +1778,13 @@
       "title_en": "body",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250608.1",
@@ -2084,14 +1792,13 @@
       "title_en": "ramus",
       "ais_severity": 1,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ]
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250610.2",
@@ -2099,17 +1806,13 @@
       "title_en": "open/displaced/comminuted but NFS as to site",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250611.2",
@@ -2117,15 +1820,13 @@
       "title_en": "condyleᵃ",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250612.2",
@@ -2133,15 +1834,13 @@
       "title_en": "coronoidᵃ",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250613.2",
@@ -2149,15 +1848,13 @@
       "title_en": "angleᵃ",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250614.2",
@@ -2165,15 +1862,13 @@
       "title_en": "symphysis/parasymphysisᵃ",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250615.2",
@@ -2181,15 +1876,13 @@
       "title_en": "body",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250616.2",
@@ -2197,15 +1890,13 @@
       "title_en": "ramus",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_014.json",
-        "face_015.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250800.2",
@@ -2213,16 +1904,13 @@
       "title_en": "Maxilla fracture [including maxillary sinus]",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_018.json",
-        "face_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250804.2",
@@ -2230,15 +1918,13 @@
       "title_en": "LeFort I",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_018.json",
-        "face_019.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250806.2",
@@ -2246,15 +1932,13 @@
       "title_en": "LeFort II",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_018.json",
-        "face_019.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250808.3",
@@ -2262,15 +1946,13 @@
       "title_en": "LeFort III",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_018.json",
-        "face_019.json"
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture"
       ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "250810.4",
@@ -2278,17 +1960,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "face_018.json",
-        "face_019.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251099.1",
@@ -2296,16 +1974,13 @@
       "title_en": "Nose NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251000.1",
@@ -2313,17 +1988,14 @@
       "title_en": "fracture, closed or NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251002.2",
@@ -2331,14 +2003,14 @@
       "title_en": "open/displaced/comminuted",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ]
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251004.1",
@@ -2346,18 +2018,14 @@
       "title_en": "ruptured mucosa/vessels (epistaxis)",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
-        "hemorrhage",
-        "vascular"
+        "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251006.2",
@@ -2365,16 +2033,13 @@
       "title_en": "septum fracture",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251200.2",
@@ -2382,17 +2047,14 @@
       "title_en": "Orbit fracture, closed or NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251201.2",
@@ -2400,17 +2062,13 @@
       "title_en": "open but NFS as to site",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251205.2",
@@ -2418,18 +2076,14 @@
       "title_en": "multiple fractures of same orbit, closed or NFS^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251206.2",
@@ -2437,15 +2091,14 @@
       "title_en": "open^a",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "fracture",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251211.2",
@@ -2453,17 +2106,13 @@
       "title_en": "orbital rim, closed or NFS^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251212.2",
@@ -2471,17 +2120,13 @@
       "title_en": "open NFS",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251213.2",
@@ -2489,15 +2134,13 @@
       "title_en": "inferior orbital rim",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251214.2",
@@ -2505,15 +2148,13 @@
       "title_en": "open",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251215.2",
@@ -2521,15 +2162,13 @@
       "title_en": "superior orbital rim",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251216.2",
@@ -2537,15 +2176,13 @@
       "title_en": "open",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251221.2",
@@ -2553,17 +2190,13 @@
       "title_en": "orbital floor, closed or NFS^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251222.2",
@@ -2571,15 +2204,13 @@
       "title_en": "open",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251223.2",
@@ -2587,17 +2218,13 @@
       "title_en": "\"blowout\" fracture",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 4 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251224.2",
@@ -2605,15 +2232,13 @@
       "title_en": "open",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "fracture"
       ],
-      "collision_note": "level 衝突: 5 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251231.2",
@@ -2621,17 +2246,13 @@
       "title_en": "medial wall, closed or NFS ^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251232.2",
@@ -2639,15 +2260,13 @@
       "title_en": "open",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251235.2",
@@ -2655,17 +2274,13 @@
       "title_en": "lateral wall, closed or NFS ^a",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251236.2",
@@ -2673,15 +2288,13 @@
       "title_en": "open",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "FACE (includes Eye and Ear)",
       "iss_body_region": "face",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_020.json",
-        "face_021.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 4 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251499.1",
@@ -2689,16 +2302,13 @@
       "title_en": "Teeth, any number but NFS as to injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251402.1",
@@ -2706,16 +2316,13 @@
       "title_en": "dislocation ; subluxation ; loosened",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "dislocation"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251404.1",
@@ -2723,16 +2330,13 @@
       "title_en": "fracture",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251406.1",
@@ -2740,16 +2344,13 @@
       "title_en": "avulsion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251408.1",
@@ -2757,18 +2358,15 @@
       "title_en": "any combination of dislocation/fracture/avulsion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture",
         "dislocation",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251800.1",
@@ -2776,16 +2374,13 @@
       "title_en": "Zygoma fracture [Includes tripod and malar fractures]",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251802.1",
@@ -2793,14 +2388,13 @@
       "title_en": "non-displaced [KN I]",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "顔面（目と耳を含む）",
       "iss_body_region": "face",
-      "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "injury_types": [
+        "fracture"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251804.1",
@@ -2808,16 +2402,13 @@
       "title_en": "displaced NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "顔面（目と耳を含む）",
       "iss_body_region": "face",
-      "section": "FACE (includes Eye and Ear)",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251806.1",
@@ -2825,14 +2416,13 @@
       "title_en": "arch [KN II]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "顔面（目と耳を含む）",
       "iss_body_region": "face",
-      "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251808.1",
@@ -2840,14 +2430,13 @@
       "title_en": "body",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "顔面（目と耳を含む）",
       "iss_body_region": "face",
-      "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251810.1",
@@ -2855,15 +2444,13 @@
       "title_en": "unrotated [KN III]",
       "ais_severity": 1,
       "hierarchy_level": 4,
+      "section": "顔面（目と耳を含む）",
       "iss_body_region": "face",
-      "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251812.1",
@@ -2871,15 +2458,13 @@
       "title_en": "rotated [KN IV, V]",
       "ais_severity": 1,
       "hierarchy_level": 4,
+      "section": "顔面（目と耳を含む）",
       "iss_body_region": "face",
-      "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251814.2",
@@ -2887,14 +2472,13 @@
       "title_en": "complex [KN VI]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "顔面（目と耳を含む）",
       "iss_body_region": "face",
-      "section": "FACE (includes Eye and Ear)",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "injury_types": [
+        "fracture"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251900.3",
@@ -2902,16 +2486,13 @@
       "title_en": "Panfacial fracture",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "251902.4",
@@ -2919,16 +2500,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "face",
       "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "face_022.json",
-        "face_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     }
   ]
 }

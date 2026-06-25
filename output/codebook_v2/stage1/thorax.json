@@ -1,39 +1,7 @@
 {
   "body_part": "thorax",
   "body_part_name": "Thorax / 胸部",
-  "iss_body_region": "thorax",
-  "source_file_count": 27,
-  "source_files": [
-    "thorax_001.json",
-    "thorax_002.json",
-    "thorax_003.json",
-    "thorax_004.json",
-    "thorax_005.json",
-    "thorax_006.json",
-    "thorax_007.json",
-    "thorax_008.json",
-    "thorax_009.json",
-    "thorax_010.json",
-    "thorax_011.json",
-    "thorax_012.json",
-    "thorax_013.json",
-    "thorax_014.json",
-    "thorax_015.json",
-    "thorax_016.json",
-    "thorax_017.json",
-    "thorax_018.json",
-    "thorax_019.json",
-    "thorax_020.json",
-    "thorax_021.json",
-    "thorax_022.json",
-    "thorax_023.json",
-    "thorax_024.json",
-    "thorax_025.json",
-    "thorax_026.json",
-    "thorax_027.json"
-  ],
   "total_entries": 191,
-  "collision_count": 64,
   "entries": [
     {
       "code": "400099.9",
@@ -41,15 +9,13 @@
       "title_en": "Injuries to the Whole Thorax NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_002.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "400999.9",
@@ -57,14 +23,13 @@
       "title_en": "Died of thoracic injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
       "ais_severity": 9,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
-      ]
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "411000.2",
@@ -72,16 +37,13 @@
       "title_en": "Breast avulsion, female",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "413000.6",
@@ -89,16 +51,13 @@
       "title_en": "Crush injury",
       "ais_severity": 6,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "crush"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "415000.4",
@@ -106,14 +65,13 @@
       "title_en": "Open (\"sucking\") chest wound",
       "ais_severity": 4,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
-      ]
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "penetrating"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410102.2",
@@ -121,18 +79,14 @@
       "title_en": "Pectoral muscle tear ; laceration",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
-        "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "416000.1",
@@ -140,17 +94,14 @@
       "title_en": "Penetrating injury NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "416002.1",
@@ -158,15 +109,14 @@
       "title_en": "superficial ; minor ; into pleural cavity but not involving deeper structures",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "416004.2",
@@ -174,15 +124,14 @@
       "title_en": "with tissue loss >100cm²",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "penetrating",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "416006.3",
@@ -190,17 +139,13 @@
       "title_en": "with blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_002.json",
-        "thorax_003.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410099.1",
@@ -208,16 +153,13 @@
       "title_en": "Skin/subcutaneous/muscle NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410202.1",
@@ -225,16 +167,13 @@
       "title_en": "abrasion",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "abrasion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410402.1",
@@ -242,18 +181,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410600.1",
@@ -261,17 +196,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410602.1",
@@ -279,14 +211,14 @@
       "title_en": "minor ; superficial",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410604.2",
@@ -294,14 +226,14 @@
       "title_en": "major ; >20cm long and into subcutaneous tissue",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410606.3",
@@ -309,16 +241,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410800.1",
@@ -326,17 +255,14 @@
       "title_en": "avulsion NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "avulsion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410802.1",
@@ -344,14 +270,14 @@
       "title_en": "minor ; superficial ; ≤100cm²",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410804.2",
@@ -359,14 +285,14 @@
       "title_en": "major ; >100cm²",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "injury_types": [
+        "avulsion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "410806.3",
@@ -374,16 +300,13 @@
       "title_en": "blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420099.9",
@@ -391,17 +314,14 @@
       "title_en": "Vascular Injury in Thorax NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420299.4",
@@ -409,16 +329,14 @@
       "title_en": "Aorta, thoracic NFS [OIS IV or V for entire category unless stated otherwise]",
       "ais_severity": 4,
       "hierarchy_level": 1,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420202.4",
@@ -426,17 +344,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420204.5",
@@ -444,14 +360,13 @@
       "title_en": "with aortic valve involvement",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420206.4",
@@ -459,18 +374,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420208.4",
@@ -478,17 +391,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ;",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420210.5",
@@ -496,18 +405,15 @@
       "title_en": "blood loss≤20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420212.5",
@@ -515,16 +421,13 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
-        "rupture"
+        "vascular"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420216.5",
@@ -532,16 +435,13 @@
       "title_en": "with aortic root or valve involvement",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420218.6",
@@ -549,16 +449,13 @@
       "title_en": "with hemorrhage confined to mediastinum",
       "ais_severity": 6,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_004.json",
-        "thorax_005.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420499.3",
@@ -566,16 +463,14 @@
       "title_en": "Brachiocephalic (innominate) artery NFS [OIS III for entire category]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420402.3",
@@ -583,17 +478,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420404.3",
@@ -601,18 +494,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420406.3",
@@ -620,16 +511,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420408.4",
@@ -637,19 +525,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420800.5",
@@ -657,16 +541,14 @@
       "title_en": "Coronary artery laceration or thrombosis to left main, right main or left anterior descending artery ; coronary sinus",
       "ais_severity": 5,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
-        "laceration"
+        "laceration",
+        "vascular"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421099.3",
@@ -674,16 +556,14 @@
       "title_en": "Pulmonary artery NFS [OIS IV, V for entire category]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421002.3",
@@ -691,17 +571,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421004.3",
@@ -709,18 +587,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421006.3",
@@ -728,16 +604,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421008.5",
@@ -745,19 +618,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421009.6",
@@ -765,15 +634,15 @@
       "title_en": "bilateralᶜ",
       "ais_severity": 6,
       "hierarchy_level": 4,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421499.3",
@@ -781,16 +650,14 @@
       "title_en": "Subclavian artery NFS [OIS III for entire category]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421402.3",
@@ -798,17 +665,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421404.3",
@@ -816,18 +681,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421406.3",
@@ -835,16 +698,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421408.4",
@@ -852,19 +712,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422099.2",
@@ -872,16 +728,14 @@
       "title_en": "Other named arteries e.g., bronchial, esophageal, intercostal, internal mammary NFS [OIS I for entire category]",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422002.2",
@@ -889,17 +743,15 @@
       "title_en": "intimal tear, no disruption",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "laceration",
         "rupture",
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422004.2",
@@ -907,18 +759,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
+        "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422006.2",
@@ -926,16 +776,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422008.3",
@@ -943,19 +790,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_006.json",
-        "thorax_007.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420699.3",
@@ -963,16 +806,14 @@
       "title_en": "Brachiocephalic (innominate) vein NFS [OIS II for entire category]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420602.3",
@@ -980,19 +821,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420604.3",
@@ -1000,16 +838,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420606.4",
@@ -1017,18 +852,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "420608.5",
@@ -1036,14 +868,15 @@
       "title_en": "with air embolus right side",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421299.3",
@@ -1051,16 +884,14 @@
       "title_en": "Pulmonary vein NFS [OIS IV, V for entire category]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421202.3",
@@ -1068,19 +899,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421204.3",
@@ -1088,16 +916,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421206.5",
@@ -1105,18 +930,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421207.6",
@@ -1124,14 +946,15 @@
       "title_en": "bilateral",
       "ais_severity": 6,
       "hierarchy_level": 4,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "injury_types": [
+        "rupture",
+        "hemorrhage",
+        "amputation"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421699.3",
@@ -1139,16 +962,14 @@
       "title_en": "Subclavian vein NFS [OIS II for entire category]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421602.3",
@@ -1156,19 +977,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421604.3",
@@ -1176,16 +994,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421606.4",
@@ -1193,18 +1008,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421899.3",
@@ -1212,16 +1024,14 @@
       "title_en": "Vena Cava, superior and thoracic portion of inferior, NFS [OIS IV, V for entire category]",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421802.3",
@@ -1229,19 +1039,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421804.3",
@@ -1249,16 +1056,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume with or without thrombosis",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421806.4",
@@ -1266,18 +1070,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "421808.5",
@@ -1285,14 +1086,13 @@
       "title_en": "with air embolus right side",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "injury_types": [
+        "hemorrhage"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422299.2",
@@ -1300,14 +1100,13 @@
       "title_en": "Other named veins, e.g., azygos, bronchial, esophageal, hemi-azygos, intercostal, internal jugular, internal mammary [OIS I for entire category except azygos and internal jugular, OIS II]",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "injury_types": [
+        "vascular"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422202.2",
@@ -1315,19 +1114,16 @@
       "title_en": "laceration ; perforation ; puncture NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "laceration",
         "perforation",
         "penetrating",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422204.2",
@@ -1335,16 +1131,13 @@
       "title_en": "minor ; superficial ; incomplete circumferential involvement ; blood loss≤20% by volume",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "THORAX",
       "iss_body_region": "thorax",
-      "section": "AIS 2005",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_008.json",
-        "thorax_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "422206.3",
@@ -1352,18 +1145,15 @@
       "title_en": "major ; rupture ; transection ; segmental loss ; blood loss > 20% by volume",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "rupture",
         "hemorrhage",
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_010.json",
-        "thorax_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "430499.1",
@@ -1371,17 +1161,13 @@
       "title_en": "Vagus nerve injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nerve"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_012.json",
-        "thorax_013.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440099.9",
@@ -1389,17 +1175,13 @@
       "title_en": "Bronchus injury NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440199.3",
@@ -1407,17 +1189,14 @@
       "title_en": "Bronchus, main stem, NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
+        "vascular",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440102.3",
@@ -1425,18 +1204,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440104.3",
@@ -1444,18 +1219,14 @@
       "title_en": "laceration ; tear NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
-        "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440106.3",
@@ -1463,16 +1234,14 @@
       "title_en": "no perforation ; partial thickness",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440108.4",
@@ -1480,17 +1249,15 @@
       "title_en": "perforation ; full thickness ; \"fracture\"",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440110.5",
@@ -1498,18 +1265,15 @@
       "title_en": "complex ; avulsion ; rupture ; transection ; with sepa- ration",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440299.1",
@@ -1517,17 +1281,13 @@
       "title_en": "Bronchus, distal to main stem NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440202.1",
@@ -1535,18 +1295,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440204.2",
@@ -1554,18 +1310,14 @@
       "title_en": "laceration ; tear NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
-        "rupture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440206.2",
@@ -1573,16 +1325,14 @@
       "title_en": "no perforation ; partial thickness",
       "ais_severity": 2,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440208.3",
@@ -1590,17 +1340,15 @@
       "title_en": "perforation ; full thickness ; \"fracture\"",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440210.4",
@@ -1608,18 +1356,15 @@
       "title_en": "complex ; avulsion ; rupture ; transection ; with sepa- ration",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440699.2",
@@ -1627,17 +1372,13 @@
       "title_en": "Diaphragm NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440602.2",
@@ -1645,18 +1386,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440604.2",
@@ -1664,17 +1401,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440606.3",
@@ -1682,14 +1416,14 @@
       "title_en": "<=10cm [OIS II, III]",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440608.4",
@@ -1697,14 +1431,14 @@
       "title_en": ">10cm ; with significant tissue loss [OIS IV, V]",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440610.4",
@@ -1712,16 +1446,13 @@
       "title_en": "rupture with herniation",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "INTERNAL ORGANS",
+      "iss_body_region": "thorax",
       "injury_types": [
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_014.json",
-        "thorax_015.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440899.2",
@@ -1729,16 +1460,13 @@
       "title_en": "Esophagus injury in Thorax NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440802.2",
@@ -1746,19 +1474,14 @@
       "title_en": "contusion ; hematoma [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440805.3",
@@ -1766,17 +1489,13 @@
       "title_en": "ingestion injury NFSᵃ",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440807.3",
@@ -1784,14 +1503,13 @@
       "title_en": "partial-thickness necrosisᵃ",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440809.4",
@@ -1799,14 +1517,13 @@
       "title_en": "full-thickness necrosisᵃ",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440804.3",
@@ -1814,20 +1531,14 @@
       "title_en": "laceration; tear NFS; no perforation; partial thickness; ≤50 % circumfer-ence [OIS I, II]",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
-        "rupture",
-        "perforation",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440806.3",
@@ -1835,15 +1546,14 @@
       "title_en": "no perforation ; partial thickness; <50% circumference [OIS I,II]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "損傷内容",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440808.4",
@@ -1851,17 +1561,14 @@
       "title_en": "perforation; full thickness; >50% circumference [OIS III]",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440810.5",
@@ -1869,19 +1576,15 @@
       "title_en": "avulsion; rupture; transection; massive destruction [OIS IV, V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "rupture",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441099.1",
@@ -1889,16 +1592,13 @@
       "title_en": "Heart (Myocardium) injury NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441089.9",
@@ -1906,16 +1606,13 @@
       "title_en": "with cardiac arrest NFSᶠ",
       "ais_severity": 9,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441002.1",
@@ -1923,17 +1620,14 @@
       "title_en": "contusion NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441004.1",
@@ -1941,14 +1635,14 @@
       "title_en": "minor [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441006.4",
@@ -1956,14 +1650,14 @@
       "title_en": "major",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441008.3",
@@ -1971,17 +1665,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441010.3",
@@ -1989,17 +1680,14 @@
       "title_en": "no perforation; no chamber involvement",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441012.5",
@@ -2007,17 +1695,13 @@
       "title_en": "perforation, ventricular or atrial, with or without tam-ponade",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "perforation"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441013.5",
@@ -2025,17 +1709,13 @@
       "title_en": "atrial ruptureᵃ",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441014.6",
@@ -2043,17 +1723,13 @@
       "title_en": "ventricular rupture",
       "ais_severity": 6,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "rupture"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441016.6",
@@ -2061,17 +1737,13 @@
       "title_en": "multiple lacerations; > 50 % tissue loss of a chamber",
       "ais_severity": 6,
       "hierarchy_level": 4,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441018.6",
@@ -2079,18 +1751,14 @@
       "title_en": "avulsion",
       "ais_severity": 6,
       "hierarchy_level": 2,
+      "section": "AIS 2005",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "rupture",
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_016.json",
-        "thorax_017.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "440400.5",
@@ -2098,17 +1766,14 @@
       "title_en": "Intracardiac chordae tendineae laceration ; rupture",
       "ais_severity": 5,
       "hierarchy_level": 1,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441300.5",
@@ -2116,17 +1781,14 @@
       "title_en": "Intracardiac septum laceration ; rupture",
       "ais_severity": 5,
       "hierarchy_level": 1,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441200.5",
@@ -2134,17 +1796,14 @@
       "title_en": "Intracardiac valve laceration ; rupture",
       "ais_severity": 5,
       "hierarchy_level": 1,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "rupture"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441499.3",
@@ -2152,16 +1811,13 @@
       "title_en": "Lung NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441420.3",
@@ -2169,16 +1825,13 @@
       "title_en": "blast injury (overpressure/explosive) NFSᵃ",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441422.3",
@@ -2186,14 +1839,13 @@
       "title_en": "mildᵃ",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441424.4",
@@ -2201,16 +1853,13 @@
       "title_en": "moderate ; uni/bilateral with pulmonary peripheral hemorrhageᵃ",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441426.5",
@@ -2218,14 +1867,13 @@
       "title_en": "severe ; bilateral with air embolusᵃ",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441402.3",
@@ -2233,17 +1881,14 @@
       "title_en": "contusion NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "contusion",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441406.2",
@@ -2251,16 +1896,13 @@
       "title_en": "unilateral NFSᵉ",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441407.2",
@@ -2268,14 +1910,13 @@
       "title_en": "minor ; <1 lobe",
       "ais_severity": 2,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441408.3",
@@ -2283,14 +1924,13 @@
       "title_en": "major ; ≥1 lobe",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441410.3",
@@ -2298,16 +1938,13 @@
       "title_en": "bilateral NFSᵉ",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441411.3",
@@ -2315,14 +1952,13 @@
       "title_en": "minor ; <1 lobe",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441412.4",
@@ -2330,14 +1966,13 @@
       "title_en": "major ; ≥1 lobe in at least one lung",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441414.3",
@@ -2345,17 +1980,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441430.3",
@@ -2363,16 +1995,13 @@
       "title_en": "unilateral NFSᵉ",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441431.3",
@@ -2380,14 +2009,13 @@
       "title_en": "minor ; <1 lobe",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441432.4",
@@ -2395,14 +2023,13 @@
       "title_en": "major ; ≥1 lobe",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441450.4",
@@ -2410,16 +2037,13 @@
       "title_en": "bilateral NFSᵉ",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441551.4",
@@ -2427,14 +2051,13 @@
       "title_en": "minor ; <1 lobe",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json",
-        "thorax_019.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441452.5",
@@ -2442,13 +2065,13 @@
       "title_en": "major ; ≥1 lobe in at least one lung",
       "ais_severity": 5,
       "hierarchy_level": 4,
+      "section": "損傷内容",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_018.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "419200.2",
@@ -2456,17 +2079,13 @@
       "title_en": "inhalation injury NFS (heat, particulate matter, noxious agents)",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ],
-      "collision_note": "level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "419201.2",
@@ -2474,16 +2093,13 @@
       "title_en": "absence of carbonaceous deposits, erythema, edema, bronchorrhea, obstruction",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "edema"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "419202.3",
@@ -2491,14 +2107,13 @@
       "title_en": "minor or patchy areas of erythema, bronchorrhea, carbonaceous deposits in proximal or distal bronchi",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "419204.4",
@@ -2506,14 +2121,13 @@
       "title_en": "moderate degree of erythema, carbonaceous deposits, bronchorrhea with or without compromise of the bronchi",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "419206.5",
@@ -2521,14 +2135,13 @@
       "title_en": "severe inflammation with friability, copious carbonaceous deposits, bronchorrhea, bronchial obstruction, hypoxemia",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "419208.6",
@@ -2536,14 +2149,13 @@
       "title_en": "evidence of mucosal sloughing, necrosis, endoluminal obliteration",
       "ais_severity": 6,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441699.2",
@@ -2551,16 +2163,13 @@
       "title_en": "Pericardium NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441602.2",
@@ -2568,17 +2177,14 @@
       "title_en": "laceration ; puncture",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration",
         "penetrating"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441603.3",
@@ -2586,17 +2192,14 @@
       "title_en": "hemopericardium NFS^a",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "hematoma",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441604.3",
@@ -2604,15 +2207,14 @@
       "title_en": "without cardiac tamponade or heart injury^a",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
+      "injury_types": [
+        "hematoma",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441605.4",
@@ -2620,15 +2222,14 @@
       "title_en": "with cardiac tamponade but without heart injury",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
+      "injury_types": [
+        "hematoma",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441606.5",
@@ -2636,15 +2237,14 @@
       "title_en": "herniation of heart through pericardium",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
+      "injury_types": [
+        "hematoma",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 3（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "441800.2",
@@ -2652,16 +2252,13 @@
       "title_en": "Pleura laceration",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "laceration"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_022.json",
-        "thorax_023.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442999.9",
@@ -2669,17 +2266,13 @@
       "title_en": "Thoracic injury NFS",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442200.3",
@@ -2687,19 +2280,15 @@
       "title_en": "Hemothorax NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "hemorrhage",
         "hemothorax",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442201.4",
@@ -2707,17 +2296,13 @@
       "title_en": "major ; >1000cc blood loss on at least one side",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442202.2",
@@ -2725,18 +2310,14 @@
       "title_en": "Pneumothorax NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "pneumothorax",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442203.4",
@@ -2744,15 +2325,14 @@
       "title_en": "major ; >50% collapse of lung documented on xray ; persistent air leak",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "pneumothorax",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442204.5",
@@ -2760,15 +2340,14 @@
       "title_en": "tension ; massive air leak",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "pneumothorax",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442205.3",
@@ -2776,20 +2355,15 @@
       "title_en": "Hemopneumothorax NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "hemorrhage",
         "pneumothorax",
         "hemothorax",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442206.4",
@@ -2797,17 +2371,13 @@
       "title_en": "major ; >1000cc blood loss on at least one side",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "hemorrhage"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442207.5",
@@ -2815,15 +2385,13 @@
       "title_en": "Air Embolus",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442208.2",
@@ -2831,17 +2399,13 @@
       "title_en": "Hemomediastinum",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442209.2",
@@ -2849,15 +2413,13 @@
       "title_en": "Pneumomediastinum",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442210.3",
@@ -2865,15 +2427,13 @@
       "title_en": "with cardiac tamponade",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
+      "iss_body_region": "thorax",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442402.2",
@@ -2881,17 +2441,13 @@
       "title_en": "Thoracic duct laceration",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442502.2",
@@ -2899,18 +2455,14 @@
       "title_en": "Thymus laceration ; perforation",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
         "perforation"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442699.3",
@@ -2918,17 +2470,13 @@
       "title_en": "Trachea injury in Thorax NFS",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442602.3",
@@ -2936,19 +2484,14 @@
       "title_en": "contusion ; hematoma",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442604.3",
@@ -2956,18 +2499,14 @@
       "title_en": "laceration NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "laceration",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442606.3",
@@ -2975,17 +2514,14 @@
       "title_en": "no perforation ; partial thickness",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442608.4",
@@ -2993,18 +2529,15 @@
       "title_en": "perforation ; full thickness ; \"fracture\"",
       "ais_severity": 4,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "fracture",
-        "perforation"
+        "perforation",
+        "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "442610.5",
@@ -3012,20 +2545,16 @@
       "title_en": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
       "ais_severity": 5,
       "hierarchy_level": 3,
-      "iss_body_region": "thorax",
       "section": "THORAX",
+      "iss_body_region": "thorax",
       "injury_types": [
         "rupture",
         "crush",
-        "avulsion",
-        "amputation"
+        "amputation",
+        "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_024.json",
-        "thorax_025.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450299.1",
@@ -3033,16 +2562,13 @@
       "title_en": "Rib Cage NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450289.1",
@@ -3050,17 +2576,13 @@
       "title_en": "contusion",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "contusion"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450210.2",
@@ -3068,17 +2590,14 @@
       "title_en": "multiple rib fractures NFS",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450200.1",
@@ -3086,18 +2605,14 @@
       "title_en": "fracture(s) without flail, any location unilateral or bilateral NFS",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450201.1",
@@ -3105,15 +2620,14 @@
       "title_en": "one rib [OIS I]",
       "ais_severity": 1,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
+      "injury_types": [
+        "fracture",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450202.2",
@@ -3121,15 +2635,14 @@
       "title_en": "two ribs [OIS I]",
       "ais_severity": 2,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
+      "injury_types": [
+        "fracture",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450203.3",
@@ -3137,15 +2650,14 @@
       "title_en": "≥3 ribs [OIS II]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
+      "injury_types": [
+        "fracture",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450209.3",
@@ -3153,18 +2665,14 @@
       "title_en": "fractures with flail, NFS",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "fracture",
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450211.3",
@@ -3172,17 +2680,13 @@
       "title_en": "unilateral flail chest NFS [OIS IV]",
       "ais_severity": 3,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450212.3",
@@ -3190,17 +2694,13 @@
       "title_en": "3-5 flail ribs [OIS IV]",
       "ais_severity": 3,
       "hierarchy_level": 4,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450213.4",
@@ -3208,17 +2708,13 @@
       "title_en": ">5 flail ribs [OIS IV]",
       "ais_severity": 4,
       "hierarchy_level": 4,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 4 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450214.5",
@@ -3226,15 +2722,14 @@
       "title_en": "bilateral flail chest [OIS V]",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
+      "injury_types": [
+        "fracture",
+        "nfs"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450899.1",
@@ -3242,16 +2737,13 @@
       "title_en": "Sternum NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450802.1",
@@ -3259,17 +2751,13 @@
       "title_en": "contusion",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "contusion"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "450804.2",
@@ -3277,17 +2765,13 @@
       "title_en": "fracture [OIS II, III]",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "fracture"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "451099.1",
@@ -3295,16 +2779,13 @@
       "title_en": "Thoracic Wall NFSª",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "451020.4",
@@ -3312,17 +2793,13 @@
       "title_en": "avulsion of chest wall tissues including rib cage [OIS IV for entire category]ª",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
       "injury_types": [
         "avulsion"
       ],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
-      ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "451021.4",
@@ -3330,15 +2807,13 @@
       "title_en": "minor ; ≤15% of chest wall including rib cageª",
       "ais_severity": 4,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
+      "injury_types": [
+        "avulsion"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "451022.5",
@@ -3346,15 +2821,13 @@
       "title_en": "major ; >15% of chest wall including rib cageª",
       "ais_severity": 5,
       "hierarchy_level": 3,
+      "section": "Injury Description",
       "iss_body_region": "thorax",
-      "section": "THORAX",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "thorax_026.json",
-        "thorax_027.json"
+      "injury_types": [
+        "avulsion"
       ],
-      "collision_note": "level 衝突: 3 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     }
   ]
 }

@@ -1,0 +1,2749 @@
+{
+  "body_part": "face",
+  "body_part_name": "Face / 顔面",
+  "total_entries": 175,
+  "entries": [
+    {
+      "code": "200099.9",
+      "title_ja": "顔面損傷 詳細不明",
+      "title_en": "Injuries to the Face NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "顔面損傷 詳細不明",
+      "description_en": "Injuries to the Face NFS",
+      "children": [
+        {
+          "code": "200999.9",
+          "title_ja": "他の明らかな損傷がないか、遺体解剖で特別な損傷がない 顔面外傷の死亡例",
+          "title_en": "Died of facial injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "顔面損傷 詳細不明 > 他の明らかな損傷がないか、遺体解剖で特別な損傷がない 顔面外傷の死亡例",
+          "description_en": "Injuries to the Face NFS > Died of facial injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "216000.1",
+      "title_ja": "穿通性損傷 詳細不明",
+      "title_en": "Penetrating injury NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": "穿通性損傷 詳細不明",
+      "description_en": "Penetrating injury NFS",
+      "children": [
+        {
+          "code": "216002.1",
+          "title_ja": "小；表在性",
+          "title_en": "minor ; superficial",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "穿通性損傷 詳細不明 > 小；表在性",
+          "description_en": "Penetrating injury NFS > minor ; superficial",
+          "children": []
+        },
+        {
+          "code": "216004.2",
+          "title_ja": "組織欠損が25cm²を超える",
+          "title_en": "with tissue loss >25cm²",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "穿通性損傷 詳細不明 > 組織欠損が25cm²を超える",
+          "description_en": "Penetrating injury NFS > with tissue loss >25cm²",
+          "children": []
+        },
+        {
+          "code": "216006.3",
+          "title_ja": "出血量が全血液量の20%を超える",
+          "title_en": "with blood loss >20% by volume",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "穿通性損傷 詳細不明 > 出血量が全血液量の20%を超える",
+          "description_en": "Penetrating injury NFS > with blood loss >20% by volume",
+          "children": []
+        },
+        {
+          "code": "216008.4",
+          "title_ja": "両眼を含んだ顔面全体の広範な高度損傷ᵃ",
+          "title_en": "massive destruction of whole face including both eyes",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "穿通性損傷 詳細不明 > 両眼を含んだ顔面全体の広範な高度損傷ᵃ",
+          "description_en": "Penetrating injury NFS > massive destruction of whole face including both eyes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "210099.1",
+      "title_ja": "損傷 詳細不明",
+      "title_en": "Skin/subcutaneous/muscle NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "損傷 詳細不明",
+      "description_en": "Skin/subcutaneous/muscle NFS",
+      "children": [
+        {
+          "code": "210202.1",
+          "title_ja": "擦過傷",
+          "title_en": "abrasion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "abrasion"
+          ],
+          "description_ja": "損傷 詳細不明 > 擦過傷",
+          "description_en": "Skin/subcutaneous/muscle NFS > abrasion",
+          "children": []
+        },
+        {
+          "code": "210402.1",
+          "title_ja": "挫傷；血腫",
+          "title_en": "contusion ; hematoma",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "損傷 詳細不明 > 挫傷；血腫",
+          "description_en": "Skin/subcutaneous/muscle NFS > contusion ; hematoma",
+          "children": []
+        },
+        {
+          "code": "210600.1",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "損傷 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Skin/subcutaneous/muscle NFS > laceration NFS",
+          "children": [
+            {
+              "code": "210602.1",
+              "title_ja": "小；表在性",
+              "title_en": "minor ; superficial",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "損傷 詳細不明 > 裂傷・裂創 詳細不明 > 小；表在性",
+              "description_en": "Skin/subcutaneous/muscle NFS > laceration NFS > minor ; superficial",
+              "children": []
+            },
+            {
+              "code": "210604.2",
+              "title_ja": "大；長さが10cmを超え、かつ皮下組織に達する",
+              "title_en": "major ; >10cm long and into subcutaneous tissue",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "損傷 詳細不明 > 裂傷・裂創 詳細不明 > 大；長さが10cmを超え、かつ皮下組織に達する",
+              "description_en": "Skin/subcutaneous/muscle NFS > laceration NFS > major ; >10cm long and into subcutaneous tissue",
+              "children": []
+            },
+            {
+              "code": "210606.3",
+              "title_ja": "出血量が全血液量の20%を超える",
+              "title_en": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "損傷 詳細不明 > 裂傷・裂創 詳細不明 > 出血量が全血液量の20%を超える",
+              "description_en": "Skin/subcutaneous/muscle NFS > laceration NFS > blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "210800.1",
+          "title_ja": "剥離 詳細不明",
+          "title_en": "avulsion NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "description_ja": "損傷 詳細不明 > 剥離 詳細不明",
+          "description_en": "Skin/subcutaneous/muscle NFS > avulsion NFS",
+          "children": [
+            {
+              "code": "210802.1",
+              "title_ja": "小；表在性；25cm²以下",
+              "title_en": "minor ; superficial ; ≤25cm²",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "description_ja": "損傷 詳細不明 > 剥離 詳細不明 > 小；表在性；25cm²以下",
+              "description_en": "Skin/subcutaneous/muscle NFS > avulsion NFS > minor ; superficial ; ≤25cm²",
+              "children": []
+            },
+            {
+              "code": "210804.2",
+              "title_ja": "大；25cm²を超える",
+              "title_en": "major ; >25cm²",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "description_ja": "損傷 詳細不明 > 剥離 詳細不明 > 大；25cm²を超える",
+              "description_en": "Skin/subcutaneous/muscle NFS > avulsion NFS > major ; >25cm²",
+              "children": []
+            },
+            {
+              "code": "210806.3",
+              "title_ja": "出血量が全血液量の20%を超える",
+              "title_en": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "損傷 詳細不明 > 剥離 詳細不明 > 出血量が全血液量の20%を超える",
+              "description_en": "Skin/subcutaneous/muscle NFS > avulsion NFS > blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "220099.9",
+      "title_ja": "顔面の血管損傷 詳細不明",
+      "title_en": "Vascular Injury in Face NFSᶠ",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "顔面の血管損傷 詳細不明",
+      "description_en": "Vascular Injury in Face NFSᶠ",
+      "children": []
+    },
+    {
+      "code": "220200.1",
+      "title_ja": "外頸動脈の分枝の裂傷・裂創 詳細不明",
+      "title_en": "External carotid artery branch (es) laceration NFS [includes facial, temporal, and internal maxillary]",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "外頸動脈の分枝の裂傷・裂創 詳細不明",
+      "description_en": "External carotid artery branch (es) laceration NFS [includes facial, temporal, and internal maxillary]",
+      "children": [
+        {
+          "code": "220202.1",
+          "title_ja": "小；表在性",
+          "title_en": "minor ; superficial",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration",
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "外頸動脈の分枝の裂傷・裂創 詳細不明 > 小；表在性",
+          "description_en": "External carotid artery branch (es) laceration NFS [includes facial, temporal, and internal maxillary] > minor ; superficial",
+          "children": []
+        },
+        {
+          "code": "220204.3",
+          "title_ja": "大；断裂；出血量が全血液量の20%を超える",
+          "title_en": "major ; transection ; blood loss >20% by volume",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "rupture",
+            "hemorrhage",
+            "amputation"
+          ],
+          "description_ja": "外頸動脈の分枝の裂傷・裂創 詳細不明 > 大；断裂；出血量が全血液量の20%を超える",
+          "description_en": "External carotid artery branch (es) laceration NFS [includes facial, temporal, and internal maxillary] > major ; transection ; blood loss >20% by volume",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "230299.1",
+      "title_ja": "視神経 詳細不明",
+      "title_en": "Optic Nerve NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "視神経 詳細不明",
+      "description_en": "Optic Nerve NFS",
+      "children": [
+        {
+          "code": "230202.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "視神経 詳細不明 > 挫傷",
+          "description_en": "Optic Nerve NFS > contusion",
+          "children": [
+            {
+              "code": "230203.2",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "contusion"
+              ],
+              "description_ja": "視神経 詳細不明 > 挫傷 > 両側",
+              "description_en": "Optic Nerve NFS > contusion > bilateralᶜ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "230204.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "視神経 詳細不明 > 裂傷・裂創",
+          "description_en": "Optic Nerve NFS > laceration",
+          "children": [
+            {
+              "code": "230205.3",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "視神経 詳細不明 > 裂傷・裂創 > 両側",
+              "description_en": "Optic Nerve NFS > laceration > bilateralᶜ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "230206.2",
+          "title_ja": "断裂",
+          "title_en": "avulsion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "rupture",
+            "avulsion"
+          ],
+          "description_ja": "視神経 詳細不明 > 断裂",
+          "description_en": "Optic Nerve NFS > avulsion",
+          "children": [
+            {
+              "code": "230207.3",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "rupture",
+                "avulsion"
+              ],
+              "description_ja": "視神経 詳細不明 > 断裂 > 両側",
+              "description_en": "Optic Nerve NFS > avulsion > bilateralᶜ",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "240299.1",
+      "title_ja": "耳 詳細不明",
+      "title_en": "Ear NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "耳 詳細不明",
+      "description_en": "Ear NFS",
+      "children": [
+        {
+          "code": "240204.1",
+          "title_ja": "外耳道損傷",
+          "title_en": "Ear Canal injury",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "耳 詳細不明 > 外耳道損傷",
+          "description_en": "Ear NFS > Ear Canal injury",
+          "children": []
+        },
+        {
+          "code": "240208.1",
+          "title_ja": "内耳, 中耳損傷 詳細不明",
+          "title_en": "Inner or Middle Ear injury NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "耳 詳細不明 > 内耳, 中耳損傷 詳細不明",
+          "description_en": "Ear NFS > Inner or Middle Ear injury NFS",
+          "children": [
+            {
+              "code": "240207.2",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "耳 詳細不明 > 内耳, 中耳損傷 詳細不明 > 両側",
+              "description_en": "Ear NFS > Inner or Middle Ear injury NFS > bilateralᶜ",
+              "children": []
+            },
+            {
+              "code": "240206.1",
+              "title_ja": "めまいを伴う損傷",
+              "title_en": "injury involving dizzinessᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "耳 詳細不明 > 内耳, 中耳損傷 詳細不明 > めまいを伴う損傷",
+              "description_en": "Ear NFS > Inner or Middle Ear injury NFS > injury involving dizzinessᵃ",
+              "children": []
+            },
+            {
+              "code": "240205.1",
+              "title_ja": "耳鳴りを伴う損傷",
+              "title_en": "injury involving tinnitusᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "耳 詳細不明 > 内耳, 中耳損傷 詳細不明 > 耳鳴りを伴う損傷",
+              "description_en": "Ear NFS > Inner or Middle Ear injury NFS > injury involving tinnitusᵃ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "240212.1",
+          "title_ja": "耳小骨脱臼",
+          "title_en": "Ossicular chain (ear bone) dislocation",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "dislocation"
+          ],
+          "description_ja": "耳 詳細不明 > 耳小骨脱臼",
+          "description_en": "Ear NFS > Ossicular chain (ear bone) dislocation",
+          "children": [
+            {
+              "code": "240213.2",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "dislocation"
+              ],
+              "description_ja": "耳 詳細不明 > 耳小骨脱臼 > 両側",
+              "description_en": "Ear NFS > Ossicular chain (ear bone) dislocation > bilateralᶜ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "240216.1",
+          "title_ja": "鼓膜破裂",
+          "title_en": "Tympanic membrane (eardrum) rupture",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "rupture"
+          ],
+          "description_ja": "耳 詳細不明 > 鼓膜破裂",
+          "description_en": "Ear NFS > Tympanic membrane (eardrum) rupture",
+          "children": []
+        },
+        {
+          "code": "240220.1",
+          "title_ja": "前庭器官損傷",
+          "title_en": "Vestibular apparatus injury",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "耳 詳細不明 > 前庭器官損傷",
+          "description_en": "Ear NFS > Vestibular apparatus injury",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "240499.1",
+      "title_ja": "目 詳細不明",
+      "title_en": "Eye NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "目 詳細不明",
+      "description_en": "Eye NFS",
+      "children": [
+        {
+          "code": "240402.2",
+          "title_ja": "眼球脱出; 摘出",
+          "title_en": "Eye avulsion ; enucleation",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "avulsion"
+          ],
+          "description_ja": "目 詳細不明 > 眼球脱出; 摘出",
+          "description_en": "Eye NFS > Eye avulsion ; enucleation",
+          "children": [
+            {
+              "code": "240403.3",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "avulsion"
+              ],
+              "description_ja": "目 詳細不明 > 眼球脱出; 摘出 > 両側",
+              "description_en": "Eye NFS > Eye avulsion ; enucleation > bilateralᶜ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "240408.1",
+          "title_ja": "涙管裂傷・裂創",
+          "title_en": "Canaliculus (lacrimal/tear duct) laceration",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "目 詳細不明 > 涙管裂傷・裂創",
+          "description_en": "Eye NFS > Canaliculus (lacrimal/tear duct) laceration",
+          "children": []
+        },
+        {
+          "code": "240599.1",
+          "title_ja": "脈絡膜 詳細不明",
+          "title_en": "Choroid NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 脈絡膜 詳細不明",
+          "description_en": "Eye NFS > Choroid NFS",
+          "children": [
+            {
+              "code": "240502.1",
+              "title_ja": "破裂",
+              "title_en": "ruptureᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "rupture"
+              ],
+              "description_ja": "目 詳細不明 > 脈絡膜 詳細不明 > 破裂",
+              "description_en": "Eye NFS > Choroid NFS > ruptureᵃ",
+              "children": [
+                {
+                  "code": "240504.1",
+                  "title_ja": "末梢-黄斑を含まない",
+                  "title_en": "peripheral - not involving macula",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "rupture"
+                  ],
+                  "description_ja": "目 詳細不明 > 脈絡膜 詳細不明 > 破裂 > 末梢-黄斑を含まない",
+                  "description_en": "Eye NFS > Choroid NFS > ruptureᵃ > peripheral - not involving macula",
+                  "children": []
+                },
+                {
+                  "code": "240506.1",
+                  "title_ja": "中心-黄斑を含む",
+                  "title_en": "central - involving macula",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "rupture"
+                  ],
+                  "description_ja": "目 詳細不明 > 脈絡膜 詳細不明 > 破裂 > 中心-黄斑を含む",
+                  "description_en": "Eye NFS > Choroid NFS > ruptureᵃ > central - involving macula",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "240508.1",
+              "title_ja": "裂離",
+              "title_en": "detachmentᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "avulsion"
+              ],
+              "description_ja": "目 詳細不明 > 脈絡膜 詳細不明 > 裂離",
+              "description_en": "Eye NFS > Choroid NFS > detachmentᵃ",
+              "children": []
+            },
+            {
+              "code": "240510.1",
+              "title_ja": "出血",
+              "title_en": "hemorrhageᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "目 詳細不明 > 脈絡膜 詳細不明 > 出血",
+              "description_en": "Eye NFS > Choroid NFS > hemorrhageᵃ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "240416.1",
+          "title_ja": "結膜損傷",
+          "title_en": "Conjunctiva injury",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 結膜損傷",
+          "description_en": "Eye NFS > Conjunctiva injury",
+          "children": []
+        },
+        {
+          "code": "240699.1",
+          "title_ja": "角膜損傷 詳細不明",
+          "title_en": "Cornea NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 角膜損傷 詳細不明",
+          "description_en": "Eye NFS > Cornea NFS",
+          "children": [
+            {
+              "code": "240602.1",
+              "title_ja": "擦過傷",
+              "title_en": "abrasion",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "abrasion"
+              ],
+              "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 擦過傷",
+              "description_en": "Eye NFS > Cornea NFS > abrasion",
+              "children": []
+            },
+            {
+              "code": "240603.1",
+              "title_ja": "熱傷または化学熱傷",
+              "title_en": "burn, thermal or chemicalᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "burn"
+              ],
+              "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 熱傷または化学熱傷",
+              "description_en": "Eye NFS > Cornea NFS > burn, thermal or chemicalᵃ",
+              "children": []
+            },
+            {
+              "code": "240604.1",
+              "title_ja": "挫傷",
+              "title_en": "contusionᵉ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "contusion"
+              ],
+              "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 挫傷",
+              "description_en": "Eye NFS > Cornea NFS > contusionᵉ",
+              "children": [
+                {
+                  "code": "240610.1",
+                  "title_ja": "前房出血 詳細不明",
+                  "title_en": "hyphema NFSᵉ",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "hemorrhage",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 挫傷 > 前房出血 詳細不明",
+                  "description_en": "Eye NFS > Cornea NFS > contusionᵉ > hyphema NFSᵉ",
+                  "children": [
+                    {
+                      "code": "240611.1",
+                      "title_ja": "小; 前眼房の50%以下",
+                      "title_en": "minor ; ≤50% of anterior chamber",
+                      "ais_severity": 1,
+                      "hierarchy_level": 5,
+                      "section": "FACE (includes Eye and Ear)",
+                      "iss_body_region": "face",
+                      "injury_types": [
+                        "hemorrhage",
+                        "nfs"
+                      ],
+                      "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 挫傷 > 前房出血 詳細不明 > 小; 前眼房の50%以下",
+                      "description_en": "Eye NFS > Cornea NFS > contusionᵉ > hyphema NFSᵉ > minor ; ≤50% of anterior chamber",
+                      "children": []
+                    },
+                    {
+                      "code": "240612.1",
+                      "title_ja": "大; 前眼房の50%を超える",
+                      "title_en": "major ; >50% of anterior chamber",
+                      "ais_severity": 1,
+                      "hierarchy_level": 5,
+                      "section": "FACE (includes Eye and Ear)",
+                      "iss_body_region": "face",
+                      "injury_types": [
+                        "hemorrhage",
+                        "nfs"
+                      ],
+                      "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 挫傷 > 前房出血 詳細不明 > 大; 前眼房の50%を超える",
+                      "description_en": "Eye NFS > Cornea NFS > contusionᵉ > hyphema NFSᵉ > major ; >50% of anterior chamber",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "240620.1",
+              "title_ja": "裂傷・裂創 詳細不明",
+              "title_en": "laceration NFSᵉ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 裂傷・裂創 詳細不明",
+              "description_en": "Eye NFS > Cornea NFS > laceration NFSᵉ",
+              "children": [
+                {
+                  "code": "240621.1",
+                  "title_ja": "角膜の中心3mmを含まない",
+                  "title_en": "not involving central 3mm of cornea",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "laceration",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 裂傷・裂創 詳細不明 > 角膜の中心3mmを含まない",
+                  "description_en": "Eye NFS > Cornea NFS > laceration NFSᵉ > not involving central 3mm of cornea",
+                  "children": [
+                    {
+                      "code": "240622.1",
+                      "title_ja": "脱出なし",
+                      "title_en": "without prolapse",
+                      "ais_severity": 1,
+                      "hierarchy_level": 5,
+                      "section": "FACE (includes Eye and Ear)",
+                      "iss_body_region": "face",
+                      "injury_types": [
+                        "laceration",
+                        "nfs"
+                      ],
+                      "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 裂傷・裂創 詳細不明 > 角膜の中心3mmを含まない > 脱出なし",
+                      "description_en": "Eye NFS > Cornea NFS > laceration NFSᵉ > not involving central 3mm of cornea > without prolapse",
+                      "children": []
+                    },
+                    {
+                      "code": "240623.1",
+                      "title_ja": "脱出あり",
+                      "title_en": "with prolapse",
+                      "ais_severity": 1,
+                      "hierarchy_level": 5,
+                      "section": "FACE (includes Eye and Ear)",
+                      "iss_body_region": "face",
+                      "injury_types": [
+                        "laceration",
+                        "nfs"
+                      ],
+                      "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 裂傷・裂創 詳細不明 > 角膜の中心3mmを含まない > 脱出あり",
+                      "description_en": "Eye NFS > Cornea NFS > laceration NFSᵉ > not involving central 3mm of cornea > with prolapse",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "240624.1",
+                  "title_ja": "角膜の中心3mmを含む",
+                  "title_en": "involving central 3mm of cornea",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "laceration",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 裂傷・裂創 詳細不明 > 角膜の中心3mmを含む",
+                  "description_en": "Eye NFS > Cornea NFS > laceration NFSᵉ > involving central 3mm of cornea",
+                  "children": [
+                    {
+                      "code": "240625.1",
+                      "title_ja": "脱出なし",
+                      "title_en": "without prolapse",
+                      "ais_severity": 1,
+                      "hierarchy_level": 5,
+                      "section": "FACE (includes Eye and Ear)",
+                      "iss_body_region": "face",
+                      "injury_types": [
+                        "laceration",
+                        "nfs"
+                      ],
+                      "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 裂傷・裂創 詳細不明 > 角膜の中心3mmを含む > 脱出なし",
+                      "description_en": "Eye NFS > Cornea NFS > laceration NFSᵉ > involving central 3mm of cornea > without prolapse",
+                      "children": []
+                    },
+                    {
+                      "code": "240626.1",
+                      "title_ja": "脱出あり",
+                      "title_en": "with prolapse",
+                      "ais_severity": 1,
+                      "hierarchy_level": 5,
+                      "section": "FACE (includes Eye and Ear)",
+                      "iss_body_region": "face",
+                      "injury_types": [
+                        "laceration",
+                        "nfs"
+                      ],
+                      "description_ja": "目 詳細不明 > 角膜損傷 詳細不明 > 裂傷・裂創 詳細不明 > 角膜の中心3mmを含む > 脱出あり",
+                      "description_en": "Eye NFS > Cornea NFS > laceration NFSᵉ > involving central 3mm of cornea > with prolapse",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "240799.1",
+          "title_ja": "眼球内異物遺残を伴う損傷",
+          "title_en": "Injury with retained Intraocular Foreign Bodyᵃ",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 眼球内異物遺残を伴う損傷",
+          "description_en": "Eye NFS > Injury with retained Intraocular Foreign Bodyᵃ",
+          "children": [
+            {
+              "code": "240789.1",
+              "title_ja": "前眼房",
+              "title_en": "anterior chamberᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 眼球内異物遺残を伴う損傷 > 前眼房",
+              "description_en": "Eye NFS > Injury with retained Intraocular Foreign Bodyᵃ > anterior chamberᵃ",
+              "children": []
+            },
+            {
+              "code": "240779.1",
+              "title_ja": "後眼房",
+              "title_en": "posterior chamberᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 眼球内異物遺残を伴う損傷 > 後眼房",
+              "description_en": "Eye NFS > Injury with retained Intraocular Foreign Bodyᵃ > posterior chamberᵃ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "240800.1",
+          "title_ja": "水晶体 詳細不明ᵃ",
+          "title_en": "Lens NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ",
+          "description_en": "Eye NFS > Lens NFS",
+          "children": [
+            {
+              "code": "240802.1",
+              "title_ja": "水晶体包破裂 詳細不明ᵃ",
+              "title_en": "capsular rupture NFS",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "rupture",
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ > 水晶体包破裂 詳細不明ᵃ",
+              "description_en": "Eye NFS > Lens NFS > capsular rupture NFS",
+              "children": [
+                {
+                  "code": "240804.1",
+                  "title_ja": "前包ᵃ",
+                  "title_en": "anterior capsule",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "rupture",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ > 水晶体包破裂 詳細不明ᵃ > 前包ᵃ",
+                  "description_en": "Eye NFS > Lens NFS > capsular rupture NFS > anterior capsule",
+                  "children": []
+                },
+                {
+                  "code": "240806.1",
+                  "title_ja": "後包ᵃ",
+                  "title_en": "posterior capsule",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "rupture",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ > 水晶体包破裂 詳細不明ᵃ > 後包ᵃ",
+                  "description_en": "Eye NFS > Lens NFS > capsular rupture NFS > posterior capsule",
+                  "children": []
+                },
+                {
+                  "code": "240808.1",
+                  "title_ja": "前包と後包の両方ᵃ",
+                  "title_en": "both anterior and posterior capsules",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "rupture",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ > 水晶体包破裂 詳細不明ᵃ > 前包と後包の両方ᵃ",
+                  "description_en": "Eye NFS > Lens NFS > capsular rupture NFS > both anterior and posterior capsules",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "240812.1",
+              "title_ja": "脱臼；不全脱臼ᵃ",
+              "title_en": "dislocation ; subluxation",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "dislocation"
+              ],
+              "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ > 脱臼；不全脱臼ᵃ",
+              "description_en": "Eye NFS > Lens NFS > dislocation ; subluxation",
+              "children": [
+                {
+                  "code": "240814.1",
+                  "title_ja": "前方ᵃ",
+                  "title_en": "anterior segment",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "dislocation"
+                  ],
+                  "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ > 脱臼；不全脱臼ᵃ > 前方ᵃ",
+                  "description_en": "Eye NFS > Lens NFS > dislocation ; subluxation > anterior segment",
+                  "children": []
+                },
+                {
+                  "code": "240816.1",
+                  "title_ja": "後方ᵃ",
+                  "title_en": "posterior segment",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "dislocation"
+                  ],
+                  "description_ja": "目 詳細不明 > 水晶体 詳細不明ᵃ > 脱臼；不全脱臼ᵃ > 後方ᵃ",
+                  "description_en": "Eye NFS > Lens NFS > dislocation ; subluxation > posterior segment",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "240999.1",
+          "title_ja": "黄斑 詳細不明ᵃ",
+          "title_en": "Macula NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 黄斑 詳細不明ᵃ",
+          "description_en": "Eye NFS > Macula NFS",
+          "children": [
+            {
+              "code": "240902.1",
+              "title_ja": "挫傷；浮腫ᵃ",
+              "title_en": "contusion ; edema",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "contusion",
+                "edema"
+              ],
+              "description_ja": "目 詳細不明 > 黄斑 詳細不明ᵃ > 挫傷；浮腫ᵃ",
+              "description_en": "Eye NFS > Macula NFS > contusion ; edema",
+              "children": []
+            },
+            {
+              "code": "240904.2",
+              "title_ja": "穿孔ᵃ",
+              "title_en": "hole",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "perforation"
+              ],
+              "description_ja": "目 詳細不明 > 黄斑 詳細不明ᵃ > 穿孔ᵃ",
+              "description_en": "Eye NFS > Macula NFS > hole",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "241099.1",
+          "title_ja": "網膜 詳細不明ᵉ",
+          "title_en": "Retina NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 網膜 詳細不明ᵉ",
+          "description_en": "Eye NFS > Retina NFS",
+          "children": [
+            {
+              "code": "241000.1",
+              "title_ja": "裂傷・裂創 詳細不明",
+              "title_en": "laceration ; tear NFS",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 網膜 詳細不明ᵉ > 裂傷・裂創 詳細不明",
+              "description_en": "Eye NFS > Retina NFS > laceration ; tear NFS",
+              "children": [
+                {
+                  "code": "241002.1",
+                  "title_ja": "小；90°以下",
+                  "title_en": "minor ; ≤90°",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "laceration",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 網膜 詳細不明ᵉ > 裂傷・裂創 詳細不明 > 小；90°以下",
+                  "description_en": "Eye NFS > Retina NFS > laceration ; tear NFS > minor ; ≤90°",
+                  "children": []
+                },
+                {
+                  "code": "241004.1",
+                  "title_ja": "大；90°を超える",
+                  "title_en": "major ; >90°",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "laceration",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 網膜 詳細不明ᵉ > 裂傷・裂創 詳細不明 > 大；90°を超える",
+                  "description_en": "Eye NFS > Retina NFS > laceration ; tear NFS > major ; >90°",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "241006.2",
+              "title_ja": "剥離 詳細不明ᵉ",
+              "title_en": "detachment NFS",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 網膜 詳細不明ᵉ > 剥離 詳細不明ᵉ",
+              "description_en": "Eye NFS > Retina NFS > detachment NFS",
+              "children": [
+                {
+                  "code": "241008.2",
+                  "title_ja": "黄斑付着を伴う",
+                  "title_en": "with macula attached",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "avulsion",
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 網膜 詳細不明ᵉ > 剥離 詳細不明ᵉ > 黄斑付着を伴う",
+                  "description_en": "Eye NFS > Retina NFS > detachment NFS > with macula attached",
+                  "children": []
+                },
+                {
+                  "code": "241010.2",
+                  "title_ja": "黄斑剥離を伴う",
+                  "title_en": "with macula detached",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "avulsion"
+                  ],
+                  "description_ja": "目 詳細不明 > 網膜 詳細不明ᵉ > 剥離 詳細不明ᵉ > 黄斑剥離を伴う",
+                  "description_en": "Eye NFS > Retina NFS > detachment NFS > with macula detached",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "241299.1",
+          "title_ja": "強膜 [眼球に達する] 詳細不明",
+          "title_en": "Sclera [includes globe] NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明",
+          "description_en": "Eye NFS > Sclera [includes globe] NFS",
+          "children": [
+            {
+              "code": "241200.2",
+              "title_ja": "裂傷・裂創；破裂ᵉ",
+              "title_en": "laceration ; rupture",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "laceration",
+                "rupture"
+              ],
+              "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 裂傷・裂創；破裂ᵉ",
+              "description_en": "Eye NFS > Sclera [includes globe] NFS > laceration ; rupture",
+              "children": [
+                {
+                  "code": "241201.2",
+                  "title_ja": "鋸状縁の前方",
+                  "title_en": "anterior to ora serrata",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "laceration",
+                    "rupture"
+                  ],
+                  "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 裂傷・裂創；破裂ᵉ > 鋸状縁の前方",
+                  "description_en": "Eye NFS > Sclera [includes globe] NFS > laceration ; rupture > anterior to ora serrata",
+                  "children": []
+                },
+                {
+                  "code": "241202.2",
+                  "title_ja": "脱出なし",
+                  "title_en": "without prolapse",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "laceration",
+                    "rupture"
+                  ],
+                  "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 裂傷・裂創；破裂ᵉ > 脱出なし",
+                  "description_en": "Eye NFS > Sclera [includes globe] NFS > laceration ; rupture > without prolapse",
+                  "children": []
+                },
+                {
+                  "code": "241203.2",
+                  "title_ja": "脱出あり",
+                  "title_en": "with prolapse",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "laceration",
+                    "rupture"
+                  ],
+                  "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 裂傷・裂創；破裂ᵉ > 脱出あり",
+                  "description_en": "Eye NFS > Sclera [includes globe] NFS > laceration ; rupture > with prolapse",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "241204.2",
+              "title_ja": "鋸状縁の後方で赤道の前方",
+              "title_en": "posterior to ora serrata but anterior to equator",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 鋸状縁の後方で赤道の前方",
+              "description_en": "Eye NFS > Sclera [includes globe] NFS > posterior to ora serrata but anterior to equator",
+              "children": [
+                {
+                  "code": "241205.2",
+                  "title_ja": "脱出なし",
+                  "title_en": "without prolapse",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 鋸状縁の後方で赤道の前方 > 脱出なし",
+                  "description_en": "Eye NFS > Sclera [includes globe] NFS > posterior to ora serrata but anterior to equator > without prolapse",
+                  "children": []
+                },
+                {
+                  "code": "241206.2",
+                  "title_ja": "脱出あり",
+                  "title_en": "with prolapse",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 鋸状縁の後方で赤道の前方 > 脱出あり",
+                  "description_en": "Eye NFS > Sclera [includes globe] NFS > posterior to ora serrata but anterior to equator > with prolapse",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "241207.2",
+              "title_ja": "赤道の後方",
+              "title_en": "posterior to equator",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 赤道の後方",
+              "description_en": "Eye NFS > Sclera [includes globe] NFS > posterior to equator",
+              "children": [
+                {
+                  "code": "241208.2",
+                  "title_ja": "脱出なし",
+                  "title_en": "without prolapse",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 赤道の後方 > 脱出なし",
+                  "description_en": "Eye NFS > Sclera [includes globe] NFS > posterior to equator > without prolapse",
+                  "children": []
+                },
+                {
+                  "code": "241209.2",
+                  "title_ja": "脱出あり 詳細不明",
+                  "title_en": "with prolapse NFS",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "目 詳細不明 > 強膜 [眼球に達する] 詳細不明 > 赤道の後方 > 脱出あり 詳細不明",
+                  "description_en": "Eye NFS > Sclera [includes globe] NFS > posterior to equator > with prolapse NFS",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "241499.1",
+          "title_ja": "ぶどう膜損傷",
+          "title_en": "Uvea injury",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > ぶどう膜損傷",
+          "description_en": "Eye NFS > Uvea injury",
+          "children": []
+        },
+        {
+          "code": "241699.1",
+          "title_ja": "硝子体 詳細不明",
+          "title_en": "Vitreous NFS^e",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "目 詳細不明 > 硝子体 詳細不明",
+          "description_en": "Eye NFS > Vitreous NFS^e",
+          "children": [
+            {
+              "code": "241601.1",
+              "title_ja": "出血",
+              "title_en": "hemorrhage",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "目 詳細不明 > 硝子体 詳細不明 > 出血",
+              "description_en": "Eye NFS > Vitreous NFS^e > hemorrhage",
+              "children": [
+                {
+                  "code": "241602.1",
+                  "title_ja": "網膜が見える",
+                  "title_en": "retina visible",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "description_ja": "目 詳細不明 > 硝子体 詳細不明 > 出血 > 網膜が見える",
+                  "description_en": "Eye NFS > Vitreous NFS^e > hemorrhage > retina visible",
+                  "children": []
+                },
+                {
+                  "code": "241603.1",
+                  "title_ja": "網膜が見えない",
+                  "title_en": "retina not visible",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "description_ja": "目 詳細不明 > 硝子体 詳細不明 > 出血 > 網膜が見えない",
+                  "description_en": "Eye NFS > Vitreous NFS^e > hemorrhage > retina not visible",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "241604.1",
+              "title_ja": "剥離",
+              "title_en": "detachment",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "avulsion"
+              ],
+              "description_ja": "目 詳細不明 > 硝子体 詳細不明 > 剥離",
+              "description_en": "Eye NFS > Vitreous NFS^e > detachment",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "243099.1",
+      "title_ja": "口損傷",
+      "title_en": "Mouth injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [],
+      "description_ja": "口損傷",
+      "description_en": "Mouth injury",
+      "children": []
+    },
+    {
+      "code": "243199.1",
+      "title_ja": "口蓋 詳細不明",
+      "title_en": "Palate NFS^a",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "口蓋 詳細不明",
+      "description_en": "Palate NFS^a",
+      "children": [
+        {
+          "code": "243101.1",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration^a",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "口蓋 詳細不明 > 裂傷・裂創",
+          "description_en": "Palate NFS^a > laceration^a",
+          "children": []
+        },
+        {
+          "code": "243102.2",
+          "title_ja": "骨折",
+          "title_en": "fracture^a",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "口蓋 詳細不明 > 骨折",
+          "description_en": "Palate NFS^a > fracture^a",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "243299.1",
+      "title_ja": "歯肉 (歯茎) 詳細不明",
+      "title_en": "Gingiva (gum) NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "歯肉 (歯茎) 詳細不明",
+      "description_en": "Gingiva (gum) NFS",
+      "children": [
+        {
+          "code": "243202.1",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "歯肉 (歯茎) 詳細不明 > 挫傷",
+          "description_en": "Gingiva (gum) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "243204.1",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "歯肉 (歯茎) 詳細不明 > 裂傷・裂創",
+          "description_en": "Gingiva (gum) NFS > laceration",
+          "children": []
+        },
+        {
+          "code": "243206.1",
+          "title_ja": "剥離",
+          "title_en": "avulsion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "avulsion"
+          ],
+          "description_ja": "歯肉 (歯茎) 詳細不明 > 剥離",
+          "description_en": "Gingiva (gum) NFS > avulsion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "243400.1",
+      "title_ja": "舌裂傷・裂創",
+      "title_en": "Tongue laceration NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "laceration",
+        "nfs"
+      ],
+      "description_ja": "舌裂傷・裂創",
+      "description_en": "Tongue laceration NFS",
+      "children": [
+        {
+          "code": "243402.1",
+          "title_ja": "小；表在性",
+          "title_en": "minor ; superficial",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "舌裂傷・裂創 > 小；表在性",
+          "description_en": "Tongue laceration NFS > minor ; superficial",
+          "children": []
+        },
+        {
+          "code": "243404.2",
+          "title_ja": "深在性；広範囲",
+          "title_en": "deep ; extensive",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "舌裂傷・裂創 > 深在性；広範囲",
+          "description_en": "Tongue laceration NFS > deep ; extensive",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "251699.1",
+      "title_ja": "顎関節 詳細不明",
+      "title_en": "Temporomandibular joint NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "顎関節 詳細不明",
+      "description_en": "Temporomandibular joint NFS",
+      "children": [
+        {
+          "code": "251604.2",
+          "title_ja": "脱臼",
+          "title_en": "dislocation",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "dislocation"
+          ],
+          "description_ja": "顎関節 詳細不明 > 脱臼",
+          "description_en": "Temporomandibular joint NFS > dislocation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "250200.2",
+      "title_ja": "歯槽骨骨折, 歯牙損傷の有無を問わない",
+      "title_en": "Alveolar ridge fracture with or without injury to teeth",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture"
+      ],
+      "description_ja": "歯槽骨骨折, 歯牙損傷の有無を問わない",
+      "description_en": "Alveolar ridge fracture with or without injury to teeth",
+      "children": []
+    },
+    {
+      "code": "250400.1",
+      "title_ja": "顔面骨骨折 詳細不明",
+      "title_en": "Facial bone (s) fracture NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": "顔面骨骨折 詳細不明",
+      "description_en": "Facial bone (s) fracture NFS",
+      "children": []
+    },
+    {
+      "code": "250600.1",
+      "title_ja": "下顎骨骨折 詳細不明",
+      "title_en": "Mandible fracture NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": "下顎骨骨折 詳細不明",
+      "description_en": "Mandible fracture NFS",
+      "children": [
+        {
+          "code": "250602.1",
+          "title_ja": "非開放で部位が不明",
+          "title_en": "closed but NFS as to site",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "下顎骨骨折 詳細不明 > 非開放で部位が不明",
+          "description_en": "Mandible fracture NFS > closed but NFS as to site",
+          "children": [
+            {
+              "code": "250603.1",
+              "title_ja": "関節突起ᵃ",
+              "title_en": "condyleᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 非開放で部位が不明 > 関節突起ᵃ",
+              "description_en": "Mandible fracture NFS > closed but NFS as to site > condyleᵃ",
+              "children": []
+            },
+            {
+              "code": "250604.1",
+              "title_ja": "筋突起ᵃ",
+              "title_en": "coronoidᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 非開放で部位が不明 > 筋突起ᵃ",
+              "description_en": "Mandible fracture NFS > closed but NFS as to site > coronoidᵃ",
+              "children": []
+            },
+            {
+              "code": "250605.1",
+              "title_ja": "下顎角ᵃ",
+              "title_en": "angleᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 非開放で部位が不明 > 下顎角ᵃ",
+              "description_en": "Mandible fracture NFS > closed but NFS as to site > angleᵃ",
+              "children": []
+            },
+            {
+              "code": "250606.1",
+              "title_ja": "オトガイ結合/その近傍ᵃ",
+              "title_en": "symphysis/parasymphysisᵃ",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 非開放で部位が不明 > オトガイ結合/その近傍ᵃ",
+              "description_en": "Mandible fracture NFS > closed but NFS as to site > symphysis/parasymphysisᵃ",
+              "children": []
+            },
+            {
+              "code": "250607.1",
+              "title_ja": "下顎体",
+              "title_en": "body",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 非開放で部位が不明 > 下顎体",
+              "description_en": "Mandible fracture NFS > closed but NFS as to site > body",
+              "children": []
+            },
+            {
+              "code": "250608.1",
+              "title_ja": "下顎枝",
+              "title_en": "ramus",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 非開放で部位が不明 > 下顎枝",
+              "description_en": "Mandible fracture NFS > closed but NFS as to site > ramus",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "250610.2",
+          "title_ja": "開放/転位/粉砕で部位が不明",
+          "title_en": "open/displaced/comminuted but NFS as to site",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "下顎骨骨折 詳細不明 > 開放/転位/粉砕で部位が不明",
+          "description_en": "Mandible fracture NFS > open/displaced/comminuted but NFS as to site",
+          "children": [
+            {
+              "code": "250611.2",
+              "title_ja": "関節突起ᵃ",
+              "title_en": "condyleᵃ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 開放/転位/粉砕で部位が不明 > 関節突起ᵃ",
+              "description_en": "Mandible fracture NFS > open/displaced/comminuted but NFS as to site > condyleᵃ",
+              "children": []
+            },
+            {
+              "code": "250612.2",
+              "title_ja": "筋突起ᵃ",
+              "title_en": "coronoidᵃ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 開放/転位/粉砕で部位が不明 > 筋突起ᵃ",
+              "description_en": "Mandible fracture NFS > open/displaced/comminuted but NFS as to site > coronoidᵃ",
+              "children": []
+            },
+            {
+              "code": "250613.2",
+              "title_ja": "下顎角ᵃ",
+              "title_en": "angleᵃ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 開放/転位/粉砕で部位が不明 > 下顎角ᵃ",
+              "description_en": "Mandible fracture NFS > open/displaced/comminuted but NFS as to site > angleᵃ",
+              "children": []
+            },
+            {
+              "code": "250614.2",
+              "title_ja": "オトガイ結合/その近傍ᵃ",
+              "title_en": "symphysis/parasymphysisᵃ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 開放/転位/粉砕で部位が不明 > オトガイ結合/その近傍ᵃ",
+              "description_en": "Mandible fracture NFS > open/displaced/comminuted but NFS as to site > symphysis/parasymphysisᵃ",
+              "children": []
+            },
+            {
+              "code": "250615.2",
+              "title_ja": "下顎体",
+              "title_en": "body",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 開放/転位/粉砕で部位が不明 > 下顎体",
+              "description_en": "Mandible fracture NFS > open/displaced/comminuted but NFS as to site > body",
+              "children": []
+            },
+            {
+              "code": "250616.2",
+              "title_ja": "下顎枝",
+              "title_en": "ramus",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "下顎骨骨折 詳細不明 > 開放/転位/粉砕で部位が不明 > 下顎枝",
+              "description_en": "Mandible fracture NFS > open/displaced/comminuted but NFS as to site > ramus",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "250800.2",
+      "title_ja": "上顎骨骨折 [上顎洞を含む]",
+      "title_en": "Maxilla fracture [including maxillary sinus]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture"
+      ],
+      "description_ja": "上顎骨骨折 [上顎洞を含む]",
+      "description_en": "Maxilla fracture [including maxillary sinus]",
+      "children": [
+        {
+          "code": "250804.2",
+          "title_ja": "LeFort I 型",
+          "title_en": "LeFort I",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "上顎骨骨折 [上顎洞を含む] > LeFort I 型",
+          "description_en": "Maxilla fracture [including maxillary sinus] > LeFort I",
+          "children": []
+        },
+        {
+          "code": "250806.2",
+          "title_ja": "LeFort II 型",
+          "title_en": "LeFort II",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "上顎骨骨折 [上顎洞を含む] > LeFort II 型",
+          "description_en": "Maxilla fracture [including maxillary sinus] > LeFort II",
+          "children": []
+        },
+        {
+          "code": "250808.3",
+          "title_ja": "LeFort III 型",
+          "title_en": "LeFort III",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "上顎骨骨折 [上顎洞を含む] > LeFort III 型",
+          "description_en": "Maxilla fracture [including maxillary sinus] > LeFort III",
+          "children": [
+            {
+              "code": "250810.4",
+              "title_ja": "出血量が全血液量の20%を超える",
+              "title_en": "blood loss >20% by volume",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "上顎骨骨折 [上顎洞を含む] > LeFort III 型 > 出血量が全血液量の20%を超える",
+              "description_en": "Maxilla fracture [including maxillary sinus] > LeFort III > blood loss >20% by volume",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "251099.1",
+      "title_ja": "鼻 詳細不明",
+      "title_en": "Nose NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "鼻 詳細不明",
+      "description_en": "Nose NFS",
+      "children": [
+        {
+          "code": "251000.1",
+          "title_ja": "骨折, 非開放または詳細不明",
+          "title_en": "fracture, closed or NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "description_ja": "鼻 詳細不明 > 骨折, 非開放または詳細不明",
+          "description_en": "Nose NFS > fracture, closed or NFS",
+          "children": [
+            {
+              "code": "251002.2",
+              "title_ja": "開放 / 転位",
+              "title_en": "open/displaced/comminuted",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "fracture",
+                "nfs"
+              ],
+              "description_ja": "鼻 詳細不明 > 骨折, 非開放または詳細不明 > 開放 / 転位",
+              "description_en": "Nose NFS > fracture, closed or NFS > open/displaced/comminuted",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "251004.1",
+          "title_ja": "粘膜 / 血管の破裂 (鼻出血)",
+          "title_en": "ruptured mucosa/vessels (epistaxis)",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "rupture",
+            "hemorrhage"
+          ],
+          "description_ja": "鼻 詳細不明 > 粘膜 / 血管の破裂 (鼻出血)",
+          "description_en": "Nose NFS > ruptured mucosa/vessels (epistaxis)",
+          "children": []
+        },
+        {
+          "code": "251006.2",
+          "title_ja": "鼻中隔骨折",
+          "title_en": "septum fracture",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "鼻 詳細不明 > 鼻中隔骨折",
+          "description_en": "Nose NFS > septum fracture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "251200.2",
+      "title_ja": "眼窩骨折, 非開放または詳細不明",
+      "title_en": "Orbit fracture, closed or NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": "眼窩骨折, 非開放または詳細不明",
+      "description_en": "Orbit fracture, closed or NFS",
+      "children": [
+        {
+          "code": "251201.2",
+          "title_ja": "開放で、部位は詳細不明",
+          "title_en": "open but NFS as to site",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "眼窩骨折, 非開放または詳細不明 > 開放で、部位は詳細不明",
+          "description_en": "Orbit fracture, closed or NFS > open but NFS as to site",
+          "children": []
+        },
+        {
+          "code": "251205.2",
+          "title_ja": "同側眼窩の多発骨折, 非開放または詳細不明ᵃ",
+          "title_en": "multiple fractures of same orbit, closed or NFS^a",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "description_ja": "眼窩骨折, 非開放または詳細不明 > 同側眼窩の多発骨折, 非開放または詳細不明ᵃ",
+          "description_en": "Orbit fracture, closed or NFS > multiple fractures of same orbit, closed or NFS^a",
+          "children": [
+            {
+              "code": "251206.2",
+              "title_ja": "開放ᵃ",
+              "title_en": "open^a",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "fracture",
+                "nfs"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 同側眼窩の多発骨折, 非開放または詳細不明ᵃ > 開放ᵃ",
+              "description_en": "Orbit fracture, closed or NFS > multiple fractures of same orbit, closed or NFS^a > open^a",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "251211.2",
+          "title_ja": "眼窩縁, 非開放または詳細不明ᵃ",
+          "title_en": "orbital rim, closed or NFS^a",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩縁, 非開放または詳細不明ᵃ",
+          "description_en": "Orbit fracture, closed or NFS > orbital rim, closed or NFS^a",
+          "children": [
+            {
+              "code": "251212.2",
+              "title_ja": "開放 詳細不明",
+              "title_en": "open NFS",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩縁, 非開放または詳細不明ᵃ > 開放 詳細不明",
+              "description_en": "Orbit fracture, closed or NFS > orbital rim, closed or NFS^a > open NFS",
+              "children": []
+            },
+            {
+              "code": "251213.2",
+              "title_ja": "眼窩下縁",
+              "title_en": "inferior orbital rim",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩縁, 非開放または詳細不明ᵃ > 眼窩下縁",
+              "description_en": "Orbit fracture, closed or NFS > orbital rim, closed or NFS^a > inferior orbital rim",
+              "children": [
+                {
+                  "code": "251214.2",
+                  "title_ja": "開放",
+                  "title_en": "open",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩縁, 非開放または詳細不明ᵃ > 眼窩下縁 > 開放",
+                  "description_en": "Orbit fracture, closed or NFS > orbital rim, closed or NFS^a > inferior orbital rim > open",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "251215.2",
+              "title_ja": "眼窩上縁",
+              "title_en": "superior orbital rim",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩縁, 非開放または詳細不明ᵃ > 眼窩上縁",
+              "description_en": "Orbit fracture, closed or NFS > orbital rim, closed or NFS^a > superior orbital rim",
+              "children": [
+                {
+                  "code": "251216.2",
+                  "title_ja": "開放",
+                  "title_en": "open",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩縁, 非開放または詳細不明ᵃ > 眼窩上縁 > 開放",
+                  "description_en": "Orbit fracture, closed or NFS > orbital rim, closed or NFS^a > superior orbital rim > open",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "251221.2",
+          "title_ja": "眼窩底, 非開放または詳細不明ᵃ",
+          "title_en": "orbital floor, closed or NFS^a",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩底, 非開放または詳細不明ᵃ",
+          "description_en": "Orbit fracture, closed or NFS > orbital floor, closed or NFS^a",
+          "children": [
+            {
+              "code": "251222.2",
+              "title_ja": "開放",
+              "title_en": "open",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩底, 非開放または詳細不明ᵃ > 開放",
+              "description_en": "Orbit fracture, closed or NFS > orbital floor, closed or NFS^a > open",
+              "children": []
+            },
+            {
+              "code": "251223.2",
+              "title_ja": "\"吹き抜け\" 骨折",
+              "title_en": "\"blowout\" fracture",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "fracture"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩底, 非開放または詳細不明ᵃ > \"吹き抜け\" 骨折",
+              "description_en": "Orbit fracture, closed or NFS > orbital floor, closed or NFS^a > \"blowout\" fracture",
+              "children": [
+                {
+                  "code": "251224.2",
+                  "title_ja": "開放",
+                  "title_en": "open",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "FACE (includes Eye and Ear)",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "fracture"
+                  ],
+                  "description_ja": "眼窩骨折, 非開放または詳細不明 > 眼窩底, 非開放または詳細不明ᵃ > \"吹き抜け\" 骨折 > 開放",
+                  "description_en": "Orbit fracture, closed or NFS > orbital floor, closed or NFS^a > \"blowout\" fracture > open",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "251231.2",
+          "title_ja": "内側壁, 非開放または詳細不明ᵃ",
+          "title_en": "medial wall, closed or NFS ^a",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "眼窩骨折, 非開放または詳細不明 > 内側壁, 非開放または詳細不明ᵃ",
+          "description_en": "Orbit fracture, closed or NFS > medial wall, closed or NFS ^a",
+          "children": [
+            {
+              "code": "251232.2",
+              "title_ja": "開放",
+              "title_en": "open",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 内側壁, 非開放または詳細不明ᵃ > 開放",
+              "description_en": "Orbit fracture, closed or NFS > medial wall, closed or NFS ^a > open",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "251235.2",
+          "title_ja": "外側壁, 非開放または詳細不明ᵃ",
+          "title_en": "lateral wall, closed or NFS ^a",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "眼窩骨折, 非開放または詳細不明 > 外側壁, 非開放または詳細不明ᵃ",
+          "description_en": "Orbit fracture, closed or NFS > lateral wall, closed or NFS ^a",
+          "children": [
+            {
+              "code": "251236.2",
+              "title_ja": "開放",
+              "title_en": "open",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "FACE (includes Eye and Ear)",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "眼窩骨折, 非開放または詳細不明 > 外側壁, 非開放または詳細不明ᵃ > 開放",
+              "description_en": "Orbit fracture, closed or NFS > lateral wall, closed or NFS ^a > open",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "251499.1",
+      "title_ja": "歯牙, 本数は問わないが損傷として詳細不明",
+      "title_en": "Teeth, any number but NFS as to injury",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "歯牙, 本数は問わないが損傷として詳細不明",
+      "description_en": "Teeth, any number but NFS as to injury",
+      "children": [
+        {
+          "code": "251402.1",
+          "title_ja": "脱臼; 亜脱臼; 動揺",
+          "title_en": "dislocation ; subluxation ; loosened",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "dislocation"
+          ],
+          "description_ja": "歯牙, 本数は問わないが損傷として詳細不明 > 脱臼; 亜脱臼; 動揺",
+          "description_en": "Teeth, any number but NFS as to injury > dislocation ; subluxation ; loosened",
+          "children": []
+        },
+        {
+          "code": "251404.1",
+          "title_ja": "破折",
+          "title_en": "fracture",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "歯牙, 本数は問わないが損傷として詳細不明 > 破折",
+          "description_en": "Teeth, any number but NFS as to injury > fracture",
+          "children": []
+        },
+        {
+          "code": "251406.1",
+          "title_ja": "脱落",
+          "title_en": "avulsion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "avulsion"
+          ],
+          "description_ja": "歯牙, 本数は問わないが損傷として詳細不明 > 脱落",
+          "description_en": "Teeth, any number but NFS as to injury > avulsion",
+          "children": []
+        },
+        {
+          "code": "251408.1",
+          "title_ja": "脱臼, 破折, 脱落いずれかの合併",
+          "title_en": "any combination of dislocation/fracture/avulsion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture",
+            "dislocation",
+            "avulsion"
+          ],
+          "description_ja": "歯牙, 本数は問わないが損傷として詳細不明 > 脱臼, 破折, 脱落いずれかの合併",
+          "description_en": "Teeth, any number but NFS as to injury > any combination of dislocation/fracture/avulsion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "251800.1",
+      "title_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む]",
+      "title_en": "Zygoma fracture [Includes tripod and malar fractures]",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture"
+      ],
+      "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む]",
+      "description_en": "Zygoma fracture [Includes tripod and malar fractures]",
+      "children": [
+        {
+          "code": "251802.1",
+          "title_ja": "転位なし [KN I]ª",
+          "title_en": "non-displaced [KN I]",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "顔面（目と耳を含む）",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む] > 転位なし [KN I]ª",
+          "description_en": "Zygoma fracture [Includes tripod and malar fractures] > non-displaced [KN I]",
+          "children": []
+        },
+        {
+          "code": "251804.1",
+          "title_ja": "転位あり 詳細不明",
+          "title_en": "displaced NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "顔面（目と耳を含む）",
+          "iss_body_region": "face",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む] > 転位あり 詳細不明",
+          "description_en": "Zygoma fracture [Includes tripod and malar fractures] > displaced NFS",
+          "children": [
+            {
+              "code": "251806.1",
+              "title_ja": "弓部 [KN II]ª",
+              "title_en": "arch [KN II]",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "顔面（目と耳を含む）",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む] > 転位あり 詳細不明 > 弓部 [KN II]ª",
+              "description_en": "Zygoma fracture [Includes tripod and malar fractures] > displaced NFS > arch [KN II]",
+              "children": []
+            },
+            {
+              "code": "251808.1",
+              "title_ja": "体部ª",
+              "title_en": "body",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "顔面（目と耳を含む）",
+              "iss_body_region": "face",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む] > 転位あり 詳細不明 > 体部ª",
+              "description_en": "Zygoma fracture [Includes tripod and malar fractures] > displaced NFS > body",
+              "children": [
+                {
+                  "code": "251810.1",
+                  "title_ja": "非回旋 [KN III]ª",
+                  "title_en": "unrotated [KN III]",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "顔面（目と耳を含む）",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む] > 転位あり 詳細不明 > 体部ª > 非回旋 [KN III]ª",
+                  "description_en": "Zygoma fracture [Includes tripod and malar fractures] > displaced NFS > body > unrotated [KN III]",
+                  "children": []
+                },
+                {
+                  "code": "251812.1",
+                  "title_ja": "回旋 [KN IV, KN V]ª",
+                  "title_en": "rotated [KN IV, V]",
+                  "ais_severity": 1,
+                  "hierarchy_level": 4,
+                  "section": "顔面（目と耳を含む）",
+                  "iss_body_region": "face",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む] > 転位あり 詳細不明 > 体部ª > 回旋 [KN IV, KN V]ª",
+                  "description_en": "Zygoma fracture [Includes tripod and malar fractures] > displaced NFS > body > rotated [KN IV, V]",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "251814.2",
+          "title_ja": "複雑 [KN VI]ª",
+          "title_en": "complex [KN VI]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "顔面（目と耳を含む）",
+          "iss_body_region": "face",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "頬骨骨折 [三脚骨折と頬骨体部骨折を含む] > 複雑 [KN VI]ª",
+          "description_en": "Zygoma fracture [Includes tripod and malar fractures] > complex [KN VI]",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "251900.3",
+      "title_ja": "顔面の広汎な骨折ª",
+      "title_en": "Panfacial fracture",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "FACE (includes Eye and Ear)",
+      "iss_body_region": "face",
+      "injury_types": [
+        "fracture"
+      ],
+      "description_ja": "顔面の広汎な骨折ª",
+      "description_en": "Panfacial fracture",
+      "children": [
+        {
+          "code": "251902.4",
+          "title_ja": "出血量が全血液量の20%を超えるª",
+          "title_en": "blood loss >20% by volume",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "FACE (includes Eye and Ear)",
+          "iss_body_region": "face",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "顔面の広汎な骨折ª > 出血量が全血液量の20%を超えるª",
+          "description_en": "Panfacial fracture > blood loss >20% by volume",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

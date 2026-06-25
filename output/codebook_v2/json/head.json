@@ -1,0 +1,4460 @@
+{
+  "body_part": "head",
+  "body_part_name": "Head / 頭部",
+  "total_entries": 281,
+  "entries": [
+    {
+      "code": "100099.9",
+      "title_ja": "頭部損傷 詳細不明",
+      "title_en": "Injuries to the Head NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "頭部損傷 詳細不明",
+      "description_en": "Injuries to the Head NFS",
+      "children": [
+        {
+          "code": "100999.9",
+          "title_ja": "頭部以外に原因が特定できない, もしくは剖検によっても特定できないもの",
+          "title_en": "Died of head injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "頭部損傷 詳細不明 > 頭部以外に原因が特定できない, もしくは剖検によっても特定できないもの",
+          "description_en": "Injuries to the Head NFS > Died of head injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "110009.1",
+      "title_ja": "頭部損傷 (頭痛のみを訴える) 詳細不明",
+      "title_en": "Head Injury NFS involving only headache",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "頭部損傷 (頭痛のみを訴える) 詳細不明",
+      "description_en": "Head Injury NFS involving only headache",
+      "children": []
+    },
+    {
+      "code": "113000.6",
+      "title_ja": "挫滅損傷",
+      "title_en": "Crush Injury. Must involve massive destruction of skull, brain and intracranial contents.",
+      "ais_severity": 6,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "crush"
+      ],
+      "description_ja": "挫滅損傷",
+      "description_en": "Crush Injury. Must involve massive destruction of skull, brain and intracranial contents.",
+      "children": []
+    },
+    {
+      "code": "116000.3",
+      "title_ja": "穿通性損傷 (頭蓋骨に達する) 詳細不明",
+      "title_en": "Penetrating Injury to Skull NFSᵃ",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "penetrating",
+        "nfs"
+      ],
+      "description_ja": "穿通性損傷 (頭蓋骨に達する) 詳細不明",
+      "description_en": "Penetrating Injury to Skull NFSᵃ",
+      "children": [
+        {
+          "code": "116002.3",
+          "title_ja": "表在性; 創の深さが2cm以下",
+          "title_en": "superficial ; ≤ 2cm beneath entrance",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "穿通性損傷 (頭蓋骨に達する) 詳細不明 > 表在性; 創の深さが2cm以下",
+          "description_en": "Penetrating Injury to Skull NFSᵃ > superficial ; ≤ 2cm beneath entrance",
+          "children": []
+        },
+        {
+          "code": "116004.5",
+          "title_ja": "深い; 創の深さが2cmを超える",
+          "title_en": "major ; >2cm penetration",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "穿通性損傷 (頭蓋骨に達する) 詳細不明 > 深い; 創の深さが2cmを超える",
+          "description_en": "Penetrating Injury to Skull NFSᵃ > major ; >2cm penetration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "110099.1",
+      "title_ja": "頭皮 詳細不明",
+      "title_en": "Scalp NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "頭皮 詳細不明",
+      "description_en": "Scalp NFS",
+      "children": [
+        {
+          "code": "110202.1",
+          "title_ja": "擦過傷",
+          "title_en": "abrasion",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "abrasion"
+          ],
+          "description_ja": "頭皮 詳細不明 > 擦過傷",
+          "description_en": "Scalp NFS > abrasion",
+          "children": []
+        },
+        {
+          "code": "110402.1",
+          "title_ja": "挫傷: 6ヵ月を超える乳児では帽状腱膜下血腫",
+          "title_en": "contusion; subgaleal hematoma if >6 months old",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion",
+            "hematoma"
+          ],
+          "description_ja": "頭皮 詳細不明 > 挫傷: 6ヵ月を超える乳児では帽状腱膜下血腫",
+          "description_en": "Scalp NFS > contusion; subgaleal hematoma if >6 months old",
+          "children": []
+        },
+        {
+          "code": "110403.2",
+          "title_ja": "6ヵ月以下の乳児では帽状腱膜下血腫",
+          "title_en": "subgaleal hematoma in infants <= 6 months old",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hematoma"
+          ],
+          "description_ja": "頭皮 詳細不明 > 6ヵ月以下の乳児では帽状腱膜下血腫",
+          "description_en": "Scalp NFS > subgaleal hematoma in infants <= 6 months old",
+          "children": []
+        },
+        {
+          "code": "110404.3",
+          "title_ja": "出血量が全血液量の20%を超えるᵃ",
+          "title_en": "blood loss > 20% by volume in infants <= 6 months old",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "頭皮 詳細不明 > 出血量が全血液量の20%を超えるᵃ",
+          "description_en": "Scalp NFS > blood loss > 20% by volume in infants <= 6 months old",
+          "children": []
+        },
+        {
+          "code": "110600.1",
+          "title_ja": "裂傷・裂創 詳細不明",
+          "title_en": "laceration NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "頭皮 詳細不明 > 裂傷・裂創 詳細不明",
+          "description_en": "Scalp NFS > laceration NFS",
+          "children": [
+            {
+              "code": "110602.1",
+              "title_ja": "小; 表在性",
+              "title_en": "minor ; superficial",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "頭皮 詳細不明 > 裂傷・裂創 詳細不明 > 小; 表在性",
+              "description_en": "Scalp NFS > laceration NFS > minor ; superficial",
+              "children": []
+            },
+            {
+              "code": "110604.2",
+              "title_ja": "大; 長さが10cmを超え, かつ皮下組織まで達する",
+              "title_en": "major ; >10cm long and into subcutaneous tissue",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "頭皮 詳細不明 > 裂傷・裂創 詳細不明 > 大; 長さが10cmを超え, かつ皮下組織まで達する",
+              "description_en": "Scalp NFS > laceration NFS > major ; >10cm long and into subcutaneous tissue",
+              "children": []
+            },
+            {
+              "code": "110606.3",
+              "title_ja": "出血量が全血液量の20%を超える",
+              "title_en": "blood loss > 20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "頭皮 詳細不明 > 裂傷・裂創 詳細不明 > 出血量が全血液量の20%を超える",
+              "description_en": "Scalp NFS > laceration NFS > blood loss > 20% by volume",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "110800.1",
+          "title_ja": "剥離 詳細不明",
+          "title_en": "avulsion NFS",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "avulsion",
+            "nfs"
+          ],
+          "description_ja": "頭皮 詳細不明 > 剥離 詳細不明",
+          "description_en": "Scalp NFS > avulsion NFS",
+          "children": [
+            {
+              "code": "110802.1",
+              "title_ja": "表在性; 100cm²以下の組織欠損",
+              "title_en": "superficial ; minor ; tissue loss <= 100cm²",
+              "ais_severity": 1,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "description_ja": "頭皮 詳細不明 > 剥離 詳細不明 > 表在性; 100cm²以下の組織欠損",
+              "description_en": "Scalp NFS > avulsion NFS > superficial ; minor ; tissue loss <= 100cm²",
+              "children": []
+            },
+            {
+              "code": "110804.2",
+              "title_ja": "大; 100cm²を超える組織欠損",
+              "title_en": "major ; tissue loss >100cm²",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "avulsion",
+                "nfs"
+              ],
+              "description_ja": "頭皮 詳細不明 > 剥離 詳細不明 > 大; 100cm²を超える組織欠損",
+              "description_en": "Scalp NFS > avulsion NFS > major ; tissue loss >100cm²",
+              "children": []
+            },
+            {
+              "code": "110806.3",
+              "title_ja": "出血量が全血液量の20%を超える",
+              "title_en": "blood loss >20% by volume",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "頭皮 詳細不明 > 剥離 詳細不明 > 出血量が全血液量の20%を超える",
+              "description_en": "Scalp NFS > avulsion NFS > blood loss >20% by volume",
+              "children": []
+            },
+            {
+              "code": "110808.3",
+              "title_ja": "全頭皮剥離",
+              "title_en": "total scalp loss",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "avulsion"
+              ],
+              "description_ja": "頭皮 詳細不明 > 剥離 詳細不明 > 全頭皮剥離",
+              "description_en": "Scalp NFS > avulsion NFS > total scalp loss",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "120099.9",
+      "title_ja": "頭部内血管損傷 詳細不明ᶠ",
+      "title_en": "Vascular Injury in Head NFS",
+      "ais_severity": 9,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "頭部内血管損傷 詳細不明ᶠ",
+      "description_en": "Vascular Injury in Head NFS",
+      "children": []
+    },
+    {
+      "code": "120199.3",
+      "title_ja": "動脈 詳細不明ª",
+      "title_en": "Artery NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "動脈 詳細不明ª",
+      "description_en": "Artery NFS",
+      "children": [
+        {
+          "code": "120299.3",
+          "title_ja": "前大脳動脈 詳細不明",
+          "title_en": "Anterior cerebral artery NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "動脈 詳細不明ª > 前大脳動脈 詳細不明",
+          "description_en": "Artery NFS > Anterior cerebral artery NFS",
+          "children": [
+            {
+              "code": "120202.5",
+              "title_ja": "裂傷・裂創",
+              "title_en": "laceration",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "動脈 詳細不明ª > 前大脳動脈 詳細不明 > 裂傷・裂創",
+              "description_en": "Artery NFS > Anterior cerebral artery NFS > laceration",
+              "children": []
+            },
+            {
+              "code": "120204.3",
+              "title_ja": "血栓症・閉塞",
+              "title_en": "thrombosis ; occlusion",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "動脈 詳細不明ª > 前大脳動脈 詳細不明 > 血栓症・閉塞",
+              "description_en": "Artery NFS > Anterior cerebral artery NFS > thrombosis ; occlusion",
+              "children": [
+                {
+                  "code": "120205.4",
+                  "title_ja": "両側性ᶜ",
+                  "title_en": "bilateral",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "vascular",
+                    "nfs"
+                  ],
+                  "description_ja": "動脈 詳細不明ª > 前大脳動脈 詳細不明 > 血栓症・閉塞 > 両側性ᶜ",
+                  "description_en": "Artery NFS > Anterior cerebral artery NFS > thrombosis ; occlusion > bilateral",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "120206.3",
+              "title_ja": "外傷性動脈瘤",
+              "title_en": "traumatic aneurysm",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular"
+              ],
+              "description_ja": "動脈 詳細不明ª > 前大脳動脈 詳細不明 > 外傷性動脈瘤",
+              "description_en": "Artery NFS > Anterior cerebral artery NFS > traumatic aneurysm",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "120499.4",
+          "title_ja": "脳底動脈 詳細不明",
+          "title_en": "Basilar artery NFS",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "動脈 詳細不明ª > 脳底動脈 詳細不明",
+          "description_en": "Artery NFS > Basilar artery NFS",
+          "children": [
+            {
+              "code": "120402.5",
+              "title_ja": "裂傷・裂創",
+              "title_en": "laceration",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "動脈 詳細不明ª > 脳底動脈 詳細不明 > 裂傷・裂創",
+              "description_en": "Artery NFS > Basilar artery NFS > laceration",
+              "children": []
+            },
+            {
+              "code": "120404.5",
+              "title_ja": "血栓症・閉塞",
+              "title_en": "thrombosis ; occlusion",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "動脈 詳細不明ª > 脳底動脈 詳細不明 > 血栓症・閉塞",
+              "description_en": "Artery NFS > Basilar artery NFS > thrombosis ; occlusion",
+              "children": []
+            },
+            {
+              "code": "120406.5",
+              "title_ja": "外傷性動脈瘤",
+              "title_en": "traumatic aneurysm",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular"
+              ],
+              "description_ja": "動脈 詳細不明ª > 脳底動脈 詳細不明 > 外傷性動脈瘤",
+              "description_en": "Artery NFS > Basilar artery NFS > traumatic aneurysm",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "121099.3",
+          "title_ja": "内頸動脈 詳細不明",
+          "title_en": "Internal carotid artery NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "動脈 詳細不明ª > 内頸動脈 詳細不明",
+          "description_en": "Artery NFS > Internal carotid artery NFS",
+          "children": [
+            {
+              "code": "121002.5",
+              "title_ja": "裂傷・裂創",
+              "title_en": "laceration",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "動脈 詳細不明ª > 内頸動脈 詳細不明 > 裂傷・裂創",
+              "description_en": "Artery NFS > Internal carotid artery NFS > laceration",
+              "children": [
+                {
+                  "code": "121003.6",
+                  "title_ja": "両側性ᶜ",
+                  "title_en": "bilateral",
+                  "ais_severity": 6,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration"
+                  ],
+                  "description_ja": "動脈 詳細不明ª > 内頸動脈 詳細不明 > 裂傷・裂創 > 両側性ᶜ",
+                  "description_en": "Artery NFS > Internal carotid artery NFS > laceration > bilateral",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "121004.4",
+              "title_ja": "血栓症・閉塞",
+              "title_en": "thrombosis ; occlusion",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "動脈 詳細不明ª > 内頸動脈 詳細不明 > 血栓症・閉塞",
+              "description_en": "Artery NFS > Internal carotid artery NFS > thrombosis ; occlusion",
+              "children": [
+                {
+                  "code": "121005.5",
+                  "title_ja": "両側性ᶜ",
+                  "title_en": "bilateral",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "vascular",
+                    "nfs"
+                  ],
+                  "description_ja": "動脈 詳細不明ª > 内頸動脈 詳細不明 > 血栓症・閉塞 > 両側性ᶜ",
+                  "description_en": "Artery NFS > Internal carotid artery NFS > thrombosis ; occlusion > bilateral",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "121006.3",
+              "title_ja": "外傷性動脈瘤",
+              "title_en": "traumatic aneurysm",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular"
+              ],
+              "description_ja": "動脈 詳細不明ª > 内頸動脈 詳細不明 > 外傷性動脈瘤",
+              "description_en": "Artery NFS > Internal carotid artery NFS > traumatic aneurysm",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "121499.3",
+          "title_ja": "中大脳動脈 詳細不明",
+          "title_en": "Middle cerebral artery NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "動脈 詳細不明ª > 中大脳動脈 詳細不明",
+          "description_en": "Artery NFS > Middle cerebral artery NFS",
+          "children": [
+            {
+              "code": "121402.5",
+              "title_ja": "裂傷・裂創",
+              "title_en": "laceration",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "動脈 詳細不明ª > 中大脳動脈 詳細不明 > 裂傷・裂創",
+              "description_en": "Artery NFS > Middle cerebral artery NFS > laceration",
+              "children": []
+            },
+            {
+              "code": "121404.4",
+              "title_ja": "血栓症・閉塞",
+              "title_en": "thrombosis ; occlusion",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "動脈 詳細不明ª > 中大脳動脈 詳細不明 > 血栓症・閉塞",
+              "description_en": "Artery NFS > Middle cerebral artery NFS > thrombosis ; occlusion",
+              "children": [
+                {
+                  "code": "121405.5",
+                  "title_ja": "両側性ᶜ",
+                  "title_en": "bilateral",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "vascular",
+                    "nfs"
+                  ],
+                  "description_ja": "動脈 詳細不明ª > 中大脳動脈 詳細不明 > 血栓症・閉塞 > 両側性ᶜ",
+                  "description_en": "Artery NFS > Middle cerebral artery NFS > thrombosis ; occlusion > bilateral",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "121406.3",
+              "title_ja": "外傷性動脈瘤",
+              "title_en": "traumatic aneurysm",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular"
+              ],
+              "description_ja": "動脈 詳細不明ª > 中大脳動脈 詳細不明 > 外傷性動脈瘤",
+              "description_en": "Artery NFS > Middle cerebral artery NFS > traumatic aneurysm",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "121699.3",
+      "title_ja": "その他の動脈 詳細不明 [前, 中, 後 大脳動脈, 脳底動脈, 椎骨動脈の各分岐]",
+      "title_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery]",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "頭部 (頭蓋と脳)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "その他の動脈 詳細不明 [前, 中, 後 大脳動脈, 脳底動脈, 椎骨動脈の各分岐]",
+      "description_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery]",
+      "children": [
+        {
+          "code": "121602.4",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "その他の動脈 詳細不明 [前, 中, 後 大脳動脈, 脳底動脈, 椎骨動脈の各分岐] > 裂傷・裂創",
+          "description_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery] > laceration",
+          "children": []
+        },
+        {
+          "code": "121604.3",
+          "title_ja": "血栓症；閉塞",
+          "title_en": "thrombosis ; occlusion",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "その他の動脈 詳細不明 [前, 中, 後 大脳動脈, 脳底動脈, 椎骨動脈の各分岐] > 血栓症；閉塞",
+          "description_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery] > thrombosis ; occlusion",
+          "children": []
+        },
+        {
+          "code": "121606.3",
+          "title_ja": "外傷性動脈瘤",
+          "title_en": "traumatic aneurysm",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular"
+          ],
+          "description_ja": "その他の動脈 詳細不明 [前, 中, 後 大脳動脈, 脳底動脈, 椎骨動脈の各分岐] > 外傷性動脈瘤",
+          "description_en": "Other artery NFS [branch of anterior, posterior or middle cerebral artery or branch of basilar or vertebral artery] > traumatic aneurysm",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "121899.3",
+      "title_ja": "後大脳動脈 詳細不明",
+      "title_en": "Posterior cerebral artery NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "頭部 (頭蓋と脳)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "後大脳動脈 詳細不明",
+      "description_en": "Posterior cerebral artery NFS",
+      "children": [
+        {
+          "code": "121802.5",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "後大脳動脈 詳細不明 > 裂傷・裂創",
+          "description_en": "Posterior cerebral artery NFS > laceration",
+          "children": []
+        },
+        {
+          "code": "121804.3",
+          "title_ja": "血栓症；閉塞",
+          "title_en": "thrombosis ; occlusion",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "後大脳動脈 詳細不明 > 血栓症；閉塞",
+          "description_en": "Posterior cerebral artery NFS > thrombosis ; occlusion",
+          "children": [
+            {
+              "code": "121805.4",
+              "title_ja": "両側性",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "頭部 (頭蓋と脳)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "後大脳動脈 詳細不明 > 血栓症；閉塞 > 両側性",
+              "description_en": "Posterior cerebral artery NFS > thrombosis ; occlusion > bilateralᶜ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "121806.3",
+          "title_ja": "外傷性動脈瘤",
+          "title_en": "traumatic aneurysm",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular"
+          ],
+          "description_ja": "後大脳動脈 詳細不明 > 外傷性動脈瘤",
+          "description_en": "Posterior cerebral artery NFS > traumatic aneurysm",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "122899.3",
+      "title_ja": "椎骨動脈 詳細不明",
+      "title_en": "Vertebral artery NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "頭部 (頭蓋と脳)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "椎骨動脈 詳細不明",
+      "description_en": "Vertebral artery NFS",
+      "children": [
+        {
+          "code": "122802.5",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "椎骨動脈 詳細不明 > 裂傷・裂創",
+          "description_en": "Vertebral artery NFS > laceration",
+          "children": [
+            {
+              "code": "122803.6",
+              "title_ja": "両側性",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 6,
+              "hierarchy_level": 3,
+              "section": "頭部 (頭蓋と脳)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "椎骨動脈 詳細不明 > 裂傷・裂創 > 両側性",
+              "description_en": "Vertebral artery NFS > laceration > bilateralᶜ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "122804.3",
+          "title_ja": "血栓症；閉塞",
+          "title_en": "thrombosis ; occlusion",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "椎骨動脈 詳細不明 > 血栓症；閉塞",
+          "description_en": "Vertebral artery NFS > thrombosis ; occlusion",
+          "children": [
+            {
+              "code": "122805.4",
+              "title_ja": "両側性",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "頭部 (頭蓋と脳)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "椎骨動脈 詳細不明 > 血栓症；閉塞 > 両側性",
+              "description_en": "Vertebral artery NFS > thrombosis ; occlusion > bilateralᶜ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "122806.3",
+          "title_ja": "外傷性動脈瘤",
+          "title_en": "traumatic aneurysm",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular"
+          ],
+          "description_ja": "椎骨動脈 詳細不明 > 外傷性動脈瘤",
+          "description_en": "Vertebral artery NFS > traumatic aneurysm",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "122299.3",
+      "title_ja": "静脈洞 詳細不明ᵈ",
+      "title_en": "Sinus NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "静脈洞 詳細不明ᵈ",
+      "description_en": "Sinus NFS",
+      "children": [
+        {
+          "code": "122202.4",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > 裂傷・裂創",
+          "description_en": "Sinus NFS > laceration",
+          "children": []
+        },
+        {
+          "code": "122204.3",
+          "title_ja": "血栓症：閉塞",
+          "title_en": "thrombosis ; occlusion",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > 血栓症：閉塞",
+          "description_en": "Sinus NFS > thrombosis ; occlusion",
+          "children": []
+        },
+        {
+          "code": "120602.4",
+          "title_ja": "内頸動脈－海綿静脈瘻",
+          "title_en": "Carotid-cavernous fistula",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > 内頸動脈－海綿静脈瘻",
+          "description_en": "Sinus NFS > Carotid-cavernous fistula",
+          "children": [
+            {
+              "code": "120603.4",
+              "title_ja": "両側性ᶜ",
+              "title_en": "bilateral",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 内頸動脈－海綿静脈瘻 > 両側性ᶜ",
+              "description_en": "Sinus NFS > Carotid-cavernous fistula > bilateral",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "120899.3",
+          "title_ja": "海綿静脈洞 詳細不明",
+          "title_en": "Cavernous sinus NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > 海綿静脈洞 詳細不明",
+          "description_en": "Sinus NFS > Cavernous sinus NFS",
+          "children": [
+            {
+              "code": "120802.4",
+              "title_ja": "裂傷・裂創",
+              "title_en": "laceration",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 海綿静脈洞 詳細不明 > 裂傷・裂創",
+              "description_en": "Sinus NFS > Cavernous sinus NFS > laceration",
+              "children": [
+                {
+                  "code": "120804.5",
+                  "title_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+                  "title_en": "open laceration (bleeding externally) or segmental loss",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "hemorrhage"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 海綿静脈洞 詳細不明 > 裂傷・裂創 > 開放性裂傷・裂創 (体外に出血) または部分欠損",
+                  "description_en": "Sinus NFS > Cavernous sinus NFS > laceration > open laceration (bleeding externally) or segmental loss",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "120806.3",
+              "title_ja": "血栓症：閉塞",
+              "title_en": "thrombosis ; occlusion",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 海綿静脈洞 詳細不明 > 血栓症：閉塞",
+              "description_en": "Sinus NFS > Cavernous sinus NFS > thrombosis ; occlusion",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "122099.4",
+          "title_ja": "S状静脈洞 詳細不明",
+          "title_en": "Sigmoid sinus NFS",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > S状静脈洞 詳細不明",
+          "description_en": "Sinus NFS > Sigmoid sinus NFS",
+          "children": [
+            {
+              "code": "122002.4",
+              "title_ja": "裂傷・裂創",
+              "title_en": "laceration",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > S状静脈洞 詳細不明 > 裂傷・裂創",
+              "description_en": "Sinus NFS > Sigmoid sinus NFS > laceration",
+              "children": [
+                {
+                  "code": "122003.5",
+                  "title_ja": "両側性ᶜ",
+                  "title_en": "bilateral",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > S状静脈洞 詳細不明 > 裂傷・裂創 > 両側性ᶜ",
+                  "description_en": "Sinus NFS > Sigmoid sinus NFS > laceration > bilateral",
+                  "children": []
+                },
+                {
+                  "code": "122004.5",
+                  "title_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+                  "title_en": "open laceration (bleeding externally) or segmental loss",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "hemorrhage"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > S状静脈洞 詳細不明 > 裂傷・裂創 > 開放性裂傷・裂創 (体外に出血) または部分欠損",
+                  "description_en": "Sinus NFS > Sigmoid sinus NFS > laceration > open laceration (bleeding externally) or segmental loss",
+                  "children": [
+                    {
+                      "code": "122005.6",
+                      "title_ja": "両側性ᶜ",
+                      "title_en": "bilateral",
+                      "ais_severity": 6,
+                      "hierarchy_level": 5,
+                      "section": "HEAD (cranium and brain)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "laceration",
+                        "hemorrhage"
+                      ],
+                      "description_ja": "静脈洞 詳細不明ᵈ > S状静脈洞 詳細不明 > 裂傷・裂創 > 開放性裂傷・裂創 (体外に出血) または部分欠損 > 両側性ᶜ",
+                      "description_en": "Sinus NFS > Sigmoid sinus NFS > laceration > open laceration (bleeding externally) or segmental loss > bilateral",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "122006.4",
+              "title_ja": "血栓症：閉塞",
+              "title_en": "thrombosis ; occlusion",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > S状静脈洞 詳細不明 > 血栓症：閉塞",
+              "description_en": "Sinus NFS > Sigmoid sinus NFS > thrombosis ; occlusion",
+              "children": [
+                {
+                  "code": "122007.5",
+                  "title_ja": "両側性ᶜ",
+                  "title_en": "bilateral",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "vascular",
+                    "nfs"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > S状静脈洞 詳細不明 > 血栓症：閉塞 > 両側性ᶜ",
+                  "description_en": "Sinus NFS > Sigmoid sinus NFS > thrombosis ; occlusion > bilateral",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "123099.4",
+          "title_ja": "直静脈洞 詳細不明ᵃ",
+          "title_en": "Straight sinus NFS",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > 直静脈洞 詳細不明ᵃ",
+          "description_en": "Sinus NFS > Straight sinus NFS",
+          "children": [
+            {
+              "code": "123002.4",
+              "title_ja": "裂傷・裂創ᵃ",
+              "title_en": "laceration",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 直静脈洞 詳細不明ᵃ > 裂傷・裂創ᵃ",
+              "description_en": "Sinus NFS > Straight sinus NFS > laceration",
+              "children": [
+                {
+                  "code": "123003.5",
+                  "title_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ",
+                  "title_en": "open laceration (bleeding externally) or segmental loss",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "hemorrhage"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 直静脈洞 詳細不明ᵃ > 裂傷・裂創ᵃ > 開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ",
+                  "description_en": "Sinus NFS > Straight sinus NFS > laceration > open laceration (bleeding externally) or segmental loss",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "123004.5",
+              "title_ja": "血栓症：閉塞ᵃ",
+              "title_en": "thrombosis ; occlusion",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 直静脈洞 詳細不明ᵃ > 血栓症：閉塞ᵃ",
+              "description_en": "Sinus NFS > Straight sinus NFS > thrombosis ; occlusion",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "122499.3",
+          "title_ja": "上矢状洞 詳細不明",
+          "title_en": "Superior longitudinal (sagittal) sinus NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration",
+            "nfs"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > 上矢状洞 詳細不明",
+          "description_en": "Sinus NFS > Superior longitudinal (sagittal) sinus NFS",
+          "children": [
+            {
+              "code": "122402.4",
+              "title_ja": "裂傷・裂創",
+              "title_en": "laceration",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 上矢状洞 詳細不明 > 裂傷・裂創",
+              "description_en": "Sinus NFS > Superior longitudinal (sagittal) sinus NFS > laceration",
+              "children": [
+                {
+                  "code": "122404.5",
+                  "title_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損",
+                  "title_en": "open laceration (bleeding externally) or segmental loss",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "hemorrhage"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 上矢状洞 詳細不明 > 裂傷・裂創 > 開放性裂傷・裂創 (体外に出血) または部分欠損",
+                  "description_en": "Sinus NFS > Superior longitudinal (sagittal) sinus NFS > laceration > open laceration (bleeding externally) or segmental loss",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "122406.4",
+              "title_ja": "血栓症; 閉塞",
+              "title_en": "thrombosis ; occlusion^e",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration",
+                "nfs"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 上矢状洞 詳細不明 > 血栓症; 閉塞",
+              "description_en": "Sinus NFS > Superior longitudinal (sagittal) sinus NFS > thrombosis ; occlusion^e",
+              "children": [
+                {
+                  "code": "122407.4",
+                  "title_ja": "前半部",
+                  "title_en": "anterior half of sinus^a",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "nfs"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 上矢状洞 詳細不明 > 血栓症; 閉塞 > 前半部",
+                  "description_en": "Sinus NFS > Superior longitudinal (sagittal) sinus NFS > thrombosis ; occlusion^e > anterior half of sinus^a",
+                  "children": []
+                },
+                {
+                  "code": "122408.5",
+                  "title_ja": "後半部",
+                  "title_en": "posterior half of sinus^a",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "nfs"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 上矢状洞 詳細不明 > 血栓症; 閉塞 > 後半部",
+                  "description_en": "Sinus NFS > Superior longitudinal (sagittal) sinus NFS > thrombosis ; occlusion^e > posterior half of sinus^a",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "122699.3",
+          "title_ja": "横静脈洞 詳細不明",
+          "title_en": "Transverse sinus NFS, laceration",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration",
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明",
+          "description_en": "Sinus NFS > Transverse sinus NFS, laceration",
+          "children": [
+            {
+              "code": "122602.4",
+              "title_ja": "裂傷・裂創",
+              "title_en": "Transverse sinus NFS, laceration, bilateral^c",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明 > 裂傷・裂創",
+              "description_en": "Sinus NFS > Transverse sinus NFS, laceration > Transverse sinus NFS, laceration, bilateral^c",
+              "children": [
+                {
+                  "code": "122603.5",
+                  "title_ja": "両側性",
+                  "title_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明 > 裂傷・裂創 > 両側性",
+                  "description_en": "Sinus NFS > Transverse sinus NFS, laceration > Transverse sinus NFS, laceration, bilateral^c > Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e",
+                  "children": []
+                },
+                {
+                  "code": "122604.5",
+                  "title_ja": "開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ",
+                  "title_en": "Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, bilateral^c",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "hemorrhage"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明 > 裂傷・裂創 > 開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ",
+                  "description_en": "Sinus NFS > Transverse sinus NFS, laceration > Transverse sinus NFS, laceration, bilateral^c > Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, bilateral^c",
+                  "children": [
+                    {
+                      "code": "122605.6",
+                      "title_ja": "両側性ᶜ",
+                      "title_en": "bilateralᶜ",
+                      "ais_severity": 6,
+                      "hierarchy_level": 5,
+                      "section": "HEAD (cranium and brain)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "laceration",
+                        "hemorrhage"
+                      ],
+                      "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明 > 裂傷・裂創 > 開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ > 両側性ᶜ",
+                      "description_en": "Sinus NFS > Transverse sinus NFS, laceration > Transverse sinus NFS, laceration, bilateral^c > Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, bilateral^c > bilateralᶜ",
+                      "children": []
+                    },
+                    {
+                      "code": "122607.6",
+                      "title_ja": "静脈洞交会",
+                      "title_en": "torcular^a",
+                      "ais_severity": 6,
+                      "hierarchy_level": 5,
+                      "section": "HEAD (cranium and brain)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "vascular"
+                      ],
+                      "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明 > 裂傷・裂創 > 開放性裂傷・裂創 (体外に出血) または部分欠損ᵃ > 静脈洞交会",
+                      "description_en": "Sinus NFS > Transverse sinus NFS, laceration > Transverse sinus NFS, laceration, bilateral^c > Transverse sinus NFS, open laceration (bleeding externally) or segmental loss^e, bilateral^c > torcular^a",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "122606.4",
+                  "title_ja": "血栓症; 閉塞",
+                  "title_en": "thrombosis ; occlusion, bilateral^c",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "laceration",
+                    "vascular",
+                    "nfs"
+                  ],
+                  "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明 > 裂傷・裂創 > 血栓症; 閉塞",
+                  "description_en": "Sinus NFS > Transverse sinus NFS, laceration > Transverse sinus NFS, laceration, bilateral^c > thrombosis ; occlusion, bilateral^c",
+                  "children": [
+                    {
+                      "code": "122608.5",
+                      "title_ja": "両側性ᶜ",
+                      "title_en": "bilateralᶜ",
+                      "ais_severity": 5,
+                      "hierarchy_level": 5,
+                      "section": "HEAD (cranium and brain)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "laceration",
+                        "vascular",
+                        "nfs"
+                      ],
+                      "description_ja": "静脈洞 詳細不明ᵈ > 横静脈洞 詳細不明 > 裂傷・裂創 > 血栓症; 閉塞 > 両側性ᶜ",
+                      "description_en": "Sinus NFS > Transverse sinus NFS, laceration > Transverse sinus NFS, laceration, bilateral^c > thrombosis ; occlusion, bilateral^c > bilateralᶜ",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "122399.3",
+      "title_ja": "静脈 詳細不明",
+      "title_en": null,
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "vascular",
+        "nfs"
+      ],
+      "description_ja": "静脈 詳細不明",
+      "description_en": "",
+      "children": [
+        {
+          "code": "122599.3",
+          "title_ja": "主要な静脈 [ガレン, ラーベ, トロラード, ローランド, 内大脳静脈を含む]",
+          "title_en": null,
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "静脈 詳細不明 > 主要な静脈 [ガレン, ラーベ, トロラード, ローランド, 内大脳静脈を含む]",
+          "description_en": " > ",
+          "children": [
+            {
+              "code": "122502.4",
+              "title_ja": "裂傷・裂創",
+              "title_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, laceration",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "静脈 詳細不明 > 主要な静脈 [ガレン, ラーベ, トロラード, ローランド, 内大脳静脈を含む] > 裂傷・裂創",
+              "description_en": " >  > Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, laceration",
+              "children": []
+            },
+            {
+              "code": "122504.3",
+              "title_ja": "血栓症; 閉塞",
+              "title_en": "Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, thrombosis ; occlusion",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "静脈 詳細不明 > 主要な静脈 [ガレン, ラーベ, トロラード, ローランド, 内大脳静脈を含む] > 血栓症; 閉塞",
+              "description_en": " >  > Vein, major NFS^a [includes Galen, Labbe, Trolard, Rosenthal or internal cerebral]^d, thrombosis ; occlusion",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "122799.3",
+          "title_ja": "その他の静脈 詳細不明 [名称があっても主要でない]",
+          "title_en": null,
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "vascular",
+            "nfs"
+          ],
+          "description_ja": "静脈 詳細不明 > その他の静脈 詳細不明 [名称があっても主要でない]",
+          "description_en": " > ",
+          "children": [
+            {
+              "code": "122702.4",
+              "title_ja": "裂傷・裂創",
+              "title_en": "Vein, non-major NFS^a [any named vein that is not major], laceration^a",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "静脈 詳細不明 > その他の静脈 詳細不明 [名称があっても主要でない] > 裂傷・裂創",
+              "description_en": " >  > Vein, non-major NFS^a [any named vein that is not major], laceration^a",
+              "children": []
+            },
+            {
+              "code": "122704.3",
+              "title_ja": "血栓症; 閉塞",
+              "title_en": "Vein, non-major NFS^a [any named vein that is not major], thrombosis ; occlusion^a",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "vascular",
+                "nfs"
+              ],
+              "description_ja": "静脈 詳細不明 > その他の静脈 詳細不明 [名称があっても主要でない] > 血栓症; 閉塞",
+              "description_en": " >  > Vein, non-major NFS^a [any named vein that is not major], thrombosis ; occlusion^a",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "130299.2",
+      "title_ja": "脳神経 詳細不明",
+      "title_en": "Cranial nerve NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NERVES, CRANIAL",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "脳神経 詳細不明",
+      "description_en": "Cranial nerve NFS",
+      "children": [
+        {
+          "code": "130202.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NERVES, CRANIAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "脳神経 詳細不明 > 挫傷",
+          "description_en": "Cranial nerve NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "130204.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NERVES, CRANIAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "脳神経 詳細不明 > 裂傷・裂創",
+          "description_en": "Cranial nerve NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "130499.2",
+      "title_ja": "I (嗅神経, 嗅覚路) 詳細不明",
+      "title_en": "I (Olfactory nerve, tract) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NERVES, CRANIAL",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "I (嗅神経, 嗅覚路) 詳細不明",
+      "description_en": "I (Olfactory nerve, tract) NFS",
+      "children": [
+        {
+          "code": "130402.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NERVES, CRANIAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "I (嗅神経, 嗅覚路) 詳細不明 > 挫傷",
+          "description_en": "I (Olfactory nerve, tract) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "130404.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NERVES, CRANIAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "I (嗅神経, 嗅覚路) 詳細不明 > 裂傷・裂創",
+          "description_en": "I (Olfactory nerve, tract) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "130699.2",
+      "title_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む]",
+      "title_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "NERVES, CRANIAL",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む]",
+      "description_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts]",
+      "children": [
+        {
+          "code": "130602.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "NERVES, CRANIAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む] > 挫傷",
+          "description_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts] > contusion",
+          "children": [
+            {
+              "code": "130604.2",
+              "title_ja": "両側",
+              "title_en": "bilateral",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "NERVES, CRANIAL",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む] > 挫傷 > 両側",
+              "description_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts] > contusion > bilateral",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "130606.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む] > 裂傷・裂創",
+          "description_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts] > laceration",
+          "children": [
+            {
+              "code": "130608.2",
+              "title_ja": "両側",
+              "title_en": "bilateral",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "NERVES, CRANIAL",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "II (視神経－頭蓋内と視神経管内) 詳細不明 [視交叉と視索を含む] > 裂傷・裂創 > 両側",
+              "description_en": "II (Optic nerve-intracranial and intracanalicular segments) NFS [includes chiasm and tracts] > laceration > bilateral",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "130899.2",
+      "title_ja": "III (動眼神経) 詳細不明",
+      "title_en": "III (Oculomotor nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": "III (動眼神経) 詳細不明",
+      "description_en": "III (Oculomotor nerve) NFS",
+      "children": [
+        {
+          "code": "130802.2",
+          "title_ja": "挫傷または圧迫 [テント切痕ヘルニアによる損傷を含む]",
+          "title_en": "contusion or compression [includes injury due to transtentorial herniation]",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration",
+            "contusion"
+          ],
+          "description_ja": "III (動眼神経) 詳細不明 > 挫傷または圧迫 [テント切痕ヘルニアによる損傷を含む]",
+          "description_en": "III (Oculomotor nerve) NFS > contusion or compression [includes injury due to transtentorial herniation]",
+          "children": []
+        },
+        {
+          "code": "130804.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "III (動眼神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "III (Oculomotor nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "131099.2",
+      "title_ja": "IV (滑車神経) 詳細不明",
+      "title_en": "IV (Trochlear nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": "IV (滑車神経) 詳細不明",
+      "description_en": "IV (Trochlear nerve) NFS",
+      "children": [
+        {
+          "code": "131002.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "IV (滑車神経) 詳細不明 > 挫傷",
+          "description_en": "IV (Trochlear nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "131004.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "IV (滑車神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "IV (Trochlear nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "131299.2",
+      "title_ja": "V (三叉神経) 詳細不明",
+      "title_en": "V (Trigeminal nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": "V (三叉神経) 詳細不明",
+      "description_en": "V (Trigeminal nerve) NFS",
+      "children": [
+        {
+          "code": "131202.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "V (三叉神経) 詳細不明 > 挫傷",
+          "description_en": "V (Trigeminal nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "131204.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "V (三叉神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "V (Trigeminal nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "131499.2",
+      "title_ja": "VI (外転神経) 詳細不明",
+      "title_en": "VI (Abducens nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": "VI (外転神経) 詳細不明",
+      "description_en": "VI (Abducens nerve) NFS",
+      "children": [
+        {
+          "code": "131402.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "VI (外転神経) 詳細不明 > 挫傷",
+          "description_en": "VI (Abducens nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "131404.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "VI (外転神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "VI (Abducens nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "131699.2",
+      "title_ja": "VII (顔面神経) 詳細不明",
+      "title_en": "VII (Facial nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": "VII (顔面神経) 詳細不明",
+      "description_en": "VII (Facial nerve) NFS",
+      "children": [
+        {
+          "code": "131602.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration",
+            "contusion"
+          ],
+          "description_ja": "VII (顔面神経) 詳細不明 > 挫傷",
+          "description_en": "VII (Facial nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "131604.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "VII (顔面神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "VII (Facial nerve) NFS > laceration",
+          "children": [
+            {
+              "code": "131605.3",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "VII (顔面神経) 詳細不明 > 裂傷・裂創 > 両側",
+              "description_en": "VII (Facial nerve) NFS > laceration > bilateralᶜ",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "131899.2",
+      "title_ja": "VIII (前庭・蝸牛神経) 詳細不明 [聴神経, 前庭神経を含む]",
+      "title_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves]",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "contusion",
+        "nfs"
+      ],
+      "description_ja": "VIII (前庭・蝸牛神経) 詳細不明 [聴神経, 前庭神経を含む]",
+      "description_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves]",
+      "children": [
+        {
+          "code": "131802.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "VIII (前庭・蝸牛神経) 詳細不明 [聴神経, 前庭神経を含む] > 挫傷",
+          "description_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves] > contusion",
+          "children": []
+        },
+        {
+          "code": "131804.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "VIII (前庭・蝸牛神経) 詳細不明 [聴神経, 前庭神経を含む] > 裂傷・裂創",
+          "description_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves] > laceration",
+          "children": [
+            {
+              "code": "131806.3",
+              "title_ja": "両側",
+              "title_en": "bilateralᶜ",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration"
+              ],
+              "description_ja": "VIII (前庭・蝸牛神経) 詳細不明 [聴神経, 前庭神経を含む] > 裂傷・裂創 > 両側",
+              "description_en": "VIII (Vestibulocochlear nerve) NFS [includes auditory, acoustic and vestibular nerves] > laceration > bilateralᶜ",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "132099.2",
+      "title_ja": "IX (舌咽神経) 詳細不明",
+      "title_en": "IX (Glossopharyngeal nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "IX (舌咽神経) 詳細不明",
+      "description_en": "IX (Glossopharyngeal nerve) NFS",
+      "children": [
+        {
+          "code": "132002.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "IX (舌咽神経) 詳細不明 > 挫傷",
+          "description_en": "IX (Glossopharyngeal nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "132004.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "IX (舌咽神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "IX (Glossopharyngeal nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "132299.2",
+      "title_ja": "X (迷走神経) 詳細不明 [頸部, 胸郭, 腹部における損傷を除く]",
+      "title_en": "X (Vagus nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "X (迷走神経) 詳細不明 [頸部, 胸郭, 腹部における損傷を除く]",
+      "description_en": "X (Vagus nerve) NFS",
+      "children": [
+        {
+          "code": "132202.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "X (迷走神経) 詳細不明 [頸部, 胸郭, 腹部における損傷を除く] > 挫傷",
+          "description_en": "X (Vagus nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "132204.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "X (迷走神経) 詳細不明 [頸部, 胸郭, 腹部における損傷を除く] > 裂傷・裂創",
+          "description_en": "X (Vagus nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "132499.2",
+      "title_ja": "XI (副神経) 詳細不明",
+      "title_en": "XI (Spinal accessory nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "XI (副神経) 詳細不明",
+      "description_en": "XI (Spinal accessory nerve) NFS",
+      "children": [
+        {
+          "code": "132402.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "XI (副神経) 詳細不明 > 挫傷",
+          "description_en": "XI (Spinal accessory nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "132404.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "XI (副神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "XI (Spinal accessory nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "132699.2",
+      "title_ja": "XII (舌下神経) 詳細不明",
+      "title_en": "XII (Hypoglossal nerve) NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "XII (舌下神経) 詳細不明",
+      "description_en": "XII (Hypoglossal nerve) NFS",
+      "children": [
+        {
+          "code": "132602.2",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "XII (舌下神経) 詳細不明 > 挫傷",
+          "description_en": "XII (Hypoglossal nerve) NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "132604.2",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "XII (舌下神経) 詳細不明 > 裂傷・裂創",
+          "description_en": "XII (Hypoglossal nerve) NFS > laceration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "140299.5",
+      "title_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明",
+      "title_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS",
+      "ais_severity": 5,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明",
+      "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS",
+      "children": [
+        {
+          "code": "140202.5",
+          "title_ja": "圧迫 [テント切痕 (鉤回) ヘルニア, 小脳扁桃ヘルニアを含む]",
+          "title_en": "compression [includes transtentorial (uncal) or cerebellar tonsillar herniation]",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 圧迫 [テント切痕 (鉤回) ヘルニア, 小脳扁桃ヘルニアを含む]",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > compression [includes transtentorial (uncal) or cerebellar tonsillar herniation]",
+          "children": []
+        },
+        {
+          "code": "140204.5",
+          "title_ja": "挫傷",
+          "title_en": "contusion",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 挫傷",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > contusion",
+          "children": []
+        },
+        {
+          "code": "140208.5",
+          "title_ja": "脳梗塞",
+          "title_en": "infarction",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 脳梗塞",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > infarction",
+          "children": []
+        },
+        {
+          "code": "140210.5",
+          "title_ja": "出血を含む損傷",
+          "title_en": "injury involving hemorrhage",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 出血を含む損傷",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > injury involving hemorrhage",
+          "children": []
+        },
+        {
+          "code": "140212.6",
+          "title_ja": "裂傷・裂創",
+          "title_en": "laceration",
+          "ais_severity": 6,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 裂傷・裂創",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > laceration",
+          "children": []
+        },
+        {
+          "code": "140214.6",
+          "title_ja": "高度損傷 (脳挫滅型損傷)",
+          "title_en": "massive destruction (crush-type injury)",
+          "ais_severity": 6,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "crush"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 高度損傷 (脳挫滅型損傷)",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > massive destruction (crush-type injury)",
+          "children": []
+        },
+        {
+          "code": "140216.6",
+          "title_ja": "穿通損傷",
+          "title_en": "penetrating injury",
+          "ais_severity": 6,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "penetrating"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 穿通損傷",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > penetrating injury",
+          "children": []
+        },
+        {
+          "code": "140218.6",
+          "title_ja": "離断",
+          "title_en": "transection",
+          "ais_severity": 6,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "amputation"
+          ],
+          "description_ja": "脳幹 [視床下部, 延髄, 中脳, 橋] 詳細不明 > 離断",
+          "description_en": "Brain stem [hypothalamus, medulla, midbrain, pons] NFS > transection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "140499.3",
+      "title_ja": "小脳 詳細不明",
+      "title_en": "Cerebellum NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "小脳 詳細不明",
+      "description_en": "Cerebellum NFS",
+      "children": [
+        {
+          "code": "140402.3",
+          "title_ja": "挫傷, 1カ所でもそれ以上でも, 詳細不明 [損傷周囲の浮腫を含む]",
+          "title_en": "contusion, single or multiple, NFS [include perilesional edema for size]",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion",
+            "edema",
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 挫傷, 1カ所でもそれ以上でも, 詳細不明 [損傷周囲の浮腫を含む]",
+          "description_en": "Cerebellum NFS > contusion, single or multiple, NFS [include perilesional edema for size]",
+          "children": [
+            {
+              "code": "140407.2",
+              "title_ja": "微小 ; 直径1 cm未満",
+              "title_en": "tiny ; < 1cm diameter",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "contusion",
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 挫傷, 1カ所でもそれ以上でも, 詳細不明 [損傷周囲の浮腫を含む] > 微小 ; 直径1 cm未満",
+              "description_en": "Cerebellum NFS > contusion, single or multiple, NFS [include perilesional edema for size] > tiny ; < 1cm diameter",
+              "children": []
+            },
+            {
+              "code": "140403.3",
+              "title_ja": "小 ; 表在性 ; 15ml以下 ; 直径1 〜 3 cm",
+              "title_en": "small ; superficial ; ≤15cc ; 1-3cm diameter",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "contusion",
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 挫傷, 1カ所でもそれ以上でも, 詳細不明 [損傷周囲の浮腫を含む] > 小 ; 表在性 ; 15ml以下 ; 直径1 〜 3 cm",
+              "description_en": "Cerebellum NFS > contusion, single or multiple, NFS [include perilesional edema for size] > small ; superficial ; ≤15cc ; 1-3cm diameter",
+              "children": []
+            },
+            {
+              "code": "140404.4",
+              "title_ja": "大 ; 15〜30ml ; 直径3 cmを超える",
+              "title_en": "large ; 15-30cc ; >3cm diameter",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "contusion",
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 挫傷, 1カ所でもそれ以上でも, 詳細不明 [損傷周囲の浮腫を含む] > 大 ; 15〜30ml ; 直径3 cmを超える",
+              "description_en": "Cerebellum NFS > contusion, single or multiple, NFS [include perilesional edema for size] > large ; 15-30cc ; >3cm diameter",
+              "children": []
+            },
+            {
+              "code": "140405.5",
+              "title_ja": "広範囲 ; 大量 ; 合計30mlを超える",
+              "title_en": "extensive ; massive ; total volume >30cc",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "contusion",
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 挫傷, 1カ所でもそれ以上でも, 詳細不明 [損傷周囲の浮腫を含む] > 広範囲 ; 大量 ; 合計30mlを超える",
+              "description_en": "Cerebellum NFS > contusion, single or multiple, NFS [include perilesional edema for size] > extensive ; massive ; total volume >30cc",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140410.3",
+          "title_ja": "血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。",
+          "title_en": "hematoma (hemorrhage) NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hematoma",
+            "hemorrhage",
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。",
+          "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS",
+          "children": [
+            {
+              "code": "140414.3",
+              "title_ja": "硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+              "title_en": "epidural or extradural NFS [include perilesional edema for size]",
+              "ais_severity": 3,
+              "hierarchy_level": 4,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+              "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > epidural or extradural NFS [include perilesional edema for size]",
+              "children": []
+            },
+            {
+              "code": "140416.2",
+              "title_ja": "微小; 厚さが0.6cm未満ᵃ",
+              "title_en": "tiny ; <0.6cm thick^a",
+              "ais_severity": 2,
+              "hierarchy_level": 4,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 微小; 厚さが0.6cm未満ᵃ",
+              "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > tiny ; <0.6cm thick^a",
+              "children": []
+            },
+            {
+              "code": "140418.4",
+              "title_ja": "小; 中程度; 皮質下30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+              "title_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+              "ais_severity": 4,
+              "hierarchy_level": 4,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 小; 中程度; 皮質下30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+              "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+              "children": []
+            },
+            {
+              "code": "140422.5",
+              "title_ja": "大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+              "title_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+              "ais_severity": 5,
+              "hierarchy_level": 4,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+              "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+              "children": []
+            },
+            {
+              "code": "140426.3",
+              "title_ja": "実質内と皮質下を含む小脳内 詳細不明 [損傷周囲の浮腫を含む]",
+              "title_en": "intracerebellar including petechial and subcortical NFS [include perilesional edema for size]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 実質内と皮質下を含む小脳内 詳細不明 [損傷周囲の浮腫を含む]",
+              "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > intracerebellar including petechial and subcortical NFS [include perilesional edema for size]",
+              "children": [
+                {
+                  "code": "140428.2",
+                  "title_ja": "微小; 厚さが0.6cm未満 [画像診断による剪断損壊を含む]ᵃ",
+                  "title_en": "tiny ; <0.6cm diameter [includes radiographic “shearing” lesions]^a",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 実質内と皮質下を含む小脳内 詳細不明 [損傷周囲の浮腫を含む] > 微小; 厚さが0.6cm未満 [画像診断による剪断損壊を含む]ᵃ",
+                  "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > intracerebellar including petechial and subcortical NFS [include perilesional edema for size] > tiny ; <0.6cm diameter [includes radiographic “shearing” lesions]^a",
+                  "children": []
+                },
+                {
+                  "code": "140430.4",
+                  "title_ja": "小; 15ml以下; 直径0.6～3cm",
+                  "title_en": "small ; ≤15cc ; 0.6–3cm diameter",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 実質内と皮質下を含む小脳内 詳細不明 [損傷周囲の浮腫を含む] > 小; 15ml以下; 直径0.6～3cm",
+                  "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > intracerebellar including petechial and subcortical NFS [include perilesional edema for size] > small ; ≤15cc ; 0.6–3cm diameter",
+                  "children": []
+                },
+                {
+                  "code": "140434.5",
+                  "title_ja": "大; 15mlを超える; 直径3cmを超える",
+                  "title_en": "large ; >15cc ; >3cm diameter",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 実質内と皮質下を含む小脳内 詳細不明 [損傷周囲の浮腫を含む] > 大; 15mlを超える; 直径3cmを超える",
+                  "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > intracerebellar including petechial and subcortical NFS [include perilesional edema for size] > large ; >15cc ; >3cm diameter",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "140438.3",
+              "title_ja": "硬膜下 詳細不明",
+              "title_en": "subdural NFS",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 硬膜下 詳細不明",
+              "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > subdural NFS",
+              "children": [
+                {
+                  "code": "140440.2",
+                  "title_ja": "微小; 厚さが0.6cm未満ᵃ",
+                  "title_en": "tiny ; <0.6cm thick^a",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 硬膜下 詳細不明 > 微小; 厚さが0.6cm未満ᵃ",
+                  "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > subdural NFS > tiny ; <0.6cm thick^a",
+                  "children": []
+                },
+                {
+                  "code": "140442.4",
+                  "title_ja": "小; 中程度; 30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+                  "title_en": "small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 硬膜下 詳細不明 > 小; 中程度; 30ml以下 (10歳以下では15ml以下); 厚さが0.6～1cm",
+                  "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > subdural NFS > small ; moderate ; ≤30cc or ≤15cc if ≤age 10 ; 0.6–1cm thick",
+                  "children": []
+                },
+                {
+                  "code": "140446.5",
+                  "title_ja": "大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+                  "title_en": "large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "小脳 詳細不明 > 血腫 (出血) 詳細不明 “硬膜外” “硬膜下” などの追加記載がない限り, 実質外のものとしてこのコードを選択する。 > 硬膜下 詳細不明 > 大; 広範囲; 大量; 30mlを超える (10歳以下では15mlを超える); 厚さが1cmを超える",
+                  "description_en": "Cerebellum NFS > hematoma (hemorrhage) NFS > subdural NFS > large ; massive ; extensive ; >30cc or >15cc if ≤age 10 ; >1cm thick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "140474.3",
+          "title_ja": "裂傷・裂創 [穿通外傷によるものは除く] 詳細不明ᵉ",
+          "title_en": "laceration [not from penetrating injury] NFS^e",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 裂傷・裂創 [穿通外傷によるものは除く] 詳細不明ᵉ",
+          "description_en": "Cerebellum NFS > laceration [not from penetrating injury] NFS^e",
+          "children": [
+            {
+              "code": "140473.3",
+              "title_ja": "長さまたは深さが2cm以下",
+              "title_en": "≤2cm length or depth",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration",
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 裂傷・裂創 [穿通外傷によるものは除く] 詳細不明ᵉ > 長さまたは深さが2cm以下",
+              "description_en": "Cerebellum NFS > laceration [not from penetrating injury] NFS^e > ≤2cm length or depth",
+              "children": []
+            },
+            {
+              "code": "140472.4",
+              "title_ja": "長さまたは深さが2cmを超える",
+              "title_en": ">2cm length or depth",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration",
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 裂傷・裂創 [穿通外傷によるものは除く] 詳細不明ᵉ > 長さまたは深さが2cmを超える",
+              "description_en": "Cerebellum NFS > laceration [not from penetrating injury] NFS^e > >2cm length or depth",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140478.3",
+          "title_ja": "穿通性損傷 詳細不明ᵉ",
+          "title_en": "penetrating injury NFSᵉ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 穿通性損傷 詳細不明ᵉ",
+          "description_en": "Cerebellum NFS > penetrating injury NFSᵉ",
+          "children": [
+            {
+              "code": "140477.3",
+              "title_ja": "深さが2 cm以下",
+              "title_en": "≤2cm deep",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 穿通性損傷 詳細不明ᵉ > 深さが2 cm以下",
+              "description_en": "Cerebellum NFS > penetrating injury NFSᵉ > ≤2cm deep",
+              "children": []
+            },
+            {
+              "code": "140476.5",
+              "title_ja": "深さが2 cmを超える",
+              "title_en": ">2cm deep",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "小脳 詳細不明 > 穿通性損傷 詳細不明ᵉ > 深さが2 cmを超える",
+              "description_en": "Cerebellum NFS > penetrating injury NFSᵉ > >2cm deep",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140489.9",
+          "title_ja": "診断・治療や解剖によって得られたものではない頭部外傷に関連する所見 詳細不明ᶠ",
+          "title_en": "trauma-associated findings not related either to interven-tion or to anatomically-described head injury NFSᶠ",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 診断・治療や解剖によって得られたものではない頭部外傷に関連する所見 詳細不明ᶠ",
+          "description_en": "Cerebellum NFS > trauma-associated findings not related either to interven-tion or to anatomically-described head injury NFSᶠ",
+          "children": []
+        },
+        {
+          "code": "140450.3",
+          "title_ja": "脳腫脹／脳浮腫",
+          "title_en": "brain swelling/edema NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "edema",
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 脳腫脹／脳浮腫",
+          "description_en": "Cerebellum NFS > brain swelling/edema NFS",
+          "children": []
+        },
+        {
+          "code": "140458.3",
+          "title_ja": "脳梗塞 (急性のもの で外傷による血管閉塞を原因とする)",
+          "title_en": "infarction (acute due to traumatic vascular occlusion)",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 脳梗塞 (急性のもの で外傷による血管閉塞を原因とする)",
+          "description_en": "Cerebellum NFS > infarction (acute due to traumatic vascular occlusion)",
+          "children": []
+        },
+        {
+          "code": "140462.3",
+          "title_ja": "頭部外傷と直接関連する虚血性脳障害",
+          "title_en": "ischemic brain damage directly related to head trauma",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "小脳 詳細不明 > 頭部外傷と直接関連する虚血性脳障害",
+          "description_en": "Cerebellum NFS > ischemic brain damage directly related to head trauma",
+          "children": []
+        },
+        {
+          "code": "140466.2",
+          "title_ja": "くも膜下出血",
+          "title_en": "subarachnoid hemorrhage",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "小脳 詳細不明 > くも膜下出血",
+          "description_en": "Cerebellum NFS > subarachnoid hemorrhage",
+          "children": []
+        },
+        {
+          "code": "140470.2",
+          "title_ja": "軟膜下出血",
+          "title_en": "subpial hemorrhage",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "小脳 詳細不明 > 軟膜下出血",
+          "description_en": "Cerebellum NFS > subpial hemorrhage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "140699.3",
+      "title_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む]",
+      "title_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”.",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "頭部（頭蓋と脳）",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む]",
+      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”.",
+      "children": [
+        {
+          "code": "140602.3",
+          "title_ja": "挫傷 詳細不明 [損傷周囲の浮腫を含む]",
+          "title_en": "contusion NFS [include perilesional edema for size]",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "頭部（頭蓋と脳）",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "contusion",
+            "edema",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む]",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size]",
+          "children": [
+            {
+              "code": "140604.3",
+              "title_ja": "単発性 詳細不明",
+              "title_en": "single NFS",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頭部（頭蓋と脳）",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 単発性 詳細不明",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > single NFS",
+              "children": [
+                {
+                  "code": "140605.2",
+                  "title_ja": "微小; 直径1 cm未満ᵃ",
+                  "title_en": "tiny ; <1cm diameter",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 単発性 詳細不明 > 微小; 直径1 cm未満ᵃ",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > single NFS > tiny ; <1cm diameter",
+                  "children": []
+                },
+                {
+                  "code": "140606.3",
+                  "title_ja": "小; 表在性; 30ml以下 (10歳以下では15ml以下); 直径1～4cm (10歳以下では1～2cm); 正中偏位が5 mm以下",
+                  "title_en": "small ; superficial ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or 1-2cm diameter if ≤age 10 ; midline shift ≤5mm",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 単発性 詳細不明 > 小; 表在性; 30ml以下 (10歳以下では15ml以下); 直径1～4cm (10歳以下では1～2cm); 正中偏位が5 mm以下",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > single NFS > small ; superficial ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or 1-2cm diameter if ≤age 10 ; midline shift ≤5mm",
+                  "children": []
+                },
+                {
+                  "code": "140608.4",
+                  "title_ja": "大; 深在性; 30～50ml (10歳以下では15～30ml); 直径4cmを超える (10歳以下では2～4cm); 正中偏位が5mmを超える",
+                  "title_en": "large ; deep ; 30-50cc or 15-30cc if ≤age 10 ; > 4cm diameter or 2-4cm diameter if ≤age 10 ; midline shift >5mm",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 単発性 詳細不明 > 大; 深在性; 30～50ml (10歳以下では15～30ml); 直径4cmを超える (10歳以下では2～4cm); 正中偏位が5mmを超える",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > single NFS > large ; deep ; 30-50cc or 15-30cc if ≤age 10 ; > 4cm diameter or 2-4cm diameter if ≤age 10 ; midline shift >5mm",
+                  "children": []
+                },
+                {
+                  "code": "140610.5",
+                  "title_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+                  "title_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 単発性 詳細不明 > 広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > single NFS > extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "140611.3",
+              "title_ja": "多発性 詳細不明",
+              "title_en": "multiple NFS",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頭部（頭蓋と脳）",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性 詳細不明",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple NFS",
+              "children": []
+            },
+            {
+              "code": "140612.3",
+              "title_ja": "多発性, 片側 詳細不明",
+              "title_en": "multiple, on same side but NFS",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頭部（頭蓋と脳）",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 片側 詳細不明",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, on same side but NFS",
+              "children": [
+                {
+                  "code": "140613.2",
+                  "title_ja": "微小; いずれも直径1 cm未満ᵃ",
+                  "title_en": "tiny ; each <1cm diameter",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 片側 詳細不明 > 微小; いずれも直径1 cm未満ᵃ",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, on same side but NFS > tiny ; each <1cm diameter",
+                  "children": []
+                },
+                {
+                  "code": "140614.3",
+                  "title_ja": "小; 表在性; 合計30ml以下 (10歳以下では15ml以下); 正中偏位が5 mm以下",
+                  "title_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10 ; midline shift ≤5mm",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 片側 詳細不明 > 小; 表在性; 合計30ml以下 (10歳以下では15ml以下); 正中偏位が5 mm以下",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, on same side but NFS > small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10 ; midline shift ≤5mm",
+                  "children": []
+                },
+                {
+                  "code": "140616.4",
+                  "title_ja": "大; 合計30～50ml (10歳以下では15～30ml); 正中偏位が5 mmを超える",
+                  "title_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10 ; midline shift >5mm",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 片側 詳細不明 > 大; 合計30～50ml (10歳以下では15～30ml); 正中偏位が5 mmを超える",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, on same side but NFS > large ; total volume 30-50cc or 15-30cc if ≤age 10 ; midline shift >5mm",
+                  "children": []
+                },
+                {
+                  "code": "140618.5",
+                  "title_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+                  "title_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 片側 詳細不明 > 広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, on same side but NFS > extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "140620.3",
+              "title_ja": "多発性, 両側 詳細不明",
+              "title_en": "multiple, at least one on each side but NFS",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "頭部（頭蓋と脳）",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 両側 詳細不明",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, at least one on each side but NFS",
+              "children": [
+                {
+                  "code": "140621.2",
+                  "title_ja": "微小; いずれも直径1 cm未満ᵃ",
+                  "title_en": "tiny ; each <1cm diameter",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 両側 詳細不明 > 微小; いずれも直径1 cm未満ᵃ",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, at least one on each side but NFS > tiny ; each <1cm diameter",
+                  "children": []
+                },
+                {
+                  "code": "140622.3",
+                  "title_ja": "小; 表在性; 合計30ml以下 (10歳以下では15ml以下)",
+                  "title_en": "small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 両側 詳細不明 > 小; 表在性; 合計30ml以下 (10歳以下では15ml以下)",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, at least one on each side but NFS > small ; superficial ; total volume ≤30cc or ≤15cc if ≤age 10",
+                  "children": []
+                },
+                {
+                  "code": "140624.4",
+                  "title_ja": "大; 合計30～50ml (10歳以下では15～30ml)",
+                  "title_en": "large ; total volume 30-50cc or 15-30cc if ≤age 10",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 両側 詳細不明 > 大; 合計30～50ml (10歳以下では15～30ml)",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, at least one on each side but NFS > large ; total volume 30-50cc or 15-30cc if ≤age 10",
+                  "children": []
+                },
+                {
+                  "code": "140626.5",
+                  "title_ja": "広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+                  "title_en": "extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "頭部（頭蓋と脳）",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 挫傷 詳細不明 [損傷周囲の浮腫を含む] > 多発性, 両側 詳細不明 > 広範囲; 大量; 合計50mlを超える (10歳以下では30mlを超える)",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > contusion NFS [include perilesional edema for size] > multiple, at least one on each side but NFS > extensive ; massive ; total volume >50cc or > 30cc if ≤age 10",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "140628.4",
+          "title_ja": "びまん性軸索損傷 詳細不明 [6時間を超える昏睡か、もしくは6時間以内の死亡の場合は病理学的診断が必要]",
+          "title_en": "diffuse axonal injury (DAI) NFS [requires coma >6 hours or, if fatal within 6 hours, diagnosis is made by pathological examination]",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > びまん性軸索損傷 詳細不明 [6時間を超える昏睡か、もしくは6時間以内の死亡の場合は病理学的診断が必要]",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > diffuse axonal injury (DAI) NFS [requires coma >6 hours or, if fatal within 6 hours, diagnosis is made by pathological examination]",
+          "children": [
+            {
+              "code": "140625.4",
+              "title_ja": "びまん性軸索損傷 大脳白質か基底核に限局したもの",
+              "title_en": "DAI confined to white matter or basal ganglia",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > びまん性軸索損傷 詳細不明 [6時間を超える昏睡か、もしくは6時間以内の死亡の場合は病理学的診断が必要] > びまん性軸索損傷 大脳白質か基底核に限局したもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > diffuse axonal injury (DAI) NFS [requires coma >6 hours or, if fatal within 6 hours, diagnosis is made by pathological examination] > DAI confined to white matter or basal ganglia",
+              "children": []
+            },
+            {
+              "code": "140627.5",
+              "title_ja": "びまん性軸索損傷 脳梁に及ぶもの",
+              "title_en": "DAI involving corpus callosum",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > びまん性軸索損傷 詳細不明 [6時間を超える昏睡か、もしくは6時間以内の死亡の場合は病理学的診断が必要] > びまん性軸索損傷 脳梁に及ぶもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > diffuse axonal injury (DAI) NFS [requires coma >6 hours or, if fatal within 6 hours, diagnosis is made by pathological examination] > DAI involving corpus callosum",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140629.3",
+          "title_ja": "血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。",
+          "title_en": "hematoma (hemorrhage) NFS",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hematoma",
+            "hemorrhage",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hematoma (hemorrhage) NFS",
+          "children": [
+            {
+              "code": "140630.3",
+              "title_ja": "硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+              "title_en": "epidural or extradural NFS [include perilesional edema for size]",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。 > 硬膜外 詳細不明 [損傷周囲の浮腫を含む]",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hematoma (hemorrhage) NFS > epidural or extradural NFS [include perilesional edema for size]",
+              "children": [
+                {
+                  "code": "140631.2",
+                  "title_ja": "微小；厚さ0.6cm未満",
+                  "title_en": "tiny ; <0.6cm thick",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。 > 硬膜外 詳細不明 [損傷周囲の浮腫を含む] > 微小；厚さ0.6cm未満",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hematoma (hemorrhage) NFS > epidural or extradural NFS [include perilesional edema for size] > tiny ; <0.6cm thick",
+                  "children": []
+                },
+                {
+                  "code": "140632.4",
+                  "title_ja": "小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+                  "title_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。 > 硬膜外 詳細不明 [損傷周囲の浮腫を含む] > 小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hematoma (hemorrhage) NFS > epidural or extradural NFS [include perilesional edema for size] > small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+                  "children": [
+                    {
+                      "code": "140634.5",
+                      "title_ja": "両側",
+                      "title_en": "bilateral",
+                      "ais_severity": 5,
+                      "hierarchy_level": 5,
+                      "section": "HEAD (cranium and brain)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "edema",
+                        "nfs"
+                      ],
+                      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。 > 硬膜外 詳細不明 [損傷周囲の浮腫を含む] > 小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm > 両側",
+                      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hematoma (hemorrhage) NFS > epidural or extradural NFS [include perilesional edema for size] > small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick > bilateral",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "140636.5",
+                  "title_ja": "大；大量：広範囲：50mlを超える (10歳以下では25mlを超える)；厚さ1 cmを超える",
+                  "title_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "HEAD (cranium and brain)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫 (出血) 詳細不明。上のコードは脳実質外の血腫であるが、硬膜外血腫あるいは硬膜下血腫と特定できる根拠がない場合に使用する。 > 硬膜外 詳細不明 [損傷周囲の浮腫を含む] > 大；大量：広範囲：50mlを超える (10歳以下では25mlを超える)；厚さ1 cmを超える",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hematoma (hemorrhage) NFS > epidural or extradural NFS [include perilesional edema for size] > large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "140638.3",
+          "title_ja": "血腫(出血) 詳細不明 [損傷周囲の浮腫を含む]",
+          "title_en": "intracerebral NFS [include perilesional edema for size]",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "Cerebrum (continued)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hematoma",
+            "edema",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む]",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size]",
+          "children": [
+            {
+              "code": "140639.2",
+              "title_ja": "微小; 単発性または直径 1cm未満の多発性のものa",
+              "title_en": "tiny ; single or multiple <1cm diameterᵃ",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "Cerebrum (continued)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hematoma",
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 微小; 単発性または直径 1cm未満の多発性のものa",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > tiny ; single or multiple <1cm diameterᵃ",
+              "children": [
+                {
+                  "code": "140642.2",
+                  "title_ja": "点状出血 [放射線学的 “剪断” 損傷を含む]e",
+                  "title_en": "petechial hemorrhage (s) [includes radio-graphic “shearing” lesions]ᵉ",
+                  "ais_severity": 2,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 微小; 単発性または直径 1cm未満の多発性のものa > 点状出血 [放射線学的 “剪断” 損傷を含む]e",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > tiny ; single or multiple <1cm diameterᵃ > petechial hemorrhage (s) [includes radio-graphic “shearing” lesions]ᵉ",
+                  "children": [
+                    {
+                      "code": "140643.2",
+                      "title_ja": "6時間を超える昏睡と関連がないもの",
+                      "title_en": "not associated with coma >6 hours",
+                      "ais_severity": 2,
+                      "hierarchy_level": 5,
+                      "section": "Cerebrum (continued)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "hemorrhage"
+                      ],
+                      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 微小; 単発性または直径 1cm未満の多発性のものa > 点状出血 [放射線学的 “剪断” 損傷を含む]e > 6時間を超える昏睡と関連がないもの",
+                      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > tiny ; single or multiple <1cm diameterᵃ > petechial hemorrhage (s) [includes radio-graphic “shearing” lesions]ᵉ > not associated with coma >6 hours",
+                      "children": []
+                    },
+                    {
+                      "code": "140645.4",
+                      "title_ja": "6時間を超える昏睡と関連があるもの",
+                      "title_en": "associated with coma >6 hours",
+                      "ais_severity": 4,
+                      "hierarchy_level": 5,
+                      "section": "Cerebrum (continued)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "hemorrhage"
+                      ],
+                      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 微小; 単発性または直径 1cm未満の多発性のものa > 点状出血 [放射線学的 “剪断” 損傷を含む]e > 6時間を超える昏睡と関連があるもの",
+                      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > tiny ; single or multiple <1cm diameterᵃ > petechial hemorrhage (s) [includes radio-graphic “shearing” lesions]ᵉ > associated with coma >6 hours",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "140640.4",
+              "title_ja": "小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g",
+              "title_en": "small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "Cerebrum (continued)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ",
+              "children": [
+                {
+                  "code": "140647.3",
+                  "title_ja": "6時間を超える昏睡と関連がないもの",
+                  "title_en": "not associated with coma >6 hours",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g > 6時間を超える昏睡と関連がないもの",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ > not associated with coma >6 hours",
+                  "children": []
+                },
+                {
+                  "code": "140649.4",
+                  "title_ja": "6時間を超える昏睡と関連があるもの",
+                  "title_en": "associated with coma >6 hours",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g > 6時間を超える昏睡と関連があるもの",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ > associated with coma >6 hours",
+                  "children": []
+                },
+                {
+                  "code": "140646.5",
+                  "title_ja": "両側",
+                  "title_en": "bilateral",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "hematoma",
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g > 両側",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ > bilateral",
+                  "children": []
+                },
+                {
+                  "code": "140648.5",
+                  "title_ja": "大; 30mlを超える (10歳以下では15mlを超える); 直径4cmを超える (10歳以下では1cmを超える)",
+                  "title_en": "large ; >30cc or >15cc if ≤age 10 ; >4cm or >1cm diameter if ≤age 10",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "hematoma",
+                    "edema",
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g > 大; 30mlを超える (10歳以下では15mlを超える); 直径4cmを超える (10歳以下では1cmを超える)",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ > large ; >30cc or >15cc if ≤age 10 ; >4cm or >1cm diameter if ≤age 10",
+                  "children": [
+                    {
+                      "code": "140641.5",
+                      "title_ja": "両側 [それぞれ4cmを超える]",
+                      "title_en": "bilateral [each >4cm]ᶜ",
+                      "ais_severity": 5,
+                      "hierarchy_level": 5,
+                      "section": "Cerebrum (continued)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "hematoma",
+                        "edema",
+                        "nfs"
+                      ],
+                      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 小; 30ml以下 (10歳以下では15ml以下); 直径 1～4 cm (10歳以下では 1 cm以下); 皮質下出血e,g > 大; 30mlを超える (10歳以下では15mlを超える); 直径4cmを超える (10歳以下では1cmを超える) > 両側 [それぞれ4cmを超える]",
+                      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > small ; ≤30cc or ≤15cc if ≤age 10 ; 1-4cm diameter or ≤1cm if ≤age 10 ; subcortical hemorrhageᵉ,ᵍ > large ; >30cc or >15cc if ≤age 10 ; >4cm or >1cm diameter if ≤age 10 > bilateral [each >4cm]ᶜ",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "140650.3",
+              "title_ja": "硬膜下 詳細不明",
+              "title_en": "subdural NFS",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "Cerebrum (continued)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 硬膜下 詳細不明",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > subdural NFS",
+              "children": [
+                {
+                  "code": "140651.3",
+                  "title_ja": "微小; 厚さ0.6cm未満 [一側または両側のテントの (硬膜下) 出血を含む]a",
+                  "title_en": "tiny ; <0.6cm thick [includes tentorial (subdural) blood one or both sides]ᵃ",
+                  "ais_severity": 3,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "hemorrhage"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 硬膜下 詳細不明 > 微小; 厚さ0.6cm未満 [一側または両側のテントの (硬膜下) 出血を含む]a",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > subdural NFS > tiny ; <0.6cm thick [includes tentorial (subdural) blood one or both sides]ᵃ",
+                  "children": []
+                },
+                {
+                  "code": "140652.4",
+                  "title_ja": "小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+                  "title_en": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+                  "ais_severity": 4,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 硬膜下 詳細不明 > 小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > subdural NFS > small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+                  "children": [
+                    {
+                      "code": "140654.4",
+                      "title_ja": "両側 [両側とも厚さ0.6~1cm]",
+                      "title_en": "bilateral [both sides 0.6-1cm thick]",
+                      "ais_severity": 4,
+                      "hierarchy_level": 5,
+                      "section": "Cerebrum (continued)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "nfs"
+                      ],
+                      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 硬膜下 詳細不明 > 小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm > 両側 [両側とも厚さ0.6~1cm]",
+                      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > subdural NFS > small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick > bilateral [both sides 0.6-1cm thick]",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "140656.5",
+                  "title_ja": "大; 大量; 広範囲; 50mlを超える (10歳以下では25mlを超える); 厚さ1cmを超える",
+                  "title_en": "large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+                  "ais_severity": 5,
+                  "hierarchy_level": 4,
+                  "section": "Cerebrum (continued)",
+                  "iss_body_region": "head_neck",
+                  "injury_types": [
+                    "nfs"
+                  ],
+                  "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 硬膜下 詳細不明 > 大; 大量; 広範囲; 50mlを超える (10歳以下では25mlを超える); 厚さ1cmを超える",
+                  "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > subdural NFS > large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick",
+                  "children": [
+                    {
+                      "code": "140655.5",
+                      "title_ja": "両側 [少なくとも一側は厚さ1cmを超える]",
+                      "title_en": "bilateral [at least one side >1cm thick]ᶜ",
+                      "ais_severity": 5,
+                      "hierarchy_level": 5,
+                      "section": "Cerebrum (continued)",
+                      "iss_body_region": "head_neck",
+                      "injury_types": [
+                        "nfs"
+                      ],
+                      "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 血腫(出血) 詳細不明 [損傷周囲の浮腫を含む] > 硬膜下 詳細不明 > 大; 大量; 広範囲; 50mlを超える (10歳以下では25mlを超える); 厚さ1cmを超える > 両側 [少なくとも一側は厚さ1cmを超える]",
+                      "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intracerebral NFS [include perilesional edema for size] > subdural NFS > large ; massive ; extensive ; >50cc or >25cc if ≤age 10 ; >1cm thick > bilateral [at least one side >1cm thick]ᶜ",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "140688.3",
+          "title_ja": "裂傷・裂創 詳細不明 [穿通性損傷ではないもの]ᵉ",
+          "title_en": "laceration NFS [not from penetrating injury]ᵉ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "laceration",
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 裂傷・裂創 詳細不明 [穿通性損傷ではないもの]ᵉ",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > laceration NFS [not from penetrating injury]ᵉ",
+          "children": [
+            {
+              "code": "140687.3",
+              "title_ja": "創が2cm以下の長さまたは深さのもの",
+              "title_en": "≤ 2cm length or depth",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration",
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 裂傷・裂創 詳細不明 [穿通性損傷ではないもの]ᵉ > 創が2cm以下の長さまたは深さのもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > laceration NFS [not from penetrating injury]ᵉ > ≤ 2cm length or depth",
+              "children": []
+            },
+            {
+              "code": "140686.4",
+              "title_ja": "創が2cmを超える長さまたは深さのもの",
+              "title_en": "> 2cm length or depth",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "laceration",
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 裂傷・裂創 詳細不明 [穿通性損傷ではないもの]ᵉ > 創が2cmを超える長さまたは深さのもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > laceration NFS [not from penetrating injury]ᵉ > > 2cm length or depth",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140690.3",
+          "title_ja": "穿通性損傷 詳細不明ᵉ",
+          "title_en": "penetrating injury NFSᵉ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "penetrating",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 穿通性損傷 詳細不明ᵉ",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > penetrating injury NFSᵉ",
+          "children": [
+            {
+              "code": "140691.3",
+              "title_ja": "2cm以下の深さのもの",
+              "title_en": "≤ 2cm deep",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 穿通性損傷 詳細不明ᵉ > 2cm以下の深さのもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > penetrating injury NFSᵉ > ≤ 2cm deep",
+              "children": []
+            },
+            {
+              "code": "140692.5",
+              "title_ja": "2cmを超える深さのもの",
+              "title_en": "> 2cm deep",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "penetrating",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 穿通性損傷 詳細不明ᵉ > 2cmを超える深さのもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > penetrating injury NFSᵉ > > 2cm deep",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140689.9",
+          "title_ja": "医療行為や解剖学的記載のある頭部損傷に関係のない外傷に関連した所見 詳細不明ᶠ",
+          "title_en": "trauma-associated findings not related either to intervention or to anatomically-described head injury NFSᶠ",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 医療行為や解剖学的記載のある頭部損傷に関係のない外傷に関連した所見 詳細不明ᶠ",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > trauma-associated findings not related either to intervention or to anatomically-described head injury NFSᶠ",
+          "children": []
+        },
+        {
+          "code": "140660.3",
+          "title_ja": "脳腫脹 詳細不明ʰ",
+          "title_en": "brain swelling NFSʰ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳腫脹 詳細不明ʰ",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain swelling NFSʰ",
+          "children": [
+            {
+              "code": "140662.3",
+              "title_ja": "軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+              "title_en": "mild ; compressed ventricles without compressed brain stem cisterns",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳腫脹 詳細不明ʰ > 軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain swelling NFSʰ > mild ; compressed ventricles without compressed brain stem cisterns",
+              "children": []
+            },
+            {
+              "code": "140664.4",
+              "title_ja": "中等症；脳室と脳幹周囲槽の圧迫がある",
+              "title_en": "moderate ; compressed ventricles and brain stem cisterns",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳腫脹 詳細不明ʰ > 中等症；脳室と脳幹周囲槽の圧迫がある",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain swelling NFSʰ > moderate ; compressed ventricles and brain stem cisterns",
+              "children": []
+            },
+            {
+              "code": "140666.5",
+              "title_ja": "重症；脳室または脳幹周囲槽の消失がある",
+              "title_en": "severe ; absent ventricles or brain stem cisterns",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳腫脹 詳細不明ʰ > 重症；脳室または脳幹周囲槽の消失がある",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain swelling NFSʰ > severe ; absent ventricles or brain stem cisterns",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140668.3",
+          "title_ja": "脳浮腫 詳細不明ʰ",
+          "title_en": "brain edema NFSʰ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "edema",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳浮腫 詳細不明ʰ",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain edema NFSʰ",
+          "children": [
+            {
+              "code": "140670.3",
+              "title_ja": "軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+              "title_en": "mild ; compressed ventricles without compressed brain stem cisterns",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳浮腫 詳細不明ʰ > 軽症；脳室の圧迫はあるが脳幹周囲槽の圧迫はない",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain edema NFSʰ > mild ; compressed ventricles without compressed brain stem cisterns",
+              "children": []
+            },
+            {
+              "code": "140672.4",
+              "title_ja": "中等症；脳室と脳幹周囲槽の圧迫がある",
+              "title_en": "moderate ; compressed ventricles and brain stem cisterns",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳浮腫 詳細不明ʰ > 中等症；脳室と脳幹周囲槽の圧迫がある",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain edema NFSʰ > moderate ; compressed ventricles and brain stem cisterns",
+              "children": []
+            },
+            {
+              "code": "140674.5",
+              "title_ja": "重症；脳室または脳幹周囲槽の消失がある",
+              "title_en": "severe ; absent ventricles or brain stem cisterns",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "edema",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳浮腫 詳細不明ʰ > 重症；脳室または脳幹周囲槽の消失がある",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > brain edema NFSʰ > severe ; absent ventricles or brain stem cisterns",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140701.9",
+          "title_ja": "頭部外傷には直接関係がなく，全身性の低酸素血症や低血圧症，ショックによる二次性の低酸素性あるいは虚血性の脳損傷ᶠ",
+          "title_en": "hypoxic or ischemic brain damage secondary to systemic hypoxemia, hypotension or shock not directly related to head traumaᶠ",
+          "ais_severity": 9,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 頭部外傷には直接関係がなく，全身性の低酸素血症や低血圧症，ショックによる二次性の低酸素性あるいは虚血性の脳損傷ᶠ",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hypoxic or ischemic brain damage secondary to systemic hypoxemia, hypotension or shock not directly related to head traumaᶠ",
+          "children": [
+            {
+              "code": "140702.9",
+              "title_ja": "24時間を超える昏睡と関連がないものᶠ",
+              "title_en": "not associated with coma >24 hoursᶠ",
+              "ais_severity": 9,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 頭部外傷には直接関係がなく，全身性の低酸素血症や低血圧症，ショックによる二次性の低酸素性あるいは虚血性の脳損傷ᶠ > 24時間を超える昏睡と関連がないものᶠ",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hypoxic or ischemic brain damage secondary to systemic hypoxemia, hypotension or shock not directly related to head traumaᶠ > not associated with coma >24 hoursᶠ",
+              "children": []
+            },
+            {
+              "code": "140703.9",
+              "title_ja": "24時間を超える昏睡と関連があり，初期の脳損傷に続く発するものではないものᶠ；両側性；多発性",
+              "title_en": "associated with coma >24 hours not secondary to primary brain injury ; bilateral ; multifocalᶠ",
+              "ais_severity": 9,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 頭部外傷には直接関係がなく，全身性の低酸素血症や低血圧症，ショックによる二次性の低酸素性あるいは虚血性の脳損傷ᶠ > 24時間を超える昏睡と関連があり，初期の脳損傷に続く発するものではないものᶠ；両側性；多発性",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > hypoxic or ischemic brain damage secondary to systemic hypoxemia, hypotension or shock not directly related to head traumaᶠ > associated with coma >24 hours not secondary to primary brain injury ; bilateral ; multifocalᶠ",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140676.3",
+          "title_ja": "梗塞 [外傷性血管閉塞による急性性のもの]",
+          "title_en": "infarction [acute due to traumatic vascular occlusion]",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 梗塞 [外傷性血管閉塞による急性性のもの]",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > infarction [acute due to traumatic vascular occlusion]",
+          "children": []
+        },
+        {
+          "code": "140678.2",
+          "title_ja": "脳室内出血°",
+          "title_en": "intraventricular hemorrhageᵉ",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hemorrhage"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳室内出血°",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intraventricular hemorrhageᵉ",
+          "children": [
+            {
+              "code": "140675.2",
+              "title_ja": "6時間を超える昏睡と関連がないもの",
+              "title_en": "not associated with coma >6 hours",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳室内出血° > 6時間を超える昏睡と関連がないもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intraventricular hemorrhageᵉ > not associated with coma >6 hours",
+              "children": []
+            },
+            {
+              "code": "140677.4",
+              "title_ja": "6時間を超える昏睡と関連があるもの",
+              "title_en": "associated with coma >6 hours",
+              "ais_severity": 4,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 脳室内出血° > 6時間を超える昏睡と関連があるもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > intraventricular hemorrhageᵉ > associated with coma >6 hours",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140680.3",
+          "title_ja": "頭部外傷に直接起因する虚血性脳損傷°",
+          "title_en": "ischemic brain damage directly related to head traumaᵉ",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 頭部外傷に直接起因する虚血性脳損傷°",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > ischemic brain damage directly related to head traumaᵉ",
+          "children": [
+            {
+              "code": "140681.3",
+              "title_ja": "6時間を超える昏睡と関連がないもの",
+              "title_en": "not associated with coma >6 hours",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 頭部外傷に直接起因する虚血性脳損傷° > 6時間を超える昏睡と関連がないもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > ischemic brain damage directly related to head traumaᵉ > not associated with coma >6 hours",
+              "children": []
+            },
+            {
+              "code": "140683.5",
+              "title_ja": "6時間を超える昏睡と関連があるもの",
+              "title_en": "associated with coma >6 hours",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 頭部外傷に直接起因する虚血性脳損傷° > 6時間を超える昏睡と関連があるもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > ischemic brain damage directly related to head traumaᵉ > associated with coma >6 hours",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140682.3",
+          "title_ja": "頭部外傷に直接起因する気脳症",
+          "title_en": "pneumocephalus directly related to head trauma",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 頭部外傷に直接起因する気脳症",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > pneumocephalus directly related to head trauma",
+          "children": []
+        },
+        {
+          "code": "140693.2",
+          "title_ja": "くも膜下出血 詳細不明°",
+          "title_en": "subarachnoid hemorrhage NFSᵉ",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hemorrhage",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > くも膜下出血 詳細不明°",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > subarachnoid hemorrhage NFSᵉ",
+          "children": [
+            {
+              "code": "140694.2",
+              "title_ja": "6時間を超える昏睡と関連がないもの",
+              "title_en": "not associated with coma >6 hours",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > くも膜下出血 詳細不明° > 6時間を超える昏睡と関連がないもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > subarachnoid hemorrhage NFSᵉ > not associated with coma >6 hours",
+              "children": []
+            },
+            {
+              "code": "140695.3",
+              "title_ja": "6時間を超える昏睡と関連があるもの",
+              "title_en": "associated with coma >6 hours",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > くも膜下出血 詳細不明° > 6時間を超える昏睡と関連があるもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > subarachnoid hemorrhage NFSᵉ > associated with coma >6 hours",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "140696.2",
+          "title_ja": "軟膜下出血 詳細不明°",
+          "title_en": "subpial hemorrhage NFSᵉ",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "HEAD (cranium and brain)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "hemorrhage",
+            "nfs"
+          ],
+          "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 軟膜下出血 詳細不明°",
+          "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > subpial hemorrhage NFSᵉ",
+          "children": [
+            {
+              "code": "140697.2",
+              "title_ja": "6時間を超える昏睡と関連がないもの",
+              "title_en": "not associated with coma >6 hours",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 軟膜下出血 詳細不明° > 6時間を超える昏睡と関連がないもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > subpial hemorrhage NFSᵉ > not associated with coma >6 hours",
+              "children": []
+            },
+            {
+              "code": "140698.3",
+              "title_ja": "6時間を超える昏睡と関連があるもの",
+              "title_en": "associated with coma >6 hours",
+              "ais_severity": 3,
+              "hierarchy_level": 3,
+              "section": "HEAD (cranium and brain)",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "hemorrhage",
+                "nfs"
+              ],
+              "description_ja": "大脳 詳細不明 [基底核, 視床, 被殻, 淡蒼球を含む] > 軟膜下出血 詳細不明° > 6時間を超える昏睡と関連があるもの",
+              "description_en": "Cerebrum NFS [includes basal ganglia, thalamus, putamen, globus pallidius]. Use Cerebrum section for supratentorial, anterior or middle cranial fossa; also use if trauma is vaguely described as “brain injury”. > subpial hemorrhage NFSᵉ > associated with coma >6 hours",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "140799.3",
+      "title_ja": "下垂体損傷",
+      "title_en": "Pituitary injury",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "HEAD (cranium and brain)",
+      "iss_body_region": "head_neck",
+      "injury_types": [],
+      "description_ja": "下垂体損傷",
+      "description_en": "Pituitary injury",
+      "children": []
+    },
+    {
+      "code": "150000.2",
+      "title_ja": "頭蓋骨骨折 詳細不明",
+      "title_en": "Skull fracture NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "SKELETAL",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": "頭蓋骨骨折 詳細不明",
+      "description_en": "Skull fracture NFS",
+      "children": []
+    },
+    {
+      "code": "150200.3",
+      "title_ja": "頭蓋底骨折 詳細不明",
+      "title_en": "Base (basilar) fracture NFS",
+      "ais_severity": 3,
+      "hierarchy_level": 1,
+      "section": "SKELETAL",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": "頭蓋底骨折 詳細不明",
+      "description_en": "Base (basilar) fracture NFS",
+      "children": [
+        {
+          "code": "150202.3",
+          "title_ja": "髄液漏を伴わない",
+          "title_en": "without CSF leak",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "SKELETAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "description_ja": "頭蓋底骨折 詳細不明 > 髄液漏を伴わない",
+          "description_en": "Base (basilar) fracture NFS > without CSF leak",
+          "children": []
+        },
+        {
+          "code": "150204.3",
+          "title_ja": "髄液漏を伴う",
+          "title_en": "with CSF leak",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "SKELETAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "description_ja": "頭蓋底骨折 詳細不明 > 髄液漏を伴う",
+          "description_en": "Base (basilar) fracture NFS > with CSF leak",
+          "children": []
+        },
+        {
+          "code": "150206.4",
+          "title_ja": "複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折; 粉砕骨折; 塊状骨折; 蝶番骨折",
+          "title_en": "complex ; open with torn, exposed or loss of brain tissue ; comminuted ; ring ; hinge",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "SKELETAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "fracture",
+            "laceration"
+          ],
+          "description_ja": "頭蓋底骨折 詳細不明 > 複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折; 粉砕骨折; 塊状骨折; 蝶番骨折",
+          "description_en": "Base (basilar) fracture NFS > complex ; open with torn, exposed or loss of brain tissue ; comminuted ; ring ; hinge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "150400.2",
+      "title_ja": "頭蓋冠骨折 詳細不明",
+      "title_en": "Vault fracture NFS",
+      "ais_severity": 2,
+      "hierarchy_level": 1,
+      "section": "SKELETAL",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "fracture",
+        "nfs"
+      ],
+      "description_ja": "頭蓋冠骨折 詳細不明",
+      "description_en": "Vault fracture NFS",
+      "children": [
+        {
+          "code": "150402.2",
+          "title_ja": "閉鎖性：単純：偏位なし; 縫合離開; 線状",
+          "title_en": "closed ; simple ; undisplaced ; diastatic ; linear",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "SKELETAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "description_ja": "頭蓋冠骨折 詳細不明 > 閉鎖性：単純：偏位なし; 縫合離開; 線状",
+          "description_en": "Vault fracture NFS > closed ; simple ; undisplaced ; diastatic ; linear",
+          "children": []
+        },
+        {
+          "code": "150404.3",
+          "title_ja": "粉砕：硬膜損傷は伴わないが骨折部が露出しているもの; 2 cm以下の陥没; 偏位あり",
+          "title_en": "comminuted ; compound but dura intact ; depressed ≤2cm ; displaced",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "SKELETAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "fracture"
+          ],
+          "description_ja": "頭蓋冠骨折 詳細不明 > 粉砕：硬膜損傷は伴わないが骨折部が露出しているもの; 2 cm以下の陥没; 偏位あり",
+          "description_en": "Vault fracture NFS > comminuted ; compound but dura intact ; depressed ≤2cm ; displaced",
+          "children": []
+        },
+        {
+          "code": "150406.4",
+          "title_ja": "複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折",
+          "title_en": "complex ; open with torn, exposed or loss of brain tissue",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "SKELETAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "fracture",
+            "laceration"
+          ],
+          "description_ja": "頭蓋冠骨折 詳細不明 > 複雑：脳組織の裂傷, 露出あるいは脱出を伴う開放骨折",
+          "description_en": "Vault fracture NFS > complex ; open with torn, exposed or loss of brain tissue",
+          "children": []
+        },
+        {
+          "code": "150408.4",
+          "title_ja": "広範囲：大きな面積にわたって2cmを超える陥没",
+          "title_en": "massive ; large areas of skull depressed >2cm",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "SKELETAL",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "fracture",
+            "nfs"
+          ],
+          "description_ja": "頭蓋冠骨折 詳細不明 > 広範囲：大きな面積にわたって2cmを超える陥没",
+          "description_en": "Vault fracture NFS > massive ; large areas of skull depressed >2cm",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "161000.1",
+      "title_ja": "脳震盪 詳細不明",
+      "title_en": "Cerebral Concussion, NFS",
+      "ais_severity": 1,
+      "hierarchy_level": 1,
+      "section": "CONCUSSIVE INJURY",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "脳震盪 詳細不明",
+      "description_en": "Cerebral Concussion, NFS",
+      "children": [
+        {
+          "code": "161001.1",
+          "title_ja": "軽症脳震盪 意識消失なし",
+          "title_en": "mild concussion ; no loss of consciousness",
+          "ais_severity": 1,
+          "hierarchy_level": 2,
+          "section": "CONCUSSIVE INJURY",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "脳震盪 詳細不明 > 軽症脳震盪 意識消失なし",
+          "description_en": "Cerebral Concussion, NFS > mild concussion ; no loss of consciousness",
+          "children": []
+        },
+        {
+          "code": "161002.2",
+          "title_ja": "短時間の意識消失 詳細不明",
+          "title_en": "brief loss of consciousness NFS",
+          "ais_severity": 2,
+          "hierarchy_level": 2,
+          "section": "CONCUSSIVE INJURY",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "脳震盪 詳細不明 > 短時間の意識消失 詳細不明",
+          "description_en": "Cerebral Concussion, NFS > brief loss of consciousness NFS",
+          "children": [
+            {
+              "code": "161003.2",
+              "title_ja": "1時間未満の意識消失 詳細不明",
+              "title_en": "loss of consciousness < 1 hour NFS",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CONCUSSIVE INJURY",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "脳震盪 詳細不明 > 短時間の意識消失 詳細不明 > 1時間未満の意識消失 詳細不明",
+              "description_en": "Cerebral Concussion, NFS > brief loss of consciousness NFS > loss of consciousness < 1 hour NFS",
+              "children": []
+            },
+            {
+              "code": "161004.2",
+              "title_ja": "30分以下の意識消失",
+              "title_en": "loss of consciousness ≤30 mins",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CONCUSSIVE INJURY",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "脳震盪 詳細不明 > 短時間の意識消失 詳細不明 > 30分以下の意識消失",
+              "description_en": "Cerebral Concussion, NFS > brief loss of consciousness NFS > loss of consciousness ≤30 mins",
+              "children": []
+            },
+            {
+              "code": "161005.2",
+              "title_ja": "31～59分の意識消失",
+              "title_en": "loss of consciousness 31-59 mins",
+              "ais_severity": 2,
+              "hierarchy_level": 3,
+              "section": "CONCUSSIVE INJURY",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "脳震盪 詳細不明 > 短時間の意識消失 詳細不明 > 31～59分の意識消失",
+              "description_en": "Cerebral Concussion, NFS > brief loss of consciousness NFS > loss of consciousness 31-59 mins",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "161006.3",
+          "title_ja": "1～6時間の意識消失 (重症脳震盪)",
+          "title_en": "loss of consciousness 1-6 hours (severe concussion)",
+          "ais_severity": 3,
+          "hierarchy_level": 2,
+          "section": "CONCUSSIVE INJURY",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "脳震盪 詳細不明 > 1～6時間の意識消失 (重症脳震盪)",
+          "description_en": "Cerebral Concussion, NFS > loss of consciousness 1-6 hours (severe concussion)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "161007.4",
+      "title_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明",
+      "title_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS",
+      "ais_severity": 4,
+      "hierarchy_level": 1,
+      "section": "CONCUSSIVE INJURY",
+      "iss_body_region": "head_neck",
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明",
+      "description_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS",
+      "children": [
+        {
+          "code": "161008.4",
+          "title_ja": "6～24時間の意識消失 (軽症びまん性軸索損傷)",
+          "title_en": "LOC 6-24 hours (mild DAI)",
+          "ais_severity": 4,
+          "hierarchy_level": 2,
+          "section": "頭部 (頭蓋と脳)",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明 > 6～24時間の意識消失 (軽症びまん性軸索損傷)",
+          "description_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS > LOC 6-24 hours (mild DAI)",
+          "children": []
+        },
+        {
+          "code": "161011.5",
+          "title_ja": "24時間を超える意識消失 詳細不明",
+          "title_en": "LOC >24 hours NFS",
+          "ais_severity": 5,
+          "hierarchy_level": 2,
+          "section": "CONCUSSIVE INJURY",
+          "iss_body_region": "head_neck",
+          "injury_types": [
+            "nfs"
+          ],
+          "description_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明 > 24時間を超える意識消失 詳細不明",
+          "description_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS > LOC >24 hours NFS",
+          "children": [
+            {
+              "code": "161012.5",
+              "title_ja": "脳幹症状を伴わない (中等症びまん性軸索損傷)",
+              "title_en": "without brainstem signs (moderate DAI)",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CONCUSSIVE INJURY",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明 > 24時間を超える意識消失 詳細不明 > 脳幹症状を伴わない (中等症びまん性軸索損傷)",
+              "description_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS > LOC >24 hours NFS > without brainstem signs (moderate DAI)",
+              "children": []
+            },
+            {
+              "code": "161013.5",
+              "title_ja": "脳幹症状を伴う (重症びまん性軸索損傷)",
+              "title_en": "with brainstem signs (severe DAI)",
+              "ais_severity": 5,
+              "hierarchy_level": 3,
+              "section": "CONCUSSIVE INJURY",
+              "iss_body_region": "head_neck",
+              "injury_types": [
+                "nfs"
+              ],
+              "description_ja": "びまん性軸索損傷 (6時間を超える意識消失が外傷性の昏睡であり占拠性病変によるものではない) 詳細不明 > 24時間を超える意識消失 詳細不明 > 脳幹症状を伴う (重症びまん性軸索損傷)",
+              "description_en": "Diffuse Axonal Injury (prolonged traumatic coma LOC >6 hours not due to mass lesion) NFS > LOC >24 hours NFS > with brainstem signs (severe DAI)",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

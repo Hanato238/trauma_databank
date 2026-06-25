@@ -1,23 +1,7 @@
 {
   "body_part": "other",
   "body_part_name": "Other / その他",
-  "iss_body_region": "external",
-  "source_file_count": 11,
-  "source_files": [
-    "other_001.json",
-    "other_002.json",
-    "other_003.json",
-    "other_004.json",
-    "other_005.json",
-    "other_006.json",
-    "other_007.json",
-    "other_008.json",
-    "other_009.json",
-    "other_010.json",
-    "other_011.json"
-  ],
   "total_entries": 48,
-  "collision_count": 21,
   "entries": [
     {
       "code": "910000.1",
@@ -25,16 +9,13 @@
       "title_en": "Soft tissue (skin) injury NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_002.json",
-        "other_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "910200.1",
@@ -42,18 +23,13 @@
       "title_en": "abrasion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "abrasion"
       ],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
-      ],
-      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [表層] vs [擦過傷] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "910400.1",
@@ -61,20 +37,14 @@
       "title_en": "contusion; hematoma",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "contusion",
-        "hematoma",
-        "hemorrhage"
+        "hematoma"
       ],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
-      ],
-      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [皮膚欠損（剥脱・擦過傷）] vs [挫傷；血腫] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "910600.1",
@@ -82,18 +52,13 @@
       "title_en": "laceration",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "laceration"
       ],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
-      ],
-      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [切創・裂創] vs [裂傷・裂創] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "910800.1",
@@ -101,15 +66,13 @@
       "title_en": "avulsion",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "体表（皮膚）および熱傷 その他の外傷",
+      "iss_body_region": "external",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "other_001.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "914000.1",
@@ -117,17 +80,13 @@
       "title_en": "Degloving injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "avulsion"
       ],
-      "collision": false,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "915000.1",
@@ -135,18 +94,13 @@
       "title_en": "Frostbite NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "nfs"
       ],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
-      ],
-      "collision_note": "description_ja 衝突: [熱傷 不可視] vs [凍傷 詳細不明] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "915002.1",
@@ -154,16 +108,13 @@
       "title_en": "1st degree; superficial",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [熱傷 I度] vs [Ⅰ度；表在性] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "915004.2",
@@ -171,16 +122,13 @@
       "title_en": "deep; full thickness",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
       ],
-      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [熱傷 II度] vs [Ⅱ度；Ⅲ度] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "915006.3",
@@ -188,16 +136,13 @@
       "title_en": "multiple body sites e.g., fingers, toes, ears",
       "ais_severity": 3,
       "hierarchy_level": 3,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "burn"
       ],
-      "collision_note": "level 衝突: 1 vs 2（既存値を保持）; description_ja 衝突: [熱傷 III度] vs [多部位 例：指, つま先, 耳] → 既存値を使用; level 衝突: 1 → 2（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "916000.1",
@@ -205,18 +150,13 @@
       "title_en": "Penetrating injury",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "penetrating"
       ],
-      "collision": true,
-      "source_files": [
-        "other_001.json",
-        "other_002.json",
-        "other_003.json"
-      ],
-      "collision_note": "description_ja 衝突: [凍傷] vs [穿通性損傷] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912000.1",
@@ -224,17 +164,14 @@
       "title_en": "NFS",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn",
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912002.1",
@@ -242,18 +179,13 @@
       "title_en": "1st degree burns",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "other_004.json",
-        "other_006.json",
-        "other_007.json"
-      ],
-      "collision_note": "description_en 衝突: [1st degree burns] vs [1st degree; superficial if >1yo] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912003.1",
@@ -261,16 +193,13 @@
       "title_en": "≤1yo",
       "ais_severity": 1,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912004.2",
@@ -278,16 +207,13 @@
       "title_en": "≤1yo",
       "ais_severity": 2,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912006.1",
@@ -295,18 +221,13 @@
       "title_en": "2nd degree burns",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "other_004.json",
-        "other_006.json",
-        "other_007.json"
-      ],
-      "collision_note": "description_en 衝突: [2nd degree burns] vs [2nd degree; partial thickness] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912007.1",
@@ -314,16 +235,13 @@
       "title_en": "3rd degree; full thickness",
       "ais_severity": 1,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912008.2",
@@ -331,18 +249,13 @@
       "title_en": "3rd degree burns",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "other_004.json",
-        "other_006.json",
-        "other_007.json"
-      ],
-      "collision_note": "description_en 衝突: [3rd degree burns] vs [3rd degree; full thickness] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912012.2",
@@ -350,16 +263,13 @@
       "title_en": "2nd or 3rd degree; partial or full thickness",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912014.3",
@@ -367,16 +277,13 @@
       "title_en": "<5yo",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912018.3",
@@ -384,18 +291,13 @@
       "title_en": "combined 2nd and 3rd degree burns",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": true,
-      "source_files": [
-        "other_004.json",
-        "other_006.json",
-        "other_007.json"
-      ],
-      "collision_note": "description_en 衝突: [combined 2nd and 3rd degree burns] vs [2nd or 3rd degree; partial or full thickness] → 既存値を使用"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912020.4",
@@ -403,16 +305,13 @@
       "title_en": "<5yo",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912024.4",
@@ -420,16 +319,13 @@
       "title_en": "2nd or 3rd degree; partial or full thickness",
       "ais_severity": 4,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912026.5",
@@ -437,16 +333,13 @@
       "title_en": "<5yo",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912030.5",
@@ -454,16 +347,13 @@
       "title_en": "2nd or 3rd degree; partial or full thickness",
       "ais_severity": 5,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "912032.6",
@@ -471,16 +361,13 @@
       "title_en": "2nd or 3rd degree; partial or full thickness including incineration",
       "ais_severity": 6,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "EXTERNAL (Skin) and THERMAL INJURIES",
+      "iss_body_region": "external",
       "injury_types": [
         "burn"
       ],
-      "collision": false,
-      "source_files": [
-        "other_006.json",
-        "other_007.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "020000.3",
@@ -488,16 +375,13 @@
       "title_en": "Asphyxia/Suffocation NFSᵃ",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "020002.3",
@@ -505,15 +389,13 @@
       "title_en": "without neurological deficit",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "020004.4",
@@ -521,15 +403,13 @@
       "title_en": "with neurological deficit",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "020006.5",
@@ -537,15 +417,13 @@
       "title_en": "with cardiac arrest documented by medical personnel",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "040099.9",
@@ -553,16 +431,13 @@
       "title_en": "Caustic Agents NFSᶠ",
       "ais_severity": 9,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "060000.3",
@@ -570,16 +445,13 @@
       "title_en": "Drowning NFSᵃ",
       "ais_severity": 3,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "060002.3",
@@ -587,15 +459,13 @@
       "title_en": "near drowning, no neurological deficit",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "060004.4",
@@ -603,15 +473,13 @@
       "title_en": "near drowning with neurological deficit",
       "ais_severity": 4,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "060006.5",
@@ -619,15 +487,13 @@
       "title_en": "with cardiac arrest documented by medical personnel",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "080000.2",
@@ -635,16 +501,13 @@
       "title_en": "Electrical injury NFS",
       "ais_severity": 2,
       "hierarchy_level": 1,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
+      "iss_body_region": "external",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "080002.3",
@@ -652,15 +515,13 @@
       "title_en": "with muscle necrosis",
       "ais_severity": 3,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "080004.5",
@@ -668,15 +529,13 @@
       "title_en": "with cardiac arrest documented by medical personnel",
       "ais_severity": 5,
       "hierarchy_level": 2,
-      "iss_body_region": "external",
       "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": true,
-      "source_files": [
-        "other_008.json",
-        "other_009.json"
+      "iss_body_region": "external",
+      "injury_types": [
+        "nfs"
       ],
-      "collision_note": "level 衝突: 2 → 1（日本語ページを優先して上書き）"
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "010000.1",
@@ -684,16 +543,13 @@
       "title_en": "Hypothermia NFS (primary injury, not treatment-related or sequela)",
       "ais_severity": 1,
       "hierarchy_level": 1,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "010002.1",
@@ -701,14 +557,13 @@
       "title_en": ">34-35°C",
       "ais_severity": 1,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "010004.2",
@@ -716,14 +571,13 @@
       "title_en": "33-32°C",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "010006.3",
@@ -731,14 +585,13 @@
       "title_en": "31-30°C",
       "ais_severity": 3,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "010008.4",
@@ -746,14 +599,13 @@
       "title_en": "29-28°C",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "010010.5",
@@ -761,14 +613,13 @@
       "title_en": "<27°C",
       "ais_severity": 5,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
-      "injury_types": [],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "injury_types": [
+        "nfs"
+      ],
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "012002.2",
@@ -776,16 +627,13 @@
       "title_en": "Whole Body (explosion-type) Injury NFSᵃ",
       "ais_severity": 2,
       "hierarchy_level": 1,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
       "injury_types": [
         "nfs"
       ],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "012004.2",
@@ -793,16 +641,13 @@
       "title_en": "minor or superficial to skin, subcutaneous tissue and muscle with or without minor fracture(s)",
       "ais_severity": 2,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "012006.4",
@@ -810,16 +655,13 @@
       "title_en": "major or extensive (>25% TBSA) to skin, subcutaneous tissue and muscle with multiple fractures and/or multiple organ injuries",
       "ais_severity": 4,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
       "injury_types": [
         "fracture"
       ],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     },
     {
       "code": "012008.6",
@@ -827,16 +669,13 @@
       "title_en": "massive: multiple organ injury to brain, thorax and/or abdomen with loss of one or more limbs and/or decapitation",
       "ais_severity": 6,
       "hierarchy_level": 2,
+      "section": "その他の外傷",
       "iss_body_region": "external",
-      "section": "OTHER TRAUMA",
       "injury_types": [
         "amputation"
       ],
-      "collision": false,
-      "source_files": [
-        "other_010.json",
-        "other_011.json"
-      ]
+      "description_ja": null,
+      "description_en": null
     }
   ]
 }
