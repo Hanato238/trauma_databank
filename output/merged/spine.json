@@ -51,7 +51,7 @@
       "description_ja": "頸椎損傷による死亡 (詳細不明) または剖検なし",
       "description_en": "Died of cervical spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
       "severity": 9,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_006.json",
@@ -120,16 +120,26 @@
       ]
     },
     {
-      "code": "630220.2",
-      "description_ja": null,
+      "code": "630220.3",
+      "description_ja": "完全型神経叢損傷",
       "description_en": "complete plexus injury NFS",
-      "severity": 2,
+      "severity": 3,
       "level": 2,
-      "collision": true,
+      "collision": false,
       "source_files": [
-        "spine_006.json"
-      ],
-      "collision_note": "description_en 衝突: [complete plexus injury NFS] vs [bilateral] → 既存値を使用; level 衝突: 2 vs 3（既存値を保持）"
+        "spine_007.json"
+      ]
+    },
+    {
+      "code": "630221.4",
+      "description_ja": "両側^c",
+      "description_en": null,
+      "severity": 4,
+      "level": 3,
+      "collision": false,
+      "source_files": [
+        "spine_007.json"
+      ]
     },
     {
       "code": "630222.3",
@@ -169,33 +179,11 @@
       "collision_note": "description_en 衝突: [avulsion] vs [bilateral] → 既存値を使用"
     },
     {
-      "code": "630220.3",
-      "description_ja": "完全型神経叢損傷",
-      "description_en": null,
-      "severity": 3,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "spine_007.json"
-      ]
-    },
-    {
-      "code": "630221.4",
-      "description_ja": "両側^c",
-      "description_en": null,
-      "severity": 4,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "spine_007.json"
-      ]
-    },
-    {
       "code": "630227.4",
       "description_ja": "両側^c",
       "description_en": null,
       "severity": 4,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_007.json"
@@ -218,7 +206,7 @@
       "description_ja": "一過性の神経症状 (知覚異常) を伴う 骨折・脱臼につい ては不明",
       "description_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_008.json",
@@ -231,7 +219,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -243,7 +231,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -255,7 +243,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -267,7 +255,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -279,7 +267,7 @@
       "description_ja": "不全麻痺 [何らかの知覚あるいは運動機能の残存; 前脊髄症候群, 中心性脊髄症候群, 外側脊髄症候群 (Brown-Se- quard 症候群)] を含む, 骨折・脱臼については不明",
       "description_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes) , but NFS as to fracture/dislocation",
       "severity": 4,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -291,7 +279,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -303,7 +291,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -315,7 +303,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -327,7 +315,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -339,7 +327,7 @@
       "description_ja": "完全麻痺 (知覚機能の消失した四肢麻痺または対麻痺)",
       "description_en": "complete cord syndrome (quadriplegia or paraplegia with no sensation)",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -351,7 +339,7 @@
       "description_ja": "第4頸髄以下だが, 骨折・脱臼については不明, もし くは部位については不明",
       "description_en": "C-4 or below, but NFS as to fracture/dislocation or NFS as to site",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -363,7 +351,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -375,7 +363,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -387,7 +375,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -399,7 +387,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -411,7 +399,7 @@
       "description_ja": "第3頸髄以下だが, 骨折・脱臼については不明",
       "description_en": "C-3 or above, but NFS as to fracture/dislocation",
       "severity": 6,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -423,7 +411,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -435,7 +423,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -447,7 +435,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -459,7 +447,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_008.json",
@@ -483,7 +471,7 @@
       "description_ja": "不全麻痺 (何らかの知覚あるいは運動機能の残存), 骨折・脱臼については不明",
       "description_en": "incomplete (preservation of some sensation or motor func- tion), but NFS as to fracture/dislocation",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -496,7 +484,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -509,7 +497,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -519,10 +507,10 @@
     },
     {
       "code": "640248.5",
-      "description_ja": "骨折かつ脱臼を伴う",
+      "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -532,10 +520,10 @@
     },
     {
       "code": "640250.5",
-      "description_ja": "骨折を伴う",
+      "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -548,7 +536,7 @@
       "description_ja": "完全麻痺 (知覚運動機能の消失した四肢麻痺または対麻痺) 詳細不明",
       "description_en": "complete cord syndrome NFS (quadriplegia or paraplegia with no sensation or motor function)",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -560,7 +548,7 @@
       "description_ja": "第4頸髄以下だが, 骨折・脱臼については不明",
       "description_en": "C-4 or below, but NFS as to fracture/dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -572,7 +560,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -584,7 +572,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -596,7 +584,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -608,7 +596,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -620,7 +608,7 @@
       "description_ja": "第3頸髄以上だが, 骨折・脱臼については不明",
       "description_en": "C-3 or above, but NFS as to fracture/dislocation",
       "severity": 6,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -632,7 +620,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -644,7 +632,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -656,7 +644,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -668,7 +656,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 6,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "spine_010.json",
@@ -704,7 +692,7 @@
       "description_ja": "神経根損傷 (神経根障害) を伴わない",
       "description_en": "no nerve root damage (radiculopathy)",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -717,7 +705,7 @@
       "description_ja": "神経根損傷 (神経根障害) を伴う",
       "description_en": "with nerve root damage (radiculopathy)",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -754,7 +742,7 @@
       "description_ja": "環軸関節 (歯突起)",
       "description_en": "atlanto-axial (odontoid)",
       "severity": 3,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -767,7 +755,7 @@
       "description_ja": "環椎後頭関節",
       "description_en": "atlanto-occipital",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -780,7 +768,7 @@
       "description_ja": "椎間関節 詳細不明",
       "description_en": "facet NFS",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -793,7 +781,7 @@
       "description_ja": "片側",
       "description_en": "unilateral",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -806,7 +794,7 @@
       "description_ja": "両側",
       "description_en": "bilateral",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_010.json",
@@ -831,7 +819,7 @@
       "description_ja": "同一椎骨の多部位に及ぶ骨折",
       "description_en": "multiple fractures of same vertebra^a",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_012.json",
@@ -934,7 +922,7 @@
       "description_ja": "圧迫骨折 小 (椎体前面高の減少が20%以下)",
       "description_en": "minor compression (<=20% loss of anterior height)",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_012.json",
@@ -947,7 +935,7 @@
       "description_ja": "圧迫骨折 大 (椎体前面高の減少が20%を超える)",
       "description_en": "major compression (>20% loss of anterior height)",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_012.json",
@@ -1010,7 +998,7 @@
       "description_ja": "単一神経根",
       "description_en": "single nerve root",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_012.json",
@@ -1023,7 +1011,7 @@
       "description_ja": "複数神経根",
       "description_en": "multiple nerve roots",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_012.json",
@@ -1049,7 +1037,7 @@
       "description_ja": "単一神経根",
       "description_en": "single nerve root",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_012.json",
@@ -1062,7 +1050,7 @@
       "description_ja": "複数神経根",
       "description_en": "multiple nerve roots",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_012.json",
@@ -1099,7 +1087,7 @@
       "description_ja": "胸椎損傷による死亡（詳細不明）または剖検なし",
       "description_en": "Died of thoracic spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
       "severity": 9,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1123,7 +1111,7 @@
       "description_ja": "一過性の神経症状（知覚異常）を伴うが骨折・脱臼については不明",
       "description_en": "with transient neurological signs (paresthesia) but NFS as to fracture/dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_014.json",
@@ -1136,7 +1124,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1148,7 +1136,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1160,7 +1148,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1172,7 +1160,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1184,7 +1172,7 @@
       "description_ja": "不全麻痺 [何らかの知覚あるいは運動機能の残存；前脊髄症候群、中心性脊髄症候群、外側脊髄症候群 (Brown-Sequard 症候群)] を含む 骨折・脱臼については不明",
       "description_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes anterior cord, central cord, lateral cord (Brown-Sequard) syndromes) but NFS as to fracture/dislocation",
       "severity": 4,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1196,7 +1184,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1208,7 +1196,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1220,7 +1208,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1232,7 +1220,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1244,7 +1232,7 @@
       "description_ja": "完全麻痺（知覚運動機能の消失した対麻痺） 骨折・脱臼については不明",
       "description_en": "complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1256,7 +1244,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1268,7 +1256,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1280,7 +1268,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1292,7 +1280,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_014.json",
@@ -1316,7 +1304,7 @@
       "description_ja": "不全麻痺(何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
       "description_en": "incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1329,7 +1317,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1342,7 +1330,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1355,7 +1343,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1368,7 +1356,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1381,7 +1369,7 @@
       "description_ja": "完全麻痺(知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
       "description_en": "complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1394,7 +1382,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1407,7 +1395,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1420,7 +1408,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1433,7 +1421,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1470,7 +1458,7 @@
       "description_ja": "神経根損傷(神経根障害)を伴わない",
       "description_en": "no nerve root damage (radiculopathy)",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1483,7 +1471,7 @@
       "description_ja": "神経根損傷(神経根障害)を伴う",
       "description_en": "with nerve root damage (radiculopathy)",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1520,7 +1508,7 @@
       "description_ja": "椎間関節 詳細不明",
       "description_en": "facet NFS",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1533,7 +1521,7 @@
       "description_ja": "片側",
       "description_en": "unilateral",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1546,7 +1534,7 @@
       "description_ja": "両側",
       "description_en": "bilateral",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_016.json",
@@ -1662,7 +1650,7 @@
       "description_ja": "圧迫骨折 小 (椎体前面高の減少が20%以下)",
       "description_en": "minor compression (≤20% loss of anterior height)",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_018.json",
@@ -1675,7 +1663,7 @@
       "description_ja": "圧迫骨折 大 (椎体前面高の減少が20%を超える)",
       "description_en": "major compression (>20% loss of anterior height)",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_018.json",
@@ -1738,7 +1726,7 @@
       "description_ja": "単一神経根",
       "description_en": "single nerve root",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_018.json",
@@ -1751,7 +1739,7 @@
       "description_ja": "複数神経根",
       "description_en": "multiple nerve roots",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_018.json",
@@ -1777,7 +1765,7 @@
       "description_ja": "単一神経根",
       "description_en": "single nerve root",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_018.json",
@@ -1790,7 +1778,7 @@
       "description_ja": "複数神経根",
       "description_en": "multiple nerve roots",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_018.json",
@@ -1827,7 +1815,7 @@
       "description_ja": "腰椎損傷による死亡 (詳細不明) または剖検なし",
       "description_en": "Died of lumbar spine injury without further substantiation of injuries or no autopsy confirmation of specific injuries.",
       "severity": 9,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_020.json",
@@ -1851,7 +1839,7 @@
       "description_ja": "一過性の神経症状 (知覚異常) を伴う 骨折・脱臼については不明",
       "description_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1864,7 +1852,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1877,7 +1865,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1890,7 +1878,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1903,7 +1891,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1916,7 +1904,7 @@
       "description_ja": "不完全馬尾症候群 骨折・脱臼については不明",
       "description_en": "incomplete cauda equina syndrome, but NFS as to fracture/dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1929,7 +1917,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1942,7 +1930,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1955,7 +1943,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1968,7 +1956,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1981,7 +1969,7 @@
       "description_ja": "完全馬尾症候群 骨折・脱臼については不明",
       "description_en": "complete cauda equina syndrome, but NFS as to fracture/dislocation",
       "severity": 4,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -1994,7 +1982,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 4,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -2007,7 +1995,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 4,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -2020,7 +2008,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 4,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -2033,7 +2021,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 4,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_020.json",
@@ -2058,7 +2046,7 @@
       "description_ja": "一過性の神経症状（知覚異常）を伴う 骨折脱臼については不明",
       "description_en": "with transient neurological signs (paresthesia), but NFS as to fracture/dislocation",
       "severity": 3,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2071,7 +2059,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_022.json",
@@ -2083,7 +2071,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2096,7 +2084,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2109,7 +2097,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2122,7 +2110,7 @@
       "description_ja": "不全麻痺 〔何らかの知覚あるいは運動機能の残存；外側脊髄症候群（Brown-Sequard 症候群症候群）〕を含む 骨折・脱臼については不明",
       "description_en": "incomplete cord syndrome (preservation of some sensation or motor function; includes lateral cord (Brown-Sequard) syndrome) but NFS as to fracture/dislocation",
       "severity": 4,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_022.json",
@@ -2134,7 +2122,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_022.json",
@@ -2146,7 +2134,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2159,7 +2147,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2172,7 +2160,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2185,7 +2173,7 @@
       "description_ja": "完全麻痺（知覚運動機能の消失した対麻痺） 骨折・脱臼については不明",
       "description_en": "complete cord syndrome (paraplegia with no sensation) but NFS as to fracture/dislocation",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_022.json",
@@ -2197,7 +2185,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_022.json",
@@ -2209,7 +2197,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2222,7 +2210,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2235,7 +2223,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_022.json",
@@ -2260,7 +2248,7 @@
       "description_ja": "不全麻痺 (何らかの知覚あるいは運動機能の残存) 骨折・脱臼については不明",
       "description_en": "incomplete (preservation of some sensation or motor function), but NFS as to fracture/dislocation",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_024.json",
@@ -2273,7 +2261,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_024.json",
@@ -2286,7 +2274,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_024.json",
@@ -2299,7 +2287,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_024.json",
@@ -2312,7 +2300,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_024.json",
@@ -2325,7 +2313,7 @@
       "description_ja": "完全麻痺 (知覚運動機能の消失した対麻痺) 骨折・脱臼については不明",
       "description_en": "complete cord syndrome NFS (paraplegia with no sensation or motor function) but NFS as to fracture/dislocation",
       "severity": 5,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2337,7 +2325,7 @@
       "description_ja": "骨折や脱臼を伴わない",
       "description_en": "with no fracture or dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2349,7 +2337,7 @@
       "description_ja": "骨折を伴う",
       "description_en": "with fracture",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2361,7 +2349,7 @@
       "description_ja": "脱臼を伴う",
       "description_en": "with dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2373,7 +2361,7 @@
       "description_ja": "骨折かつ脱臼を伴う",
       "description_en": "with both fracture and dislocation",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2409,7 +2397,7 @@
       "description_ja": "神経根損傷 (神経根障害) を伴わない",
       "description_en": "no nerve root damage (radiculopathy)",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_024.json",
@@ -2422,7 +2410,7 @@
       "description_ja": "神経根損傷 (神経根障害) を伴う",
       "description_en": "with nerve root damage (radiculopathy)",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "spine_024.json",
@@ -2459,7 +2447,7 @@
       "description_ja": "椎間関節 詳細不明",
       "description_en": "facet NFS",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2471,7 +2459,7 @@
       "description_ja": "片側",
       "description_en": "unilateral",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2483,7 +2471,7 @@
       "description_ja": "両側",
       "description_en": "bilateral",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "spine_024.json",
@@ -2508,7 +2496,7 @@
       "description_ja": "同一椎骨の多部位に及ぶ骨折ª",
       "description_en": "multiple fractures of same vertebra^a",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "spine_026.json",
@@ -2749,61 +2737,6 @@
         "spine_027.json"
       ],
       "collision_note": "severity 衝突: 5 → 1（日本語ページを優先して上書き）"
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "Code each vertebra separately. Note instructions at lamina, pedicle and vertebral body for coding fractures of the atlas (C1).",
-      "severity": 0,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "spine_012.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "Exceptions : odontoid or major compression fracture which are coded additionally.",
-      "severity": 0,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "spine_012.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "code C1 posterior arch here",
-      "severity": 0,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "spine_012.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "code C1 lateral mass here",
-      "severity": 0,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "spine_012.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "code C1 anterior arch here",
-      "severity": 0,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "spine_012.json"
-      ]
     }
   ]
 }

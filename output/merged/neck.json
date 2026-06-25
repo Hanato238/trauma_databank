@@ -21,281 +21,6 @@
   "collision_count": 56,
   "entries": [
     {
-      "code": "310000.8",
-      "description_ja": "頸部への全身的損傷",
-      "description_en": "Systemic injury involving neck",
-      "severity": 8,
-      "level": 1,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310010.1",
-      "description_ja": "AIS8以上を含む",
-      "description_en": "Use one of the following descriptive codes or AIS 8 for systemic injuries involving neck structures when a single code does not adequately describe all neck injuries.",
-      "severity": 1,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310020.1",
-      "description_ja": "頸部へ損傷が体内の組織、血管、神経に及ぶ時",
-      "description_en": "when injury involves internal neck structures (i.e. blood vessels, nerves, tissue)",
-      "severity": 1,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310030.1",
-      "description_ja": "軽微な損傷",
-      "description_en": "Minor injury",
-      "severity": 1,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310040.2",
-      "description_ja": "挫傷、打撲、擦過傷",
-      "description_en": "Contusion, bruise, abrasion",
-      "severity": 2,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310050.3",
-      "description_ja": "頸部痛、軽度筋挫傷",
-      "description_en": "Neck pain, mild muscle contusion",
-      "severity": 3,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310060.4",
-      "description_ja": "皮下出血",
-      "description_en": "Subcutaneous hemorrhage",
-      "severity": 4,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310070.5",
-      "description_ja": "開放創",
-      "description_en": "Open wound",
-      "severity": 5,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310080.6",
-      "description_ja": "軟骨または靭帯の損傷",
-      "description_en": "Cartilage or ligament injury",
-      "severity": 6,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310090.7",
-      "description_ja": "神経損傷",
-      "description_en": "Nerve injury",
-      "severity": 7,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310100.8",
-      "description_ja": "頸部全周の壊死",
-      "description_en": "Necrosis around entire neck",
-      "severity": 8,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "310110.1",
-      "description_ja": "20%を超える",
-      "description_en": ">20% by volume",
-      "severity": 1,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210000.8",
-      "description_ja": "頸部へ損傷が体内の組織、血管、神経に及ばない時",
-      "description_en": "when injury does not involve internal neck structures",
-      "severity": 8,
-      "level": 1,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210010.1",
-      "description_ja": "AIS8以上を含む",
-      "description_en": "Use one of the following descriptive codes or AIS 8 for systemic injuries not involving internal neck structures when a single code does not adequately describe all neck injuries.",
-      "severity": 1,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210020.1",
-      "description_ja": "軽微な損傷",
-      "description_en": "Minor injury",
-      "severity": 1,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210030.2",
-      "description_ja": "擦過傷、挫傷",
-      "description_en": "Abrasion, contusion",
-      "severity": 2,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210040.3",
-      "description_ja": "表在性裂創",
-      "description_en": "Superficial laceration",
-      "severity": 3,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210050.4",
-      "description_ja": "穿通創",
-      "description_en": "Puncturing wound",
-      "severity": 4,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210060.5",
-      "description_ja": "皮下組織を伴う裂創",
-      "description_en": "Laceration involving subcutaneous tissue",
-      "severity": 5,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210070.6",
-      "description_ja": "広範囲の皮下裂傷",
-      "description_en": "Extensive subcutaneous laceration",
-      "severity": 6,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210080.7",
-      "description_ja": "熱傷、化学熱傷",
-      "description_en": "Burn, chemical burn",
-      "severity": 7,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210090.8",
-      "description_ja": "頸部全周の熱傷",
-      "description_en": "Burn around entire neck",
-      "severity": 8,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210100.1",
-      "description_ja": "損傷の面積が25cm²以下",
-      "description_en": "area ≤ 25cm²",
-      "severity": 1,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210110.2",
-      "description_ja": "損傷の面積が25cm²を超える",
-      "description_en": "area > 25cm²",
-      "severity": 2,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
-      "code": "210120.3",
-      "description_ja": "出血量が20%を超える",
-      "description_en": ">20% by volume",
-      "severity": 3,
-      "level": 3,
-      "collision": false,
-      "source_files": [
-        "neck_001.json"
-      ]
-    },
-    {
       "code": "300099.9",
       "description_ja": "頚部への損傷 詳細不明",
       "description_en": "Injuries to the Neck NFS",
@@ -312,7 +37,7 @@
       "description_ja": "他の詳細な損傷や、他がい頚部損傷による死亡",
       "description_en": "Died of neck injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
       "severity": 9,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "neck_002.json",
@@ -552,7 +277,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_004.json",
@@ -589,7 +314,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 3,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -602,7 +327,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 4,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "neck_004.json",
@@ -614,7 +339,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 4,
-      "level": 2,
+      "level": 5,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -640,7 +365,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 4,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -653,7 +378,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "neck_004.json",
@@ -665,7 +390,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 5,
-      "level": 2,
+      "level": 5,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -678,7 +403,7 @@
       "description_ja": "外傷に起因する血栓 (閉塞)",
       "description_en": "with thrombosis (occlusion) secondary to trauma",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_004.json",
@@ -690,7 +415,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 3,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -703,7 +428,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 4,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "neck_004.json",
@@ -715,7 +440,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 4,
-      "level": 2,
+      "level": 5,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -740,7 +465,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -765,7 +490,7 @@
       "description_ja": "両側性",
       "description_en": "bilateral",
       "severity": 4,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_004.json",
@@ -843,7 +568,7 @@
       "description_ja": "外傷に起因する血栓 (閉塞) を伴う",
       "description_en": "with thrombosis ; (occlusion) secondary to trauma",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -895,7 +620,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -934,7 +659,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 2,
-      "level": 3,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -960,7 +685,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 2,
-      "level": 3,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -973,7 +698,7 @@
       "description_ja": "両側性c",
       "description_en": "neurological deficit (stroke) not head-injury related, bilateral",
       "severity": 1,
-      "level": 4,
+      "level": 5,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -986,7 +711,7 @@
       "description_ja": "外傷に起因する血栓 (閉塞) を伴う",
       "description_en": "with thrombosis (occlusion) secondary to trauma",
       "severity": 5,
-      "level": 3,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -999,7 +724,7 @@
       "description_ja": "両側性c",
       "description_en": "with thrombosis (occlusion) secondary to trauma, bilateral",
       "severity": 5,
-      "level": 4,
+      "level": 5,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -1012,7 +737,7 @@
       "description_ja": "裂傷・裂創以外の何らかの外傷に起因する血栓 (閉塞)",
       "description_en": "thrombosis (occlusion) secondary to trauma from any lesion but laceration",
       "severity": 5,
-      "level": 3,
+      "level": 2,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -1025,7 +750,7 @@
       "description_ja": "頭部外傷に関連のない神経脱落症状 (脳卒中)",
       "description_en": "neurological deficit (stroke) not head-injury related",
       "severity": 2,
-      "level": 4,
+      "level": 3,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -1038,7 +763,7 @@
       "description_ja": "両側性c",
       "description_en": "neurological deficit (stroke) not head-injury related, bilateral",
       "severity": 1,
-      "level": 5,
+      "level": 4,
       "collision": true,
       "source_files": [
         "neck_006.json",
@@ -1088,7 +813,7 @@
       "description_ja": "大; 破裂; 離断; 部分欠損; 出血量が全血液量の20%を超える",
       "description_en": "major ; rupture ; transection ; segmental loss ; blood loss >20% by volume",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_008.json",
@@ -1137,7 +862,7 @@
       "description_ja": "大; 破裂; 離断; 出血量が全血液量の20%を超える",
       "description_en": "major ; rupture ; transection ; blood loss > 20 % by volume",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_008.json",
@@ -1161,7 +886,7 @@
       "description_ja": "横隔膜神経損傷",
       "description_en": "Phrenic nerve injury",
       "severity": 2,
-      "level": 2,
+      "level": 1,
       "collision": true,
       "source_files": [
         "neck_008.json",
@@ -1174,7 +899,7 @@
       "description_ja": "両側性ᶜ",
       "description_en": "bilateral^c",
       "severity": 4,
-      "level": 3,
+      "level": 2,
       "collision": true,
       "source_files": [
         "neck_008.json",
@@ -1187,7 +912,7 @@
       "description_ja": "迷走神経損傷",
       "description_en": "Vagus nerve injury",
       "severity": 1,
-      "level": 2,
+      "level": 1,
       "collision": true,
       "source_files": [
         "neck_008.json",
@@ -1200,7 +925,7 @@
       "description_ja": "頚部食道 詳細不明",
       "description_en": "Esophagus injury in Neck NFSᵏ",
       "severity": 2,
-      "level": 2,
+      "level": 1,
       "collision": true,
       "source_files": [
         "neck_010.json",
@@ -1237,7 +962,7 @@
       "description_ja": "非全層性壊死",
       "description_en": "partial thickness necrosisᵃ",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1249,7 +974,7 @@
       "description_ja": "全層性壊死",
       "description_en": "full thickness necrosisᵃ",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1273,7 +998,7 @@
       "description_ja": "穿孔なし；非全層性；周径の50%以下 (OIS I, II)",
       "description_en": "no perforation ; partial thickness ; ≤50% circumfer-ence [OIS I, II]",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1285,7 +1010,7 @@
       "description_ja": "穿孔；全層性；周径の50%を超える (OIS III)",
       "description_en": "perforation ; full thickness ; >50% circumference [OIS III]",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1297,7 +1022,7 @@
       "description_ja": "剥離；破裂；離断；広範囲損傷 (OIS IV, V)",
       "description_en": "avulsion ; rupture ; transection ; massive destruction [OIS IV, V]",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1309,7 +1034,7 @@
       "description_ja": "喉頭（甲状腺、輪状軟骨を含む）詳細不明",
       "description_en": "Larynx, including thyroid and cricoid cartilage, NFS",
       "severity": 2,
-      "level": 2,
+      "level": 1,
       "collision": true,
       "source_files": [
         "neck_010.json",
@@ -1346,7 +1071,7 @@
       "description_ja": "穿孔なし；非全層性；粘膜裂傷",
       "description_en": "no perforation ; partial thickness ; mucosal tear",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1358,7 +1083,7 @@
       "description_ja": "穿孔；全層性；“骨折”",
       "description_en": "perforation ; full thickness ; \"fracture\"",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1370,7 +1095,7 @@
       "description_ja": "声帯損傷",
       "description_en": "vocal cord involvement",
       "severity": 4,
-      "level": 2,
+      "level": 4,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1382,7 +1107,7 @@
       "description_ja": "剥離；破裂；離断；広範囲損傷；挫滅",
       "description_en": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1394,7 +1119,7 @@
       "description_ja": "咽頭または後咽頭領域 詳細不明",
       "description_en": "Pharynx or Retropharyngeal area, NFS",
       "severity": 2,
-      "level": 2,
+      "level": 1,
       "collision": true,
       "source_files": [
         "neck_010.json",
@@ -1457,7 +1182,7 @@
       "description_ja": "穿孔なし；非全層性；粘膜裂傷",
       "description_en": "no perforation ; partial thickness ; mucosal tear",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1469,7 +1194,7 @@
       "description_ja": "穿孔；全層性",
       "description_en": "perforation ; full thickness",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1481,7 +1206,7 @@
       "description_ja": "剥離；破裂；離断；広範囲損傷；挫滅",
       "description_en": "avulsion ; rupture ; transection ; massive destruc-tion ; crush",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "neck_010.json",
@@ -1597,7 +1322,7 @@
       "description_ja": "穿孔なし；非全層性",
       "description_en": "no perforation ; partial thickness",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "neck_012.json",
@@ -1610,7 +1335,7 @@
       "description_ja": "穿孔；全層性 “骨折”",
       "description_en": "perforation ; full thickness ; \"fracture\"",
       "severity": 5,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "neck_012.json",
@@ -1623,7 +1348,7 @@
       "description_ja": "剥離；破裂；離断；広範囲損傷；挫滅；喉頭と気管の解離",
       "description_en": "avulsion ; rupture ; transection ; massive destruction ; crush ; laryngeal-tracheal separation",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "neck_012.json",

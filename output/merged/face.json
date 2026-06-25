@@ -47,7 +47,7 @@
       "description_ja": "他の明らかな損傷がないか、遺体解剖で特別な損傷がない 顔面外傷の死亡例",
       "description_en": "Died of facial injury without further substantiation of injuries or no autopsy confirmation of specific injuries",
       "severity": 9,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_002.json",
@@ -71,7 +71,7 @@
       "description_ja": "小；表在性",
       "description_en": "minor ; superficial",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_002.json",
@@ -84,7 +84,7 @@
       "description_ja": "組織欠損が25cm²を超える",
       "description_en": "with tissue loss >25cm²",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_002.json",
@@ -97,7 +97,7 @@
       "description_ja": "出血量が全血液量の20%を超える",
       "description_en": "with blood loss >20% by volume",
       "severity": 3,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_002.json",
@@ -110,7 +110,7 @@
       "description_ja": "両眼を含んだ顔面全体の広範な高度損傷ᵃ",
       "description_en": "massive destruction of whole face including both eyes",
       "severity": 4,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_002.json",
@@ -135,7 +135,7 @@
       "description_ja": "擦過傷",
       "description_en": "abrasion",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -147,7 +147,7 @@
       "description_ja": "挫傷；血腫",
       "description_en": "contusion ; hematoma",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -159,7 +159,7 @@
       "description_ja": "裂傷・裂創 詳細不明",
       "description_en": "laceration NFS",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -171,7 +171,7 @@
       "description_ja": "小；表在性",
       "description_en": "minor ; superficial",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -183,7 +183,7 @@
       "description_ja": "大；長さが10cmを超え、かつ皮下組織に達する",
       "description_en": "major ; >10cm long and into subcutaneous tissue",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -195,7 +195,7 @@
       "description_ja": "出血量が全血液量の20%を超える",
       "description_en": "blood loss >20% by volume",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -207,7 +207,7 @@
       "description_ja": "剥離 詳細不明",
       "description_en": "avulsion NFS",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -219,7 +219,7 @@
       "description_ja": "小；表在性；25cm²以下",
       "description_en": "minor ; superficial ; ≤25cm²",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -231,7 +231,7 @@
       "description_ja": "大；25cm²を超える",
       "description_en": "major ; >25cm²",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -243,7 +243,7 @@
       "description_ja": "出血量が全血液量の20%を超える",
       "description_en": "blood loss >20% by volume",
       "severity": 3,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_004.json",
@@ -303,7 +303,7 @@
       "description_ja": "視神経 詳細不明",
       "description_en": "Optic Nerve NFS",
       "severity": 1,
-      "level": 2,
+      "level": 1,
       "collision": false,
       "source_files": [
         "face_006.json",
@@ -390,7 +390,7 @@
       "description_ja": "耳 詳細不明",
       "description_en": "Ear NFS",
       "severity": 1,
-      "level": 2,
+      "level": 1,
       "collision": false,
       "source_files": [
         "face_006.json",
@@ -510,7 +510,7 @@
       "description_ja": "目 詳細不明",
       "description_en": "Eye NFS",
       "severity": 1,
-      "level": 2,
+      "level": 1,
       "collision": true,
       "source_files": [
         "face_008.json",
@@ -575,7 +575,7 @@
       "description_ja": "破裂",
       "description_en": "ruptureᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -587,7 +587,7 @@
       "description_ja": "末梢-黄斑を含まない",
       "description_en": "peripheral - not involving macula",
       "severity": 1,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_008.json",
@@ -600,7 +600,7 @@
       "description_ja": "中心-黄斑を含む",
       "description_en": "central - involving macula",
       "severity": 1,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_008.json",
@@ -613,7 +613,7 @@
       "description_ja": "裂離",
       "description_en": "detachmentᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -625,7 +625,7 @@
       "description_ja": "出血",
       "description_en": "hemorrhageᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -663,7 +663,7 @@
       "description_ja": "擦過傷",
       "description_en": "abrasion",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -675,7 +675,7 @@
       "description_ja": "熱傷または化学熱傷",
       "description_en": "burn, thermal or chemicalᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -687,7 +687,7 @@
       "description_ja": "挫傷",
       "description_en": "contusionᵉ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -699,7 +699,7 @@
       "description_ja": "前房出血 詳細不明",
       "description_en": "hyphema NFSᵉ",
       "severity": 1,
-      "level": 2,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -711,7 +711,7 @@
       "description_ja": "小; 前眼房の50%以下",
       "description_en": "minor ; ≤50% of anterior chamber",
       "severity": 1,
-      "level": 3,
+      "level": 5,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -723,7 +723,7 @@
       "description_ja": "大; 前眼房の50%を超える",
       "description_en": "major ; >50% of anterior chamber",
       "severity": 1,
-      "level": 3,
+      "level": 5,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -735,7 +735,7 @@
       "description_ja": "裂傷・裂創 詳細不明",
       "description_en": "laceration NFSᵉ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -747,7 +747,7 @@
       "description_ja": "角膜の中心3mmを含まない",
       "description_en": "not involving central 3mm of cornea",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -759,7 +759,7 @@
       "description_ja": "脱出なし",
       "description_en": "without prolapse",
       "severity": 1,
-      "level": 3,
+      "level": 5,
       "collision": true,
       "source_files": [
         "face_008.json",
@@ -772,7 +772,7 @@
       "description_ja": "脱出あり",
       "description_en": "with prolapse",
       "severity": 1,
-      "level": 3,
+      "level": 5,
       "collision": true,
       "source_files": [
         "face_008.json",
@@ -785,7 +785,7 @@
       "description_ja": "角膜の中心3mmを含む",
       "description_en": "involving central 3mm of cornea",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_008.json",
@@ -797,7 +797,7 @@
       "description_ja": "脱出なし",
       "description_en": "without prolapse",
       "severity": 1,
-      "level": 3,
+      "level": 5,
       "collision": true,
       "source_files": [
         "face_008.json",
@@ -810,7 +810,7 @@
       "description_ja": "脱出あり",
       "description_en": "with prolapse",
       "severity": 1,
-      "level": 3,
+      "level": 5,
       "collision": true,
       "source_files": [
         "face_008.json",
@@ -862,7 +862,7 @@
       "description_ja": "水晶体 詳細不明ᵃ",
       "description_en": "Lens NFS",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -874,7 +874,7 @@
       "description_ja": "水晶体包破裂 詳細不明ᵃ",
       "description_en": "capsular rupture NFS",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -886,7 +886,7 @@
       "description_ja": "前包ᵃ",
       "description_en": "anterior capsule",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -898,7 +898,7 @@
       "description_ja": "後包ᵃ",
       "description_en": "posterior capsule",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -910,7 +910,7 @@
       "description_ja": "前包と後包の両方ᵃ",
       "description_en": "both anterior and posterior capsules",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -922,7 +922,7 @@
       "description_ja": "脱臼；不全脱臼ᵃ",
       "description_en": "dislocation ; subluxation",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -934,7 +934,7 @@
       "description_ja": "前方ᵃ",
       "description_en": "anterior segment",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -946,7 +946,7 @@
       "description_ja": "後方ᵃ",
       "description_en": "posterior segment",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -958,7 +958,7 @@
       "description_ja": "黄斑 詳細不明ᵃ",
       "description_en": "Macula NFS",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -970,7 +970,7 @@
       "description_ja": "挫傷；浮腫ᵃ",
       "description_en": "contusion ; edema",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -982,7 +982,7 @@
       "description_ja": "穿孔ᵃ",
       "description_en": "hole",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -994,7 +994,7 @@
       "description_ja": "網膜 詳細不明ᵉ",
       "description_en": "Retina NFS",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1006,7 +1006,7 @@
       "description_ja": "裂傷・裂創 詳細不明",
       "description_en": "laceration ; tear NFS",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1018,7 +1018,7 @@
       "description_ja": "小；90°以下",
       "description_en": "minor ; ≤90°",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1030,7 +1030,7 @@
       "description_ja": "大；90°を超える",
       "description_en": "major ; >90°",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1042,7 +1042,7 @@
       "description_ja": "剥離 詳細不明ᵉ",
       "description_en": "detachment NFS",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1054,7 +1054,7 @@
       "description_ja": "黄斑付着を伴う",
       "description_en": "with macula attached",
       "severity": 2,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1066,7 +1066,7 @@
       "description_ja": "黄斑剥離を伴う",
       "description_en": "with macula detached",
       "severity": 2,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1078,7 +1078,7 @@
       "description_ja": "強膜 [眼球に達する] 詳細不明",
       "description_en": "Sclera [includes globe] NFS",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1090,7 +1090,7 @@
       "description_ja": "裂傷・裂創；破裂ᵉ",
       "description_en": "laceration ; rupture",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1102,7 +1102,7 @@
       "description_ja": "鋸状縁の前方",
       "description_en": "anterior to ora serrata",
       "severity": 2,
-      "level": 3,
+      "level": 4,
       "collision": false,
       "source_files": [
         "face_010.json",
@@ -1210,7 +1210,7 @@
       "description_ja": "ぶどう膜損傷",
       "description_en": "Uvea injury",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_012.json",
@@ -1223,7 +1223,7 @@
       "description_ja": "硝子体 詳細不明",
       "description_en": "Vitreous NFS^e",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_012.json",
@@ -1235,7 +1235,7 @@
       "description_ja": "出血",
       "description_en": "hemorrhage",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_012.json",
@@ -1247,7 +1247,7 @@
       "description_ja": "網膜が見える",
       "description_en": "retina visible",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_012.json",
@@ -1260,7 +1260,7 @@
       "description_ja": "網膜が見えない",
       "description_en": "retina not visible",
       "severity": 1,
-      "level": 3,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_012.json",
@@ -1273,7 +1273,7 @@
       "description_ja": "剥離",
       "description_en": "detachment",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_012.json",
@@ -1297,7 +1297,7 @@
       "description_ja": "口蓋 詳細不明",
       "description_en": "Palate NFS^a",
       "severity": 1,
-      "level": 2,
+      "level": 1,
       "collision": false,
       "source_files": [
         "face_012.json",
@@ -1500,7 +1500,7 @@
       "description_ja": "関節突起ᵃ",
       "description_en": "condyleᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_014.json",
@@ -1512,7 +1512,7 @@
       "description_ja": "筋突起ᵃ",
       "description_en": "coronoidᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_014.json",
@@ -1524,7 +1524,7 @@
       "description_ja": "下顎角ᵃ",
       "description_en": "angleᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_014.json",
@@ -1536,7 +1536,7 @@
       "description_ja": "オトガイ結合/その近傍ᵃ",
       "description_en": "symphysis/parasymphysisᵃ",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_014.json",
@@ -1548,7 +1548,7 @@
       "description_ja": "下顎体",
       "description_en": "body",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_014.json",
@@ -1560,7 +1560,7 @@
       "description_ja": "下顎枝",
       "description_en": "ramus",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_014.json",
@@ -1572,7 +1572,7 @@
       "description_ja": "開放/転位/粉砕で部位が不明",
       "description_en": "open/displaced/comminuted but NFS as to site",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_014.json",
@@ -1585,7 +1585,7 @@
       "description_ja": "関節突起ᵃ",
       "description_en": "condyleᵃ",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_014.json",
@@ -1598,7 +1598,7 @@
       "description_ja": "筋突起ᵃ",
       "description_en": "coronoidᵃ",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_014.json",
@@ -1611,7 +1611,7 @@
       "description_ja": "下顎角ᵃ",
       "description_en": "angleᵃ",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_014.json",
@@ -1624,7 +1624,7 @@
       "description_ja": "オトガイ結合/その近傍ᵃ",
       "description_en": "symphysis/parasymphysisᵃ",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_014.json",
@@ -1637,7 +1637,7 @@
       "description_ja": "下顎体",
       "description_en": "body",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_014.json",
@@ -1650,7 +1650,7 @@
       "description_ja": "下顎枝",
       "description_en": "ramus",
       "severity": 2,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_014.json",
@@ -1714,7 +1714,7 @@
       "description_ja": "出血量が全血液量の20%を超える",
       "description_en": "blood loss >20% by volume",
       "severity": 4,
-      "level": 2,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_018.json",
@@ -1739,7 +1739,7 @@
       "description_ja": "骨折, 非開放または詳細不明",
       "description_en": "fracture, closed or NFS",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_020.json",
@@ -1751,7 +1751,7 @@
       "description_ja": "開放 / 転位",
       "description_en": "open/displaced/comminuted",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_020.json",
@@ -1763,7 +1763,7 @@
       "description_ja": "粘膜 / 血管の破裂 (鼻出血)",
       "description_en": "ruptured mucosa/vessels (epistaxis)",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_020.json",
@@ -1775,7 +1775,7 @@
       "description_ja": "鼻中隔骨折",
       "description_en": "septum fracture",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_020.json",
@@ -1799,7 +1799,7 @@
       "description_ja": "開放で、部位は詳細不明",
       "description_en": "open but NFS as to site",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1812,7 +1812,7 @@
       "description_ja": "同側眼窩の多発骨折, 非開放または詳細不明ᵃ",
       "description_en": "multiple fractures of same orbit, closed or NFS^a",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1825,7 +1825,7 @@
       "description_ja": "開放ᵃ",
       "description_en": "open^a",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1838,7 +1838,7 @@
       "description_ja": "眼窩縁, 非開放または詳細不明ᵃ",
       "description_en": "orbital rim, closed or NFS^a",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1851,7 +1851,7 @@
       "description_ja": "開放 詳細不明",
       "description_en": "open NFS",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1864,7 +1864,7 @@
       "description_ja": "眼窩下縁",
       "description_en": "inferior orbital rim",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1877,7 +1877,7 @@
       "description_ja": "開放",
       "description_en": "open",
       "severity": 2,
-      "level": 1,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1890,7 +1890,7 @@
       "description_ja": "眼窩上縁",
       "description_en": "superior orbital rim",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1903,7 +1903,7 @@
       "description_ja": "開放",
       "description_en": "open",
       "severity": 2,
-      "level": 1,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1916,7 +1916,7 @@
       "description_ja": "眼窩底, 非開放または詳細不明ᵃ",
       "description_en": "orbital floor, closed or NFS^a",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1929,7 +1929,7 @@
       "description_ja": "開放",
       "description_en": "open",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1942,7 +1942,7 @@
       "description_ja": "\"吹き抜け\" 骨折",
       "description_en": "\"blowout\" fracture",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1955,7 +1955,7 @@
       "description_ja": "開放",
       "description_en": "open",
       "severity": 2,
-      "level": 1,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1968,7 +1968,7 @@
       "description_ja": "内側壁, 非開放または詳細不明ᵃ",
       "description_en": "medial wall, closed or NFS ^a",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1981,7 +1981,7 @@
       "description_ja": "開放",
       "description_en": "open",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -1994,7 +1994,7 @@
       "description_ja": "外側壁, 非開放または詳細不明ᵃ",
       "description_en": "lateral wall, closed or NFS ^a",
       "severity": 2,
-      "level": 1,
+      "level": 2,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -2007,7 +2007,7 @@
       "description_ja": "開放",
       "description_en": "open",
       "severity": 2,
-      "level": 1,
+      "level": 3,
       "collision": true,
       "source_files": [
         "face_020.json",
@@ -2032,7 +2032,7 @@
       "description_ja": "脱臼; 亜脱臼; 動揺",
       "description_en": "dislocation ; subluxation ; loosened",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_022.json",
@@ -2044,7 +2044,7 @@
       "description_ja": "破折",
       "description_en": "fracture",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_022.json",
@@ -2056,7 +2056,7 @@
       "description_ja": "脱落",
       "description_en": "avulsion",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_022.json",
@@ -2068,7 +2068,7 @@
       "description_ja": "脱臼, 破折, 脱落いずれかの合併",
       "description_en": "any combination of dislocation/fracture/avulsion",
       "severity": 1,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_022.json",
@@ -2116,7 +2116,7 @@
       "description_ja": "弓部 [KN II]ª",
       "description_en": "arch [KN II]",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_022.json",
@@ -2128,7 +2128,7 @@
       "description_ja": "体部ª",
       "description_en": "body",
       "severity": 1,
-      "level": 2,
+      "level": 3,
       "collision": false,
       "source_files": [
         "face_022.json",
@@ -2140,7 +2140,7 @@
       "description_ja": "非回旋 [KN III]ª",
       "description_en": "unrotated [KN III]",
       "severity": 1,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_022.json",
@@ -2153,7 +2153,7 @@
       "description_ja": "回旋 [KN IV, KN V]ª",
       "description_en": "rotated [KN IV, V]",
       "severity": 1,
-      "level": 2,
+      "level": 4,
       "collision": true,
       "source_files": [
         "face_022.json",
@@ -2190,55 +2190,11 @@
       "description_ja": "出血量が全血液量の20%を超えるª",
       "description_en": "blood loss >20% by volume",
       "severity": 4,
-      "level": 1,
+      "level": 2,
       "collision": false,
       "source_files": [
         "face_022.json",
         "face_023.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "Eye (continued)",
-      "severity": 0,
-      "level": 1,
-      "collision": false,
-      "source_files": [
-        "face_012.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "JOINTS",
-      "severity": 0,
-      "level": 1,
-      "collision": false,
-      "source_files": [
-        "face_012.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "See also Alveolar Ridge.",
-      "severity": 0,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "face_022.json"
-      ]
-    },
-    {
-      "code": "",
-      "description_ja": null,
-      "description_en": "Multiple and complex fractures that may involve middle and lower face, upper and middle face or all three, but not LeFort fractures.",
-      "severity": 0,
-      "level": 2,
-      "collision": false,
-      "source_files": [
-        "face_022.json"
       ]
     }
   ]
