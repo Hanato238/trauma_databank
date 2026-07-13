@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "jtdb_schema_version": "1.0",
+    "session_id": "dummy_c329e1",
+    "created_at": "2026-07-02T05:40:51.813633",
+    "completed_at": "2026-07-02T05:40:51.813633",
+    "ais_coding_status": "complete",
+    "dummy_label": "35歳男性・穿通性（刺創）: 胸部・腹部"
+  },
+  "patient": {
+    "2": {
+      "label": "年齢",
+      "value": 35,
+      "display": "35",
+      "raw": "35歳",
+      "unknown": false
+    },
+    "38": {
+      "label": "収縮期血圧",
+      "value": 70,
+      "display": "70",
+      "raw": "70",
+      "unknown": false
+    },
+    "40": {
+      "label": "呼吸数",
+      "value": 28,
+      "display": "28",
+      "raw": "28",
+      "unknown": false
+    },
+    "45": {
+      "label": "GCS-E",
+      "value": 4,
+      "display": "4（自発的に開眼）",
+      "raw": "E4",
+      "unknown": false
+    },
+    "46": {
+      "label": "GCS-V",
+      "value": 4,
+      "display": "4（混乱した会話）",
+      "raw": "V4",
+      "unknown": false
+    },
+    "47": {
+      "label": "GCS-M",
+      "value": 6,
+      "display": "6（命令に従う）",
+      "raw": "M6",
+      "unknown": false
+    },
+    "8": {
+      "label": "外傷分類",
+      "value": 2,
+      "display": "穿通性",
+      "raw": "穿通性",
+      "unknown": false
+    }
+  },
+  "injuries": {
+    "70": [],
+    "71": [],
+    "72": [
+      "左血気胸",
+      "左肺裂傷"
+    ],
+    "73": [
+      "小腸穿孔",
+      "腸間膜損傷"
+    ],
+    "74": [],
+    "75": [
+      "左胸部刺創"
+    ]
+  },
+  "scores": {
+    "gcs": 14,
+    "rts": 6.3756,
+    "iss": 19,
+    "triss_ps": 0.9782,
+    "ais_coding_status": "complete",
+    "max_ais_by_region": {
+      "70": 0,
+      "71": 0,
+      "72": 3,
+      "73": 3,
+      "74": 0,
+      "75": 1
+    }
+  },
+  "ais_codes": {
+    "70": [],
+    "71": [],
+    "72": [
+      {
+        "description": "左血気胸",
+        "code": "442205.3",
+        "japanese": "血気胸 詳細不明",
+        "description_ja": "胸腔内に血液と空気が貯留しているが、その量や肺虚脱の程度など、重症度を特定する詳細情報が不明な状態。",
+        "english": "Hemopneumothorax NFS",
+        "severity": 3,
+        "confidence": "high"
+      }
+    ],
+    "73": [
+      {
+        "description": "小腸穿孔",
+        "code": "541424.3",
+        "japanese": "小腸 穿孔あり; 全層性; 周径の50%以上だが断裂には至らない; 多数の単純裂傷 [OIS III]",
+        "description_ja": "小腸の全層性穿孔で、腸管の周径の50%以上を占めるが完全な断裂には至らないか、複数の単純な裂傷を伴う。これはOIS（臓器損傷スケール）IIIに相当する。",
+        "english": "perforation ; full thickness ; ≥50% circumference without transection ; multiple simple wounds [OIS III]",
+        "severity": 3,
+        "confidence": "medium"
+      },
+      {
+        "description": "腸間膜損傷",
+        "code": "542024.3",
+        "japanese": "大",
+        "description_ja": "腸間膜に損傷があることは確認できるが、その具体的な形態（挫傷、裂傷、断裂など）や重症度が不明な場合に選択するコードです。",
+        "english": "major",
+        "severity": 3,
+        "confidence": "confirmed"
+      }
+    ],
+    "74": [],
+    "75": [
+      {
+        "description": "左胸部刺創",
+        "code": "600000.1",
+        "japanese": "刺創",
+        "description_ja": "尖った物体による皮膚の穿通性損傷で、通常は小さな入口創であるが、深部に達する可能性がある。深部損傷の合併に関する情報がないため、軽症とみなす。",
+        "english": "Puncture wound",
+        "severity": 1,
+        "confidence": "high"
+      }
+    ]
+  }
+}

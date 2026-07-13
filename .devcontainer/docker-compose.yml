@@ -15,7 +15,7 @@ services:
       - ..:/workspace:cached
       - .:/workspace/.devcontainer:ro
       - ../.mcp.json:/workspace/.mcp.json:ro
-      - ${USERPROFILE}/.gemini:/home/node/.gemini
+      - /c/USERS/${USERNAME}/.gemini:/home/node/.gemini
     working_dir: /workspace
     command: ["sleep", "infinity"]
     environment:

@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "jtdb_schema_version": "1.0",
+    "session_id": "dummy_efab5a",
+    "created_at": "2026-07-02T04:47:03.384465",
+    "completed_at": "2026-07-02T04:47:03.384465",
+    "ais_coding_status": "complete",
+    "dummy_label": "42歳女性・鈍的（高所転落）: 脊椎・胸部・腹部・四肢"
+  },
+  "patient": {
+    "2": {
+      "label": "年齢",
+      "value": 42,
+      "display": "42",
+      "raw": "42歳",
+      "unknown": false
+    },
+    "38": {
+      "label": "収縮期血圧",
+      "value": 100,
+      "display": "100",
+      "raw": "100",
+      "unknown": false
+    },
+    "40": {
+      "label": "呼吸数",
+      "value": 22,
+      "display": "22",
+      "raw": "22",
+      "unknown": false
+    },
+    "45": {
+      "label": "GCS-E",
+      "value": 4,
+      "display": "4（自発的に開眼）",
+      "raw": "E4",
+      "unknown": false
+    },
+    "46": {
+      "label": "GCS-V",
+      "value": 5,
+      "display": "5（見当識あり）",
+      "raw": "V5",
+      "unknown": false
+    },
+    "47": {
+      "label": "GCS-M",
+      "value": 6,
+      "display": "6（命令に従う）",
+      "raw": "M6",
+      "unknown": false
+    },
+    "8": {
+      "label": "外傷分類",
+      "value": 1,
+      "display": "鈍的",
+      "raw": "鈍的",
+      "unknown": false
+    }
+  },
+  "injuries": {
+    "70": [],
+    "71": [],
+    "72": [
+      "多発肋骨骨折（右第5〜9肋骨）",
+      "肺挫傷"
+    ],
+    "73": [
+      "肝損傷（Ⅱ度）"
+    ],
+    "74": [
+      "胸椎骨折（T8圧迫骨折）",
+      "右踵骨骨折"
+    ],
+    "75": []
+  },
+  "scores": {
+    "gcs": 15,
+    "rts": 7.8408,
+    "iss": 22,
+    "triss_ps": 0.9895,
+    "ais_coding_status": "complete",
+    "max_ais_by_region": {
+      "70": 0,
+      "71": 0,
+      "72": 3,
+      "73": 3,
+      "74": 2,
+      "75": 0
+    }
+  },
+  "ais_codes": {
+    "70": [],
+    "71": [],
+    "72": [
+      {
+        "description": "肺挫傷",
+        "code": "441410.3",
+        "japanese": "肺; 両側 詳細不明ᵉ",
+        "description_ja": "このコードは、肺に発生した両側性の損傷であり、その詳細な形態や重症度が特定されていない場合に適用されます。",
+        "english": "Lung; bilateral NFSᵉ",
+        "severity": 3,
+        "confidence": "high"
+      }
+    ],
+    "73": [
+      {
+        "description": "肝損傷（Ⅱ度）",
+        "code": "516006.3",
+        "japanese": "出血量が全血液量の20%を超える",
+        "description_ja": "全身血液量の20%を超える出血を伴う状態を示します。このコードは特定の臓器形態ではなく、出血による全身的な重症度を反映しています。",
+        "english": "with blood loss >20% by volume",
+        "severity": 3,
+        "confidence": "medium"
+      }
+    ],
+    "74": [
+      {
+        "description": "右踵骨骨折",
+        "code": "857371.2",
+        "japanese": "骨折が2つ以上の関節面に及ぶもの",
+        "description_ja": "踵骨に骨折が認められるが、その形態、開放性、または関節面への波及などの詳細情報が不明な場合に用いるコード。",
+        "english": "fracture line into ≥2 joint surfaces",
+        "severity": 2,
+        "confidence": "confirmed"
+      }
+    ],
+    "75": []
+  }
+}

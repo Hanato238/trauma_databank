@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "jtdb_schema_version": "1.0",
+    "session_id": "dummy_aa4a89",
+    "created_at": "2026-07-02T06:29:13.756253",
+    "completed_at": "2026-07-02T06:29:13.756253",
+    "ais_coding_status": "complete",
+    "dummy_label": "78歳女性・鈍的（自宅転倒）: 頭部・顔面・四肢"
+  },
+  "patient": {
+    "2": {
+      "label": "年齢",
+      "value": 78,
+      "display": "78",
+      "raw": "78歳",
+      "unknown": false
+    },
+    "38": {
+      "label": "収縮期血圧",
+      "value": 130,
+      "display": "130",
+      "raw": "130",
+      "unknown": false
+    },
+    "40": {
+      "label": "呼吸数",
+      "value": 18,
+      "display": "18",
+      "raw": "18",
+      "unknown": false
+    },
+    "45": {
+      "label": "GCS-E",
+      "value": 3,
+      "display": "3（呼びかけで開眼）",
+      "raw": "E3",
+      "unknown": false
+    },
+    "46": {
+      "label": "GCS-V",
+      "value": 4,
+      "display": "4（混乱した会話）",
+      "raw": "V4",
+      "unknown": false
+    },
+    "47": {
+      "label": "GCS-M",
+      "value": 6,
+      "display": "6（命令に従う）",
+      "raw": "M6",
+      "unknown": false
+    },
+    "8": {
+      "label": "外傷分類",
+      "value": 1,
+      "display": "鈍的",
+      "raw": "鈍的",
+      "unknown": false
+    }
+  },
+  "injuries": {
+    "70": [
+      "急性硬膜下血腫"
+    ],
+    "71": [
+      "眼窩骨折",
+      "鼻骨骨折"
+    ],
+    "72": [],
+    "73": [],
+    "74": [
+      "右大腿骨頸部骨折"
+    ],
+    "75": []
+  },
+  "scores": {
+    "gcs": 13,
+    "rts": 7.8408,
+    "iss": 13,
+    "triss_ps": 0.9655,
+    "ais_coding_status": "complete",
+    "max_ais_by_region": {
+      "70": 0,
+      "71": 2,
+      "72": 0,
+      "73": 0,
+      "74": 3,
+      "75": 0
+    }
+  },
+  "ais_codes": {
+    "70": [],
+    "71": [
+      {
+        "description": "眼窩骨折",
+        "code": "251201.2",
+        "japanese": "開放で、部位は詳細不明",
+        "description_ja": "眼窩の骨折で、その損傷が開放性であるか否か、または詳細が不明な場合に適用される。",
+        "english": "open but NFS as to site",
+        "severity": 2,
+        "confidence": "confirmed"
+      },
+      {
+        "description": "鼻骨骨折",
+        "code": "251000.1",
+        "japanese": "骨折, 非開放または詳細不明",
+        "description_ja": "鼻骨骨折の詳細（開放性、転位、粉砕の有無）が不明な場合に選択される、顔面骨の一般的な骨折。",
+        "english": "fracture, closed or NFS",
+        "severity": 1,
+        "confidence": "high"
+      }
+    ],
+    "72": [],
+    "73": [],
+    "74": [
+      {
+        "description": "右大腿骨頸部骨折",
+        "code": "853161.3",
+        "japanese": "大腿骨頸部",
+        "description_ja": "このコードは大腿骨の頸部に生じた骨折を示します。これは大腿骨頭の直下で、転子部の近位に位置する部位の損傷です。",
+        "english": "femoral neck",
+        "severity": 3,
+        "confidence": "high"
+      }
+    ],
+    "75": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "jtdb_schema_version": "1.0",
+    "session_id": "dummy_515a45",
+    "created_at": "2026-07-02T06:15:26.025854",
+    "completed_at": "2026-07-02T06:15:26.025854",
+    "ais_coding_status": "complete",
+    "dummy_label": "55歳男性・鈍的（交通事故）: 頭部・胸部・腹部・四肢"
+  },
+  "patient": {
+    "2": {
+      "label": "年齢",
+      "value": 55,
+      "display": "55",
+      "raw": "55歳",
+      "unknown": false
+    },
+    "38": {
+      "label": "収縮期血圧",
+      "value": 90,
+      "display": "90",
+      "raw": "90",
+      "unknown": false
+    },
+    "40": {
+      "label": "呼吸数",
+      "value": 20,
+      "display": "20",
+      "raw": "20",
+      "unknown": false
+    },
+    "45": {
+      "label": "GCS-E",
+      "value": 3,
+      "display": "3（呼びかけで開眼）",
+      "raw": "E3",
+      "unknown": false
+    },
+    "46": {
+      "label": "GCS-V",
+      "value": 4,
+      "display": "4（混乱した会話）",
+      "raw": "V4",
+      "unknown": false
+    },
+    "47": {
+      "label": "GCS-M",
+      "value": 5,
+      "display": "5（疼痛部位への反応）",
+      "raw": "M5",
+      "unknown": false
+    },
+    "8": {
+      "label": "外傷分類",
+      "value": 1,
+      "display": "鈍的",
+      "raw": "鈍的",
+      "unknown": false
+    }
+  },
+  "injuries": {
+    "70": [
+      "右硬膜外血腫",
+      "くも膜下出血"
+    ],
+    "71": [],
+    "72": [
+      "左肋骨骨折（第4・5・6肋骨）",
+      "左血胸"
+    ],
+    "73": [
+      "脾臓損傷"
+    ],
+    "74": [
+      "左大腿骨骨幹部骨折"
+    ],
+    "75": []
+  },
+  "scores": {
+    "gcs": 12,
+    "rts": 6.904,
+    "iss": 41,
+    "triss_ps": 0.5715,
+    "ais_coding_status": "complete",
+    "max_ais_by_region": {
+      "70": 4,
+      "71": 0,
+      "72": 4,
+      "73": 3,
+      "74": 3,
+      "75": 0
+    }
+  },
+  "ais_codes": {
+    "70": [
+      {
+        "description": "右硬膜外血腫",
+        "code": "140632.4",
+        "japanese": "小；中程度：50ml以下 (10歳以下では25ml以下)；厚さ0.6～1 cm",
+        "description_ja": "大脳の損傷周囲の浮腫を含む硬膜外血腫で、血腫のサイズや厚さなどの重症度を特定する詳細情報が不明な場合に用いる。",
+        "english": "small ; moderate ; ≤50cc or ≤25cc if ≤age 10 ; 0.6-1cm thick",
+        "severity": 4,
+        "confidence": "confirmed"
+      },
+      {
+        "description": "くも膜下出血",
+        "code": "140694.2",
+        "japanese": "6時間を超える昏睡と関連がないもの",
+        "description_ja": "詳細が特定されていない大脳のくも膜下出血。",
+        "english": "not associated with coma >6 hours",
+        "severity": 2,
+        "confidence": "confirmed"
+      }
+    ],
+    "71": [],
+    "72": [
+      {
+        "description": "左肋骨骨折（第4・5・6肋骨）",
+        "code": "450203.3",
+        "japanese": "3本以上の肋骨 [OIS III]",
+        "description_ja": "3本以上の肋骨に発生した骨折を表します。損傷記述の第4・5・6肋骨の骨折に該当します。",
+        "english": "≥3 ribs [OIS II]",
+        "severity": 3,
+        "confidence": "high"
+      },
+      {
+        "description": "左血胸",
+        "code": "442201.4",
+        "japanese": "大：少なくとも片側で1000mlを超える出血",
+        "description_ja": "血胸が存在するが、その量や原因、特定の重症度グレードなどの詳細情報が不明な状態を表すコードです。片側性であることには矛盾しません。",
+        "english": "major ; >1000cc blood loss on at least one side",
+        "severity": 4,
+        "confidence": "confirmed"
+      }
+    ],
+    "73": [
+      {
+        "description": "脾臓損傷",
+        "code": "544240.3",
+        "japanese": "破裂 詳細不明",
+        "description_ja": "脾臓に損傷があるものの、その具体的な種類（例：挫傷、裂傷、破裂）、大きさ、深さなどの詳細が不明な状態です。",
+        "english": "rupture NFS",
+        "severity": 3,
+        "confidence": "confirmed"
+      },
+      {
+        "description": "脾臓損傷",
+        "code": "521406.3",
+        "japanese": "小; 表在性; 非全周性; 出血量が全血液量の20%以下",
+        "description_ja": "",
+        "english": "minor ; superficial ; incomplete circumferential involvement ; blood loss ≤20% by volume",
+        "severity": 3,
+        "confidence": "confirmed"
+      }
+    ],
+    "74": [
+      {
+        "description": "左大腿骨骨幹部骨折",
+        "code": "853251.3",
+        "japanese": "単純；螺旋；斜走；横断；Winquist (ウィンクイスト) Ⅰ型",
+        "description_ja": "このコードは、大腿骨骨幹部の骨折が存在するが、その開放性や形態（単純、楔状、複雑など）に関する詳細情報が不明な場合に使用されます。",
+        "english": "simple ; spiral ; oblique ; transverse ; Winquist I",
+        "severity": 3,
+        "confidence": "confirmed"
+      }
+    ],
+    "75": []
+  }
+}
